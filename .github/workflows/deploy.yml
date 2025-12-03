@@ -43,7 +43,7 @@ jobs:
       - name: Build Slides (Slidev)
         run: |
           cd packages/slides
-          pnpm build --base /2026-nwp-AR1205/slides/ --out dist
+          pnpm build --base /slides/ --out dist
 
       - name: Merge Builds
         run: |
