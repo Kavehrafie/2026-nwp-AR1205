@@ -1,5 +1,6 @@
 #import "templates/nwp-syllabus.typ": template
 #import "lib/timetable.typ": *
+#import "params.typ": start-date, class-days, holidays, session-intro
 
 #show: doc => template(
   number: [AR2015],
@@ -31,17 +32,35 @@ No textbook requires. Readings will be provided on #underline[myClass].
 = Course Schedule / Tentative Timeline
 
 #schedule(
-  start: datetime(year: 2026, month: 1, day: 6),
-  days: (3, 5),
-  holidays: (
-    holiday("Family Day", datetime(year: 2026, month: 2, day: 16)),
-    holiday-range("Winter Break", datetime(year: 2026, month: 2, day: 17), datetime(year: 2026, month: 2, day: 20)),
-    holiday("Good Friday", datetime(year: 2026, month: 4, day: 3)),
-  ),
+  start: start-date,
+  days: class-days,
+  holidays: holidays,
   events: (
-    session("Introduction & Course Overview")[
-      Overview of the course structure, objectives, and assessment methods.
-    ]
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro,      
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro, 
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro,
+    session-intro,
   ),
 )
 
