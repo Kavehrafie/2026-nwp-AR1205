@@ -45,7 +45,7 @@
     #session.body
   ],
   render-holiday: (date, name) => [
-    === #date.display("[weekday], [month repr:short] [day]") -- *NO CLASS: #name*
+    === #date.display("[weekday repr:short], [month repr:short] [day]") -- *NO CLASS: #name*
   ],
 ) = {
   let holiday-map = build-holiday-map(holidays)
@@ -60,7 +60,22 @@
   let last-week = 0
 
   for event in events {
-    // Calculate week number
+    // Check if current date is a holiday (skip holidays first)
+    let date-str = current.display("[year]-[month]-[day]")
+    while date-str in holiday-map {
+      // Calculate week for holiday
+      let days-since-start = (current - start).days()
+      week = int((days-since-start + start.weekday() - 1) / 7) + 1
+      if render-week != none and week != last-week {
+        render-week(week)
+        last-week = week
+      }
+      render-holiday(current, holiday-map.at(date-str))
+      current = next-class-day(current, days)
+      date-str = current.display("[year]-[month]-[day]")
+    }
+
+    // Calculate week number for the session
     let days-since-start = (current - start).days()
     week = int((days-since-start + start.weekday() - 1) / 7) + 1
 
@@ -68,14 +83,6 @@
     if render-week != none and week != last-week {
       render-week(week)
       last-week = week
-    }
-
-    // Check if current date is a holiday
-    let date-str = current.display("[year]-[month]-[day]")
-    while date-str in holiday-map {
-      render-holiday(current, holiday-map.at(date-str))
-      current = next-class-day(current, days)
-      date-str = current.display("[year]-[month]-[day]")
     }
 
     // Render the session
