@@ -1,10 +1,20 @@
 {
   "name": "2026-nwp-AR1205",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Course materials monorepo for AR1205 - Art History",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "pnpm dev:docs",
+    "dev:docs": "pnpm --filter docs dev",
+    "dev:slides": "pnpm --filter slides dev",
+    "build": "pnpm sync && pnpm build:docs && pnpm build:slides",
+    "build:docs": "pnpm --filter docs build",
+    "build:slides": "pnpm --filter slides build",
+    "preview:docs": "pnpm --filter docs preview",
+    "preview:slides": "pnpm --filter slides preview",
+    "sync": "node scripts/sync-schedule.js",
+    "typst": "typst compile packages/materials/syllabus.typ",
+    "typst:watch": "typst watch packages/materials/syllabus.typ"
   },
   "keywords": [],
   "author": "",
