@@ -68,10 +68,36 @@ Please note that most universities will not accept your course for transfer cred
   holidays: holidays,
   events: (
     session-intro,
-    session-new-world,
+    session-review-14th-15th,
+    session-northern-renaissance,
     session-high-renaissance,
     session-mannerism,
-    
+    session-new-world,
+    session-baroque-in-southern-europe,
+    session-baroque-in-southern-europe,
+    session-baroque-in-northern-europe,
+    session-rococo,
+    session-enlightenment-french-revolution,
+    session-neoclassicism-romanticism,
+    session-neoclassicism-romanticism,
+    session-realism,
+    session-impressionism,
+    session-impressionism,
+    session-post-impressionism,
+    session-post-impressionism,
+    session-south-asian-art,
+    session-mongol,
+    session-aztec-inca,
+    session-north-american-indigenous,
+    session("Contemporary Perspectives", [
+      Contemporary global dialogues on art; modern resonances with historical movements.
+    ]),
+    session("Student Presentations", [
+      Student-led analyses connecting course themes to selected case studies.
+    ]),
+    session("Final Review & Course Wrap-Up", [
+      Review of key concepts and preparation for final assessments.
+    ]),
   ),
 )
 

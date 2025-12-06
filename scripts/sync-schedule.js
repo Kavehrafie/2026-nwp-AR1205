@@ -1,30 +1,48 @@
 #!/usr/bin/env node
-// Sync course schedule from Typst to Astro docs
-// Uses typlite to convert Typst → Markdown
+/**
+ * Typst → Markdown Sync Script
+ * 
+ * Converts a Typst file to Markdown using typlite and adds frontmatter.
+ * 
+ * Usage:
+ *   node scripts/sync-schedule.js <source.typ> <target.md> [title]
+ * 
+ * Example:
+ *   node scripts/sync-schedule.js packages/materials/schedule.typ packages/docs/src/content/docs/schedule.md "Course Schedule"
+ * 
+ * How it works:
+ *   1. Takes source .typ file path and target .md file path as arguments
+ *   2. Runs `typlite <source> -` to convert Typst → Markdown (outputs to stdout)
+ *   3. Wraps the output with YAML frontmatter (title, description)
+ *   4. Writes to the target .md file
+ */
 
 import { execSync } from 'node:child_process';
-import { writeFileSync } from 'node:fs';
-import { dirname, join } from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { writeFileSync, mkdirSync } from 'node:fs';
+import { dirname, basename } from 'node:path';
 
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const ROOT = dirname(__dirname);
+const [source, target, title] = process.argv.slice(2);
 
-const SOURCE = join(ROOT, 'packages/materials/md.typ');
-const TARGET = join(ROOT, 'packages/docs/src/content/docs/schedule.md');
+if (!source || !target) {
+  console.error('Usage: node scripts/sync-schedule.js <source.typ> <target.md> [title]');
+  process.exit(1);
+}
 
-// Run typlite to convert Typst → Markdown
-const markdown = execSync(`typlite "${SOURCE}" -`, { encoding: 'utf-8' });
+// Auto-generate title from filename: "schedule.md" → "Schedule"
+const pageTitle = title || basename(target, '.md').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
 
-// Build output with frontmatter
-const output = `---
-title: Course Schedule
-description: Weekly schedule for AR1205
-# Auto-generated from packages/materials/md.typ
-# Run 'pnpm sync' to update
+// Create target directory if needed
+mkdirSync(dirname(target), { recursive: true });
+
+// Convert Typst → Markdown via typlite
+const markdown = execSync(`typlite "${source}" -`, { encoding: 'utf-8' });
+
+// Write with frontmatter
+writeFileSync(target, `---
+title: ${pageTitle}
+description: Auto-generated from ${basename(source)}
 ---
 
-${markdown}`;
+${markdown}`);
 
-writeFileSync(TARGET, output);
-console.log(`✓ Synced schedule to ${TARGET}`);
+console.log(`✓ ${source} → ${target}`);

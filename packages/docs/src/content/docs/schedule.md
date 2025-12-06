@@ -1,8 +1,7 @@
 ---
 title: Course Schedule
-description: Weekly schedule for AR1205
-# Auto-generated from packages/materials/md.typ
-# Run 'pnpm sync' to update
+description: Auto-generated from packages/materials/schedule.typ
+# Run 'pnpm sync:schedule' to update
 ---
 
 ### Week 1
