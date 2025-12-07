@@ -1,3 +1,5 @@
+#import "@preview/abbr:0.3.0"
+
 #let template(
   number: none,
   name: none,
@@ -36,6 +38,7 @@
   )
 
   show link: set text(fill: blue)
+  show: abbr.show-rule
 
   show heading.where(level: 1): it => block(
     below: 1em,
