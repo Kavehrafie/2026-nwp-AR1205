@@ -62,7 +62,7 @@
 )
 
 #let session-high-renaissance = session(
-  "The Lives of Artists during the High Renaissance",
+  "The Spirit of the High Renaissance",
   [
     Study of the High Renaissance period in Italy. 
   
@@ -70,11 +70,16 @@
 
     _Read_:
       - Evelyn Welch, "Markets and Metaphors " in _Shopping in the Renaissance: Consumer Cultures in Italy 1400-1600_
-      - #link("https://smarthistory.org/humanism-italian-renaissance-art/?sidebar=europe-1400-1500")["Humanism in Italian renaissance art" by Heather Graham]
+      // - #link("https://smarthistory.org/humanism-italian-renaissance-art/?sidebar=europe-1400-1500")["Humanism in Italian renaissance art" by Heather Graham]
+      - #link("https://smarthistory.org/leonardo-da-vinci-vitruvian-man/?sidebar=europe-1500-1600")["Leonardo da Vinci, 'Vitruvian Man'" by Letha Ch'ien]
+      // - #link("https://smarthistory.org/michelangelo-ceiling-of-the-sistine-chapel/?sidebar=europe-1500-1600")["Michelangelo, Ceiling of the Sistine Chapel" by Christine Zappella]
+      - #link("https://smarthistory.org/raphael-introduction/?sidebar=europe-1500-1600")["Raphael, an introduction" by Heather Graham]
     _Watch_:
     // - #link("https://youtu.be/8e20mMzj5Ug")[Andrea Mantegna, Dead Christ]
-    - #link("https://youtu.be/zfv-dGvFxIE")[Michelangelo, Pietà]
+    - #link("https://youtu.be/94xKRkCHlv0")[Leonardo, The Virgin of the Rocks]
     - #link("https://youtu.be/R5UK0dEFSoM")[Saint Peter’s Basilica]
+    - #link("https://youtu.be/zfv-dGvFxIE")[Michelangelo, Pietà]
+    - #link("https://youtu.be/PEE3B8Fsuc0")[Michelangelo, Ceiling of the Sistine Chapel]
   ]
 )
 
@@ -91,10 +96,19 @@
 )
 
 #let session-mannerism = session(
-  "Mannerism",
+  "Late Renaissance and Mannerism",
   [Analysis of the Mannerist style and its departure from Renaissance ideals.
-  \
-    - Key artists: Pontormo, Parmigianino, El Greco.
+
+    - Key artists: From Titian to Pontormo, Parmigianino, El Greco.
+
+    _Read_:
+    - Arnold Hauser, "The Concept of Mannerism" in _The Social History of Art, Vol. II: Mannerism and Art in the Baroque Era_
+    _Watch_:
+    - #link("https://youtu.be/qD6ct0VS15c")[Titian, Venus of Urbino]
+    - #link("https://youtu.be/9g-r2007Y8c")[Paolo Veronese, Feast in the House of Levi]
+    - #link("https://youtu.be/suIUUGdNyWk")[Parmigianino, Madonna with the Long Neck]
+    - #link("https://youtu.be/YhsjS5CtCTE")[Jacopo Tintoretto, Last Supper]
+    - #link("https://youtu.be/N09QNm3XKW4")[El Greco, The Burial of the Count of Orgaz]
   ]
 )
 
@@ -109,8 +123,11 @@
 #let session-baroque-in-northern-europe = session(
   "Baroque in Northern Europe",
   [Study of Baroque art in the Netherlands and Flanders.
-  \
+
     - Key artists: Rembrandt, Rubens, Vermeer.
+
+    _Read_:
+    - Svetlana Alpers, "The Mapping Impulse in Dutch Art" in _The Arts of Describing: Dutch Art in the Seventeenth Century_
   ]
 )
 

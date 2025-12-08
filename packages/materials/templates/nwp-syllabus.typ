@@ -69,7 +69,7 @@
     [*INSTRUCTOR:*], [#instructor],
     [*PHONE:*], [+1 780-539-2911],
     [*OFFICE:*], [online],
-    [*Email:*], [#link("mailto:" + email)[#email]],
+    [*Email:*], [#email],
     [*OFFICE HOURS:*], grid.cell(colspan: 3)[#officeHours],
     [],
     grid.cell(
