@@ -3,8 +3,12 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build",
-    "dev": "slidev --open",
+    "build": "pnpm build:ar1205 && pnpm build:ar2205",
+    "build:ar1205": "slidev build slides.ar1205.md --base /ar1205/slides/ --out dist/ar1205",
+    "build:ar2205": "slidev build slides.ar2205.md --base /ar2205/slides/ --out dist/ar2205",
+    "dev": "echo 'Use dev:ar1205 or dev:ar2205'",
+    "dev:ar1205": "slidev slides.ar1205.md --open",
+    "dev:ar2205": "slidev slides.ar2205.md --open",
     "export": "slidev export"
   },
   "dependencies": {
