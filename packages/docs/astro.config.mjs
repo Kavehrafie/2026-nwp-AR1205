@@ -4,22 +4,28 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://26ar1205.kavehrafie.com',
+	site: 'https://nwp2026.kavehrafie.com',
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'NWP 2026',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'AR1205',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Home', link: '/ar1205/' },
+						{ label: 'Example Guide', slug: 'ar1205/guides/example' },
+						{
+							label: 'Reference',
+							autogenerate: { directory: 'ar1205/reference' },
+						},
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'AR2205',
+					items: [
+						{ label: 'Home', link: '/ar2205/' },
+					],
 				},
 			],
 		}),
