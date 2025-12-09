@@ -43,7 +43,7 @@ jobs:
       - name: Build Slides (Slidev)
         run: |
           cd packages/slides
-          pnpm build --base /slides/ --out dist
+          pnpm build
 
       - name: Merge Builds
         run: |
