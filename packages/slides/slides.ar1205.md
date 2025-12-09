@@ -20,8 +20,6 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
-# base path for github pages deployment
-base: /slides/
 # duration of the presentation
 duration: 35min
 ---
