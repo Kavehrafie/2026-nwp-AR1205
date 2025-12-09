@@ -47,10 +47,13 @@ jobs:
 
       - name: Merge Builds
         run: |
-          # Create the slides directory in the docs dist
-          mkdir -p packages/docs/dist/slides
+          # Create the slides directories in the docs dist
+          mkdir -p packages/docs/dist/ar1205/slides
+          mkdir -p packages/docs/dist/ar2205/slides
+          
           # Copy slides build to docs dist
-          cp -r packages/slides/dist/* packages/docs/dist/slides/
+          cp -r packages/slides/dist/ar1205/* packages/docs/dist/ar1205/slides/
+          cp -r packages/slides/dist/ar2205/* packages/docs/dist/ar2205/slides/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
