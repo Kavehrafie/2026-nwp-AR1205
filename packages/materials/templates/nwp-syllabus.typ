@@ -25,10 +25,9 @@
       #grid(
         columns: (1fr, auto),
         gutter: 1em,
-        [#text(size: 0.8em)[Copyright © 2024, Northwestern Polytechnic and its licensors.]], 
-        counter(page).display(),
+        [#text(size: 0.8em)[Copyright © 2024, Northwestern Polytechnic and its licensors.]], counter(page).display(),
       )
-    ]
+    ],
   )
 
   set text(font: "Noto Sans", size: 12pt)
@@ -44,6 +43,16 @@
     below: 1em,
     text(size: 0.9em, weight: "bold", upper(it.body)),
   )
+
+  // Show heading references as the heading text instead of "Section X"
+  show ref: it => {
+    let el = it.element
+    if el != none and el.func() == heading {
+      link(it.target)[#el.body]
+    } else {
+      it
+    }
+  }
 
   align(center)[
     #set par(leading: 1.5em)
