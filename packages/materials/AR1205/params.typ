@@ -1,14 +1,4 @@
-#import "../lib/timetable.typ": holiday, holiday-range, session
-
-#let start-date = datetime(year: 2026, month: 1, day: 6)
-#let class-days = (3, 5)
-
-#let holidays = (
-  holiday("Family Day", datetime(year: 2026, month: 2, day: 16)),
-  holiday-range("Winter Break", datetime(year: 2026, month: 2, day: 17), datetime(year: 2026, month: 2, day: 20)),
-  holiday("Good Friday", datetime(year: 2026, month: 4, day: 3)),
-)
-
+#import "../lib/timetable.typ": session
 
 /* 
  Define sessions individually so they can be rearranged in the syllabus
@@ -190,10 +180,16 @@
 
 
 #let session-south-asian-art = session(
-  "Art of South Asia and Southeast Asia",
-  [Study of South Asian art from ancient to medieval periods.
-  \
-    - Key examples: Maurya, Gupta, Mughal art.
+  "From the 14th Century to the Mogul Empire in the Indian Subcontinent",
+  [Study of South Asian from the 14th century.
+
+    _Read_:
+    - #link("https://smarthistory.org/the-qutb-complex-and-early-sultanate-architecture/?sidebar=asia-1000-1500")["The Qutb complex and early Sultanate architecture" by Arathi Menon]
+    - #link("https://smarthistory.org/art-and-architecture-of-vijayanagara-empire/?sidebar=asia-1000-1500")["Art and architecture of the Vijayanagara empire" by Gita V. Pai]
+    - #link("https://smarthistory.org/indo-portuguese-ivory-statuettes/?sidebar=asia-1500-1900")["Christian art in India: Indo-Portuguese ivory statuettes" by Marsha G. Olson ]
+    - #link("https://smarthistory.org/meenakshi-madurai/?sidebar=asia-1500-1900")["Meenakshi Temple at Madurai" by Edward Fosmire]
+    - #link("https://smarthistory.org/akbarnama/?sidebar=asia-1500-1900")["Illustration from the Akbarnama" by Katrina Klaasmeyer]
+    - #link("https://smarthistory.org/the-taj-mahal/?sidebar=asia-1500-1900")["The Taj Mahal" by Roshna Kapadia]
   ]
 )
 
@@ -282,6 +278,10 @@
     
 #let session-final =    session("Final Review & Course Wrap-Up", [
       Review of key concepts and preparation for final assessments.
+    ])
+
+#let session-towards-contemporary-art = session("Towards Contemporary Art", [
+      Exploration of movements leading to contemporary art practices.
     ])
 
 // Noable links and artists

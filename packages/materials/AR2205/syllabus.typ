@@ -1,22 +1,27 @@
 #import "../templates/nwp-syllabus.typ": template, grade-table
 #import "../lib/timetable.typ": *
 #import "params.typ": *
+#import "../spring-calendar.typ": start-date, class-days, holidays
 #import "@preview/abbr:0.3.0"
 #import "@preview/gentle-clues:1.2.0": *
 
 #abbr.make(
   ("CCMEA", "Cultural Contact and the Making of European Art since the Age of Exploration"),
   ("MAS", "Movements in Art since 1945"),
-  ("ATC", "Art of the Twentieth Century")
+  ("ATC", "Art of the Twentieth Century"),
+  ("ASGWA", "A Short Guide to Writing about Art"),
+  ("ART1900", "Art since 1900: Modernism, Antimodernism, Postmodernism")
 )
 
+// helpers
+#let it = body => text(style: "italic")[#body]
 #let email = link("mailto:krafie@nwpolytech.ca")[krafie\@nwpolytech.ca]
 
 
 
 #show: doc => template(
   number: [AR2205],
-  name: [Early Twentieth Century Art],
+  name: [Art Since 1945],
   instructor: "Kaveh Rafie",
   email: email,
   semester: "Fall",
@@ -40,6 +45,9 @@ None
 = Required Materials
 No textbook is required. Readings will be provided on #underline[myClass]. 
 
+_Recommended_:
+- Sylvan Barnet, #it[@ASGWA] (available at the library on reserve)
+- Edward Lucie-Smith, #it[@MAS]
 = Delivery Mode
 
 This course is delivered synchronously online via Zoom: #link("https://nwpolytech.zoom.us/xxxx")
@@ -63,16 +71,23 @@ Please consult the Alberta Transfer Guide for more information. You may check th
 ]
 = Evaluations
 
+#let evaluations = (
+  ([@eval:participation], 20),
+  ([@eval:weekly-discussion], 15),
+  ([@eval:quizzes], 5),
+  ([@eval:artist-event-report], 10),
+  ([@eval:presentation], 10),
+  ([@eval:final-project], 40),
+)
+
+#let total-grade = evaluations.fold(0, (acc, row) => acc + row.at(1))
+#assert(total-grade == 100, message: "Total grade must be 100%, found " + str(total-grade) + "%")
+
 #grid(
   columns: (1fr, auto),
   gutter: 1em,
-  upper[@eval:participation], [20%],
-  upper[@eval:weekly-discussion], [15%],
-  upper[@eval:quizzes], [5%],
-  upper[@eval:artist-event-report], [10%],
-  upper[@eval:presentation], [10%],
-  upper[@eval:final-project], [40%],
-  )
+  ..evaluations.map(((label, weight)) => (upper(label), [#weight%])).flatten()
+)
 
 == Class Participation <eval:participation>
 
@@ -88,7 +103,7 @@ Actively contribute to class discussions by asking questions, responding to prom
 Complete all micro-activities, such as polls and short collaborative tasks, announced during the session.
 
 === Note on Recordings
-Sessions will be recorded for educational purposes. By participating, you consent to being recorded. If you miss a session, please email me to receive the link of the missed session.
+Sessions will be recorded for educational purposes. By participating, you consent to being recorded. If you miss a session, please email me to receive the link to the missed session.
 
 #warning(title: [*Attendance Policy*])[
   Attendance for our live Zoom sessions is #upper[mandatory]. You are allowed no more than #upper[two] unexcused absences. Failure to address chronic absenteeism may result in failing the course.
@@ -108,12 +123,16 @@ There will be periodic quizzes based on the readings and lectures. These quizzes
 == Field Report <eval:artist-event-report> 
 This assignment assesses your ability to critically engage with contemporary art outside the classroom. You will attend a virtual or local art event (e.g., exhibition, artist talk, workshop) and write a 1000-word report analyzing the experience. More details will be provided in #underline[myClass].
 
+*Hint*: For how-to-write an exhibition see Sylvan Barnet, "Writing a Review of an Exhibition" #text(style: "italic")[@ASGWA], 1--34
+
 == Presentation <eval:presentation>
 Students will deliver a 6-8 minute presentation on a selected contemporary artist or art movement. You can choose to present solo or partner up with a classmate. I always encourage collaboration so working in pairs is highly recommended and will be rewarded with extra marks (5%).
 The presentation should include visual aids (e.g., images of the works under discussion) and a brief Q&A session. A rubric will be provided in #underline[myClass].
 
 == Final Project <eval:final-project>
 The Final Project is a research project on the topics covered in this course; you are encouraged to focus on a specific artist, art movement, or theme in contemporary art related to your own interests and practice. You are expected to develop your project in two stages:
+
+*Hint*: For developing yout topic see Sylvan Barnet, "Getting Ideas for Essays" in #text(style: "italic")[@ASGWA], 75--130
 
 #block(inset: (x: 1.8em, y:0.2em))[
 
@@ -143,7 +162,7 @@ Assignments must be submitted by midnight on the due date. Late submissions rece
 
 #pagebreak()
 
-= Course Schedule (Tentative)\* 
+= Course Schedule (Working)\* 
 
 #schedule(
   start: start-date,
@@ -154,21 +173,24 @@ Assignments must be submitted by midnight on the due date. Late submissions rece
     first_half_twenty_art,
     // post_war_abstraction,
     post_war_new_york,
-    post-painterly,
+    after_abstract_exp,
     european_post_war,
-    post_war_art_developing,
+    post_war_art_africa,
     pop_art,
     minimalism,
+    fluxus,
     installation_art,
-    performance_art,
+    // performance_art,
+    latin_american_art,
     calligraphic_abstraction,
     conceptual_art,
     feminist_art,
-    latin_american_art,
     culture_wars,
-    site-specific-art,
     what_is_contemporary_art,
+    site_specific_art,
+    video_photography,
     curation,
+    guest,
     community_art,
     biennials,
     // new_media_art,
@@ -181,27 +203,5 @@ Assignments must be submitted by midnight on the due date. Late submissions rece
 // Jan 6 2026 - Apr 23 2026
 // last day of classes: Apr 13 2026
 
-#pagebreak()
-
-= Student Responsibilities
-
-Online Communication & Professionalism: Students are expected to maintain a
-high-level of professionalism across all course-related communications. Please
-conduct your communications as you would any other professional experience.
-Treat your colleagues with respect!
-• Join the lecture on time and remain for the duration of class and related activities.
-• Students can expect to put in a minimum of 4 hours per week on out-of-
-class work. Assignments will be expected on the date required.
-
-= Statement on Academic Misconduct
-
-Academic Misconduct will not be tolerated. For a more precise definition of academic misconduct and its consequences, refer to the Student Rights and Responsibilities policy available at https://www.nwpolytech.ca/about/polytechnic-leadership/policies-directory.
-
-\*\*Note: all Academic and Administrative policies are available on the same page.
-
-= Additional Information:
-
-== Plagarism and the Use of LLMs or AI Tools
-Plagiarism is the presentation of the work, ideas, or data of another person as one's own. This includes work obtained through the use of LLMs (Large Language Models) or other AI tools. Students must properly cite any sources used in their assignments, including any content generated by AI tools. Failure to do so may result in academic penalties as outlined in the institution's academic integrity policies.
 
 

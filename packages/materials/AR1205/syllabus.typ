@@ -1,6 +1,7 @@
 #import "../templates/nwp-syllabus.typ": template, grade-table
 #import "../lib/timetable.typ": *
 #import "params.typ": *
+#import "../spring-calendar.typ": start-date, class-days, holidays
 #import "@preview/abbr:0.3.0"
 #import "@preview/gentle-clues:1.2.0": *
 
@@ -57,6 +58,26 @@ Please consult the Alberta Transfer Guide for more information. You may check th
 
 = Evaluations
 
+#let evaluations = (
+  ([@eval:participation], 20),
+  ([@eval:weekly-discussion], 15),
+  ([@eval:quizzes], 5),
+  ([@evals:xams], 30),
+  ([@eval:annotations], 20) ,
+  ([@eval:creative], 10),
+)
+
+#let total-grade = evaluations.fold(0, (acc, row) => acc + row.at(1))
+#assert(total-grade == 100, message: "Total grade must be 100%, found " + str(total-grade) + "%")
+
+#grid(
+  inset: (x: 2em),
+  columns: (1fr, auto),
+  gutter: 1em,
+  ..evaluations.map(((label, weight)) => (upper(label), [#weight%])).flatten()
+)
+
+
 == Class Participation <eval:participation>
 
 This class will be held synchronously online via Zoom. Active participation in Zoom sessions and activities is essential for a successful learning experience. Students are expected to engage with the material and contribute to discussions. Your grade is based on the following components:
@@ -88,14 +109,23 @@ Ask one question related to the week's lecture or weekly readings on myClass, an
 == Quizzes <eval:quizzes>
 There will be periodic quizzes based on the readings and lectures. These quizzes are designed to assess your understanding of the course material and your active note-taking during lectures.
 
-
-== Reading Annotations (20%)
+== Reading Annotations <eval:annotations> 
 
 Students are required to complete annotations on assigned readings using Perusall. These annotations will help deepen your understanding of the material and facilitate class discussions.
 
 To receive #underline[full credit], students must engage with the readings by *highlighting key points*, *asking questions*, and *responding to peers' annotations*.
 
+== Exams <evals:xams>
 
+There will be two exams during the semester, each worth 15% of your final grade. The exams will cover material from lectures, readings, and discussions. They will consist of multiple-choice questions, short answers, and essay questions.
+
+== Critical & Creative Exercises (10%) <eval:creative>
+
+This component invites students to explore course concepts through a blend of written analysis and creative practice. Assignments are designed to be flexible, allowing for either a short critical essay or a creative project accompanied by a brief reflection.
+
+Examples of activities include:
+- *Critical Response:* A short essay analyzing a specific artwork or text.
+- *Creative Application:* A practical project, such as constructing a linear perspective drawing or creating a digital composition (e.g., using Photoshop) to demonstrate understanding of spatial depth, accompanied by a short written explanation of the process and principles applied.
 
 == Late Assignments and Missed Exams
 Please submit your study guide responses by midnight on the date they are due. Assignments not turned in at that time will receive a score of zero that will stay in place until the assignment is received (Blackboard will not calculate your grade accurately otherwise). Assignments turned in after the due date will be marked down by 20%.
@@ -124,10 +154,9 @@ Please note that most universities will not accept your course for transfer cred
     session-high-renaissance,
     session-mannerism,
     session-new-world,
-    session-mongol,
+    session-south-asian-art,
     session-chinese-art,
     session-japanese-art,
-    session-south-asian-art,
     session-african-art,
     session-pacific-art,
     session-aztec-inca,
@@ -143,6 +172,7 @@ Please note that most universities will not accept your course for transfer cred
     session-interwar,
     session-post-war,
     session-neo-avant-garde,
+    session-towards-contemporary-art,
     session-final
   ),
 )
