@@ -52,7 +52,7 @@
 
 ]
 
-#let installation_art = session("Installation Art and Immersive Experiences")[
+#let installation_art = session("Earth Art and Installation")[
   Examination of installation art as a medium for creating immersive and interactive experiences.
 
   _Read_:
@@ -124,8 +124,8 @@
 
 ]
 
-#let ai = session("AI and the Future of Art")[
-  Examination of the role of artificial intelligence in contemporary art creation and curation.
+#let ai = session("From digital to AI")[
+  Examination of the evolution of digital art practices leading to the emergence of AI in art creation.
 
   _Read_:
 

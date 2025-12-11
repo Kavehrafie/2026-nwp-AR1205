@@ -21,8 +21,9 @@
     Overview of the course structure, objectives, and assessment methods. The 15th-century context of the Age of Exploration will be introduced.
 
     _Read_:
-    - #link("https://smarthistory.org/introduction-to-art-historical-analysis/?sidebar=the-basics-of-art-history")["Introduction to understanding art" by Robert Glass] 
-    - #link("https://smarthistory.org/introduction-iconographic-analysis/?sidebar=the-basics-of-art-history")["Iconography and iconographic analysis, an introduction" by Lauren Kilroy-Ewbank]
+    // - #link("https://smarthistory.org/introduction-to-art-historical-analysis/?sidebar=the-basics-of-art-history")["Introduction to understanding art" by Robert Glass] 
+    // - #link("https://smarthistory.org/introduction-iconographic-analysis/?sidebar=the-basics-of-art-history")["Iconography and iconographic analysis, an introduction" by Lauren Kilroy-Ewbank]
+    Sylvia Barnet, "Formal Analysis and Style" in _A Short Guide to Writing about Art_
   ],
   // Sources:
   // Introduction in Stokstad
