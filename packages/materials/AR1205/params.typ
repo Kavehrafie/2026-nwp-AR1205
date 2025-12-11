@@ -1,4 +1,4 @@
-#import "lib/timetable.typ": holiday, holiday-range, session
+#import "../lib/timetable.typ": holiday, holiday-range, session
 
 #let start-date = datetime(year: 2026, month: 1, day: 6)
 #let class-days = (3, 5)

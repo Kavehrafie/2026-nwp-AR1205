@@ -1,7 +1,7 @@
 // Schedule output for markdown sync (typlite)
 // This file outputs just the schedule for syncing to Astro docs
 
-#import "lib/timetable.typ": *
+#import "../lib/timetable.typ": *
 #import "params.typ": *
 
 #schedule(

@@ -74,7 +74,6 @@ Please consult the Alberta Transfer Guide for more information. You may check th
   upper[@eval:final-project], [40%],
   )
 
-
 == Class Participation <eval:participation>
 
 This class will be held synchronously online via Zoom. Active participation in Zoom sessions and activities is essential for a successful learning experience. Students are expected to engage with the material and contribute to discussions. Your grade is based on the following components:
