@@ -20,13 +20,16 @@
 
 #let first_half_twenty_art = session("The First Half of 20th Century Art")[
   A short survey of modernist movements of the early 20th century until the end of World War II.
+  
   _Read_:
-  - #link("https://www.tate.org.uk/art/art-terms/c/cubism")[Tate, "Cubism"]
-  - #link("https://www.moma.org/collection/terms/70")[MoMA, "Surrealism"]
-  - #link("https://www.metmuseum.org/toah/hd/dada/hd_dada.htm")[The Met, "Dada"]
+  - TJ Clark, "Introduction," in _Farwell to an Idea: Episodes from a History of Modernism_
 ]
 
-#let post_war_abstraction = session("Post-War Abstraction")[]
+#let post_war_new_york = session("When New York Stole the Idea of Modern Art")[
+  
+  _Read_:
+  - 
+]
 
 #let what_is_contemporary_art = session("What is Contemporary Art?")[
   _Read_:
@@ -36,3 +39,4 @@
 #let presentations = session("Student Presentations")[
   Student presentations on selected contemporary artists or art movements. See #underline[myClass] for schedule.
 ]
+

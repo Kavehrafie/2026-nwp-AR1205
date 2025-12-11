@@ -6,6 +6,7 @@
 
 #abbr.make(
   ("CCMEA", "Cultural Contact and the Making of European Art since the Age of Exploration"),
+  ("MAS", "Movements in Art since 1945")
 )
 
 #let email = link("mailto:krafie@nwpolytech.ca")[krafie\@nwpolytech.ca]
