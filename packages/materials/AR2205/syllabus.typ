@@ -6,7 +6,8 @@
 
 #abbr.make(
   ("CCMEA", "Cultural Contact and the Making of European Art since the Age of Exploration"),
-  ("MAS", "Movements in Art since 1945")
+  ("MAS", "Movements in Art since 1945"),
+  ("ATC", "Art of the Twentieth Century")
 )
 
 #let email = link("mailto:krafie@nwpolytech.ca")[krafie\@nwpolytech.ca]
@@ -152,7 +153,27 @@ Assignments must be submitted by midnight on the due date. Late submissions rece
   events: (
     session-intro,
     first_half_twenty_art,
-    post_war_abstraction,
+    // post_war_abstraction,
+    post_war_new_york,
+    post-painterly,
+    european_post_war,
+    post_war_art_developing,
+    pop_art,
+    minimalism,
+    performance_art,
+    calligraphic_abstraction,
+    conceptual_art,
+    feminist_art,
+    latin_american_art,
+    culture_wars,
+    site-specific-art,
+    what_is_contemporary_art,
+    curation,
+    installation_art,
+    community_art,
+    biennials,
+    // new_media_art,
+    ai,
     presentations,
     presentations,
   ),
