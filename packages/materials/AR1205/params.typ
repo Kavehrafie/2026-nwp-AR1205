@@ -13,7 +13,7 @@
     _Read_:
     // - #link("https://smarthistory.org/introduction-to-art-historical-analysis/?sidebar=the-basics-of-art-history")["Introduction to understanding art" by Robert Glass] 
     // - #link("https://smarthistory.org/introduction-iconographic-analysis/?sidebar=the-basics-of-art-history")["Iconography and iconographic analysis, an introduction" by Lauren Kilroy-Ewbank]
-    Sylvia Barnet, "Formal Analysis and Style" in _A Short Guide to Writing about Art_
+    - Sylvia Barnet, "Formal Analysis and Style" in _A Short Guide to Writing about Art_
   ],
   // Sources:
   // Introduction in Stokstad
@@ -25,7 +25,7 @@
   [
     From Arab mathematics to the invention of linear perspective. Renaissance art in Italy and Northern Europe.
   
-    _Key artists_: Masaccio, Donatello, Sandra Botticelli, Jan van Eyck, Hieronymus Bosch and others.
+    _Key artists_: Masaccio, Donatello, Sandro Botticelli, Jan van Eyck, Hieronymus Bosch and others.
 
     _Read_:
     - Hans Belting, _Florence and Baghdad: Renaissance Art and Arab Science_, pp. 173--185
@@ -35,8 +35,7 @@
     - #link("https://smarthistory.org/bosch-the-garden-of-earthly-delights/?sidebar=europe-1400-1500")["Hieronymus Bosch, The Garden of Earthly Delights" by Sally Hickson]
     
     _Watch_:
-    - #link("https://youtu.be/bkNMM8uiMww
-    ")[Linear Perspective: Brunelleschi’s Experiment]
+    - #link("https://youtu.be/bkNMM8uiMww")[Linear Perspective: Brunelleschi’s Experiment]
     // - #link("https://youtu.be/ggpKKlsaeac")[Filippo Brunelleschi, Santo Spirito, Florence] 
     // - #link("https://youtu.be/6dWHPHELCKU")[Donatello, Equestrian Monument of Gattamelata]
     - #link("https://youtu.be/q1X0Lj7YEMs")[Workshop of Robert Campin, Annunciation Triptych (Merode Altarpiece)]
@@ -60,7 +59,7 @@
     Key artists: Leonardo da Vinci, Michelangelo, Raphael.
 
     _Read_:
-      - Evelyn Welch, "Markets and Metaphors " in _Shopping in the Renaissance: Consumer Cultures in Italy 1400-1600_
+      - Evelyn Welch, "Markets and Metaphors" in _Shopping in the Renaissance: Consumer Cultures in Italy 1400-1600_
       // - #link("https://smarthistory.org/humanism-italian-renaissance-art/?sidebar=europe-1400-1500")["Humanism in Italian renaissance art" by Heather Graham]
       - #link("https://smarthistory.org/leonardo-da-vinci-vitruvian-man/?sidebar=europe-1500-1600")["Leonardo da Vinci, 'Vitruvian Man'" by Letha Ch'ien]
       // - #link("https://smarthistory.org/michelangelo-ceiling-of-the-sistine-chapel/?sidebar=europe-1500-1600")["Michelangelo, Ceiling of the Sistine Chapel" by Christine Zappella]
@@ -77,7 +76,7 @@
 #let session-new-world = session(
   "Art of the New World",
   [
-    A beginning Cultural contact and exchange during the Age of Exploration.
+    Cultural contact and exchange during the Age of Exploration.
 
     _Read_:
     - Claire Farago, "On the Peripatetic Life of Objects in Era of Globalization" in #text(style: "italic")[@CCMEA]
@@ -181,12 +180,12 @@
 
 #let session-south-asian-art = session(
   "From the 14th Century to the Mogul Empire in the Indian Subcontinent and Beyond",
-  [Study of South Asian from the 14th century.
+  [Study of South Asian art from the 14th century.
 
     _Read_:
     - #link("https://smarthistory.org/the-qutb-complex-and-early-sultanate-architecture/?sidebar=asia-1000-1500")["The Qutb complex and early Sultanate architecture" by Arathi Menon]
     - #link("https://smarthistory.org/art-and-architecture-of-vijayanagara-empire/?sidebar=asia-1000-1500")["Art and architecture of the Vijayanagara empire" by Gita V. Pai]
-    - #link("https://smarthistory.org/indo-portuguese-ivory-statuettes/?sidebar=asia-1500-1900")["Christian art in India: Indo-Portuguese ivory statuettes" by Marsha G. Olson ]
+    - #link("https://smarthistory.org/indo-portuguese-ivory-statuettes/?sidebar=asia-1500-1900")["Christian art in India: Indo-Portuguese ivory statuettes" by Marsha G. Olson]
     - #link("https://smarthistory.org/meenakshi-madurai/?sidebar=asia-1500-1900")["Meenakshi Temple at Madurai" by Edward Fosmire]
     - #link("https://smarthistory.org/akbarnama/?sidebar=asia-1500-1900")["Illustration from the Akbarnama" by Katrina Klaasmeyer]
     - #link("https://smarthistory.org/the-taj-mahal/?sidebar=asia-1500-1900")["The Taj Mahal" by Roshna Kapadia]
@@ -208,7 +207,7 @@
   Key topics: Literati painting, porcelain, the Forbidden City.
   
   _Read_:
-  - Julie Hochstrasser, "Remapping Dutch Art in Global Perspective  Other Points of View" in #text(style: "italic")[@CCMEA], pp.43--48 
+  - Julie Hochstrasser, "Remapping Dutch Art in Global Perspective  Other Points of View" in #text(style: "italic")[@CCMEA], pp. 43--48 
   - #link("https://smarthistory.org/yuan-dynasty-intro/?sidebar=asia-1000-1500")["Yuan dynasty (1279–1368), an introduction"]
   - #link("https://smarthistory.org/ming-dynasty-intro/?sidebar=asia-1000-1500")["Ming dynasty (1368–1644), an introduction"]
   - #link("https://smarthistory.org/qing-dynasty-intro/?sidebar=asia-1500-1900")["Qing dynasty (1644–1912), an introduction"]
@@ -217,7 +216,7 @@
   - #link("https://smarthistory.org/kim-hongdo-album-of-genre-paintings/")["Kim Hongdo, album of genre paintings"]
 
   _Watch_:
-  - #link("https://smarthistory.org/wat-phra-kaew-temple-of-the-emerald-buddha/")[Buddha of Medicine Bhaishajyaguru (Yaoshi fo)]
+  - #link("https://smarthistory.org/buddha-of-medicine-bhaishajyaguru-yaoshi-fo/")[Buddha of Medicine Bhaishajyaguru (Yaoshi fo)]
   - #link("https://youtu.be/D6_0-arfDpQ")[The David Vases]
   - #link("https://youtu.be/9FAfK6MDA-Q")[Wang Lü, Landscapes of Mount Hua (Huashan)]
   - #link("https://youtu.be/8xdpvQ8BzPg")[Wang Shimin, Cloud Capped Mountains and Misty Riverside]
@@ -234,7 +233,7 @@
   - From "Japonisme: Cultural Crossings between Japan and the West"
   - #link("https://smarthistory.org/ryoanji-peaceful-dragon-temple/?sidebar=asia-1000-1500")["Ryōanji (Peaceful Dragon Temple)" by Yoonjung Seo]
   - #link("https://smarthistory.org/edo-period/?sidebar=asia-1500-1900")["Edo period, an introduction" by Sonia Coman]
-  - #link("https://smarthistory.org/francis-xavier-christianity-japan/?sidebar=asia-1500-1900")["A portrait of St. Francis Xavier and Christianity in Japan" by Rachel Miller ]
+  - #link("https://smarthistory.org/francis-xavier-christianity-japan/?sidebar=asia-1500-1900")["A portrait of St. Francis Xavier and Christianity in Japan" by Rachel Miller]
   - #link("https://smarthistory.org/different-places-japanese-porcelain-english-gilt-bronze-mounts/?sidebar=asia-1500-1900")["Different places: Japanese porcelain with English gilt-bronze mounts" by Jeffrey Weaver]
   - #link("https://smarthistory.org/kabuki-actor-prints/?sidebar=asia-1500-1900")["Kabuki actor prints"]
   - #link("https://smarthistory.org/hokusai-under-the-wave-off-kanagawa-the-great-wave/?sidebar=asia-1500-1900")["Katsushika Hokusai, Under the Wave off Kanagawa (The Great Wave)" by Leila Anne Harris]
@@ -256,14 +255,28 @@
 #let session-pacific-art = session(
   "Art of Pacific Cultures",
   [Arts of Oceania: Polynesia, Micronesia, and Melanesia.
-  \
+  
     - Key topics: Navigation charts, tattooing, ritual figures.
   ]
 )
 
 #let session-aztec-inca = session(
   "Aztec Art and Architecture and Inca Art and Architecture",
-  [Exploration of Aztec and Inca art forms and architectural achievements.]
+  [Exploration of Aztec and Inca art forms and architectural achievements.
+  
+  _Read_:
+  - #link("https://smarthistory.org/introduction-mexica/")["Introduction to the Aztecs (Mexica)"]
+  - #link("https://smarthistory.org/coatlicue/?sidebar=north-america-before-1500")[Coatlicue]
+  - #link("https://smarthistory.org/codex-borgia/?sidebar=north-america-before-1500")[Codex Borgia]
+  - #link("https://smarthistory.org/inka-intro2/?sidebar=south-america-before-1500")["The Inka, an introduction" by Sarahh Scher]
+
+  _Watch_:
+  - #link("https://youtu.be/86zSgZWVkVk")[The Templo Mayor and the Coyolxauhqui Stone]
+  - #link("https://youtu.be/Z1rqLNz8Zo0")[Coyolxauhqui Monolith]
+  - #link("https://youtu.be/JN-_3qUutIU")[Tlaloc Vessel]
+  - #link("https://youtu.be/Q_Lp76ZkDE0")[Aztec feathered headdress]
+  // https://smarthistory.org/pottery-model-temples/?sidebar=north-america-before-1500
+  ]
 )
 
 #let session-north-american-indigenous = session(
@@ -315,6 +328,6 @@
       Exploration of movements leading to contemporary art practices.
     ])
 
-// Noable links and artists
+// Notable links and artists
 // - https://smarthistory.org/lawrence-paul-yuxweluptun-leaving-reservation-ottawa/
 // 

@@ -16,7 +16,7 @@
   name: [Introduction to the History of Global Art II],
   instructor: "Kaveh Rafie",
   email: email,
-  semester: "Fall",
+  semester: "Winter",
   year: 2026,
   dept: "Fine Arts",
   logo: "../../../assets/logo.svg",
@@ -34,7 +34,7 @@ The course examines art from the 15th century to the 20th century, focusing on v
 None
 
 = Required Materials
-No textbook requires. Readings will be provided on #underline[Perusall]. 
+No textbook required. Readings will be provided on #underline[Perusall]. 
 
 = Delivery Mode
 
@@ -44,7 +44,7 @@ This course is delivered synchronously online via Zoom: #link("https://nwpolytec
 
 By the end of this course, students will be able to:
 
-- Identify and describe major art movements and styles from the 15th to present.
+- Identify and describe major art movements and styles from the 15th century to the present.
 - Analyze and interpret artworks using appropriate art historical terminology.
 - Understand the cultural and historical contexts of various art forms.
 - Critically engage with visual materials and articulate informed perspectives on art.
@@ -62,7 +62,7 @@ Please consult the Alberta Transfer Guide for more information. You may check th
   ([@eval:participation], 20),
   ([@eval:weekly-discussion], 15),
   ([@eval:quizzes], 5),
-  ([@evals:xams], 30),
+  ([@eval:exams], 30),
   ([@eval:annotations], 20) ,
   ([@eval:creative], 10),
 )
@@ -83,7 +83,7 @@ Please consult the Alberta Transfer Guide for more information. You may check th
 This class will be held synchronously online via Zoom. Active participation in Zoom sessions and activities is essential for a successful learning experience. Students are expected to engage with the material and contribute to discussions. Your grade is based on the following components:
 
 === Camera Policy
-Turning your camera off will result in not receiving participation credit (10%) unless it is during a break or you have communicated with me in advance for accommodations.
+Turning your camera off will result in receiving no participation credit (10%) unless it is during a break or you have communicated with me in advance for accommodations.
 
 === Discussion Contribution
 Actively contribute to class discussions by asking questions, responding to prompts, and engaging with your peers' ideas.
@@ -92,7 +92,7 @@ Actively contribute to class discussions by asking questions, responding to prom
 Complete all micro-activities, such as polls and short collaborative tasks, announced during the session.
 
 === Note on Recordings
-Sessions will be recorded for educational purposes. By participating, you consent to being recorded. If you miss a session, please email me to receive the link of the missed session.
+Sessions will be recorded for educational purposes. By participating, you consent to being recorded. If you miss a session, please email me to receive the link to the missed session.
 
 #warning(title: [*Attendance Policy*])[
   Attendance for our live Zoom sessions is #upper[mandatory]. You are allowed no more than #upper[two] unexcused absences. Failure to address chronic absenteeism may result in failing the course.
@@ -101,7 +101,7 @@ Sessions will be recorded for educational purposes. By participating, you consen
 ]
 
 == Weekly Discussion <eval:weekly-discussion>
-Ask one question related to the week's lecture or weekly readings on myClass, and respond to at least two of your classmates' questions. 
+Ask one question related to the week's lecture or readings on myClass, and respond to at least two of your classmates' questions. 
 
 - To receive #underline[full credit], your question should be thoughtful and relevant to the week's material. 
 - Short or superficial replies will not receive credit.
@@ -115,11 +115,11 @@ Students are required to complete annotations on assigned readings using Perusal
 
 To receive #underline[full credit], students must engage with the readings by *highlighting key points*, *asking questions*, and *responding to peers' annotations*.
 
-== Exams <evals:xams>
+== Exams <eval:exams>
 
 There will be two exams during the semester, each worth 15% of your final grade. The exams will cover material from lectures, readings, and discussions. They will consist of multiple-choice questions, short answers, and essay questions.
 
-== Critical & Creative Exercises (10%) <eval:creative>
+== Critical & Creative Exercises <eval:creative>
 
 This component invites students to explore course concepts through a blend of written analysis and creative practice. Assignments are designed to be flexible, allowing for either a short critical essay or a creative project accompanied by a brief reflection.
 
@@ -128,7 +128,7 @@ Examples of activities include:
 - *Creative Application:* A practical project, such as constructing a linear perspective drawing or creating a digital composition (e.g., using Photoshop) to demonstrate understanding of spatial depth, accompanied by a short written explanation of the process and principles applied.
 
 == Late Assignments and Missed Exams
-Please submit your study guide responses by midnight on the date they are due. Assignments not turned in at that time will receive a score of zero that will stay in place until the assignment is received (Blackboard will not calculate your grade accurately otherwise). Assignments turned in after the due date will be marked down by 20%.
+Please submit your study guide responses by midnight on the date they are due. Assignments not turned in at that time will receive a score of zero that will stay in place until the assignment is received (myClass will not calculate your grade accurately otherwise). Assignments turned in after the due date will be marked down by 20%.
 
 #warning[
 Please note that most universities will not accept your course for transfer credit *IF* your grade is *less than C-*.
