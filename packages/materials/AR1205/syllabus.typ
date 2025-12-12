@@ -1,13 +1,10 @@
 #import "../templates/nwp-syllabus.typ": template, grade-table
-#import "../lib/timetable.typ": *
-#import "params.typ": *
-#import "../spring-calendar.typ": start-date, class-days, holidays
-#import "@preview/abbr:0.3.0"
+#import "schedule.typ": schedule-table, schedule-list
+#import "params.typ": abbreviations
 #import "@preview/gentle-clues:1.2.0": *
+#import "@preview/abbr:0.3.0"
 
-#abbr.make(
-  ("CCMEA", "Cultural Contact and the Making of European Art since the Age of Exploration"),
-)
+#abbr.make(..abbreviations)
 
 #let email = link("mailto:krafie@nwpolytech.ca")[krafie\@nwpolytech.ca]
 
@@ -144,38 +141,7 @@ Please note that most universities will not accept your course for transfer cred
 
 = Course Schedule (Tentative)\* 
 
-#schedule(
-  start: start-date,
-  days: (3, 5),
-  holidays: holidays,
-  events: (
-    session-intro,
-    session-southern-northern-renaissance,
-    session-high-renaissance,
-    session-mannerism,
-    session-new-world,
-    session-south-asian-art,
-    session-chinese-art,
-    session-japanese-art,
-    session-african-art,
-    session-pacific-art,
-    session-aztec-inca,
-    session-north-american-indigenous,
-    session-baroque-in-southern-europe,
-    session-baroque-in-northern-europe,
-    session-rococo,
-    session-neoclassicism-romanticism,
-    session-realism,
-    session-impressionism,
-    session-post-impressionism,
-    session-pre-war,
-    session-interwar,
-    session-post-war,
-    session-neo-avant-garde,
-    session-towards-contemporary-art,
-    session-final
-  ),
-)
+#schedule-table
 
 // Jan 6 2026 - Apr 23 2026
 // last day of classes: Apr 13 2026

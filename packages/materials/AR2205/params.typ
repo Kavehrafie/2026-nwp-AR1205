@@ -1,5 +1,13 @@
 #import "../lib/timetable.typ": session
 
+#let abbreviations = (
+  ("CCMEA", "Cultural Contact and the Making of European Art since the Age of Exploration"),
+  ("MAS", "Movements in Art since 1945"),
+  ("ATC", "Art of the Twentieth Century"),
+  ("ASGWA", "A Short Guide to Writing about Art"),
+  ("ART1900", "Art since 1900: Modernism, Antimodernism, Postmodernism")
+)
+
 /* 
  Define sessions individually so they can be rearranged in the syllabus
 */

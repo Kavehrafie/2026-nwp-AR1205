@@ -1,17 +1,10 @@
 #import "../templates/nwp-syllabus.typ": template, grade-table
-#import "../lib/timetable.typ": *
-#import "params.typ": *
-#import "../spring-calendar.typ": start-date, class-days, holidays
-#import "@preview/abbr:0.3.0"
+#import "schedule.typ": schedule-table, schedule-list
+#import "params.typ": abbreviations
 #import "@preview/gentle-clues:1.2.0": *
+#import "@preview/abbr:0.3.0"
 
-#abbr.make(
-  ("CCMEA", "Cultural Contact and the Making of European Art since the Age of Exploration"),
-  ("MAS", "Movements in Art since 1945"),
-  ("ATC", "Art of the Twentieth Century"),
-  ("ASGWA", "A Short Guide to Writing about Art"),
-  ("ART1900", "Art since 1900: Modernism, Antimodernism, Postmodernism")
-)
+#abbr.make(..abbreviations)
 
 // helpers
 #let it = body => text(style: "italic")[#body]
@@ -24,7 +17,7 @@
   name: [Art Since 1945],
   instructor: "Kaveh Rafie",
   email: email,
-  semester: "Fall",
+  semester: "Winter",
   year: 2026,
   dept: "Fine Arts",
   logo: "../../../assets/logo.svg",
@@ -164,41 +157,7 @@ Assignments must be submitted by midnight on the due date. Late submissions rece
 
 = Course Schedule (Working)\* 
 
-#schedule(
-  start: start-date,
-  days: class-days,
-  holidays: holidays,
-  events: (
-    session-intro,
-    first_half_twenty_art,
-    // post_war_abstraction,
-    post_war_new_york,
-    after_abstract_exp,
-    european_post_war,
-    post_war_art_africa,
-    pop_art,
-    minimalism,
-    fluxus,
-    installation_art,
-    // performance_art,
-    latin_american_art,
-    calligraphic_abstraction,
-    conceptual_art,
-    feminist_art,
-    culture_wars,
-    what_is_contemporary_art,
-    site_specific_art,
-    video_photography,
-    curation,
-    guest,
-    community_art,
-    biennials,
-    // new_media_art,
-    ai,
-    presentations,
-    presentations,
-  ),
-)
+#schedule-table
 
 // Jan 6 2026 - Apr 23 2026
 // last day of classes: Apr 13 2026

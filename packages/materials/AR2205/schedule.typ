@@ -3,30 +3,49 @@
 
 #import "../lib/timetable.typ": *
 #import "params.typ": *
+#import "../spring-calendar.typ": start-date, holidays
+#import "@preview/abbr:0.3.0"
 
-#schedule(
-  start: start-date,
-  days: class-days,
-  holidays: holidays,
-  events: (
+#show: abbr.show-rule
+
+#abbr.make(..abbreviations)
+
+#let schedule-list = (
     session-intro,
     first_half_twenty_art,
+    // post_war_abstraction,
     post_war_new_york,
-    european_post_war,
     after_abstract_exp,
-    minimalism,
-    performance_art,
-    installation_art,
-    site_specific_art,
+    european_post_war,
     post_war_art_africa,
-    community_art,
+    pop_art,
+    minimalism,
+    fluxus,
+    installation_art,
+    // performance_art,
+    latin_american_art,
+    calligraphic_abstraction,
+    conceptual_art,
+    feminist_art,
+    culture_wars,
+    what_is_contemporary_art,
+    site_specific_art,
+    video_photography,
     curation,
-    new_media_art,
-    session("Student Presentations", [
-      Student-led analyses connecting course themes to selected case studies.
-    ]),
-    session("Final Review & Course Wrap-Up", [
-      Review of key concepts and preparation for final assessments.
-    ]),
-  ),
+    guest,
+    community_art,
+    biennials,
+    // new_media_art,
+    ai,
+    presentations,
+    presentations,
 )
+
+#let schedule-table = schedule(
+  start: start-date,
+  days: (1,5), // Mondays and Fridays
+  holidays: holidays,
+  events: schedule-list,
+)
+
+#schedule-table

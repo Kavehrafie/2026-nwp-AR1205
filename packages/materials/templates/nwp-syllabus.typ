@@ -108,7 +108,6 @@
   pagebreak()
 
   [
-
     = Student Responsibilities
 
     Online Communication & Professionalism: Students are expected to maintain a
@@ -119,7 +118,7 @@
     • Students can expect to put in a minimum of 4 hours per week on out-of-
     class work. Assignments will be expected on the date required.
 
-    = Statement on Academic Misconduct
+    = Statement on Academic Misconduct <misconduct>
 
     Academic Misconduct will not be tolerated. For a more precise definition of academic misconduct and its consequences, refer to the Student Rights and Responsibilities policy available at https://www.nwpolytech.ca/about/polytechnic-leadership/policies-directory.
 

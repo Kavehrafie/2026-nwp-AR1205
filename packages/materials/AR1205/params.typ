@@ -1,5 +1,9 @@
 #import "../lib/timetable.typ": session
 
+#let abbreviations = (
+  ("CCMEA", "Cultural Contact and the Making of European Art since the Age of Exploration"),
+)
+
 /* 
  Define sessions individually so they can be rearranged in the syllabus
 */
