@@ -180,7 +180,7 @@
 
 
 #let session-south-asian-art = session(
-  "From the 14th Century to the Mogul Empire in the Indian Subcontinent",
+  "From the 14th Century to the Mogul Empire in the Indian Subcontinent and Beyond",
   [Study of South Asian from the 14th century.
 
     _Read_:
@@ -190,6 +190,9 @@
     - #link("https://smarthistory.org/meenakshi-madurai/?sidebar=asia-1500-1900")["Meenakshi Temple at Madurai" by Edward Fosmire]
     - #link("https://smarthistory.org/akbarnama/?sidebar=asia-1500-1900")["Illustration from the Akbarnama" by Katrina Klaasmeyer]
     - #link("https://smarthistory.org/the-taj-mahal/?sidebar=asia-1500-1900")["The Taj Mahal" by Roshna Kapadia]
+    - #link("https://smarthistory.org/wat-phra-kaew-temple-of-the-emerald-buddha/")[
+      "Wat Phra Kaew (Temple of the Emerald Buddha)" by Melody Rod-ari
+    ]
   ]
 )
 
@@ -200,9 +203,24 @@
 
 #let session-chinese-art = session(
   "Chinese Art from 1279",
-  [Art of the Yuan, Ming, and Qing Dynasties.
-  \
-    - Key topics: Literati painting, porcelain, the Forbidden City.
+  [An overview of Chinese art of the Yuan, Ming, and Qing Dynasties.
+  
+  Key topics: Literati painting, porcelain, the Forbidden City.
+  
+  _Read_:
+  - Julie Hochstrasser, "Remapping Dutch Art in Global Perspective  Other Points of View" in #text(style: "italic")[@CCMEA], pp.43--48 
+  - #link("https://smarthistory.org/yuan-dynasty-intro/?sidebar=asia-1000-1500")["Yuan dynasty (1279–1368), an introduction"]
+  - #link("https://smarthistory.org/ming-dynasty-intro/?sidebar=asia-1000-1500")["Ming dynasty (1368–1644), an introduction"]
+  - #link("https://smarthistory.org/qing-dynasty-intro/?sidebar=asia-1500-1900")["Qing dynasty (1644–1912), an introduction"]
+  - #link("https://smarthistory.org/the-forbidden-city/?sidebar=asia-1000-1500")[The Forbidden City]
+  - #link("https://smarthistory.org/abduction-of-helen-tapestry/?sidebar=asia-1500-1900")["The Abduction of Helen Tapestry" by Lauren Kilroy-Ewbank]
+  - #link("https://smarthistory.org/kim-hongdo-album-of-genre-paintings/")["Kim Hongdo, album of genre paintings"]
+
+  _Watch_:
+  - #link("https://smarthistory.org/wat-phra-kaew-temple-of-the-emerald-buddha/")[Buddha of Medicine Bhaishajyaguru (Yaoshi fo)]
+  - #link("https://youtu.be/D6_0-arfDpQ")[The David Vases]
+  - #link("https://youtu.be/9FAfK6MDA-Q")[Wang Lü, Landscapes of Mount Hua (Huashan)]
+  - #link("https://youtu.be/8xdpvQ8BzPg")[Wang Shimin, Cloud Capped Mountains and Misty Riverside]
   ]
 )
 
