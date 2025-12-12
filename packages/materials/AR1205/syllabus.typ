@@ -179,5 +179,3 @@ Please note that most universities will not accept your course for transfer cred
 
 // Jan 6 2026 - Apr 23 2026
 // last day of classes: Apr 13 2026
-
-#pagebreak()
