@@ -146,7 +146,7 @@ Please note that most universities will not accept your course for transfer cred
 
 #schedule(
   start: start-date,
-  days: class-days,
+  days: (3, 5),
   holidays: holidays,
   events: (
     session-intro,
