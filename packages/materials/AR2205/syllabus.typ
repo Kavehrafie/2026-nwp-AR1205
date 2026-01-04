@@ -8,8 +8,8 @@
 
 // helpers
 #let it = body => text(style: "italic")[#body]
-#let email = link("mailto:krafie@nwpolytech.ca")[krafie\@nwpolytech.ca]
 
+#let email = link("mailto:krafie@nwpolytech.ca")[krafie\@nwpolytech.ca]
 
 
 #show: doc => template(
@@ -19,10 +19,11 @@
   email: email,
   semester: "Winter",
   year: 2026,
+  isDraft: false,
   dept: "Fine Arts",
   logo: "../../../assets/logo.svg",
   officeHours: [Wednesdays 2:30 PM -- 3:30 PM or by appointment],
-  officeLoc: link("https://nwpolytech.zoom.us/xxxx"),
+  officeLoc: link("https://nwpolytech.zoom.us/j/96343781955?pwd=EaAIYpJIvRExwTKpU6zCiJRXCG7CJp.1"),
   doc,
 )
 

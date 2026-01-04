@@ -8,17 +8,19 @@
 
 #let email = link("mailto:krafie@nwpolytech.ca")[krafie\@nwpolytech.ca]
 
+
 #show: doc => template(
   number: [AR1205],
   name: [Introduction to the History of Global Art II],
   instructor: "Kaveh Rafie",
   email: email,
   semester: "Winter",
+  isDraft: false,
   year: 2026,
   dept: "Fine Arts",
   logo: "../../../assets/logo.svg",
   officeHours: [Wednesdays 2:30 PM -- 3:30 PM or by appointment],
-  officeLoc: link("https://nwpolytech.zoom.us/j/96262196001"),
+  officeLoc: link("https://nwpolytech.zoom.us/j/96343781955?pwd=EaAIYpJIvRExwTKpU6zCiJRXCG7CJp.1")[Zoom Link],
   doc,
 )
 
@@ -139,7 +141,10 @@ Please note that most universities will not accept your course for transfer cred
 
 #pagebreak()
 
-= Course Schedule (Tentative)\* 
+= Course Schedule (Tentative)
+#text(size: 0.85em)[
+  (Schedule is subject to change. Any changes will be communicated in advance via myClass announcements.)
+] 
 
 #schedule-table
 
