@@ -35,7 +35,7 @@ No textbook required. Readings will be provided on #underline[Perusall].
 
 = Delivery Mode
 
-This course is delivered synchronously online via Zoom: #link("https://nwpolytech.zoom.us/xxxx")
+This course is delivered synchronously online via Zoom: #link("https://nwpolytech.zoom.us/j/96262196001")
 
 = LEARNING OUTCOMES
 
