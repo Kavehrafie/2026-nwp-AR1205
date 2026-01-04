@@ -1,0 +1,28 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build AR1205 Syllabus",
+      "type": "shell",
+      "command": "mkdir -p outputs && typst compile --root . packages/materials/AR1205/syllabus.typ packages/materials/outputs/AR1205_Syllabus.pdf",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Build AR2205 Syllabus",
+      "type": "shell",
+      "command": "mkdir -p outputs && typst compile --root . packages/materials/AR2205/syllabus.typ packages/materials/outputs/AR2205_Syllabus.pdf",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Build All Syllabi",
+      "dependsOn": ["Build AR1205 Syllabus", "Build AR2205 Syllabus"],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}
