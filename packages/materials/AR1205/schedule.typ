@@ -5,6 +5,8 @@
 #import "../lib/timetable.typ": *
 #import "params.typ": *
 #import "@preview/abbr:0.3.0"
+#import "../spring-calendar.typ": start-date, class-days, holidays
+
 
 #show: abbr.show-rule
 
