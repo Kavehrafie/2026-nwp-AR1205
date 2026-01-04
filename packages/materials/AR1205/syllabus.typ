@@ -18,7 +18,7 @@
   dept: "Fine Arts",
   logo: "../../../assets/logo.svg",
   officeHours: [Wednesdays 2:30 PM -- 3:30 PM or by appointment],
-  officeLoc: link("https://nwpolytech.zoom.us/xxxx"),
+  officeLoc: link("https://nwpolytech.zoom.us/j/96262196001"),
   doc,
 )
 
