@@ -1,9 +1,9 @@
 ---
-# try also 'default' to start simple
 theme: neversink
+template: cover
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://cover.sli.dev
+background: https://cdn.kavehrafie.com/ar1205/frans_post-landscape_brasil.jpg/w_1280
 # some information about your slides (markdown enabled)
 title: Welcome to Slidev
 info: |
