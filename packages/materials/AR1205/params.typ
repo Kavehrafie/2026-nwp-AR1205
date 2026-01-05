@@ -251,9 +251,17 @@
 #let session-african-art = session(
   "African Art since the 16th Century",
   [Art, power, and the impact of colonization.
-  \
-    - Key topics: Benin bronzes, nkisi nkondi, masquerades, colonial encounters.
+  
+  _Read_:
+  // - #link()[] in _African Art at The Met_
+  - #link("https://smarthistory.org/rites-of-passage/")["Rites of passage in Africa" by Christa Clarke]
+  - #link("https://smarthistory.org/masquerade-basics/?tl=masquerade-basics&sidebar=africa-1500-today")["Masquerade basics" by Kristen Laciste]
+  - #link("https://smarthistory.org/african-art-and-the-effects-of-european-contact-and-colonization/")["African art and the effects of European contact and colonization" by Peri Klemm]
+
+  _Watch_:
+  - #link("https://www.youtube.com/watch?v=H9iy5TTALBQ")[Power Figure: Male (Nkisi)]
   ]
+
 )
 
 #let session-pacific-art = session(
@@ -269,6 +277,7 @@
   [Exploration of Aztec and Inca art forms and architectural achievements.
   
   _Read_:
+  - Elizabeth Hill Boone, "Writing in Images," in _Stories in Red and Black: Pictorial Histories of the Aztecs and Mixtecs_
   - #link("https://smarthistory.org/introduction-mexica/")["Introduction to the Aztecs (Mexica)"]
   - #link("https://smarthistory.org/coatlicue/?sidebar=north-america-before-1500")[Coatlicue]
   - #link("https://smarthistory.org/codex-borgia/?sidebar=north-america-before-1500")[Codex Borgia]
