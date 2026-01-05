@@ -24,7 +24,7 @@
   session-african-art,
   session-pacific-art,
   session-aztec-inca,
-  session-north-american-indigenous,
+  session-north-american-indigenous, 
   session-baroque-in-southern-europe,
   session-baroque-in-northern-europe,
   session-rococo,

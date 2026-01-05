@@ -249,11 +249,13 @@
 )
 
 #let session-african-art = session(
-  "African Art since the 16th Century",
+"African Art since after the European Contact",
   [Art, power, and the impact of colonization.
   
   _Read_:
   // - #link()[] in _African Art at The Met_
+  - Suzanne Preston Blier, "Imaging otherness in ivory: African portrayals of the Portuguese ca. 1492" in _Art Bulletin_
+
   - #link("https://smarthistory.org/rites-of-passage/")["Rites of passage in Africa" by Christa Clarke]
   - #link("https://smarthistory.org/masquerade-basics/?tl=masquerade-basics&sidebar=africa-1500-today")["Masquerade basics" by Kristen Laciste]
   - #link("https://smarthistory.org/african-art-and-the-effects-of-european-contact-and-colonization/")["African art and the effects of European contact and colonization" by Peri Klemm]
@@ -268,7 +270,12 @@
   "Art of Pacific Cultures",
   [Arts of Oceania: Polynesia, Micronesia, and Melanesia.
   
-    - Key topics: Navigation charts, tattooing, ritual figures.
+  _Read_:
+  - Adrienne L. Kaeppler, "The Pacific Arts of Polynesia and Micronesia" (an excerpt)
+
+  _Video_:
+  - #link("https://youtu.be/rrJkjEYJLWs")[Navigation Chart, Marshall Islands]
+  - #link("https://youtu.be/EjtHXyRkt1A")[Rapa Nui (Easter Island) Moai]
   ]
 )
 
@@ -294,7 +301,15 @@
 
 #let session-north-american-indigenous = session(
   "North American Indigenous Art",
-  [Study of indigenous art forms from various North American cultures.]
+  [Study of indigenous art forms from various North American cultures.
+  
+  _Read_:
+- Janet Catherine Berlo and Ruth B. Phillips,  "Native North American Art," in _Native North American Art_
+
+  _Video_:
+  - #link("https://youtu.be/ifY8gBIonAc")[Mesa Verde]
+  ]
+
 )
 
 #let session-pre-war = session("Pre-War Modernism", [
