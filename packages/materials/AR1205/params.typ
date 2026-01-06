@@ -109,8 +109,19 @@
 #let session-baroque-in-southern-europe = session(
   "Baroque in Southern Europe",
   [Investigation of Baroque art in Italy and Spain.
-  \
-    - Key artists: Caravaggio, Bernini, Velázquez.
+  
+    _Read_:
+     - #link("https://smarthistory.org/global-baroque-introduction/?tl=global-baroque-introduction&sidebar=europe-1600-1700")["The global Baroque, an introduction" by Carmen Ripollés]
+    - #link("https://smarthistory.org/artemisia-gentileschi-self-portrait-pittura/?tl=artemisia-gentileschi-self-portrait-pittura&sidebar=europe-1600-1700")["Artemisia Gentileschi, Self-Portrait as the Allegory of Painting or La Pittura" by Letha Ch'ien]
+    - #link("https://smarthistory.org/juan-sanchez-de-cotan-quince-melon-and-cucumber/?tl=juan-sanchez-de-cotan-quince-melon-and-cucumber&sidebar=europe-1600-1700")["Juan Sanchez Cotán, Quince, Cabbage, Melon and Cucumber" by Sally Hickson]
+
+    _Video_:
+    - #link("https://youtu.be/EFHPAbHaoqk")[How to recognize Baroque art?]
+    - #link("https://youtu.be/asLQmxK7ExY")[Caravaggio, The Supper at Emmaus]
+    - #link("https://youtu.be/JftEcBnopPI")[Caravaggio, The Conversion of St. Paul (or The Conversion of Saul)]
+    - #link("https://youtu.be/EFsaaK1w2Ao")[Gian Lorenzo Bernini, Baldacchino, Saint Peter’s]
+    - #link("https://youtu.be/_IBntk3Oj24")[Diego Velázquez, Las Meninas]
+    // - Julie Hochstrasser, "Remapping Dutch Art in Global Perspective" in #text(style: "italic")[@CCMEA]
   ]
 )
 
@@ -122,6 +133,9 @@
 
     _Read_:
     - Svetlana Alpers, "The Mapping Impulse in Dutch Art" in _The Arts of Describing: Dutch Art in the Seventeenth Century_
+
+    _Watch_:
+    - #link("https://youtu.be/stMsneN1xw4")[What is genre painting?]
   ]
 )
 
@@ -176,8 +190,9 @@
 #let session-post-impressionism = session(
   "Post-Impressionism",
   [Exploration of Post-Impressionist artists and their diverse styles.
-  \
-    - Key artists: Van Gogh, Gauguin, Cézanne.
+
+  _Read_: 
+  - Carol Mavor, "Gauguin in Black and Blue" in #text(style: "italic")[@CCMEA]
   ]
 )
 
