@@ -24,10 +24,10 @@
   session-african-art,
   session-pacific-art,
   session-aztec-inca,
-  session-north-american-indigenous, 
-  session-baroque-in-southern-europe,
-  session-baroque-in-northern-europe,
-  session-rococo,
+  session-north-american-indigenous,
+  session-baroque-i,
+  session-baroque-ii,
+  session-baroque-iii,
   session-neoclassicism-romanticism,
   session-realism,
   session-impressionism,
@@ -36,8 +36,12 @@
   session-interwar,
   session-post-war,
   session-neo-avant-garde,
-  session-towards-contemporary-art,
+  session-contemporary-art,
   session-final
+)
+
+#let important-dates = (
+  date-note("Artifact I", datetime(year: 2026, month: 2, day: 15), kind: "assignment", body: [HereHEREEEEE]),
 )
 
 #let schedule-table = schedule(
@@ -45,6 +49,7 @@
   days: (3, 5),
   holidays: holidays,
   events: schedule-list,
+  important-dates: important-dates,
 )
 
 #schedule-table

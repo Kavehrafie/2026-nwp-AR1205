@@ -58,11 +58,11 @@ Please consult the Alberta Transfer Guide for more information. You may check th
 = Evaluations
 
 #let evaluations = (
-  ([@eval:participation], 20),
-  ([@eval:weekly-discussion], 15),
+  ([@eval:participation], 18.5),
+  ([@eval:weekly-discussion], 16.5),
   ([@eval:quizzes], 5),
-  ([@eval:exams], 30),
-  ([@eval:annotations], 20) ,
+  ([@eval:exams], 32),
+  ([@eval:annotations], 18) ,
   ([@eval:creative], 10),
 )
 
@@ -108,7 +108,7 @@ Ask one question related to the week's lecture or readings on myClass, and respo
 == Quizzes <eval:quizzes>
 There will be periodic quizzes based on the readings and lectures. These quizzes are designed to assess your understanding of the course material and your active note-taking during lectures.
 
-== Reading Annotations <eval:annotations> 
+== Engaged Reading  <eval:annotations> 
 
 Students are required to complete annotations on assigned readings using Perusall. These annotations will help deepen your understanding of the material and facilitate class discussions.
 
@@ -118,7 +118,7 @@ To receive #underline[full credit], students must engage with the readings by *h
 
 There will be two exams during the semester, each worth 15% of your final grade. The exams will cover material from lectures, readings, and discussions. They will consist of multiple-choice questions, short answers, and essay questions.
 
-== Critical & Creative Exercises <eval:creative>
+== Artifacts <eval:creative>
 
 This component invites students to explore course concepts through a blend of written analysis and creative practice. Assignments are designed to be flexible, allowing for either a short critical essay or a creative project accompanied by a brief reflection.
 

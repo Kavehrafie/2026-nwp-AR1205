@@ -106,14 +106,15 @@
   ]
 )
 
-#let session-baroque-in-southern-europe = session(
-  "Baroque in Southern Europe",
+#let session-baroque-i = session(
+"Baroque from Southern Europe to the Global Stage",
   [Investigation of Baroque art in Italy and Spain.
   
     _Read_:
      - #link("https://smarthistory.org/global-baroque-introduction/?tl=global-baroque-introduction&sidebar=europe-1600-1700")["The global Baroque, an introduction" by Carmen Ripollés]
     - #link("https://smarthistory.org/artemisia-gentileschi-self-portrait-pittura/?tl=artemisia-gentileschi-self-portrait-pittura&sidebar=europe-1600-1700")["Artemisia Gentileschi, Self-Portrait as the Allegory of Painting or La Pittura" by Letha Ch'ien]
     - #link("https://smarthistory.org/juan-sanchez-de-cotan-quince-melon-and-cucumber/?tl=juan-sanchez-de-cotan-quince-melon-and-cucumber&sidebar=europe-1600-1700")["Juan Sanchez Cotán, Quince, Cabbage, Melon and Cucumber" by Sally Hickson]
+    - Gauvin Alexander Bailey,  _Art of Colonial Latin America_
 
     _Video_:
     - #link("https://youtu.be/EFHPAbHaoqk")[How to recognize Baroque art?]
@@ -125,7 +126,7 @@
   ]
 )
 
-#let session-baroque-in-northern-europe = session(
+#let session-baroque-ii = session(
   "Baroque in Northern Europe",
   [Study of Baroque art in the Netherlands and Flanders.
 
@@ -139,7 +140,7 @@
   ]
 )
 
-#let session-rococo = session(
+#let session-baroque-iii = session(
   "Rococo",
   [From Louis XV to Louis XVI: Exploration of the Rococo style and its characteristics.
   \
@@ -166,8 +167,8 @@
 #let session-realism = session(
   "Realism",
   [Analysis of the Realist movement and its focus on everyday life.
-  \
-    - Key artists: Courbet, Millet.
+  
+    - Linda Nochlin, _Realism_ (excerpt)
   ]
 )
 
@@ -343,8 +344,19 @@
       Overview of Abstract Expressionism, and other post-war art movements. 
     ])
 
-#let session-neo-avant-garde = session("Neo-Avant-Garde Movements", [
-      Study of Pop Art, Minimalism, and Conceptual Art.
+#let session-neo-avant-garde = session(
+  "Neo-Avant-Garde Movements", [ 
+    Study of Pop Art, Minimalism, and Conceptual Art.
+
+    _Read_:
+    - Lucy R. Lippard, "Introduction" in _Pop Art_
+    
+    _Video_:
+    - #link("https://youtu.be/9bWJt2hjBH0")[Jasper Johns, Flag]
+    - #link("https://youtu.be/tvpp2lAD9iY")[Robert Rauschenberg, Bed]
+    - #link("https://youtu.be/lXfzq27fGvU")[Andy Warhol, Gold Marilyn Monroe]
+    - #link("https://youtu.be/pgw0-nZdW94")[The case for Andy Warhol]
+    - #link("https://youtu.be/N-mt2tiRJ7U")[Claes Oldenburg, Floor Cake]
     ])
 
 #let session-contemporary-social-activism = session("From feminist art to social activism", [
@@ -367,7 +379,7 @@
       Review of key concepts and preparation for final assessments.
     ])
 
-#let session-towards-contemporary-art = session("Towards Contemporary Art", [
+#let session-contemporary-art = session("Towards Contemporary Art", [
       Exploration of movements leading to contemporary art practices.
     ])
 

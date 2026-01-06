@@ -67,7 +67,7 @@ Please consult the Alberta Transfer Guide for more information. You may check th
 
 #let evaluations = (
   ([@eval:participation], 20),
-  ([@eval:weekly-discussion], 15),
+  ([@eval:discussion], 15),
   ([@eval:quizzes], 5),
   ([@eval:artist-event-report], 10),
   ([@eval:presentation], 10),
@@ -105,7 +105,7 @@ Sessions will be recorded for educational purposes. By participating, you consen
   If social anxiety limits your participation, email #email to discuss alternatives.
 ]
 
-== Weekly Discussion <eval:weekly-discussion>
+== Discussion Board <eval:discussion>
 Ask one question related to the week's lecture or weekly readings on myClass, and respond to at least two of your classmates' questions. 
 
 - To receive #underline[full credit], your question should be thoughtful and relevant to the week's material. 

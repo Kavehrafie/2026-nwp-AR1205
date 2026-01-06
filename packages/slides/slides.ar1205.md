@@ -3,7 +3,7 @@ theme: neversink
 template: cover
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://cdn.kavehrafie.com/ar1205/frans_post-landscape_brasil.jpg/w_1280
+background: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg/2560px-Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg
 # some information about your slides (markdown enabled)
 title: Welcome to Slidev
 info: |

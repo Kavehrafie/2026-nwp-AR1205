@@ -7,6 +7,15 @@
 // Holiday range: multiple consecutive days off
 #let holiday-range(title, start, end) = (type: "holiday-range", title: title, start: start, end: end)
 
+// Date note: mark a specific date with an exam, assignment, or other event
+#let date-note(title, date, kind: "event", body: none) = (
+  type: "date-note", 
+  title: title, 
+  date: date, 
+  kind: kind,
+  body: body
+)
+
 // Build a date → holiday-name lookup map
 #let build-holiday-map(holidays) = {
   let map = (:)
@@ -19,6 +28,17 @@
         map.insert(d.display("[year]-[month]-[day]"), h.title)
         d = d + duration(days: 1)
       }
+    }
+  }
+  map
+}
+
+// Build a date → special-event lookup map (date notes)
+#let build-date-note-map(events) = {
+  let map = (:)
+  for e in events {
+    if e.type == "date-note" {
+      map.insert(e.date.display("[year]-[month]-[day]"), e)
     }
   }
   map
@@ -39,6 +59,7 @@
   days: (1, 3),
   holidays: (),
   events: (),
+  important-dates: (),
   render-week: week => [== Week #week],
   render-session: (date, session, week) => [
     === #date.display("[weekday repr:short], [month repr:short] [day]"): *#session.title* \
@@ -47,8 +68,28 @@
   render-holiday: (date, name) => [
     === #date.display("[weekday repr:short], [month repr:short] [day]") -- *NO CLASS: #name*
   ],
+  render-date-note: (date, note, week) => {
+    let (prefix, color) = if note.kind == "exam" {
+      ("🎓 EXAM", rgb("#fef3c7"))
+    } else if note.kind == "assignment" {
+      ("📝 DUE", rgb("#dbeafe"))
+    } else {
+      ("📌 " + upper(note.kind), rgb("#f3f4f6"))
+    }
+    block(
+      fill: color,
+      inset: 8pt,
+      radius: 4pt,
+      width: 100%,
+      [
+        === #date.display("[weekday repr:short], [month repr:short] [day]"): *#prefix: #note.title* \
+        #if note.body != none { note.body }
+      ]
+    )
+  },
 ) = {
   let holiday-map = build-holiday-map(holidays)
+  let date-note-map = build-date-note-map(important-dates)
   
   // Find first class day
   let current = start
@@ -58,8 +99,14 @@
 
   let week = 0
   let last-week = 0
+  let prev-session-date = start
 
   for event in events {
+    // Handle date-notes: check all dates between previous session and current for date-notes
+    if event.type == "date-note" {
+      continue
+    }
+
     // Check if current date is a holiday (skip holidays first)
     let date-str = current.display("[year]-[month]-[day]")
     while date-str in holiday-map {
@@ -85,8 +132,29 @@
       last-week = week
     }
 
-    // Render the session
-    render-session(current, event, week)
+    // Check for date-notes between prev-session-date and current
+    let check-date = prev-session-date
+    while check-date <= current {
+      let check-str = check-date.display("[year]-[month]-[day]")
+      if check-str in date-note-map {
+        let note = date-note-map.at(check-str)
+        let note-days = (check-date - start).days()
+        let note-week = int((note-days + start.weekday() - 1) / 7) + 1
+        render-date-note(check-date, note, note-week)
+      }
+      check-date = check-date + duration(days: 1)
+    }
+
+    // Check if current date has a date-note (replaces session)
+    date-str = current.display("[year]-[month]-[day]")
+    if date-str in date-note-map {
+      render-date-note(current, date-note-map.at(date-str), week)
+    } else {
+      // Render the regular session
+      render-session(current, event, week)
+    }
+    
+    prev-session-date = current
     current = next-class-day(current, days)
   }
 }
