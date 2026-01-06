@@ -114,8 +114,8 @@
     high-level of professionalism across all course-related communications. Please
     conduct your communications as you would any other professional experience.
     Treat your colleagues with respect!
-    • Join the lecture on time and remain for the duration of class and related activities.
-    • Students can expect to put in a minimum of 4 hours per week on out-of-
+    Join the lecture on time and remain for the duration of class and related activities.
+    Students can expect to put in a minimum of 4 hours per week on out-of-
     class work. Assignments will be expected on the date required.
 
     = Statement on Academic Misconduct <misconduct>

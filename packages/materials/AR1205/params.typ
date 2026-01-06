@@ -1,4 +1,4 @@
-#import "../lib/timetable.typ": session
+#import "../lib/timetable.typ": session, date-note
 
 #let abbreviations = (
   ("CCMEA", "Cultural Contact and the Making of European Art since the Age of Exploration"),
@@ -382,6 +382,18 @@
 #let session-contemporary-art = session("Towards Contemporary Art", [
       Exploration of movements leading to contemporary art practices.
     ])
+
+
+#let important-dates = (
+  date-note("Artifact I", datetime(year: 2026, month: 1, day: 19), kind: "assignment", body: [*Linear Perspective in Action* is due.]),
+  date-note("Artifact II", datetime(year: 2026, month: 2, day: 16), kind: "assignment", body: [TBD]),
+  date-note("Artifact III", datetime(year: 2026, month: 3, day: 16), kind: "assignment", body: [TBD]),
+  date-note("Artifact IV", datetime(year: 2026, month: 4, day: 16), kind: "assignment", body: [TBD]),
+
+  // Exams
+  date-note("Midterm Exam", datetime(year: 2026, month: 2, day: 23), kind: "exam", body: [Midterm Exam covering material from sessions 1-10.]),
+  date-note("Final Exam", datetime(year: 2026, month: 5, day: 4), kind: "exam", body: [Final Exam covering material from sessions 11-20.])
+)
 
 // Notable links and artists
 // - https://smarthistory.org/lawrence-paul-yuxweluptun-leaving-reservation-ottawa/

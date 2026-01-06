@@ -40,9 +40,6 @@
   session-final
 )
 
-#let important-dates = (
-  date-note("Artifact I", datetime(year: 2026, month: 2, day: 15), kind: "assignment", body: [HereHEREEEEE]),
-)
 
 #let schedule-table = schedule(
   start: start-date,

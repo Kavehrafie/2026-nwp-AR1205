@@ -70,7 +70,7 @@
   ],
   render-date-note: (date, note, week) => {
     let (prefix, color) = if note.kind == "exam" {
-      ("🎓 EXAM", rgb("#fef3c7"))
+      ("🎓 EXAM", rgb("#fed6c7"))
     } else if note.kind == "assignment" {
       ("📝 DUE", rgb("#dbeafe"))
     } else {
@@ -156,5 +156,14 @@
     
     prev-session-date = current
     current = next-class-day(current, days)
+  }
+
+  // Render any remaining date-notes after the last session (without week headings)
+  for note in important-dates {
+    if note.date > prev-session-date {
+      let note-days = (note.date - start).days()
+      week = int((note-days + start.weekday() - 1) / 7) + 1
+      render-date-note(note.date, note, week)
+    }
   }
 }
