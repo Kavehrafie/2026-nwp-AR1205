@@ -12,7 +12,7 @@
 #let session-intro = session(
   "Introduction & Course Overview",
   [
-    Overview of the course structure, objectives, and assessment methods. The 15th-century context of the Age of Exploration will be introduced.
+    Overview of the course structure, objectives, and assessment methods.
 
     _Read_:
     // - #link("https://smarthistory.org/introduction-to-art-historical-analysis/?sidebar=the-basics-of-art-history")["Introduction to understanding art" by Robert Glass] 

@@ -16,7 +16,7 @@
   Introduction to the course and expectations. A walkthrough of the syllabus and assessment methods. A short introduction to writing about art.
 
   _Read_:
-  - Sylvan Barnet, #text(style: "italic")[@ASGWA], 1--34
+  - Sylvan Barnet, #text(style: "italic")[@ASGWA], 1--36
 ]
 
 #let first_half_twenty_art = session("The First Half of 20th Century Art")[
