@@ -89,3 +89,14 @@ color: black
 ---
 
 ![Pieter Bruegel the Elder, _Landscape with the Fall of Icarus_, the 16th century, oil on canvas](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pieter_Bruegel_the_Elder_-_Landscape_with_the_Fall_of_Icarus_-_Brussels%2C_Royal_Museums_of_Fine_Arts_of_Belgium_-_Google_Arts_%26_Culture.jpg/2560px-Pieter_Bruegel_the_Elder_-_Landscape_with_the_Fall_of_Icarus_-_Brussels%2C_Royal_Museums_of_Fine_Arts_of_Belgium_-_Google_Arts_%26_Culture.jpg)
+
+---
+
+### What Is Style?
+
+<!-- 
+meanings of style:
+1. the particular way in which something is done
+2.  a particular design of something, especially clothes
+
+ -->
