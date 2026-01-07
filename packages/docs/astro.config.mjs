@@ -37,4 +37,16 @@ export default defineConfig({
 			],
 		}),
 	],
+	vite: {
+		build: {
+			rollupOptions: {
+				external: [],
+			},
+		},
+		server: {
+			fs: {
+				strict: false,
+			},
+		},
+	},
 });
