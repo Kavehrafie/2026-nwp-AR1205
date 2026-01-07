@@ -51,6 +51,54 @@ jobs:
           cp -r packages/slides/dist/ar1205/* packages/docs/dist/ar1205/slides/
           cp -r packages/slides/dist/ar2205/* packages/docs/dist/ar2205/slides/
           
+          # Replace Astro's 404.html with a custom one that handles slide routes
+          cat > packages/docs/dist/404.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>404 - Page Not Found</title>
+            <script>
+              // Check if this is a slide route and load the Slidev app directly
+              (function() {
+                var path = window.location.pathname;
+                var slidesMatch = path.match(/^\/(ar\d{4})\/slides\/(.+)$/);
+                if (slidesMatch) {
+                  var courseCode = slidesMatch[1];
+                  var slidePath = slidesMatch[2];
+                  // Redirect to the slides index with the slide as hash
+                  window.location.replace('/' + courseCode + '/slides/#/' + slidePath);
+                }
+              })();
+            </script>
+            <style>
+              body {
+                font-family: system-ui, -apple-system, sans-serif;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                min-height: 100vh;
+                margin: 0;
+                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                color: white;
+                text-align: center;
+                padding: 2rem;
+              }
+              h1 { font-size: 6rem; margin: 0; font-weight: 800; }
+              p { font-size: 1.5rem; margin: 1rem 0; }
+              a { color: white; text-decoration: underline; font-weight: 600; }
+            </style>
+          </head>
+          <body>
+            <h1>404</h1>
+            <p>Page not found</p>
+            <a href="/">Return to home</a>
+          </body>
+          </html>
+          EOF
+          
           # Create .nojekyll to prevent GitHub Pages from ignoring files starting with _
           touch packages/docs/dist/.nojekyll
 
