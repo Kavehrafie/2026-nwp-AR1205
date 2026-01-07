@@ -13,8 +13,8 @@ const colorscheme = computed(() => {
 </script>
 
 <template>
-  <div class="slidev-layout center slidecolor" :class="colorscheme">
-    <div class="my-auto">
+  <div class="slidev-layout center slidecolor p-2" :class="colorscheme">
+    <div class="my-auto h-110">
       <slot />
     </div>
   </div>
@@ -85,9 +85,4 @@ const colorscheme = computed(() => {
   opacity: 1;
 }
 
-.slidev-layout.center img {
-  max-height: calc(100vh - 16ch);
-  object-fit: contain;
-  width: auto;
-}
 </style>

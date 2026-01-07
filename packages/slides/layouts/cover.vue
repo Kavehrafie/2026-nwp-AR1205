@@ -111,6 +111,7 @@ const bgImageStyle = computed(() => {
   opacity: 1;
 }
 
+
 /* this is specific to this instance */
 .slidev-layout.cover h1,
 .slidev-layout.cover h2 {

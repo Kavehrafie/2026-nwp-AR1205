@@ -114,6 +114,33 @@ meanings of style:
  -->
 
 ---
-layout: two-cols
+color: black
 ---
 
+<div flex gap-2 h-110>
+
+![Fan Kuan, _Travelers by Streams and Mountains_, ink on silk hanging scroll, c. 1000, 206.3 x 103.3 cm](https://smarthistory.org/wp-content/uploads/2023/11/K2A000826N000000000PAA.png)
+
+
+
+
+![Aaron Douglas, _Aspiration_, 1936, oil on canvas ](https://res.cloudinary.com/image-solar/image/upload/v1767807407/2026nwp-ar1205/aaron_douglas-aspiration-1936-trivium-art-history-1_lukmln.jpg)
+
+</div>
+
+<!-- 
+
+## Fan Kuan, Travelers by Streams and Mountains
+
+Daoist mountain man, hermit, rustic, wine-lover—Fan Kuan has the reputation of having been truly unconventional. We know very little about this great artist, yet he painted the most majestic landscape painting of the early Song period. Everything about Travelers by Streams and Mountains, which is possibly the only surviving work by Fan Kuan, is an orderly statement reflecting the artist’s worldview.
+
+Bounded by mountain ranges and bisected by two great rivers—the Yellow and the Yangtze—China’s natural landscape has played an important role in the shaping of the Chinese mind and character. From very early times, the Chinese viewed mountains as sacred and imagined them as the abode of immortals. The term for landscape painting (shanshui hua) in Chinese is translated as “mountain water painting.”
+
+### Daoism and Nature
+
+Daoist mountain man, hermit, rustic, wine-lover—Fan Kuan has the reputation of having been truly unconventional. We know very little about this great artist, yet he painted the most majestic landscape painting of the early Song period. Everything about Travelers by Streams and Mountains, which is possibly the only surviving work by Fan Kuan, is an orderly statement reflecting the artist’s worldview.
+
+
+
+
+ -->
