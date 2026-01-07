@@ -36,14 +36,10 @@ jobs:
         run: pnpm install --no-frozen-lockfile
 
       - name: Build Docs (Astro)
-        run: |
-          cd packages/docs
-          pnpm build
+        run: pnpm --filter docs build
 
       - name: Build Slides (Slidev)
-        run: |
-          cd packages/slides
-          pnpm build
+        run: pnpm --filter slides build
 
       - name: Merge Builds
         run: |
