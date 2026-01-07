@@ -90,21 +90,10 @@
     - #link("https://youtu.be/94xKRkCHlv0")[Leonardo, The Virgin of the Rocks]
     - #link("https://youtu.be/XCg7o4onjxs")[Leonardo, Last Supper]
     - #link("https://youtu.be/B06PK4yZwvY")[Leonardo, Mona Lisa]
+    - #link("https://youtu.be/QdlP8ai8trw")[Michelangelo, David]
     - #link("https://youtu.be/R5UK0dEFSoM")[Saint Peter’s Basilica]
+    - #link("https://youtu.be/QXIXA4_5ehw")[Donato Bramante, Tempietto, Rome]
 
-  ]
-)
-
-#let session-new-world = session(
-  "Art in Encounters: The Global Baroque",
-  [
-    The "New World" after contact: Hybridity, tequitqui, and the global baroque.
-
-    _Read_:
-    - Claire Farago, "On the Peripatetic Life of Objects in Era of Globalization" in #text(style: "italic")[@CCMEA]
-    - #link("https://smarthistory.org/featherworks/")["Featherworks: The Mass of St. Gregory" by Lauren Kilroy-Ewbank]
-    - #link("https://smarthistory.org/medici-americas/?sidebar=europe-1500-1600")["The Medici collect the Americas" by Lauren Kilroy-Ewbank]
-    - #link("https://smarthistory.org/cabrera-portrait-of-sor-juana-ines-de-la-cruz/?tl=cabrera-portrait-of-sor-juana-ines-de-la-cruz&sidebar=north-america-1500-1800")[Miguel Cabrera, Portrait of Sor Juana Inés de la Cruz]
   ]
 )
 
@@ -129,6 +118,24 @@
     - #link("https://youtu.be/N09QNm3XKW4")[El Greco, The Burial of the Count of Orgaz]
   ]
 )
+
+#let session-new-world = session(
+  "Art in Encounters: The Global Baroque",
+  [
+    The "New World" after contact: Hybridity, tequitqui, and the global baroque.
+
+    _Read_:
+    - TBA
+    // - Claire Farago, "On the Peripatetic Life of Objects in Era of Globalization" in #text(style: "italic")[@CCMEA]
+    // - #link("https://smarthistory.org/featherworks/")["Featherworks: The Mass of St. Gregory" by Lauren Kilroy-Ewbank]
+    // - #link("https://smarthistory.org/medici-americas/?sidebar=europe-1500-1600")["The Medici collect the Americas" by Lauren Kilroy-Ewbank]
+    // - #link("https://smarthistory.org/cabrera-portrait-of-sor-juana-ines-de-la-cruz/?tl=cabrera-portrait-of-sor-juana-ines-de-la-cruz&sidebar=north-america-1500-1800")[Miguel Cabrera, Portrait of Sor Juana Inés de la Cruz]
+    
+    _Watch_:
+    - TBA
+  ]
+)
+
 
 #let session-baroque-i = session(
   "Baroque and Counter-Reformation",
@@ -186,24 +193,17 @@
     _Key artists_: Watteau, Fragonard, Boucher.
   
     _Read_:
-    - TBD
+    - TBA
   
     _Watch_:
-    - #link("https://youtu.be/8ZlH2JswO3Q")[Antoine Watteau, Pilgrimage to Cythera]
-    - #link("https://youtu.be/lnJRkY0mZh4")[François Boucher, Madame de Pompadour]
-    - #link("https://youtu.be/bE4BBy2lczM")[Jean-Honoré Fragonard, The Swing]
+    - TBA
+    // - #link("https://youtu.be/8ZlH2JswO3Q")[Antoine Watteau, Pilgrimage to Cythera]
+    // - #link("https://youtu.be/lnJRkY0mZh4")[François Boucher, Madame de Pompadour]
+    // - #link("https://youtu.be/bE4BBy2lczM")[Jean-Honoré Fragonard, The Swing]
   
   ]
 )
 
-#let session-enlightenment-french-revolution = session(
-  "Art and the French Revolution",
-  [
-    Examination of art during the French Revolution and its aftermath.
-
-    _Key artists_: David, Gros.
-  ]
-)
 
 #let session-neoclassicism-romanticism = session(
   "Neoclassicism and Romanticism",
@@ -211,6 +211,12 @@
     Study of Neoclassical and Romantic art movements.
 
     _Key artists_: Ingres, Delacroix, Goya.
+
+    _Read_:
+    - TBA
+
+    _Watch_:
+    - TBA
   ]
 )
 
@@ -219,7 +225,12 @@
   [
     Analysis of the Realist movement and its focus on everyday life.
   
-    - Linda Nochlin, _Realism_ (excerpt)
+    _Read_:
+    - TBA
+    // - Linda Nochlin, _Realism_ (excerpt)
+
+    _Watch_:
+    - TBA
   ]
 )
 
@@ -231,12 +242,14 @@
     _Key figures_: Daguerre, Talbot, Monet, Renoir, Degas.
 
     _Read_:
-    - #link("https://smarthistory.org/early-photography-niepce-talbot-and-muybridge/")["Early Photography" by Rebecca Jeffrey Easby]
-    - #link("https://smarthistory.org/a-beginners-guide-to-impressionism/")["A beginner's guide to Impressionism"]
+    - TBA
+    // - #link("https://smarthistory.org/early-photography-niepce-talbot-and-muybridge/")["Early Photography" by Rebecca Jeffrey Easby]
+    // - #link("https://smarthistory.org/a-beginners-guide-to-impressionism/")["A beginner's guide to Impressionism"]
     
     _Watch_:
-    - #link("https://youtu.be/Zn4q3G65x8c")[Daguerre, The Artist's Studio]
-    - #link("https://youtu.be/rTHb8Qf5bKk")[Monet, Rouen Cathedral Series]
+    - TBA
+    // - #link("https://youtu.be/Zn4q3G65x8c")[Daguerre, The Artist's Studio]
+    // - #link("https://youtu.be/rTHb8Qf5bKk")[Monet, Rouen Cathedral Series]
   ]
 )
 
@@ -246,7 +259,11 @@
     Exploration of Post-Impressionist artists and their diverse styles.
 
     _Read_:
-    - Carol Mavor, "Gauguin in Black and Blue" in #text(style: "italic")[@CCMEA]
+    - TBA
+    // - Carol Mavor, "Gauguin in Black and Blue" in #text(style: "italic")[@CCMEA]
+
+    _Watch_:
+    - TBA
   ]
 )
 
@@ -257,15 +274,19 @@
     Study of South Asian art from the 14th century.
 
     _Read_:
-    - #link("https://smarthistory.org/the-qutb-complex-and-early-sultanate-architecture/?sidebar=asia-1000-1500")["The Qutb complex and early Sultanate architecture" by Arathi Menon]
-    - #link("https://smarthistory.org/art-and-architecture-of-vijayanagara-empire/?sidebar=asia-1000-1500")["Art and architecture of the Vijayanagara empire" by Gita V. Pai]
-    - #link("https://smarthistory.org/indo-portuguese-ivory-statuettes/?sidebar=asia-1500-1900")["Christian art in India: Indo-Portuguese ivory statuettes" by Marsha G. Olson]
-    - #link("https://smarthistory.org/meenakshi-madurai/?sidebar=asia-1500-1900")["Meenakshi Temple at Madurai" by Edward Fosmire]
-    - #link("https://smarthistory.org/akbarnama/?sidebar=asia-1500-1900")["Illustration from the Akbarnama" by Katrina Klaasmeyer]
-    - #link("https://smarthistory.org/the-taj-mahal/?sidebar=asia-1500-1900")["The Taj Mahal" by Roshna Kapadia]
-    - #link("https://smarthistory.org/wat-phra-kaew-temple-of-the-emerald-buddha/")[
-      "Wat Phra Kaew (Temple of the Emerald Buddha)" by Melody Rod-ari
-    ]
+    - TBA
+    // - #link("https://smarthistory.org/the-qutb-complex-and-early-sultanate-architecture/?sidebar=asia-1000-1500")["The Qutb complex and early Sultanate architecture" by Arathi Menon]
+    // - #link("https://smarthistory.org/art-and-architecture-of-vijayanagara-empire/?sidebar=asia-1000-1500")["Art and architecture of the Vijayanagara empire" by Gita V. Pai]
+    // - #link("https://smarthistory.org/indo-portuguese-ivory-statuettes/?sidebar=asia-1500-1900")["Christian art in India: Indo-Portuguese ivory statuettes" by Marsha G. Olson]
+    // - #link("https://smarthistory.org/meenakshi-madurai/?sidebar=asia-1500-1900")["Meenakshi Temple at Madurai" by Edward Fosmire]
+    // - #link("https://smarthistory.org/akbarnama/?sidebar=asia-1500-1900")["Illustration from the Akbarnama" by Katrina Klaasmeyer]
+    // - #link("https://smarthistory.org/the-taj-mahal/?sidebar=asia-1500-1900")["The Taj Mahal" by Roshna Kapadia]
+    // - #link("https://smarthistory.org/wat-phra-kaew-temple-of-the-emerald-buddha/")[
+    //   "Wat Phra Kaew (Temple of the Emerald Buddha)" by Melody Rod-ari
+    // ]
+
+    _Watch_:
+    - TBA
   ]
 )
 
@@ -277,7 +298,7 @@
 )
 
 #let session-chinese-art = session(
-  "Chinese Art from 1279",
+  "Chinese Art from the late Yuan through the Qing Dynasty",
   [
     An overview of Chinese art of the Yuan, Ming, and Qing Dynasties.
 
@@ -308,17 +329,19 @@
     _Key topics_: Zen gardens, tea ceremony, Ukiyo-e prints.
 
   _Read_:
-  - From "Japonisme: Cultural Crossings between Japan and the West"
-  - #link("https://smarthistory.org/ryoanji-peaceful-dragon-temple/?sidebar=asia-1000-1500")["Ryōanji (Peaceful Dragon Temple)" by Yoonjung Seo]
-  - #link("https://smarthistory.org/edo-period/?sidebar=asia-1500-1900")["Edo period, an introduction" by Sonia Coman]
-  - #link("https://smarthistory.org/francis-xavier-christianity-japan/?sidebar=asia-1500-1900")["A portrait of St. Francis Xavier and Christianity in Japan" by Rachel Miller]
-  - #link("https://smarthistory.org/different-places-japanese-porcelain-english-gilt-bronze-mounts/?sidebar=asia-1500-1900")["Different places: Japanese porcelain with English gilt-bronze mounts" by Jeffrey Weaver]
-  - #link("https://smarthistory.org/kabuki-actor-prints/?sidebar=asia-1500-1900")["Kabuki actor prints"]
-  - #link("https://smarthistory.org/hokusai-under-the-wave-off-kanagawa-the-great-wave/?sidebar=asia-1500-1900")["Katsushika Hokusai, Under the Wave off Kanagawa (The Great Wave)" by Leila Anne Harris]
+  - TBA
+  // - From "Japonisme: Cultural Crossings between Japan and the West"
+  // - #link("https://smarthistory.org/ryoanji-peaceful-dragon-temple/?sidebar=asia-1000-1500")["Ryōanji (Peaceful Dragon Temple)" by Yoonjung Seo]
+  // - #link("https://smarthistory.org/edo-period/?sidebar=asia-1500-1900")["Edo period, an introduction" by Sonia Coman]
+  // - #link("https://smarthistory.org/francis-xavier-christianity-japan/?sidebar=asia-1500-1900")["A portrait of St. Francis Xavier and Christianity in Japan" by Rachel Miller]
+  // - #link("https://smarthistory.org/different-places-japanese-porcelain-english-gilt-bronze-mounts/?sidebar=asia-1500-1900")["Different places: Japanese porcelain with English gilt-bronze mounts" by Jeffrey Weaver]
+  // - #link("https://smarthistory.org/kabuki-actor-prints/?sidebar=asia-1500-1900")["Kabuki actor prints"]
+  // - #link("https://smarthistory.org/hokusai-under-the-wave-off-kanagawa-the-great-wave/?sidebar=asia-1500-1900")["Katsushika Hokusai, Under the Wave off Kanagawa (The Great Wave)" by Leila Anne Harris]
 
   _Watch_:
-  - #link("https://youtu.be/vwoK8-y-5_U")[Bamboo in the Four Seasons: painting and poetry in Japan]
-  - #link("https://youtu.be/2ft6OfcbIfk")["Different places: Japanese porcelain with English gilt-bronze mounts" by Jeffrey Weaver]
+  - TBA
+  // - #link("https://youtu.be/vwoK8-y-5_U")[Bamboo in the Four Seasons: painting and poetry in Japan]
+  // - #link("https://youtu.be/2ft6OfcbIfk")["Different places: Japanese porcelain with English gilt-bronze mounts" by Jeffrey Weaver]
   ]
 )
 
@@ -329,13 +352,14 @@
 
     _Read_:
     // - #link()[] in _African Art at The Met_
-    - Suzanne Preston Blier, "Imaging otherness in ivory: African portrayals of the Portuguese ca. 1492" in _Art Bulletin_
-    - #link("https://smarthistory.org/rites-of-passage/")["Rites of passage in Africa" by Christa Clarke]
-  - #link("https://smarthistory.org/masquerade-basics/?tl=masquerade-basics&sidebar=africa-1500-today")["Masquerade basics" by Kristen Laciste]
-  - #link("https://smarthistory.org/african-art-and-the-effects-of-european-contact-and-colonization/")["African art and the effects of European contact and colonization" by Peri Klemm]
-
-    _Watch_:
-    - #link("https://www.youtube.com/watch?v=H9iy5TTALBQ")[Power Figure: Male (Nkisi)]
+  //   - Suzanne Preston Blier, "Imaging otherness in ivory: African portrayals of the Portuguese ca. 1492" in _Art Bulletin_
+  //   - #link("https://smarthistory.org/rites-of-passage/")["Rites of passage in Africa" by Christa Clarke]
+  // - #link("https://smarthistory.org/masquerade-basics/?tl=masquerade-basics&sidebar=africa-1500-today")["Masquerade basics" by Kristen Laciste]
+  // - #link("https://smarthistory.org/african-art-and-the-effects-of-european-contact-and-colonization/")["African art and the effects of European contact and colonization" by Peri Klemm]
+  - TBA
+  _Watch_:
+  // - #link("https://www.youtube.com/watch?v=H9iy5TTALBQ")[Power Figure: Male (Nkisi)]
+  - TBA
   ]
 )
 
@@ -345,18 +369,20 @@
     Arts of Oceania: Polynesia, Micronesia, and Melanesia.
   
   _Read_:
-  - Adrienne L. Kaeppler, "The Pacific Arts of Polynesia and Micronesia" (an excerpt)
+  - TBA
+  // - Adrienne L. Kaeppler, "The Pacific Arts of Polynesia and Micronesia" (an excerpt)
 
   _Watch_:
-  - #link("https://youtu.be/rrJkjEYJLWs")[Navigation Chart, Marshall Islands]
-  - #link("https://youtu.be/EjtHXyRkt1A")[Rapa Nui (Easter Island) Moai]
+  - TBA
+  // - #link("https://youtu.be/rrJkjEYJLWs")[Navigation Chart, Marshall Islands]
+  // - #link("https://youtu.be/EjtHXyRkt1A")[Rapa Nui (Easter Island) Moai]
   ]
 )
 
 #let session-pre-colombian-art = session(
-  "Aztec and Inca Art and Architecture",
+  "Pre-Columbian Art and Architecture",
   [
-    Exploration of Aztec and Inca art forms and architectural achievements.
+    Exploration of Aztec and Inca art and architectural achievements.
   
   _Read_:
   - Elizabeth Hill Boone, "Writing in Images," in _Stories in Red and Black: Pictorial Histories of the Aztecs and Mixtecs_
@@ -380,10 +406,12 @@
     Study of indigenous art forms from various North American cultures.
 
     _Read_:
-    - Janet Catherine Berlo and Ruth B. Phillips, "Native North American Art" in _Native North American Art_
+    - TBA
+    // - Janet Catherine Berlo and Ruth B. Phillips, "Native North American Art" in _Native North American Art_
 
     _Watch_:
-    - #link("https://youtu.be/ifY8gBIonAc")[Mesa Verde]
+    - TBA
+    // - #link("https://youtu.be/ifY8gBIonAc")[Mesa Verde]
   ]
 )
 
@@ -391,6 +419,12 @@
   "Pre-War Modernism",
   [
     Overview of early 20th-century modernist movements such as Fauvism, Cubism, and Expressionism.
+
+    _Read_:
+    - TBA
+
+    _Watch_:
+    - TBA
   ]
 )  
 
@@ -405,6 +439,12 @@
   "Interwar Backlash",
   [
     Examination of modernist movements between the World Wars.
+
+    _Read_:
+    - TBA
+
+    _Watch_:
+    - TBA
   ]
 )
 
@@ -412,6 +452,12 @@
   "Post-War Art Movements",
   [
     Overview of Abstract Expressionism and other post-war art movements.
+
+    _Read_:
+    - TBA
+
+    _Watch_:
+    - TBA
   ]
 )
 
@@ -467,7 +513,7 @@
 )
 
 #let session-contemporary-moment = session(
-  "Towards Contemporary Art",
+  "Art after the Long Sixties",
   [
     Exploration of movements leading to contemporary art practices.
   ]
