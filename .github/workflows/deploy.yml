@@ -50,6 +50,9 @@ jobs:
           # Copy slides build to docs dist
           cp -r packages/slides/dist/ar1205/* packages/docs/dist/ar1205/slides/
           cp -r packages/slides/dist/ar2205/* packages/docs/dist/ar2205/slides/
+          
+          # Create .nojekyll to prevent GitHub Pages from ignoring files starting with _
+          touch packages/docs/dist/.nojekyll
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

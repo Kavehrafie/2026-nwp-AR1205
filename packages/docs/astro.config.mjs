@@ -6,6 +6,7 @@ import starlightSidebarTopics from 'starlight-sidebar-topics';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://nwp2026.kavehrafie.com',
+	trailingSlash: 'ignore',
 	integrations: [
 		starlight({
 			title: 'NWP 2026',
