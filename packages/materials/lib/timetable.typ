@@ -38,7 +38,12 @@
   let map = (:)
   for e in events {
     if e.type == "date-note" {
-      map.insert(e.date.display("[year]-[month]-[day]"), e)
+      let key = e.date.display("[year]-[month]-[day]")
+      if key in map {
+        map.at(key).push(e)
+      } else {
+        map.insert(key, (e,))
+      }
     }
   }
   map
@@ -70,9 +75,9 @@
   ],
   render-date-note: (date, note, week) => {
     let (prefix, color) = if note.kind == "exam" {
-      ("🎓 EXAM", rgb("#fed6c7"))
+      ("📝 ", rgb("#fed6c7"))
     } else if note.kind == "assignment" {
-      ("📝 DUE", rgb("#dbeafe"))
+      ("", rgb("#dbeafe"))
     } else {
       ("📌 " + upper(note.kind), rgb("#f3f4f6"))
     }
@@ -82,7 +87,7 @@
       radius: 4pt,
       width: 100%,
       [
-        === #date.display("[weekday repr:short], [month repr:short] [day]"): *#prefix: #note.title* \
+        === #date.display("[weekday repr:short], [month repr:short] [day]"): *#note.title* \
         #if note.body != none { note.body }
       ]
     )
@@ -132,29 +137,34 @@
       last-week = week
     }
 
-    // Check for date-notes between prev-session-date and current
+    // Check for date-notes between prev-session-date and current (strictly less than current)
     let check-date = prev-session-date
-    while check-date <= current {
+    while check-date < current {
       let check-str = check-date.display("[year]-[month]-[day]")
       if check-str in date-note-map {
-        let note = date-note-map.at(check-str)
-        let note-days = (check-date - start).days()
-        let note-week = int((note-days + start.weekday() - 1) / 7) + 1
-        render-date-note(check-date, note, note-week)
+        let notes = date-note-map.at(check-str)
+        for note in notes {
+          let note-days = (check-date - start).days()
+          let note-week = int((note-days + start.weekday() - 1) / 7) + 1
+          render-date-note(check-date, note, note-week)
+        }
       }
       check-date = check-date + duration(days: 1)
     }
 
-    // Check if current date has a date-note (replaces session)
+    // Render the regular session
+    render-session(current, event, week)
+
+    // Check if current date has date-notes (add them after session)
     date-str = current.display("[year]-[month]-[day]")
     if date-str in date-note-map {
-      render-date-note(current, date-note-map.at(date-str), week)
-    } else {
-      // Render the regular session
-      render-session(current, event, week)
+      let notes = date-note-map.at(date-str)
+      for note in notes {
+        render-date-note(current, note, week)
+      }
     }
     
-    prev-session-date = current
+    prev-session-date = current + duration(days: 1)
     current = next-class-day(current, days)
   }
 
