@@ -1,7 +1,28 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import starlightSidebarTopics from 'starlight-sidebar-topics';
+
+// Define sidebar groups
+const ar1205Sidebar = {
+	label: 'AR1205',
+	items: [
+		{ label: 'Home', link: '/ar1205/' },
+		{ label: 'Schedule', link: '/ar1205/schedule/' },
+		{ label: 'Important Dates', link: '/ar1205/important-dates/' },
+		{ label: 'Example Guide', slug: 'ar1205/guides/example' },
+		{
+			label: 'Reference',
+			autogenerate: { directory: 'ar1205/reference' },
+		},
+	],
+};
+
+const ar2205Sidebar = {
+	label: 'AR2205',
+	items: [
+		{ label: 'Home', link: '/ar2205/' },
+	],
+};
 
 // https://astro.build/config
 export default defineConfig({
@@ -11,30 +32,13 @@ export default defineConfig({
 		starlight({
 			title: 'NWP 2026',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
-			plugins: [
-				starlightSidebarTopics([
-					{
-						label: 'AR1205',
-						link: '/ar1205/',
-						items: [
-							{ label: 'Home', link: '/ar1205/' },
-							{ label: 'Schedule', link: '/ar1205/schedule/' },
-							{ label: 'Example Guide', slug: 'ar1205/guides/example' },
-							{
-								label: 'Reference',
-								autogenerate: { directory: 'ar1205/reference' },
-							},
-						],
-					},
-					{
-						label: 'AR2205',
-						link: '/ar2205/',
-						items: [
-							{ label: 'Home', link: '/ar2205/' },
-						],
-					},
-				]),
+			sidebar: [
+				ar1205Sidebar,
+				ar2205Sidebar,
 			],
+			components: {
+				Sidebar: './src/components/Sidebar.astro',
+			},
 		}),
 	],
 	vite: {

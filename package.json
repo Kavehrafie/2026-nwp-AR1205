@@ -12,8 +12,9 @@
     "build:slides": "pnpm --filter slides build",
     "preview:docs": "pnpm --filter docs preview",
     "preview:slides": "pnpm --filter slides preview",
-    "sync": "pnpm sync:schedule",
-    "sync:schedule": "node scripts/sync-schedule.js packages/materials/schedule.typ packages/docs/src/content/docs/schedule.md \"Course Schedule\"",
+    "sync": "node scripts/sync-schedule.js",
+    "sync:ar1205": "node scripts/sync-schedule.js ar1205",
+    "sync:ar2205": "node scripts/sync-schedule.js ar2205",
     "typst": "typst compile packages/materials/syllabus.typ",
     "typst:watch": "typst watch packages/materials/syllabus.typ"
   },

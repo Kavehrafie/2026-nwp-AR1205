@@ -1,5 +1,5 @@
 #import "../templates/nwp-syllabus.typ": template, grade-table
-#import "schedule.typ": schedule-table, schedule-list
+#import "schedule-params.typ": schedule-table, schedule-list
 #import "params.typ": abbreviations
 #import "@preview/gentle-clues:1.2.0": *
 #import "@preview/abbr:0.3.0"

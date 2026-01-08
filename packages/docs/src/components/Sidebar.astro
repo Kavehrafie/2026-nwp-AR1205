@@ -1,0 +1,42 @@
+---
+import MobileMenuFooter from 'virtual:starlight/components/MobileMenuFooter';
+import SidebarPersister from '@astrojs/starlight/components/SidebarPersister.astro';
+import SidebarSublist from '@astrojs/starlight/components/SidebarSublist.astro';
+
+const { pathname } = Astro.url;
+const isAR1205 = pathname.startsWith('/ar1205');
+const isAR2205 = pathname.startsWith('/ar2205');
+
+let { sidebar } = Astro.locals.starlightRoute;
+
+// Filter sidebar based on current route
+if (isAR1205) {
+	sidebar = sidebar.filter((item) => {
+		if (item.type === 'group' && Array.isArray(item.entries)) {
+			const hasAR2205 = item.entries.some((entry) => 
+				entry.type === 'link' && entry.href?.includes('/ar2205')
+			);
+			return !hasAR2205;
+		}
+		return true;
+	});
+} else if (isAR2205) {
+	sidebar = sidebar.filter((item) => {
+		if (item.type === 'group' && Array.isArray(item.entries)) {
+			const hasAR1205 = item.entries.some((entry) => 
+				entry.type === 'link' && entry.href?.includes('/ar1205')
+			);
+			return !hasAR1205;
+		}
+		return true;
+	});
+}
+---
+
+<SidebarPersister>
+	<SidebarSublist sublist={sidebar} />
+</SidebarPersister>
+
+<div class="md:sl-hidden">
+	<MobileMenuFooter />
+</div>

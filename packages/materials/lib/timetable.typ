@@ -67,7 +67,7 @@
   important-dates: (),
   render-week: week => [== Week #week],
   render-session: (date, session, week) => [
-    === #date.display("[weekday repr:short], [month repr:short] [day]"): *#session.title* \
+    === #date.display("[weekday repr:short], [month repr:short] [day]"): *#session.title*
     #session.body
   ],
   render-holiday: (date, name) => [
@@ -87,7 +87,7 @@
       radius: 4pt,
       width: 100%,
       [
-        === #date.display("[weekday repr:short], [month repr:short] [day]"): *#note.title* \
+        === #date.display("[weekday repr:short], [month repr:short] [day]"): *#note.title*
         #if note.body != none { note.body }
       ]
     )
@@ -169,7 +169,19 @@
   }
 
   // Render any remaining date-notes after the last session (without week headings)
-  for note in important-dates {
+  // Sort important-dates by date before rendering using bubble sort
+  let sorted-dates = important-dates
+  for i in range(sorted-dates.len()) {
+    for j in range(sorted-dates.len() - i - 1) {
+      if sorted-dates.at(j).date > sorted-dates.at(j + 1).date {
+        let temp = sorted-dates.at(j)
+        sorted-dates.at(j) = sorted-dates.at(j + 1)
+        sorted-dates.at(j + 1) = temp
+      }
+    }
+  }
+  
+  for note in sorted-dates {
     if note.date > prev-session-date {
       let note-days = (note.date - start).days()
       week = int((note-days + start.weekday() - 1) / 7) + 1
