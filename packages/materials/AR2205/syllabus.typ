@@ -23,7 +23,7 @@
   dept: "Fine Arts",
   logo: "../../../assets/logo.svg",
   officeHours: [Wednesdays 2:30 PM -- 3:30 PM or by appointment],
-  officeLoc: link("https://nwpolytech.zoom.us/j/96343781955?pwd=EaAIYpJIvRExwTKpU6zCiJRXCG7CJp.1"),
+  officeLoc: link("https://nwpolytech.zoom.us/j/96343781955?pwd=EaAIYpJIvRExwTKpU6zCiJRXCG7CJp.1")[Zoom Link],
   doc,
 )
 
@@ -117,7 +117,7 @@ There will be periodic quizzes based on the readings and lectures. These quizzes
 == Field Report <eval:artist-event-report> 
 This assignment assesses your ability to critically engage with contemporary art outside the classroom. You will attend a virtual or local art event (e.g., exhibition, artist talk, workshop) and write a 1000-word report analyzing the experience. More details will be provided in #underline[myClass].
 
-*Hint*: For how-to-write an exhibition see Sylvan Barnet, "Writing a Review of an Exhibition" #text(style: "italic")[@ASGWA], 1--34
+*Hint*: For writing an exhibition review see Sylvan Barnet, "Writing a Review of an Exhibition" #text(style: "italic")[@ASGWA], 1--34
 
 == Presentation <eval:presentation>
 Students will deliver a 6-8 minute presentation on a selected contemporary artist or art movement. You can choose to present solo or partner up with a classmate. I always encourage collaboration so working in pairs is highly recommended and will be rewarded with extra marks (5%).
@@ -126,7 +126,7 @@ The presentation should include visual aids (e.g., images of the works under dis
 == Final Project <eval:final-project>
 The Final Project is a research project on the topics covered in this course; you are encouraged to focus on a specific artist, art movement, or theme in contemporary art related to your own interests and practice. You are expected to develop your project in two stages:
 
-*Hint*: For developing yout topic see Sylvan Barnet, "Getting Ideas for Essays" in #text(style: "italic")[@ASGWA], 75--130
+*Hint*: For developing your topic see Sylvan Barnet, "Getting Ideas for Essays" in #text(style: "italic")[@ASGWA], 75--130
 
 #block(inset: (x: 1.8em, y:0.2em))[
 
