@@ -44,7 +44,9 @@ _Recommended_:
 - Edward Lucie-Smith, #it[@MAS]
 = Delivery Mode
 
-This course is delivered synchronously online via Zoom: #link("https://nwpolytech.zoom.us/xxxx")
+This course is delivered synchronously online via Zoom: 
+#link("https://nwpolytech.zoom.us/j/93788840339")[Mondays Zoom Link] | 
+#link("https://nwpolytech.zoom.us/j/98442155071")[Friday Zoom Link]
 
 = LEARNING OUTCOMES
 
