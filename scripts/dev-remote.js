@@ -29,7 +29,7 @@ rl.question('Enter choice (1 or 2): ', (answer) => {
   }
   
   // Run pnpm command in slides package with --remote flag
-  const child = spawn('pnpm', ['--filter', 'slides', script, '--', '--remote'], {
+  const child = spawn('pnpm', ['--filter', 'slides', script, '--remote'], {
     stdio: 'inherit',
     shell: true
   });
