@@ -33,15 +33,15 @@
 
     _Read_:
     - Hans Belting, _Florence and Baghdad: Renaissance Art and Arab Science_, pp. 173--185
-    - #link("https://smarthistory.org/linear-perspective-explained/?tl=linear-perspective-explained&sidebar=europe-1400-1500")["Humanism in Italian renaissance art" by Heather Graham]
-    - #link("https://smarthistory.org/masaccio-holy-trinity/?tl=masaccio-holy-trinity&sidebar=europe-1400-1500")["Masaccio, Holy Trinity" by Dr. Steven Zucker and Dr. Beth Harris]
-    - #link("https://smarthistory.org/donatello-david/?tl=donatello-david&sidebar=europe-1400-1500")["Donatello, David" by Dr. Heather Graham]
-    - #link("https://smarthistory.org/study-anatomy/")["The study of anatomy" by Dr. Steven Zucker and Dr. Beth Harris]
+    - #link("https://smarthistory.org/humanism-italian-renaissance-art/")["Humanism in Italian renaissance art" by Heather Graham]
+    - #link("https://smarthistory.org/the-study-of-anatomy/")["The study of anatomy" by Dr. Steven Zucker and Dr. Beth Harris]
     
     _Watch_:
+    - #link("https://youtu.be/eOksHhQ8TLM")[Linear perspective explained]
     - #link("https://youtu.be/bkNMM8uiMww")[Linear Perspective: Brunelleschi’s Experiment]
     - #link("https://youtu.be/JFtMgt0nqgU")[Sandro Botticelli, La Primavera (Spring)]
-    - #link("https://youtu.be/mdd7LhVx00o")[Masaccio, Holy Trinity],
+    - #link("https://youtu.be/mdd7LhVx00o")[Masaccio, Holy Trinity]
+    - #link("https://youtu.be/0_p8USD0fjY")[Donatello, David]
     - #link("https://youtu.be/Ly2-n1KqNko")[Fra Filippo Lippi, Madonna and Child with Two Angels]
     - #link("https://youtu.be/1wDFFqcXZOo")[Alberti, Façade of Santa Maria Novella, Florence]
     - #link("https://youtu.be/8e20mMzj5Ug")[Andrea Mantegna, Dead Christ]
@@ -57,11 +57,12 @@
 
     _Read_:
     - Joseph Leo Koerner, _The Moment of Self-Portraiture in German Renaissance Art_ (excerpt)
-    - #link("https://smarthistory.org/bosch-the-garden-of-earthly-delights/?sidebar=europe-1400-1500")["Hieronymus Bosch, The Garden of Earthly Delights" by Sally Hickson]
+    // - #link("https://smarthistory.org/bosch-the-garden-of-earthly-delights/?sidebar=europe-1400-1500")["Hieronymus Bosch, The Garden of Earthly Delights" by Sally Hickson]
     
     _Watch_:
     - #link("https://youtu.be/q1X0Lj7YEMs")[Workshop of Robert Campin, Annunciation Triptych (Merode Altarpiece)]
-    - #link("https://youtu.be/g4XZGhnFOwM")[Lucas Cranach the Elder, Adam and Eve]
+    - #link("https://youtu.be/SMOEKQtPsY4")[Hieronymus Bosch, The Garden of Earthly Delights ]
+    // - #link("https://youtu.be/g4XZGhnFOwM")[Lucas Cranach the Elder, Adam and Eve]
     - #link("https://youtu.be/wAg7NQ0akkQ")[Jan van Eyck, The Arnolfini Portrait]
     - #link("https://youtu.be/udgNvPpDb2I")[Jan Van Eyck, The Ghent Altarpiece (part 1)] 
     - #link("https://youtu.be/JVhwinCiELI")[Jan Van Eyck, The Ghent Altarpiece (part 2)]
