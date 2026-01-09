@@ -707,6 +707,13 @@ color: black
 ![Sandro Botticelli, Primavera, c. 1482. Tempera on panel](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Botticelli-primavera.jpg/3840px-Botticelli-primavera.jpg)
 
 <!--
+- Like most artists in the second half of the fifteenth century,
+Alessandro di Mariano di Vanni Filipepi (1445–1510), called
+“Botticelli” (“the little barrel,” a nickname borrowed from
+his older brother), painted sculptural figures that were
+modeled by light from a consistent source and placed in a
+setting rendered illusionistic by linear perspective.
+
 **Botticelli's Primavera (c. 1482):**
 - Venus at center, surrounded by mythological figures
 - Three Graces, Mercury, Cupid
@@ -740,12 +747,7 @@ color: black
 
 <!-- 
 
-Like most artists in the second half of the fifteenth century,
-Alessandro di Mariano di Vanni Filipepi (1445–1510), called
-“Botticelli” (“the little barrel,” a nickname borrowed from
-his older brother), painted sculptural figures that were
-modeled by light from a consistent source and placed in a
-setting rendered illusionistic by linear perspective. An out-
+ An out-
 standing portraitist, he, like Ghirlandaio, often included
 recognizable contemporary figures among the saints and
 angels in religious paintings. He worked in Florence, fre-

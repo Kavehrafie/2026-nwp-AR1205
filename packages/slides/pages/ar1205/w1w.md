@@ -180,7 +180,7 @@ color: pink-light
 
 ![Raphael, _Portrait of Maddalena Doni_, c. 1506, oil on wood, 63 × 45 cm, Pitti Palace, Florence](https://upload.wikimedia.org/wikipedia/commons/2/27/Ritratto_di_maddalena_strozzi.jpg)
 
-<div v-drag="[812,110,114,45]" v-click>
+<div v-drag="[857,125,114,45]" v-click>
 
 ✏️ <span v-mark.red> _Sfumato_</span> 
 </div>
