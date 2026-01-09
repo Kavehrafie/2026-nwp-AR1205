@@ -30,13 +30,16 @@ Friday, January 9, 2026
 </div>
 
 <!--
-- In Seven Sacraments Altarpiece by Rogier van der Weyden
-- the figures are crowded into a shallow, gold-grounded space
-- The spatial recession is minimal, and there is little sense of a coherent architectural setting
+**Seven Sacraments Altarpiece (van der Weyden):**
+- Figures crowded in shallow, gold-grounded space
+- Minimal spatial recession
+- Little coherent architectural setting
 
-- Eucharist, in Christianity, ritual commemoration of Jesus’ Last Supper with his disciples. 
-
-- believed to be the Real Presence of Jesus Christ, meaning the bread and wine truly become His Body, Blood, Soul, and Divinity, not just symbols, through transubstantiation, preserving His resurrected, living self under the appearances of bread and wine to offer spiritual nourishment, grace, and union with God.
+**Eucharist:**
+- Ritual commemoration of Last Supper
+- Real Presence: bread/wine become Christ's Body & Blood (transubstantiation)
+- Not symbolic—actual divine presence
+- Offers spiritual nourishment and union with God
 -->
 
 ---
@@ -46,13 +49,12 @@ color: teal-light
 
 ### <u>Linear Perspective</u> and the <u>Renaissance</u> in Italy ✏️
 
-<!-- 
-The term of Renaissance (only applied to this period by later historians)
-However, its origins lie in the thought of Petrarch and other
-fourteenth-century Italian writers, who emphasized the
-power and potential of human beings for great individual
-accomplishment.
- -->
+<!--
+**Renaissance Term:**
+- Applied by later historians (not contemporary)
+- Origins in Petrarch & 14th-century Italian writers
+- Emphasized human potential for individual accomplishment
+-->
 
 ---
 layout: two-cols
@@ -75,35 +77,49 @@ layout: two-cols
 ![Masaccio, _Holy Trinity_, c. 1427, fresco, 667 x 317 cm, Santa Maria Novella, Florence](https://upload.wikimedia.org/wikipedia/commons/d/d2/Masaccio%2C_trinit%C3%A0.jpg)
 
 <!--
-Perspective and Portaiture embody Humanist ideals in Early Renaissance Art
+**Humanism in Renaissance Art:**
+- Perspective & portraiture embody humanist ideals
+- Two representations: individual portraits + viewer's gaze (Belting)
 
-"The Renaissance represented the human subject, whom it celebrated as the individual, in two ways, once by painting portraits of individuals and once by painting the viewer's gaze" (Belting 18)
+**Humanism Definition:**
+- Intellectual movement focused on human potential
+- Study of classical Greek/Roman texts, values, styles
+- "Man is the measure of all things" (Protagoras)
+- Centrality of human experience & rationality
 
-Humanism: an intellectual movement that focused on human potential and achievements. It emphasized the study of classical texts, values, and styles from ancient Greece and Rome. 
-Protagoras's famous dictum, "Man is the measure of all things," encapsulates the humanist belief in the centrality of human experience and rationality.
-
-Artists, like the humanists, turned to Classical antiquity for inspiration, emulating ancient Roman sculpture and architecture even as they continued to fulfill commissions for predominantly Christian subjects and buildings.
+**Artists & Classicism:**
+- Emulated ancient Roman sculpture/architecture
+- Still fulfilled Christian commissions
 -->
 
 ---
 
 ![Fifteenth century Italy](https://res.cloudinary.com/image-solar/image/upload/v1767974006/2026nwp-ar1205/Screenshot_9-1-2026_75022__vmhsf4.jpg)
 
-<!-- 
+<!--
+**Italian City-States—Powerful Families:**
+- Medici in Florence
+- Visconti & Sforza in Milan
+- Montefeltro in Urbino
+- Gonzaga in Mantua
+- Este in Ferrara
+- After 1420: Popes ruled Rome
+- South (Naples & Sicily): French → Spanish (Aragonese)
+- Venice: maintained independence as republic
 
-Powerful families divided the Italian peninsula into city-states: the Medici in Florence, the Visconti and Sforza in Milan, the Montefeltro 
-in Urbino, the Gonzaga in Mantua, and the Este in Ferrara. After 1420, the popes ruled Rome, while in the south Naples and Sicily were 
-French and then Spanish (Aragonese) territories. Venice maintained its independence as a republic
+**Economic & Cultural Context:**
+- Cities wealthy from commerce & banking
+- Wealthy families = art patrons
+- City-state competition fostered innovation
+- Giovanni Rucellai quote: art serves "glory of God, honour of city, commemoration of myself"
 
-- cities grew wealthy through commerce and banking
-- wealthy families became patrons of the arts
-- competition among city-states fostered artistic innovation
-  - As one Florentine merchant, Giovanni Rucellai, succinctly noted, he supported the arts “because they serve the glory of God, the honour of the city, and the commemoration of myself” (cited in Baxandall, p. 2)
+**Military:**
+- Rise of condottieri (mercenary commanders)
+- Allegiance only to highest bidder
 
--  The period saw the rise of mercenary  armies led by entrepreneurial (and sometimes brilliant) military commanders called condottieri, who owed allegiance only to those who paid them 
-
-The term Renaissance (French for “rebirth”) was only applied to this period by later historians
- -->
+**Term Note:**
+- "Renaissance" (French "rebirth") applied by later historians
+-->
 
 ---
 
@@ -129,16 +145,22 @@ layout: two-cols
 
 ![Florence Baptistery, the 11th- or 12th-century ](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Baptistery%2C_Florence.jpg/3840px-Baptistery%2C_Florence.jpg)
 
-<!-- 
+<!--
+**Brunelleschi & Linear Perspective:**
+- Formalized mathematical system for 3D space on 2D surface
+- Revolutionized spatial/depth representation
 
-Brunelleschi is credited with the formalization of linear perspective, a mathematical system for representing three-dimensional space on a two-dimensional surface. This technique revolutionized the way artists depicted space and depth in their work, allowing for more realistic and proportionate representations of the physical world.
+**His Experiment:**
+- Painted panel of Florence Baptistery
+- Drilled hole in center
+- Used mirror to reflect image while looking through hole
+- Demonstrated convergence to single vanishing point
+- Proved illusion of depth & 3D space
 
-### His process
-He began by creating a painted panel depicting the Baptistery of San Giovanni in Florence. He then drilled a small hole in the center of the panel and used a mirror to reflect the image of the painting while looking through the hole. By adjusting his viewpoint and the position of the mirror, Brunelleschi was able to demonstrate how the lines in the painting converged towards a single vanishing point, creating the illusion of depth and three-dimensionality. This experiment provided a practical demonstration of the principles of linear perspective, which would later be codified by artists and theorists such as Leon Battista Alberti in his treatise "De Pictura" (On Painting) in 1435.
-
-
-Perspective as "a window through which to view the world" 
- -->
+**Impact:**
+- Later codified by Alberti in "De Pictura" (1435)
+- Perspective as "window through which to view the world"
+-->
 
 ---
 
@@ -150,10 +172,10 @@ color: black
 
 ![Leon Battista ALberti, bronze medal  with self-portrait  and winged-eye emblem at Lower Left,  I496.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Leon_Battista_Alberti%2C_Self-Portrait%2C_c._1435%2C_NGA_43845.jpg/1920px-Leon_Battista_Alberti%2C_Self-Portrait%2C_c._1435%2C_NGA_43845.jpg)
 
-<!-- 
-eye emblem means "I see"  
-
- -->
+<!--
+**Alberti's Emblem:**
+- Winged eye = "I see"
+-->
 
 ---
 
@@ -169,8 +191,9 @@ eye emblem means "I see"
 </div>
 
 <!--
-- Roman fresco from Boscoreale
-- demonstrates early use of perspective but lacks mathematical precision
+**Roman Fresco (Boscoreale):**
+- Early use of perspective
+- Lacks mathematical precision of Renaissance system
 -->
 
 ---
@@ -224,17 +247,18 @@ This illustration shows how light shines through a small hole in the darkened ro
 </div>
 </Box>
 
-<!-- 
+<!--
+**Piero della Francesca—Annunciation:**
+- Demonstrates linear perspective for depth
+- Gabriel & Mary in carefully constructed architectural space
+- Perspective draws viewer into scene
+- Emphasizes divine significance
 
-- Annunciation by Piero della Francesca
-- demonstrates use of linear perspective to create depth
-- The story of the Annunciation is told through the interaction of the angel Gabriel and the Virgin Mary within a carefully constructed architectural space. The use of linear perspective draws the viewer's eye into the scene, emphasizing the significance of this divine moment.
-
-measurements taken from real life to create accurate perspective in art
-
-A braccio is an obsolete Italian unit of measurement based on the length of the human arm.
-
- -->
+**Mathematical Precision:**
+- Real-life measurements used for accurate perspective
+- Braccio = obsolete Italian unit (length of human arm)
+- Shows integration of math & art
+-->
 
 ---
 color: pink
@@ -249,24 +273,21 @@ layout: section
 - The High Renaissance: c. 1495–1520
 - The Late Renaissance (Mannerism): c. 1520–1600
 
-<!-- 
+<!--
+**Renaissance Periods:**
+- Early Renaissance: c. 1400-1495
+- High Renaissance: c. 1495-1520
+- Late Renaissance (Mannerism): c. 1520-1600
 
-As one Florentine merchant, Giovanni Rucellai, succinctly
-noted, he supported the arts “because they serve the glory
-of God, the honour of the city, and the commemoration of
-myself” (cited in Baxandall, p. 2).
-The term Renaissance (French for “rebirth”) was
-only applied to this period by later historians. How-
-ever, its origins lie in the thought of Petrarch and other
-fourteenth-century Italian writers, who emphasized the
-power and potential of human beings for great individual
-accomplishment.
+**Patronage Motivations:**
+- Giovanni Rucellai: art serves "glory of God, honour of city, commemoration of myself"
 
-- They looked to the accomplishments of the Classical past for inspiration
-and instruction, and in Italy this centered on the heritage
-of ancient Rome.
-
- -->
+**Renaissance Origins:**
+- Term applied by later historians
+- Rooted in Petrarch & 14th-c. Italian writers
+- Emphasized human potential for individual accomplishment
+- Looked to Classical past (esp. ancient Rome) for inspiration
+-->
 
 ---
 layout: flex
@@ -355,12 +376,17 @@ color: black
 ![Donatello, St. George, c. 1409–1417. Formerly in Orsanmichele, Florence. 1417–1420. Marble](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-01.jpg/1229px-St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-01.jpg)
 </div>
 
-<!-- 
+<!--
+**Donatello's St. George (c. 1409-1417):**
+- Commissioned by armorers/sword-makers guild
+- Majestic, self-assured figure
+- Originally held metal sword, wore metal armor
+- Standing advertisement for guild's trade
 
-One of Florence’s lesser guilds—thearmorers and sword-makers—called on Donatello= to carve a majestic and self-assured ST. GEORGE for their niche (FIG. 20–13). As originally conceived, the saint would have been a standing advertisement for their trade, carrying a metal sword in his right hand and probably wearing a metal.
-
-For the base of the niche, Donatello carved a remarkable shallow relief showing St. George slaying the dragon and saving the princess, a well-known part of his story
-
+**Base Relief:**
+- Shallow relief: St. George slaying dragon, saving princess
+- Remarkable spatial technique
+- Early example of linear perspective
 -->
 
 ---
@@ -481,12 +507,18 @@ The story of JACOB AND ESAU (Genesis 25 and 27) fills the center panel of the le
 
 ![Leon Battista Alberti, the Facade of Santa Maria Novella, 1470](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Florence%2C_Santa_Maria_Novella%2C_facade.jpg/3840px-Florence%2C_Santa_Maria_Novella%2C_facade.jpg)
 
-<!-- 
+<!--
+**Santa Maria Novella Facade (1470):**
+- Gothic church with Dominican order
+- Giovanni Rucellai commissioned Alberti (1456)
+- Completed 1470
 
-gothic churn with Dominican order; Giovanni Rucellai (pronounced "Roo-chel-lie") commissioned Alberti to design the facade in 1456; completed in 1470
-
-classical facade with pilasters, entablature, triangular pediment, and roundels
- -->
+**Classical Elements:**
+- Pilasters, entablature
+- Triangular pediment
+- Roundels (circular decorations)
+- Harmonizes Classical & Gothic
+-->
 
 ---
 color: black
@@ -505,23 +537,20 @@ color: black
 
 
 
-<!-- 
+<!--
+**Masaccio (1401-1428/29):**
+- "Big Tom"—career lasted less than decade
+- Established new direction like Giotto century earlier
 
-- Santa Maria Novella, a Dominican church in Florence, was one of the most impor-tant religious sites in the city.
+**Innovation:**
+- Integrated monumental, consistently scaled figures
+- Rational architectural & natural settings
+- Linear perspective
 
-- Even though his career lasted less than a decade, Tommaso di Ser Giovanni di Mone Cassai (1401–1428/1429?), nicknamed “Masaccio” (meaning “Big Tom”), established a new direction in Florentine painting much as Giotto had a century earlier. 
-
-He did this by integrating monu-
-mental and consistently scaled figures into rational archi-
-tectural and natural settings using linear perspective.
-The chronology of Massaccio’s works is uncertain, but his
-fresco of the TRINITY in the church of Santa Maria Novella
-in Florence must have been painted around 1426, the date
-on the Lenzi family tombstone that once stood in front of it
-(FIGS. 20–18, 20–19).
-
-
- -->
+**Trinity Fresco (c. 1426):**
+- Santa Maria Novella (important Dominican church)
+- Date from Lenzi family tombstone
+-->
 
 ---
 
@@ -650,12 +679,16 @@ layout: two-cols
 
 
 
-<!-- 
-
-arjasb is a powerful and tyrannical king who has taken over the kingdom of Iran. He is known for his cruelty and oppression of the people. Esfandiyar, a brave and noble warrior, is sent on a mission to defeat Arjasb and restore peace to the land. 
-arjasb abducted the beautiful princess of Iran, and Esfandiyar is determined to rescue her. The two engage in a fierce battle, with Esfandiyar ultimately emerging victorious. He slays Arjasb and frees the princess, bringing an end to his reign of terror.
-
- -->
+<!--
+**Persian Parallel—Esfandiyar vs. Arjasb:**
+- Arjasb: powerful, tyrannical king of Iran
+- Known for cruelty & oppression
+- Abducted princess of Iran
+- Esfandiyar: brave warrior sent to defeat him
+- Fierce battle → Esfandiyar victorious
+- Slays Arjasb, frees princess, ends tyranny
+- **Compare:** sequential narrative like Tribute Money
+-->
 
 <Asterisk />
 
@@ -674,11 +707,27 @@ color: black
 ![Sandro Botticelli, Primavera, c. 1482. Tempera on panel](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Botticelli-primavera.jpg/3840px-Botticelli-primavera.jpg)
 
 <!--
-- venus is at the center of the composition, surrounded by other mythological figures, including the Three Graces, Mercury, and Cupid. The scene is set in a lush garden filled with flowers and trees, symbolizing the arrival of spring and the renewal of life. 
-- Zephyrus, the god of the west wind, is shown pursuing the nymph Chloris, whom he eventually marries. After their union, Chloris transforms into Flora, the goddess of flowers, symbolizing the blossoming of nature in springtime.
-- embracing the subject of pagan mythology
-- oranges are a symbol of the Medici family, who were Botticelli's patrons
-- One of the ways that this painting is understood as *Neoplatonic* meditations on different kinds of beuty, through its depiction of the *Three Graces*, who are often associated with the concept of beauty and love in Neoplatonic philosophy. Neoplatonism, a philosophical system that emerged in the 3rd century AD, emphasizes the idea of a hierarchy of beauty, with physical beauty being a reflection of a higher, spiritual beauty. The Three Graces, who are often depicted as embodiments of beauty, charm, and grace, can be seen as representing different aspects of this hierarchy. In the context of Neoplatonic thought, the painting can be interpreted as a meditation on the nature of beauty and its relationship to love and desire. Cosimo de' Medici, a prominent patron of the arts and a supporter of Neoplatonic philosophy, may have commissioned the painting as a reflection of his own intellectual interests and beliefs.
+**Botticelli's Primavera (c. 1482):**
+- Venus at center, surrounded by mythological figures
+- Three Graces, Mercury, Cupid
+- Lush garden: flowers, trees = spring arrival & renewal
+
+**Narrative:**
+- Right side: Zephyrus (west wind) pursues nymph Chloris
+- After union, Chloris transforms into Flora (flower goddess)
+- Symbolizes nature's springtime blossoming
+
+**Patronage & Symbolism:**
+- Embraces pagan mythology
+- Oranges = Medici family symbol (Botticelli's patrons)
+
+**Neoplatonism:**
+- Meditation on different kinds of beauty
+- Three Graces = hierarchy of beauty (physical → spiritual)
+- Neoplatonism (3rd c. AD): physical beauty reflects higher spiritual beauty
+- Painting explores beauty's relationship to love & desire
+- Cosimo de' Medici: patron & Neoplatonism supporter
+- Reflects his intellectual interests
 -->
 
 ---
