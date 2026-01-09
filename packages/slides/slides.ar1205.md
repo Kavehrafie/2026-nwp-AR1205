@@ -15,7 +15,9 @@ duration: 35min
 color: sky
 hideInToc: true
 fonts:
-  provider: google
+  sans: 'Inter'
+  serif: 'Playfair Display'
+  mono: 'Fira Code'
 ---
 
 ### AR1205

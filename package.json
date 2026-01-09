@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "pnpm dev:docs",
     "dev:docs": "pnpm --filter docs dev",
-    "dev:slides": "pnpm --filter slides dev",
+    "dev:slides": "node scripts/dev-remote.js",
     "build": "pnpm sync && pnpm build:docs && pnpm build:slides",
     "build:docs": "pnpm --filter docs build",
     "build:slides": "pnpm --filter slides build",
