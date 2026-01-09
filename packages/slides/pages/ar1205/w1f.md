@@ -30,6 +30,34 @@ Friday, January 9, 2026
  -->
 
 ---
+layout: center
+---
+
+Linear Perspective and the Renaissance in Italy
+
+
+---
+
+![Fifteenth century Italy](https://res.cloudinary.com/image-solar/image/upload/v1767974006/2026nwp-ar1205/Screenshot_9-1-2026_75022__vmhsf4.jpg)
+
+<!-- 
+
+Powerful families divided the Italian peninsula into city-states: the Medici in Florence, the Visconti and Sforza in Milan, the Montefeltro 
+in Urbino, the Gonzaga in Mantua, and the Este in Ferrara. After 1420, the popes ruled Rome, while in the south Naples and Sicily were 
+French and then Spanish (Aragonese) territories. Venice maintained its independence as a republic
+
+- cities grew wealthy through commerce and banking
+- wealthy families became patrons of the arts
+- competition among city-states fostered artistic innovation
+  - As one Florentine merchant, Giovanni Rucellai, succinctly noted, he supported the arts “because they serve the glory of God, the honour of the city, and the commemoration of myself” (cited in Baxandall, p. 2)
+
+-  The period saw the rise of mercenary  armies led by entrepreneurial (and sometimes brilliant) military commanders called condottieri, who owed allegiance only to those who paid them 
+
+The term Renaissance (French for “rebirth”) was only applied to this period by later historians
+ -->
+
+
+---
 layout: two-cols
 ---
 
@@ -106,25 +134,4 @@ This illustration shows how light shines through a small hole in the darkened ro
 - Roman fresco from Boscoreale
 - demonstrates early use of perspective but lacks mathematical precision
 -->
-
----
-
-![Fifteenth century Italy](https://res.cloudinary.com/image-solar/image/upload/v1767974006/2026nwp-ar1205/Screenshot_9-1-2026_75022__vmhsf4.jpg)
-
-<!-- 
-
-Powerful families divided the Italian peninsula into city-states: the Medici in Florence, the Visconti and Sforza in Milan, the Montefeltro 
-in Urbino, the Gonzaga in Mantua, and the Este in Ferrara. After 1420, the popes ruled Rome, while in the south Naples and Sicily were 
-French and then Spanish (Aragonese) territories. Venice maintained its independence as a republic
-
-- cities grew wealthy through commerce and banking
-- wealthy families became patrons of the arts
-- competition among city-states fostered artistic innovation
-  - As one Florentine merchant, Giovanni Rucellai, succinctly noted, he supported the arts “because they serve the glory of God, the honour of the city, and the commemoration of myself” (cited in Baxandall, p. 2)
-
--  The period saw the rise of mercenary  armies led by entrepreneurial (and sometimes brilliant) military commanders called condottieri, who owed allegiance only to those who paid them 
-
-The term Renaissance (French for “rebirth”) was only applied to this period by later historians
- -->
-
 
