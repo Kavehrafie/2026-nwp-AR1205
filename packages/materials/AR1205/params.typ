@@ -102,7 +102,7 @@
 )
 
 #let session-mannerism = session(
-  "Late Renaissance and Mannerism",
+  "From the High Renaissance to Mannerism",
   [
     Analysis of the Mannerist style and its departure from Renaissance ideals.
 
@@ -114,7 +114,9 @@
     _Watch_:
     - #link("https://youtu.be/zfv-dGvFxIE")[Michelangelo, Pietà]
     - #link("https://youtu.be/PEE3B8Fsuc0")[Michelangelo, Ceiling of the Sistine Chapel]
-    - #link("https://smarthistory.org/michelangelo-slaves/")[Michelangelo, Slaves]
+    - #link("https://youtu.be/h44bnIGogu8")[Michelangelo, Slaves]
+    - #link("https://youtu.be/qD6ct0VS15c")[Titian, Venus of Urbino]
+    - #link("https://youtu.be/9g-r2007Y8c")[Paolo Veronese, Feast in the House of Levi]
     - #link("https://youtu.be/suIUUGdNyWk")[Parmigianino, Madonna with the Long Neck]
     - #link("https://youtu.be/tUOKkeEOkXk")[Michelangelo, Laurentian Library]
     - #link("https://youtu.be/YhsjS5CtCTE")[Jacopo Tintoretto, Last Supper]
