@@ -14,7 +14,7 @@ const colorscheme = computed(() => {
 
 <template>
   <div class="slidev-layout center slidecolor p-2" :class="colorscheme">
-    <div class="my-auto h-110">
+    <div class="my-auto max-h-110">
       <slot />
     </div>
   </div>
@@ -84,5 +84,6 @@ const colorscheme = computed(() => {
   margin: 0;
   opacity: 1;
 }
+
 
 </style>

@@ -47,12 +47,32 @@ const opacityStyle = computed(() => {
     :style="opacityStyle"
   >
     <!-- Using Slidev's built-in icon system with mdi asterisk icon -->
-    <mdi-asterisk class="text-current" />
+    <carbon-asterisk class="text-current" />
   </div>
 </template>
 
 <style scoped>
+@keyframes coolEntrance {
+  0% {
+    opacity: 0;
+    transform: scale(0) rotate(-360deg);
+    filter: blur(8px);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.3) rotate(180deg);
+    filter: blur(0);
+  }
+  70% {
+    transform: scale(0.9) rotate(-90deg);
+  }
+  100% {
+    transform: scale(1) rotate(0deg);
+  }
+}
+
 .asterisk {
+  animation: coolEntrance 1s cubic-bezier(0.34, 1.56, 0.64, 1);
   transition: opacity 0.3s ease;
 }
 </style>
