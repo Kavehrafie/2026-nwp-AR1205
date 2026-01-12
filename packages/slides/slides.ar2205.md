@@ -16,7 +16,7 @@ color: violet-light
 hideInToc: true
 fonts:
   sans: 'Inter'
-  serif: 'Playfair Display'
+  # serif: 'Playfair Display'
   mono: 'Fira Code'
 ---
 

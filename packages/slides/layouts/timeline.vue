@@ -174,15 +174,61 @@ const overlayStyles = computed(() => {
   };
 });
 
+// Custom smooth scroll function with better easing
+const smoothScrollTo = (element: HTMLElement, targetScrollLeft: number, duration: number = 600) => {
+  const startScrollLeft = element.scrollLeft;
+  const distance = targetScrollLeft - startScrollLeft;
+  let startTime: number | null = null;
+  
+  // Custom easing function for more natural feel (ease-out cubic)
+  const easeOutCubic = (t: number): number => {
+    return 1 - Math.pow(1 - t, 3);
+  };
+  
+  const animation = (currentTime: number) => {
+    if (startTime === null) startTime = currentTime;
+    const elapsed = currentTime - startTime;
+    const progress = Math.min(elapsed / duration, 1);
+    
+    const easedProgress = easeOutCubic(progress);
+    element.scrollLeft = startScrollLeft + (distance * easedProgress);
+    
+    if (progress < 1) {
+      requestAnimationFrame(animation);
+    }
+  };
+  
+  requestAnimationFrame(animation);
+};
+
+// Cache for container dimensions to reduce reflows
+const containerCache = ref({
+  width: 0,
+  maxScroll: 0,
+  lastUpdate: 0
+});
+
+const updateContainerCache = (container: HTMLElement) => {
+  const now = Date.now();
+  // Update cache only every 100ms or if values are zero
+  if (now - containerCache.value.lastUpdate > 100 || containerCache.value.width === 0) {
+    containerCache.value = {
+      width: container.clientWidth,
+      maxScroll: container.scrollWidth - container.clientWidth,
+      lastUpdate: now
+    };
+  }
+};
+
 watch($clicks, (currentClick) => {
-  // Reduce delay for smoother transitions
-  setTimeout(() => {
+  // Use requestAnimationFrame for smoother timing
+  requestAnimationFrame(() => {
     const container = timelineContainerRef.value;
     if (!container || !eventRefs.value.length) return;
 
     // Handle the case where currentClick is 0 (initial state)
     if (currentClick === 0) {
-      container.scrollTo({ left: 0, behavior: "smooth" });
+      smoothScrollTo(container, 0, 400);
       return;
     }
 
@@ -190,25 +236,26 @@ watch($clicks, (currentClick) => {
     if (eventIndex >= 0 && eventIndex < eventRefs.value.length) {
       const targetEvent = eventRefs.value[eventIndex];
       if (targetEvent) {
+        // Update cache to minimize reflows
+        updateContainerCache(container);
+        
         // Get the event's position relative to the container
         const eventOffsetLeft = targetEvent.offsetLeft;
         const eventWidth = targetEvent.offsetWidth;
-        const containerWidth = container.clientWidth;
+        const { width: containerWidth, maxScroll } = containerCache.value;
         
-        // Center the event in the viewport
-        const targetScrollLeft = eventOffsetLeft - (containerWidth / 2) + (eventWidth / 2);
+        // Position event slightly to the right (60% of viewport) to keep previous event visible
+        // This places the new event at 60% of the viewport width, leaving 40% on the left for the previous event
+        const targetScrollLeft = eventOffsetLeft - (containerWidth * 0.67) + (eventWidth / 2);
         
         // Ensure we don't scroll beyond bounds
-        const maxScroll = container.scrollWidth - containerWidth;
         const finalScrollLeft = Math.max(0, Math.min(targetScrollLeft, maxScroll));
         
-        container.scrollTo({
-          left: finalScrollLeft,
-          behavior: "smooth"
-        });
+        // Use custom smooth scroll with better easing
+        smoothScrollTo(container, finalScrollLeft, 600);
       }
     }
-  }, 100);
+  });
 });
 </script>
 
@@ -305,8 +352,15 @@ watch($clicks, (currentClick) => {
   min-width: 100%;
   width: max-content;
   gap: 0 20px;
-  scroll-behavior: smooth;
+  scroll-behavior: auto;
   scroll-snap-type: x mandatory;
+  /* Hardware acceleration hints */
+  will-change: scroll-position;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+  /* Enable GPU acceleration */
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
 }
 
 /* RTL version of the grid */
@@ -385,31 +439,37 @@ watch($clicks, (currentClick) => {
   margin-left: 1rem;
 }
 
-/* Minimal custom styles for animations and scrollbar */
+/* Enhanced animations with better easing and hardware acceleration */
 .slidev-vclick-target {
-  transition: all 400ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: all 500ms cubic-bezier(0.34, 1.56, 0.64, 1);
+  will-change: transform, opacity;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
 }
 
 .slidev-vclick-target h2 {
   opacity: 1;
-  transition-delay: 200ms;
-  transition: all 300ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition-delay: 150ms;
+  transition: all 400ms cubic-bezier(0.34, 1.56, 0.64, 1);
+  will-change: transform, opacity;
 }
 
 .slidev-vclick-hidden {
   opacity: 0;
   pointer-events: none;
-  transform: translateX(-40px);
+  transform: translateX(-60px);
+  will-change: transform, opacity;
 }
 
 .slidev-vclick-hidden h2 {
   opacity: 0;
-  transform: translateY(40px);
+  transform: translateY(30px);
+  will-change: transform, opacity;
 }
 
 /* RTL animation adjustments */
 .dir-rtl .slidev-vclick-hidden {
-  transform: translateX(40px);
+  transform: translateX(60px);
 }
 
 /* Custom scrollbar for better UX with neversink theme */
