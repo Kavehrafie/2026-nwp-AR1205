@@ -37,6 +37,9 @@ importers:
       markdown-it-implicit-figures:
         specifier: ^0.12.0
         version: 0.12.0
+      slidev-addon-excalidraw:
+        specifier: ^1.0.4
+        version: 1.0.4
       slidev-theme-neversink:
         specifier: ^0.4.0
         version: 0.4.0(@nuxt/kit@3.20.1(magicast@0.5.1))(@vue/compiler-sfc@3.5.25)(markdown-it-async@2.2.0)(markdown-it@14.1.0)(postcss@8.5.6)(typescript@5.9.3)(vite@7.3.1(@types/node@24.10.1)(jiti@2.6.1)(yaml@2.8.2))(vue@3.5.25(typescript@5.9.3))
@@ -3238,6 +3241,9 @@ packages:
     resolution: {integrity: sha512-LwktpJcyZDoa0IL6KT++lQ53pbSrx2c9ge41/SeLTyqy2XUNA6uR4+P9u5IVo5lPeL2arAcOKn1aZAxoYbCKlQ==}
     engines: {node: '>=14.0.0', npm: '>=6.0.0'}
     hasBin: true
+
+  slidev-addon-excalidraw@1.0.4:
+    resolution: {integrity: sha512-BLSn1RDXbcIvUypzKPZxc62sCD15hUEk3wOdL7UP8mI6StN4em3bsWNKQp/10dECK5GXRu9Q6Rlxaau9WkKvdw==}
 
   slidev-theme-neversink@0.4.0:
     resolution: {integrity: sha512-j7QRMf0BcuiZlN7G6blAtDcoWgB7Wu5G92OAciu2aRxYrXCkYwW9ys810fABE4dYcx+tEZT2u0+2QhdJ6C4hvA==}
@@ -8083,6 +8089,8 @@ snapshots:
       '@types/sax': 1.2.7
       arg: 5.0.2
       sax: 1.4.3
+
+  slidev-addon-excalidraw@1.0.4: {}
 
   slidev-theme-neversink@0.4.0(@nuxt/kit@3.20.1(magicast@0.5.1))(@vue/compiler-sfc@3.5.25)(markdown-it-async@2.2.0)(markdown-it@14.1.0)(postcss@8.5.6)(typescript@5.9.3)(vite@7.3.1(@types/node@24.10.1)(jiti@2.6.1)(yaml@2.8.2))(vue@3.5.25(typescript@5.9.3)):
     dependencies:

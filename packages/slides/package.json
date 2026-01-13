@@ -16,6 +16,7 @@
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
     "markdown-it-implicit-figures": "^0.12.0",
+    "slidev-addon-excalidraw": "^1.0.4",
     "slidev-theme-neversink": "^0.4.0",
     "tailwind-merge": "^3.4.0",
     "tailwind-variants": "^3.2.2",

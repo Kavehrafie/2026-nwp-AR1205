@@ -14,8 +14,10 @@ mdc: true
 duration: 35min
 color: violet-light
 hideInToc: true
+addons:
+  - excalidraw
 fonts:
-  sans: 'Inter'
+  # sans: 'Inter'
   # serif: 'Playfair Display'
   mono: 'Fira Code'
 ---
@@ -49,10 +51,6 @@ hideInToc: true
 <Toc minDepth="1" maxDepth="1" columns="3" />
 
 <NWPLogo size="medium" class="absolute bottom-10 right-10" />
-
----
-src: "./pages/ar2205/w1f.md"
----
 
 ---
 src: "./pages/ar2205/w2m.md"

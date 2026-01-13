@@ -51,8 +51,7 @@ const colorscheme = computed(() => {
             :class="authorsize"
           >
             <div class="h-px w-12 bg-current opacity-50"></div>
-            <span class="uppercase tracking-widest font-sans text-sm font-semibold">
-              {{ author }}
+            <span class="uppercase tracking-widest font-sans text-sm font-semibold" v-html="author">
             </span>
           </div>
         </div>
