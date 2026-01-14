@@ -11,7 +11,6 @@
 
 #let email = link("mailto:krafie@nwpolytech.ca")[krafie\@nwpolytech.ca]
 
-
 #show: doc => template(
   number: [AR2205],
   name: [Art Since 1945],
@@ -27,7 +26,6 @@
   doc,
 )
 
-
 = Calendar Description
 
 This course examines post-1945 art movements, focusing on how rebellious and outsider art challenges and is absorbed by institutions. While centered on Western frameworks, it incorporates a global perspective, featuring both national and transnational artists. Students will analyze diverse media---including installation, painting, performance, photography, sculpture, and video---to develop a multifaceted understanding of contemporary art practice and theory.
@@ -37,15 +35,15 @@ This course examines post-1945 art movements, focusing on how rebellious and out
 None
 
 = Required Materials
-No textbook is required. Readings will be provided on #underline[myClass]. 
+No textbook is required. Readings will be provided on #underline[myClass].
 
 _Recommended_:
 - Sylvan Barnet, #it[@ASGWA] (available at the library on reserve)
 - Edward Lucie-Smith, #it[@MAS]
 = Delivery Mode
 
-This course is delivered synchronously online via Zoom: 
-#link("https://nwpolytech.zoom.us/j/93788840339")[Mondays Zoom Link] | 
+This course is delivered synchronously online via Zoom:
+#link("https://nwpolytech.zoom.us/j/93788840339")[Mondays Zoom Link] |
 #link("https://nwpolytech.zoom.us/j/98442155071")[Friday Zoom Link]
 
 = LEARNING OUTCOMES
@@ -58,7 +56,7 @@ By the end of this course, students will be able to:
 - Understand and articulate the trends and themes in global contemporary art.
 - Develop skills and vocabulary for discussing and writing about contemporary art.
 
-= Transferability 
+= Transferability
 
 Please consult the Alberta Transfer Guide for more information. You may check the transferability of this course at the Alberta Transfer Guide main page http://www.transferalberta.alberta.ca.
 
@@ -95,7 +93,7 @@ Turning your camera off will result in not receiving participation credit (10%) 
 === Discussion Contribution
 Actively contribute to class discussions by asking questions, responding to prompts, and engaging with your peers' ideas.
 
-=== In-Class Activities  
+=== In-Class Activities
 Complete all micro-activities, such as polls and short collaborative tasks, announced during the session.
 
 === Note on Recordings
@@ -108,15 +106,15 @@ Sessions will be recorded for educational purposes. By participating, you consen
 ]
 
 == Discussion Board <eval:discussion>
-Ask one question related to the week's lecture or weekly readings on myClass, and respond to at least two of your classmates' questions. 
+Ask one question related to the week's lecture or weekly readings on myClass, and respond to at least two of your classmates' questions.
 
-- To receive #underline[full credit], your question should be thoughtful and relevant to the week's material. 
+- To receive #underline[full credit], your question should be thoughtful and relevant to the week's material.
 - Short or superficial replies will not receive credit.
 
 == Quizzes <eval:quizzes>
 There will be periodic quizzes based on the readings and lectures. These quizzes are designed to assess your understanding of the course material and your active note-taking during lectures.
 
-== Field Report <eval:artist-event-report> 
+== Field Report <eval:artist-event-report>
 This assignment assesses your ability to critically engage with contemporary art outside the classroom. You will attend a virtual or local art event (e.g., exhibition, artist talk, workshop) and write a 1000-word report analyzing the experience. More details will be provided in #underline[myClass].
 
 *Hint*: For writing an exhibition review see Sylvan Barnet, "Writing a Review of an Exhibition" #text(style: "italic")[@ASGWA], 1--34
@@ -158,12 +156,9 @@ Assignments must be submitted by midnight on the due date. Late submissions rece
 
 #pagebreak()
 
-= Course Schedule (Working)\* 
+= Course Schedule (Working)\*
 
 #schedule-table
 
 // Jan 6 2026 - Apr 23 2026
 // last day of classes: Apr 13 2026
-
-
-
