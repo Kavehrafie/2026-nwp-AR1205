@@ -58,7 +58,8 @@
     _Read_:
     - Joseph Leo Koerner, _The Moment of Self-Portraiture in German Renaissance Art_ (excerpt)
     // - #link("https://smarthistory.org/bosch-the-garden-of-earthly-delights/?sidebar=europe-1400-1500")["Hieronymus Bosch, The Garden of Earthly Delights" by Sally Hickson]
-    
+    - #link("https://smarthistory.org/reframing-art-history/printing-painting-northern-renaissance-art/")["Printing and painting in Northern Renaissance art" by Bonnie Noble]
+   
     _Watch_:
     - #link("https://youtu.be/q1X0Lj7YEMs")[Workshop of Robert Campin, Annunciation Triptych (Merode Altarpiece)]
     - #link("https://youtu.be/SMOEKQtPsY4")[Hieronymus Bosch, The Garden of Earthly Delights ]

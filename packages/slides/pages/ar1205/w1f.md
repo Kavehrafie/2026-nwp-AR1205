@@ -92,6 +92,12 @@ layout: two-cols
 - Still fulfilled Christian commissions
 -->
 
+<div v-drag="[47,15,388,478]" v-click="[1]">
+
+
+![](https://cdn2.penguin.com.au/covers/original/9780140444605.jpg)
+</div>
+
 ---
 
 ![Fifteenth century Italy](https://res.cloudinary.com/image-solar/image/upload/v1767974006/2026nwp-ar1205/Screenshot_9-1-2026_75022__vmhsf4.jpg)
@@ -119,6 +125,8 @@ layout: two-cols
 
 **Term Note:**
 - "Renaissance" (French "rebirth") applied by later historians
+
+Vasari's "Lives of the Most Excellent Painters, Sculptors, and Architects" (1550, 1568) popularized term
 -->
 
 ---
@@ -453,6 +461,23 @@ Donatello, David, c. 1440, bronze, 158 cm (Museo Nazionale de Bargello, Florence
 -->
 
 ---
+layout: top-title-cols
+hide: true
+---
+
+:: title ::
+
+### Compare 🗨️
+
+:: right :: 
+
+![Donatello, David, c. 1440, bronze](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Florenz_-_Bargello_2014-08-09r.jpg/1152px-Florenz_-_Bargello_2014-08-09r.jpg)
+
+:: left :: 
+
+![]()
+
+---
 
 <div flex gap-2 h-120>
 
@@ -491,14 +516,39 @@ The bronze doors that Lorenzo Ghiberti (1381?–1455) produced for the Florentin
 <Asterisk />
 
 <!-- 
-Ghiberti organized the space in the ten square reliefs either by a system of linear perspective with obvious orthogonal lines (see “Renaissance Perspective” on page 623) or more intuitively by a series of arches, rocks, or trees charting a path into the distance. Foreground figures are grouped in the lower third of each panel, while the other figures decrease
-gradually in size to map their positioning in deep space.
-The use of a system of perspective, with clearly differen-
-tiated background and foreground, also helped Ghiberti
-combine a series of related events, separated by narrative
-time, within a single pictorial frame.
+**Ghiberti's Spatial Organization:**
+- Used linear perspective with clear orthogonal lines
+- Alternatively used intuitive elements (arches, rocks, trees) to create depth
+- Foreground figures placed in lower third of panels
+- Figures gradually decrease in size to show depth
+- Clear distinction between background and foreground
 
-The story of JACOB AND ESAU (Genesis 25 and 27) fills the center panel of the left door. Ghiberti creates a coher- ent and measurable space peopled by graceful, idealized figures (FIG. 20–17). He pays careful attention to one-point perspective in laying out the architectural setting. Square in the pavement establish the receding lines of the orthog- onals that converge on a vanishing point under the loggia, while towering arches overlap and gradually diminish in size from foreground to background to define the receding space above the figures. The story unfolds in a series of individual episodes beginning in the background. On the rooftop (upper right) Rebecca stands, listening as God warns of her unborn sons’ future conflict; under the left-hand arch she gives birth to the twins. The adult Esau sells his rights as oldest son to his brother Jacob, and when he goes hunting (center right), Rebecca and Jacob plot against him. Finally, in the right foreground, Jacob receives Isaac’s blessing, while in the center, Esau faces his father. Ghiberti’s portrayal of the scene relates more closely to developments in painting than to contemporary sculpture. Ghiberti not only signed his work, but also included hisself-portrait in the medallion beside the lower right corner of this panel.
+**Narrative Technique:**
+- Combined multiple related events in single frame
+- Events separated by narrative time but unified spatially
+- Allowed complex storytelling within one pictorial space
+
+**Jacob and Esau Panel (Genesis 25 & 27):**
+- Center panel of left door
+- Coherent, measurable space with graceful idealized figures
+- One-point perspective in architectural setting
+- Square pavement tiles create receding orthogonal lines
+- Vanishing point located under the loggia
+- Towering arches overlap and diminish from foreground to background
+
+**Story Sequence (Background to Foreground):**
+- **Upper right rooftop:** Rebecca listens as God warns of her unborn sons' future conflict
+- **Under left arch:** Rebecca gives birth to twins
+- **Center right:** Adult Esau sells his birthright to Jacob
+- **Center right:** Esau goes hunting; Rebecca and Jacob plot against him
+- **Right foreground:** Jacob receives Isaac's blessing
+- **Center:** Esau faces his father
+
+**Artistic Significance:**
+- Relates more closely to contemporary painting than sculpture
+- Ghiberti signed the work
+- Included self-portrait in medallion at lower right corner
+- Demonstrates mastery of perspective and narrative composition
 
 
 -->
@@ -559,27 +609,38 @@ color: black
 <Asterisk />
 
 <!-- 
+**Figures & Spatial Organization:**
+- Measured progression through barrel-vaulted space
+- **Trinity (recessed space):** Jesus on cross, Holy Spirit (dove) above, God the Father supporting cross
+- **Flanking figures:** Virgin Mary and John the Evangelist contemplate the scene
+- **Donors:** Lenzi family kneels at pilasters (closer to viewer)
+- **Memento Mori:** Skeleton in open sarcophagus below
 
-The figures are organized in a measured progression
-through space. At the near end of the recessed, barrel-
-vaulted space is the Trinity—Jesus on the cross, the dove of
-the Holy Spirit poised in downward flight above his tilted
-halo, and God the Father, who stands behind to support
-the cross from his perch on a high platform. As in many
-scenes of the Crucifixion, Jesus is flanked by the Virgin
-Mary and John the Evangelist, who contemplate the scene
-on either side of the cross. Mary gazes calmly out at us, her
-raised hand drawing our attention to the Trinity. Members
-of the Lenzi family kneel in front of the pilasters—thus
-closer to us than the Crucifixion; the red robes of the male
-donor signify that he was a member of the governing coun-
-cil of Florence. Below these donors, in an open sarcopha-
-gus, is a skeleton, a grim reminder of the Christian belief
-that since death awaits us all, our only hope is redemption
-and the promise of life in the hereafter, rooted in Christ’s
-sacrifice on the cross. The inscription above the skeleton
-reads: “I was once that which you are, and what I am
-you also will be.”
+**Symbolism & Inscription:**
+- Red robes signify donor's role in Florence's governing council
+- Skeleton reminds viewers of mortality and hope for redemption
+- Inscription: "I was once that which you are, and what I am you also will be"
+
+**Architectural Illusion:**
+- Fresco creates illusion of stone funerary monument & altar table
+- Set below deep aedicula (framed niche) in wall
+- Effect of looking up into barrel-vaulted niche achieved through linear perspective
+
+**Perspective System:**
+- Vanishing point centered on horizon line at adult male eye level
+- Positioned just below kneeling figures above altar
+- Viewer's standing position determines spatial illusion
+
+**Architectural Elements:**
+- Unusual combination of Classical orders
+- **Wall surface:** Corinthian pilasters support plain architrave below cornice
+- **Niche interior:** Renaissance variations on Ionic columns
+- Columns support framing arches at front and rear of barrel vault
+
+**Lighting & Space:**
+- Consistent illumination source positioned in front of picture
+- Light casts reflections on coffers (sunken ceiling panels)
+- Enhances three-dimensional illusion
 
  -->
 
@@ -594,23 +655,26 @@ layout: flex
 
 <!-- 
 
-Masaccio’s fresco was meant to give the illusion of a
-stone funerary monument and altar table set below a deep
-aedicula (framed niche) in the wall. The effect of looking
-up into a barrel-vaulted niche was made plausible through
-precisely rendered linear perspective. The eye level of an
-adult male viewer standing within the church determined
-the horizon line on which the vanishing point was cen-
-tered, just below the kneeling figures above the altar.
+**Masaccio’s Illusionistic Architecture:**
+- Fresco creates illusion of stone funerary monument & altar table
+- Set below deep aedicula (framed niche) in wall
+- Effect of looking up into barrel-vaulted niche achieved through linear perspective
 
-The painted architecture is an
-unusual combination of Classical orders. On the wall sur-
-face, Corinthian pilasters support a plain architrave below
-a cornice, while inside the niche Renaissance variations on
-Ionic columns support framing arches at the front and rear
-of the barrel vault. The “source” of the consistent illumina-
-tion of the architecture lies in front of the picture, casting
-reflections on the coffers, or sunken panels, of the ceiling.
+**Perspective System:**
+- Vanishing point centered on horizon line at adult male eye level
+- Positioned just below kneeling figures above altar
+- Viewer's standing position determines spatial illusion
+
+**Architectural Elements:**
+- Unusual combination of Classical orders
+- **Wall surface:** Corinthian pilasters support plain architrave below cornice
+- **Niche interior:** Renaissance variations on Ionic columns
+- Columns support framing arches at front and rear of barrel vault
+
+**Lighting & Space:**
+- Consistent illumination source positioned in front of picture
+- Light casts reflections on coffers (sunken ceiling panels)
+- Enhances three-dimensional illusion
 
 
  -->
@@ -625,43 +689,28 @@ color: black
 
 <!-- 
 
-Masaccio’s brief career cul-
-minated in the frescos he painted on the walls of the Bran-
-cacci Chapel in the church of Santa Maria del Carmine in
-Florence. Two of the best-known scenes are THE EXPUL-
-SION OF ADAM AND EVE FROM PARADISE ( FIG. 20–21 )
-and THE TRIBUTE MONEY
+**Masaccio’s Tribute Money (c. 1427):**
+- Brancacci Chapel fresco cycle (Santa Maria del Carmine, Florence)
+- Highlights St. Peter (chapel dedication)
+- Based on Matthew 17:24–27
 
-- In The Tribute Money (SEE FIG. 20–22), Masaccio portrays an incident from the life of Jesus that highlights St. Peter (Matthew 17:24–27), to whom this chapel was dedicated.
+**Narrative Structure (Continuous Narrative):**
+- **Center:** Tax collector (red tunic) demands temple tax from Peter
+- **Left:** Peter retrieves coin from fish's mouth (following Jesus' instruction)
+- **Right:** Peter pays tax collector
+- **Significance:** 1427 Florence enacted graduated tax for defense
 
-In the central scene a tax collector (dressed in a short red tunic and seen from behind) asks Peter (in the left foreground with the short gray beard) if Jesus pays the Jewish temple tax (the “tribute money” of the title). Set against the stable backdrop of a semicircular block of apostolic observers, a masterful series of dynamic diagonals in the postures and gestures of the three main figures interlocks them in a compositional system that gives their interaction a sense of tension calling out for resolution. Jesus instructs Peter to “go to the sea, drop in a hook, and take the first fish that comes up,” which Peter does at the far left. In the fish’s mouth is a coin, which Peter gives to the tax collector at the far right. The tribute story was especially significant for Florentines because in 1427, to raise money for defense against military aggression, the city enacted a graduated tax, based on the value of people’s personal property.
+**Perspective & Composition:**
+- **Linear Perspective:** House orthogonals converge at Jesus' head (vanishing point)
+- **Atmospheric Perspective:** Distant figures/trees diminish in size
+- **Color:** Mountains fade from grayish-green to grayish-white
+- **Technique:** 32 giornate (daily plaster sections); details added *al secco* (dry plaster)
 
-The Tribute Money is particularly remarkable for its
-early use of both linear and atmospheric perspective to
-integrate figures, architecture, and landscape into a con-
-sistent whole. Jesus and the apostles surrounding him
-form a clear central focus, from which the landscape
-seems to recede naturally into the far distance. To cre-
-ate this illusion, Masaccio used linear perspective in the
-depiction of the house, and then reinforced it by dimin-
-ishing the sizes of the distant trees and the crouching
-Peter at far left. The central vanishing point established
-by the orthogonals of the house corresponds with the
-head of Jesus.
-
-
-The cleaning of the painting in the 1980s revealed that
-it was painted in 32 giornate (a giornata is a section of fresh
-plaster that could be prepared and painted in a single day;
-see “Buon Fresco” in Chapter 18 on page 551). The clean-
-ing also uncovered Masaccio’s subtle use of color to cre-
-ate atmospheric perspective in the distant landscape:
-Mountains fade from grayish-green to grayish-white, and
-the houses and trees on their slopes are loosely sketched
-to simulate the lack of clear definition when view-
-ing things in the distance through a haze. Green leaves
-were painted on the branches al secco (meaning “on the
-dry plastered wall”).
+**Innovation:**
+- Integrated figures, architecture, landscape into consistent spatial whole
+- Masterful use of diagonal postures/gestures creates tension
+- Jesus & apostles form clear central focus
+- Landscape recedes naturally into distance
 
  -->
 
@@ -746,61 +795,35 @@ color: black
 <Asterisk />
 
 <!-- 
+- **Botticelli's Context:**
+    - Outstanding portraitist
+    - Included recognizable contemporary figures in religious paintings
+    - Worked in Florence for the Medici
+    - Called to Rome in 1481 by Pope Sixtus IV to help decorate the Sistine Chapel (with Ghirlandaio, Perugino, and others)
 
- An out-
-standing portraitist, he, like Ghirlandaio, often included
-recognizable contemporary figures among the saints and
-angels in religious paintings. He worked in Florence, fre-
-quently for the Medici, before being called to Rome in 1481
-by Pope Sixtus IV to help decorate the new Sistine Chapel
-along with Ghirlandaio, Perugino, and other artists.
+- **Return to Florence & New Phase:**
+    - Exposed to philosophical speculations on beauty through humanistic patrons
+    - Influenced by examples of ancient art in Medici collections
+    - Produced secular paintings of mythological subjects inspired by ancient works and Neoplatonic thought
+    - Works patterned on slow movements of fifteenth-century Florentine dance
 
-Botticelli returned to Florence that same year and
-entered a new phase of his career. Like other artists work-
-ing for patrons steeped in Classical scholarship and
-humanistic thought, he was exposed to philosophical spec-
-ulations on beauty—as well as to the examples of ancient
-art in his employers’ collections. For the Medici, Botti-
-celli produced secular paintings of mythological subjects
-inspired by ancient works and by contemporary Neopla-
-tonic thought. Art historian Michael Baxandall has shown
-that these works were also patterned on the slow move-
-ments of fifteenth-century Florentine dance, in which the
-dancers acted out their relationships to one another in pub-
-lic performances that would have influenced the thinking
-and viewing habits of both painters and their audience.
+- **Birth of Venus:**
+    - Central image represents Neoplatonic idea of divine love
+    - Nude Venus based on antique "modest Venus" statue type (ultimately from Praxiteles's Aphrodite of Knidos)
+    - Classical goddess of love and beauty, born of sea foam
+    - Averts gaze, arranges hands and hair to hide—but draws attention to—sexuality
+    - Arrestingly alluring figure in graceful composition
+    - Characteristically decorative use of line
+    - Zephyrus (with nymph Chloris) blows Venus ashore on scallop shell
+    - Welcomed by devotee offering flower-embroidered garment
+    - Painted on canvas (suggests banner or tapestrylike wall hanging)
 
-Several years later, some of the same mythological
-figures reappeared in Botticelli’s BIRTH OF VENUS (FIG.
-20–35), in which the central image represents the Neopla-
-tonic idea of divine love in the form of a nude Venus based
-on an antique statue type known as the “modest Venus”
-ultimately deriving from Praxiteles’s Aphrodite of Knidos
-(SEE FIG. 5–54). Botticelli’s Classical goddess of love and
-beauty, born of sea foam, averts her eyes from our gaze as
-she floats ashore on a scallop shell, carefully arranging her
-hands and hair to hide—but actually drawing attention to—her sexuality. Indeed, she is an arrestingly alluring fig-
-ure, set within a graceful composition organized by Bot-
-ticelli’s characteristically decorative use of line. Blown by
-the wind, Zephyrus (with his love, the nymph Chloris),
-Venus arrives at her earthly home. She is welcomed by a
-devotee who offers her a garment embroidered with flow-
-ers. The circumstances of this commission are uncertain. It
-is painted on canvas, which suggests that it may have been
-a banner or a painted, tapestrylike wall hanging.
-
-Botticelli’s later career was apparently affected by
-a profound spiritual crisis. While the artist was creating
-his mythologies for the Medici, a Dominican monk, Fra
-Girolamo *Savonarola* (active in Florence 1490–1498), was
-preaching impassioned sermons denouncing the world-
-liness of Florence. Many Florentines reacted with orgies
-of self-recrimination, and processions of weeping peni-
-tents wound through the streets. Botticelli, too, may have
-fallen into a state of religious fervor. In a gesture of repen-
-tance, he burned many of his earlier paintings and began
-to produce highly emotional pictures dominated by an
-intense religiosity.
+- **Later Career & Spiritual Crisis:**
+    - Affected by profound spiritual crisis
+    - Fra Girolamo Savonarola (active 1490–1498) preached against worldliness of Florence
+    - Many Florentines reacted with self-recrimination and penitent processions
+    - Botticelli may have fallen into religious fervor
+    - Burned many earlier paintings in gesture of repentance
+    - Began producing highly emotional pictures dominated by intense religiosity
 
  -->
-
