@@ -250,9 +250,31 @@ Pollock's emotion transcended the personal to express broader cultural reality.
  -->
 
 ---
+layout: two-cols
+color: zinc
+---
 
-Pollock, Newman, Rothko, Gottlieb intersted in connecting to and creatinga collective conssciousness through as they believed to be found in Native American art, mythology, and ritual. Symbols like the "zips" of Newman and the "multiforms" of Gottlieb were inspired by Native American motifs. Archytypal themes of creation, destruction, and rebirth were central to their work. Gustav Jung's theories of the collective unconscious and archetypes also influenced these artists, who sought to tap into universal human experiences. Thus they were sometimes referred to as the "mythmakers" of Abstract Expressionism, (they strived to invent a new mythology for the modern age through their art.)
+:: right ::
 
+![Jackson Pollock, _Totem Lesson 2_, oil on canvas](https://www.artchive.com/wp-content/uploads/2024/04/totem-lesson-2-jackson-pollock-1945.jpg)
+
+:: left ::
+
+![]()
+
+<!-- Pollock, Newman, Rothko, Gottlieb intersted in connecting to and creatinga collective conssciousness through as they believed to be found in Native American art, mythology, and ritual. Symbols like the "zips" of Newman and the "multiforms" of Gottlieb were inspired by Native American motifs. Archytypal themes of creation, destruction, and rebirth were central to their work. Gustav Jung's theories of the collective unconscious and archetypes also influenced these artists, who sought to tap into universal human experiences. Thus they were sometimes referred to as the "mythmakers" of Abstract Expressionism, (they strived to invent a new mythology for the modern age through their art.)
+
+Newman woking as curator and art critic he enstablished analogy between the function of Native American aesthetics and that of the New Yorlk School painters. Working with the gallerist Betty Parsons, he participated in organizing ans writing essays for exhibitions of pre-Columbian and Northwest Coast Indian art in 1944 and 1947 respectively
+
+Pollock possessed several volumes of the Annual Report of the Bureau of American Ethnology, which contained photographs and descriptions of Native American art and artifacts.  -->
+
+---
+layout: quote
+color: zinc
+author: Barnet Newman, an essay on a show, 1944
+---
+
+The New York art public found that these arts held for them a personal message. The were no longer the historical curiosities of a forgotten people, the crude expression of a primitive, underdeveloped people. Rather, they were the sublime creation of highly sophisticated artists with the same doubts, the same wondering, and the same searching for salvation ... which activates men of spirit of today.
 
 ---
 
@@ -344,20 +366,16 @@ layout: two-cols
 
 :: right ::
 
-![Franz Kline
-Nijinsky 1950
-Enamel on canvas
-1156 x 886 mm](https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/fig2klinenijinsky1950.width-540_LxyVqC4.jpg)
+![Franz Kline, Nijinsky 1950,Enamel on canvas, 1156 x 886 mm](https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/fig2klinenijinsky1950.width-540_LxyVqC4.jpg)
 
 :: left ::
 
-![Franz Kline
-Large Clown (Nijinsky as Petrouchka) c.1948
-Oil on canvas
-841 x 714 mm](https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/fig1klinelargeclownnijinskyaspetrouchkac.1948.width-1440_njee4WZ.jpg)
+![Franz Kline, Large Clown (Nijinsky as Petrouchka) c.1948, Oil on canvas, 841 x 714 mm](https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/fig1klinelargeclownnijinskyaspetrouchkac.1948.width-1440_njee4WZ.jpg)
 
 <!-- 
 
 
 source: https://www.tate.org.uk/research/in-focus/meryon/abstraction
- -->
+-->
+
+---
