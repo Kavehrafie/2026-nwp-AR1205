@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, watch, computed, onMounted } from "vue";
+import { ref, watch, computed, onMounted, nextTick } from "vue";
 import { useSlideContext } from "@slidev/client";
 import { tv } from "tailwind-variants";
 import { useRTL } from "../composables/useRTL";
@@ -13,6 +13,7 @@ type TimelineEvent = {
   image?: string;
   variant?: "default" | "stacked";
   icon?: "art" | "war" | "revolution" | "flag";
+  color?: string; // Event-specific color override (e.g., "red", "blue", "green")
 };
 
 const props = defineProps<{
@@ -41,6 +42,19 @@ const { directionClasses, isRTL, autoDetectFromSlide } = useRTL({
 const count = computed(() => props.events.length);
 
 const colorscheme = computed(() => {
+  return props.color ? `neversink-${props.color}-scheme` : 'neversink-white-scheme';
+});
+
+// Dynamic slide color based on current event
+const currentSlideColor = computed(() => {
+  const currentClick = $clicks.value;
+  if (currentClick > 0 && currentClick <= props.events.length) {
+    const event = props.events[currentClick - 1];
+    if (event.color) {
+      return `neversink-${event.color}-scheme`;
+    }
+  }
+  // Fallback to global color or default
   return props.color ? `neversink-${props.color}-scheme` : 'neversink-white-scheme';
 });
 
@@ -102,7 +116,7 @@ const timelineVariants = tv({
     },
     iconVariant: {
       war: {
-        icon: "i-ph-airplane-tilt-fill",
+        icon: "i-ph-sword-fill",
       },
       art: {
         icon: "i-ph-paint-brush-fill",
@@ -221,53 +235,53 @@ const updateContainerCache = (container: HTMLElement) => {
   }
 };
 
-watch($clicks, (currentClick, previousClick) => {
-  // Use requestAnimationFrame for smoother timing
-  requestAnimationFrame(() => {
-    const container = timelineContainerRef.value;
-    if (!container || !eventRefs.value.length) return;
+watch($clicks, async (currentClick) => {
+  // Wait for DOM to update after click
+  await nextTick();
+  
+  const container = timelineContainerRef.value;
+  if (!container || !eventRefs.value.length) return;
 
-    // Handle the case where currentClick is 0 (initial state)
-    if (currentClick === 0) {
-      smoothScrollTo(container, 0, 500);
-      return;
-    }
+  // Handle the case where currentClick is 0 (initial state)
+  if (currentClick === 0) {
+    smoothScrollTo(container, 0, 500);
+    return;
+  }
 
-    const eventIndex = currentClick - 1;
-    if (eventIndex >= 0 && eventIndex < eventRefs.value.length) {
-      const targetEvent = eventRefs.value[eventIndex];
-      if (targetEvent) {
-        // Update cache to minimize reflows
-        updateContainerCache(container);
-        
-        // Get the event's position relative to the container
-        const eventOffsetLeft = targetEvent.offsetLeft;
-        const eventWidth = targetEvent.offsetWidth;
-        const { width: containerWidth, maxScroll } = containerCache.value;
-        
-        // Position event slightly to the right (60% of viewport) to keep previous event visible
-        // This places the new event at 60% of the viewport width, leaving 40% on the left for the previous event
-        const targetScrollLeft = eventOffsetLeft - (containerWidth * 0.67) + (eventWidth / 2);
-        
-        // Ensure we don't scroll beyond bounds
-        const finalScrollLeft = Math.max(0, Math.min(targetScrollLeft, maxScroll));
-        
-        // Calculate dynamic duration based on scroll distance for smoother feel
-        const scrollDistance = Math.abs(finalScrollLeft - container.scrollLeft);
-        const dynamicDuration = Math.min(500 + (scrollDistance / 5), 1000);
-        
-        // Use custom smooth scroll with better easing and dynamic duration
-        smoothScrollTo(container, finalScrollLeft, dynamicDuration);
-      }
+  const eventIndex = currentClick - 1;
+  if (eventIndex >= 0 && eventIndex < eventRefs.value.length) {
+    const targetEvent = eventRefs.value[eventIndex];
+    if (targetEvent) {
+      // Update cache to minimize reflows
+      updateContainerCache(container);
+      
+      // Get the event's position relative to the container
+      const eventOffsetLeft = targetEvent.offsetLeft;
+      const eventWidth = targetEvent.offsetWidth;
+      const { width: containerWidth, maxScroll } = containerCache.value;
+      
+      // Position event slightly to the right (60% of viewport) to keep previous event visible
+      // This places the new event at 60% of the viewport width, leaving 40% on the left for the previous event
+      const targetScrollLeft = eventOffsetLeft - (containerWidth * 0.67) + (eventWidth / 2);
+      
+      // Ensure we don't scroll beyond bounds
+      const finalScrollLeft = Math.max(0, Math.min(targetScrollLeft, maxScroll));
+      
+      // Calculate dynamic duration based on scroll distance for smoother feel
+      const scrollDistance = Math.abs(finalScrollLeft - container.scrollLeft);
+      const dynamicDuration = Math.min(500 + (scrollDistance / 5), 1000);
+      
+      // Use custom smooth scroll with better easing and dynamic duration
+      smoothScrollTo(container, finalScrollLeft, dynamicDuration);
     }
-  });
+  }
 });
 </script>
 
 <template>
   <div 
-    class="slidev-layout timeline flex h-full w-full overflow-hidden p-0 relative slidecolor"
-    :class="[directionClasses, colorscheme, { 'flex-row-reverse': isRTL }]"
+    class="slidev-layout timeline flex h-full w-full overflow-hidden p-0 relative slidecolor color-scheme-transition"
+    :class="[directionClasses, currentSlideColor, { 'flex-row-reverse': isRTL }]"
     :dir="isRTL ? 'rtl' : 'ltr'"
   >
     <!-- Independent content overlay positioned relative to the entire slide -->
@@ -455,6 +469,14 @@ watch($clicks, (currentClick, previousClick) => {
   will-change: transform, opacity;
   transform: translateZ(0);
   -webkit-transform: translateZ(0);
+}
+
+/* Smooth transition for entire slide color scheme */
+.color-scheme-transition {
+  transition: 
+    background-color 800ms cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    color 800ms cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    border-color 800ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
 .slidev-vclick-target h2 {

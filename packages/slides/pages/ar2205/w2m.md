@@ -387,63 +387,10 @@ quotesize: "text-3xl"
 
 The book was written after the Fall of the Wall. That is, at a moment when there was general agreement, on the part of masses and elites in most of the world, that the project called <span v-mark.red="{at: 1}">socialism</span> had come to an end---at roughly the same time, it seems, as the project called <span v-mark.red>modernism</span>. ... something of socialism and modernism has died, in both cases deservedly; ... If they died together, does that mean in some sense they lived together, in century-long co-dependence?
 
----
 
-## Institutionalization of Modernism in the Postwar Era
-
-![Cezanne, Gauguin, Seurat, van Gogh, Nov 7–Dec 7, 1929, MoMA, NY](https://res.cloudinary.com/image-solar/image/upload/v1768542956/2026nwp-ar2205/ex1_c2juyg.jpg)
-
-<!-- 
-
-
-In the late 1920s, a small group of enterprising patrons of the arts joined forces to create a new museum devoted exclusively to modern art. Establishing a dedicated board of trustees and recruiting the pioneering young scholar Alfred H. Barr, Jr., as founding director, the group created The Museum of Modern Art in 1929. The inaugural exhibition at the Museum featured the work of Cezanne, Gauguin, Seurat, and Van Gogh, four of the most celebrated European Post-Impressionist painters. It was met with great enthusiasm: although each artist’s brilliance was well established, it was still rare at the time to see their work exhibited in New York. The exhibition helped to define the Museum’s significant ambitions at its founding as one of first museums of modern and contemporary art in the country.
-
- -->
 
 ---
-
-![Jackson Pollock. Number 1A, 1948.](https://www.moma.org/media/W1siZiIsIjQ3NzIxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=5781e3be575ea954)
-
-<Box v-drag="[713,418,226,66]" v-click p-4>
-
-#### allover painting ✏️
-</Box>
-
-<!-- 
-
-- By 1947 Pollock had begun to experiment with “allover painting,” a labyrinthine network of lines, splatters, and paint drips from which emerged the great drip or poured paintings of the next few years.
-
-Number 1A, 1948 (fig. 16.8) is an early realization of his
-distinctive approach to drip painting. Its intricate web of oil colors mixed with black enamel and aluminum paint asserts and then subverts the viewer’s attempt to interpret the image a sequence of overlapping webs or as a sort of veil obscur-
-ing an underlying subject. Thin lines of dripped pigment
-commingle with broader strokes and even handprints in the
-upper right quadrant, while smudges of red-pink punctu-
-ate the lower left portion of the composition, asserting the
-possibility of a distinct foreground before dissolving into the
-play of colors across the plane of the canvas.
-
-In Pollock’s Number 1A, 1948 one can trace the move-
-ments of the artist’s arm, swift and assured, as he deployed
-sticks or dried-out brushes to drip paint onto the surface.
-His lines are divorced from any descriptive function and
-range from string-like thinness to coagulated puddles, all
-merging into a hazy, luminous whole that seems to hover
-above the picture plane rather than illusionistically behind it. These paintings, generally executed on a large canvas
-laid out on the floor, are popularly associated with so-called
-Action Painting. It was never the intention of the critic Har-
-old Rosenberg, in coining this term, to imply that Action
-Painting was limited to a kind of athletic exercise, but rather
-that the process of painting was as important as the com-
-pleted picture (see Harold Rosenberg’s The American Action
-Painters, p. 386). Despite the furious and seemingly hap-
-hazard nature of his methods, Pollock’s painting was not a
-completely uncontrolled, intuitive act.
-
-- Jazz improvisatio
-
- -->
-
----
+hide: true
 layout: timeline
 color: zinc-light
 events:
