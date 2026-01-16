@@ -379,6 +379,28 @@ color: navy
  -->
 
 ---
+layout: quote
+author: "TJ Clark, <i>A Farewell to an Idea</i>"
+color: slate
+quotesize: "text-3xl"
+---
+
+The book was written after the Fall of the Wall. That is, at a moment when there was general agreement, on the part of masses and elites in most of the world, that the project called <span v-mark.red="{at: 1}">socialism</span> had come to an end---at roughly the same time, it seems, as the project called <span v-mark.red>modernism</span>. ... something of socialism and modernism has died, in both cases deservedly; ... If they died together, does that mean in some sense they lived together, in century-long co-dependence?
+
+---
+
+## Institutionalization of Modernism in the Postwar Era
+
+![Cezanne, Gauguin, Seurat, van Gogh, Nov 7–Dec 7, 1929, MoMA, NY](https://res.cloudinary.com/image-solar/image/upload/v1768542956/2026nwp-ar2205/ex1_c2juyg.jpg)
+
+<!-- 
+
+
+In the late 1920s, a small group of enterprising patrons of the arts joined forces to create a new museum devoted exclusively to modern art. Establishing a dedicated board of trustees and recruiting the pioneering young scholar Alfred H. Barr, Jr., as founding director, the group created The Museum of Modern Art in 1929. The inaugural exhibition at the Museum featured the work of Cezanne, Gauguin, Seurat, and Van Gogh, four of the most celebrated European Post-Impressionist painters. It was met with great enthusiasm: although each artist’s brilliance was well established, it was still rare at the time to see their work exhibited in New York. The exhibition helped to define the Museum’s significant ambitions at its founding as one of first museums of modern and contemporary art in the country.
+
+ -->
+
+---
 
 ![Jackson Pollock. Number 1A, 1948.](https://www.moma.org/media/W1siZiIsIjQ3NzIxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=5781e3be575ea954)
 
@@ -440,7 +462,7 @@ events:
   - year: "1948"
     title: "The Nakba"
     description: "Mass displacement of Palestinians during the 1948 Arab-Israeli War."
-    icon: "war"The Entangled 
+    icon: "war"
   - year: "1950s"
     title: "Abstract Expressionism"
     description: "The Art World center shifts from Paris to New York."

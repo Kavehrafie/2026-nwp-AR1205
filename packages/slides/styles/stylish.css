@@ -2,3 +2,114 @@ u {
   text-decoration: underline wavy;
   text-decoration-color: var(--neversink-accent-color);
 }
+
+/* Quotation block styles */
+blockquote {
+  position: relative !important;
+  padding: 0.5rem 1rem 0.5rem 3.5rem !important;
+  margin: 2rem 0 !important;
+  font-style: italic;
+  border-left: 5px solid var(--neversink-accent-color) !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+
+@keyframes quoteFadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+  to {
+    opacity: 0.3;
+    transform: scale(1);
+  }
+}
+
+@keyframes quoteFadeInRotated {
+  from {
+    opacity: 0;
+    transform: rotate(180deg) scale(0.5);
+  }
+  to {
+    opacity: 0.3;
+    transform: rotate(180deg) scale(1);
+  }
+}
+
+@keyframes blockquoteOpen {
+  from {
+    opacity: 0;
+    transform: scaleX(0);
+  }
+  to {
+    opacity: 1;
+    transform: scaleX(1);
+  }
+}
+
+blockquote::before {
+  content: "" !important;
+  position: absolute;
+  left: 0.3rem;
+  top: -0.5rem;
+  width: 3rem;
+  height: 3rem;
+  color: var(--neversink-accent-color);
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 36 36' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11.86,16.55a4.31,4.31,0,0,0-2.11.56,14.44,14.44,0,0,1,4.36-6,1.1,1.1,0,0,0-1.4-1.7c-4,3.25-5.78,7.75-5.78,10.54A5.08,5.08,0,0,0,10,24.58a4.4,4.4,0,0,0,1.88.44,4.24,4.24,0,1,0,0-8.47Z' fill='black'/%3E%3Cpath d='M23,16.55a4.29,4.29,0,0,0-2.11.56,14.5,14.5,0,0,1,4.35-6,1.1,1.1,0,1,0-1.39-1.7c-4,3.25-5.78,7.75-5.78,10.54a5.08,5.08,0,0,0,3,4.61A4.37,4.37,0,0,0,23,25a4.24,4.24,0,1,0,0-8.47Z' fill='black'/%3E%3C/svg%3E");
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.3;
+}
+
+blockquote::after {
+  content: "" !important;
+  position: absolute;
+  right: -0.5rem;
+  bottom: -0.5rem;
+  width: 3rem;
+  height: 3rem;
+  color: var(--neversink-accent-color);
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 36 36' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11.86,16.55a4.31,4.31,0,0,0-2.11.56,14.44,14.44,0,0,1,4.36-6,1.1,1.1,0,0,0-1.4-1.7c-4,3.25-5.78,7.75-5.78,10.54A5.08,5.08,0,0,0,10,24.58a4.4,4.4,0,0,0,1.88.44,4.24,4.24,0,1,0,0-8.47Z' fill='black'/%3E%3Cpath d='M23,16.55a4.29,4.29,0,0,0-2.11.56,14.5,14.5,0,0,1,4.35-6,1.1,1.1,0,1,0-1.39-1.7c-4,3.25-5.78,7.75-5.78,10.54a5.08,5.08,0,0,0,3,4.61A4.37,4.37,0,0,0,23,25a4.24,4.24,0,1,0,0-8.47Z' fill='black'/%3E%3C/svg%3E");
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.3;
+  transform: rotate(180deg);
+}
+
+
+blockquote p {
+  margin: 0.5rem 0;
+  line-height: 1.6;
+  color: var(--neversink-text-color);
+  opacity: 0.95;
+}
+
+blockquote p:first-child {
+  margin-top: 0;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Quote layout specific enhancements */
+.slidev-layout.quote blockquote {
+  border-left-width: 6px !important;
+  padding-left: 4.5rem !important;
+  font-size: 1.4em;
+}
+
+.slidev-layout.quote blockquote::before {
+  width: 4rem;
+  height: 4rem;
+  left: 0.5rem;
+  top: -0.8rem;
+}
+
+.slidev-layout.quote blockquote::after {
+  width: 4rem;
+  height: 4rem;
+  right: 0.5rem;
+  bottom: -0.8rem;
+}

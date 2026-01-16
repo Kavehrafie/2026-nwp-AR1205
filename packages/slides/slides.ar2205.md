@@ -57,6 +57,10 @@ src: "./pages/ar2205/w2m.md"
 ---
 
 ---
+src: "./pages/ar2205/w2f.md"
+---
+
+---
 layout: center
 color: zinc-light
 hideInToc: true

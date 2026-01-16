@@ -175,14 +175,15 @@ const overlayStyles = computed(() => {
 });
 
 // Custom smooth scroll function with better easing
-const smoothScrollTo = (element: HTMLElement, targetScrollLeft: number, duration: number = 600) => {
+const smoothScrollTo = (element: HTMLElement, targetScrollLeft: number, duration: number = 800) => {
   const startScrollLeft = element.scrollLeft;
   const distance = targetScrollLeft - startScrollLeft;
   let startTime: number | null = null;
   
-  // Custom easing function for more natural feel (ease-out cubic)
-  const easeOutCubic = (t: number): number => {
-    return 1 - Math.pow(1 - t, 3);
+  // Enhanced easing function for ultra-smooth feel (ease-out quartic)
+  // This provides a more natural deceleration at the end
+  const easeOutQuartic = (t: number): number => {
+    return 1 - Math.pow(1 - t, 4);
   };
   
   const animation = (currentTime: number) => {
@@ -190,7 +191,7 @@ const smoothScrollTo = (element: HTMLElement, targetScrollLeft: number, duration
     const elapsed = currentTime - startTime;
     const progress = Math.min(elapsed / duration, 1);
     
-    const easedProgress = easeOutCubic(progress);
+    const easedProgress = easeOutQuartic(progress);
     element.scrollLeft = startScrollLeft + (distance * easedProgress);
     
     if (progress < 1) {
@@ -220,7 +221,7 @@ const updateContainerCache = (container: HTMLElement) => {
   }
 };
 
-watch($clicks, (currentClick) => {
+watch($clicks, (currentClick, previousClick) => {
   // Use requestAnimationFrame for smoother timing
   requestAnimationFrame(() => {
     const container = timelineContainerRef.value;
@@ -228,7 +229,7 @@ watch($clicks, (currentClick) => {
 
     // Handle the case where currentClick is 0 (initial state)
     if (currentClick === 0) {
-      smoothScrollTo(container, 0, 400);
+      smoothScrollTo(container, 0, 500);
       return;
     }
 
@@ -251,8 +252,12 @@ watch($clicks, (currentClick) => {
         // Ensure we don't scroll beyond bounds
         const finalScrollLeft = Math.max(0, Math.min(targetScrollLeft, maxScroll));
         
-        // Use custom smooth scroll with better easing
-        smoothScrollTo(container, finalScrollLeft, 600);
+        // Calculate dynamic duration based on scroll distance for smoother feel
+        const scrollDistance = Math.abs(finalScrollLeft - container.scrollLeft);
+        const dynamicDuration = Math.min(500 + (scrollDistance / 5), 1000);
+        
+        // Use custom smooth scroll with better easing and dynamic duration
+        smoothScrollTo(container, finalScrollLeft, dynamicDuration);
       }
     }
   });
@@ -352,7 +357,7 @@ watch($clicks, (currentClick) => {
   min-width: 100%;
   width: max-content;
   gap: 0 20px;
-  scroll-behavior: auto;
+  scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
   /* Hardware acceleration hints */
   will-change: scroll-position;
@@ -361,6 +366,11 @@ watch($clicks, (currentClick) => {
   /* Enable GPU acceleration */
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
+  /* Enable smooth scrolling with hardware acceleration */
+  overflow-x: scroll;
+  overflow-y: hidden;
+  /* Force GPU layer for smoother scrolling */
+  perspective: 1000px;
 }
 
 /* RTL version of the grid */
@@ -441,7 +451,7 @@ watch($clicks, (currentClick) => {
 
 /* Enhanced animations with better easing and hardware acceleration */
 .slidev-vclick-target {
-  transition: all 500ms cubic-bezier(0.34, 1.56, 0.64, 1);
+  transition: all 600ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
   will-change: transform, opacity;
   transform: translateZ(0);
   -webkit-transform: translateZ(0);
@@ -450,7 +460,7 @@ watch($clicks, (currentClick) => {
 .slidev-vclick-target h2 {
   opacity: 1;
   transition-delay: 150ms;
-  transition: all 400ms cubic-bezier(0.34, 1.56, 0.64, 1);
+  transition: all 500ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
   will-change: transform, opacity;
 }
 
@@ -459,6 +469,7 @@ watch($clicks, (currentClick) => {
   pointer-events: none;
   transform: translateX(-60px);
   will-change: transform, opacity;
+  transition: all 600ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
 .slidev-vclick-hidden h2 {
