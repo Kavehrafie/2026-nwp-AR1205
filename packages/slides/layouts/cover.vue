@@ -25,7 +25,7 @@ const bgImageStyle = computed(() => {
 
 <template>
   <div class="slidev-layout cover h-full slidecolor" :class="colorscheme" :style="{ '--bg-image-url': bgImageStyle }">
-    <div class="overlay backdrop-blur-sm absolute inset-0 slidecolor opacity-50"  v-if="!!background" />
+    <div class="overlay backdrop-blur-md absolute inset-0 slidecolor opacity-50"  v-if="!!background" />
     <div class="myauto w-full z-1">
       <slot />
     </div>

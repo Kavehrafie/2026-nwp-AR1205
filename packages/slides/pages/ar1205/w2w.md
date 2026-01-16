@@ -20,6 +20,7 @@ Sacred Realism and the Self
 <div v-click="[1]" v-drag="[25,126,146,62]">
 
 Polyptych ✏️
+Triptych ✏️
 </div>
 
 <div v-click="[2]" v-drag="[159,29,663,484]" class="bg-white/80 backdrop-blur-sm">
@@ -27,7 +28,7 @@ Polyptych ✏️
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d4/Lamgods_closed.jpg)
 </div>
 
-<!-- 
+<!--
 Made for the prestige chapel of the Saint Bavo Cathedral in Ghent, Belgium.
 
 Jan's brother Hubert began the altarpiece, and Jan completed it after Hubert's death in 1426.
@@ -49,7 +50,7 @@ Jan's brother Hubert began the altarpiece, and Jan completed it after Hubert's d
 - bottom: donors (patrons who commissioned the altarpiece) and two saints (St. John the Baptist and St. John the Evangelist)
 
 awkward proportions and perspective
- -->
+-->
 
 ---
 color: black

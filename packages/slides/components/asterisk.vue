@@ -42,7 +42,7 @@ const opacityStyle = computed(() => {
 
 <template>
   <div 
-    class="asterisk absolute slidecolor" 
+    class="asterisk absolute " 
     :class="[sizeClasses, positionClasses]"
     :style="opacityStyle"
   >

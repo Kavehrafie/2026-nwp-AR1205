@@ -387,7 +387,20 @@ quotesize: "text-3xl"
 
 The book was written after the Fall of the Wall. That is, at a moment when there was general agreement, on the part of masses and elites in most of the world, that the project called <span v-mark.red="{at: 1}">socialism</span> had come to an end---at roughly the same time, it seems, as the project called <span v-mark.red>modernism</span>. ... something of socialism and modernism has died, in both cases deservedly; ... If they died together, does that mean in some sense they lived together, in century-long co-dependence?
 
+<!-- 
 
+The Fall of the Berlin Wall and the End of History (1989)
+
+### End of History 
+
+- The phrase "The End of History" was popularized by political philosopher Francis Fukuyama in his 1989 essay and subsequent 1992 book, "The End of History and the Last Man."
+- Fukuyama argued that with the end of the Cold War and the apparent triumph of liberal democracy and capitalism, humanity had reached the "end point" of its ideological evolution.
+- He suggested that liberal democracy had emerged as the final and most successful form of government, and that there were no viable alternatives left to challenge it.
+
+### leading to the Iraq-War
+- the 2001 September 11 attacks in the United States, which led to the U.S.-led invasion of Afghanistan in 2001 and the Iraq War in 2003.
+- 
+ -->
 
 ---
 hide: true
@@ -512,16 +525,3 @@ events:
     icon: "revolution"
 ---
 
-<!-- 
-
-
-### End of History 
-
-- The phrase "The End of History" was popularized by political philosopher Francis Fukuyama in his 1989 essay and subsequent 1992 book, "The End of History and the Last Man."
-- Fukuyama argued that with the end of the Cold War and the apparent triumph of liberal democracy and capitalism, humanity had reached the "end point" of its ideological evolution.
-- He suggested that liberal democracy had emerged as the final and most successful form of government, and that there were no viable alternatives left to challenge it.
-
-### leading to the Iraq-War
-- the 2001 September 11 attacks in the United States, which led to the U.S.-led invasion of Afghanistan in 2001 and the Iraq War in 2003.
-- 
- -->

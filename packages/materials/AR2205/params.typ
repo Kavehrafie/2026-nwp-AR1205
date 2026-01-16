@@ -26,8 +26,9 @@
   - TJ Clark, "Introduction," in _Farewell to an Idea: Episodes from a History of Modernism_
 ]
 
-#let post_war_new_york = session("When New York Stole the Idea of Modern Art")[
-  
+#let post_war_new_york = session("High Modernism in New York")[
+  A short survey of Abstract Expressionism and its key figures in post-war New York during the Cold War.
+
   _Read_:
   - David Joselit, from _American Art Since 1945_
 ]

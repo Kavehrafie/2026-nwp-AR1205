@@ -1,18 +1,40 @@
 ---
 layout: cover
 transition: slide-left
-color: teal
+color: black
 title: "Week 2: <b>Fri, Jan 16</b>"
 level: 1
+background: "https://res.cloudinary.com/image-solar/image/upload/e_blur:200/v1768540663/2026nwp-ar2205/jackson_pollock-autumn_rhythm_number_30_-1950-trivium-art-history-1_a29eur.jpg"
 ---
 
 
-## 
+## High Modernism in New York
 #### WEEK 2
 
 
 :: note:: 
 Friday, January 16, 2026
+
+---
+color: fuchsia
+layout: center
+---
+
+## What is High Modernism? ✏️
+
+<!-- 
+
+High Modernism refers to the moment in modern art (roughly late 1940s through the early 1960s) when modernist principles become self‑conscious, purified, and institutionally dominant.
+At its core, High Modernism emphasizes:
+
+- Art’s autonomy (art exists for its own internal logic)
+- Medium specificity (painting should explore what is unique to painting: flatness, surface, color)
+- Formal rigor and reduction
+- Universal, timeless claims, often rejecting narrative, representation, and social content
+
+The term is used retrospectively by critics and historians—especially Clement Greenberg—to describe what he saw as modernism reaching its most refined and self‑aware phase.
+
+ -->
 
 
 ---
@@ -172,9 +194,75 @@ Back in the United States, the exhibition became the target of intense criticism
 ### The New American Painting , 1959
 Shown in Eight European Countries 1958–1959
 
-
+Barr wrote the introduction to the catalog
 
  -->
+
+---
+layout: quote
+color: zinc
+quotesize: text-3xl
+author: Alfred H. Barr, Jr., from the catalogue for <i>The New American Painting</i>, 1959
+---
+
+Indeed, one often hears <span v-mark.red>Existentialist</span><span v-click="1">✏️</span> echoes in their words, but their "anxiety," their commitment, their "dreadful freedom," concern their work primarily. They defiantly reject the conventional values of the society which surrounds them, but they are not politically engagés even though their paintings have been praised and condemned as symbolic demonstratioons of freedom in a world in which freedom connotes a political attitude.
+
+
+<!-- 
+
+Existentialism was a philosophical movement that emphasized individual freedom, choice, and responsibility. It emerged in the early 20th century, particularly after World War II, as a response to the disillusionment and uncertainty of the time. Key figures in existentialism include Jean-Paul Sartre, Albert Camus, and Simone de Beauvoir.
+
+
+These artist also prejoritively labeled "irascible" (easily angered) and "combative" (ready to fight). popularized by the image of difiant arits by Life magazine in 1952
+ -->
+
+---
+layout: two-cols-title
+color: zinc
+---
+
+:: title ::
+
+### Key Abstract Expressionists
+
+:: right ::
+
+
+<div text-sm>
+
+#### First Generation
+
+<br>
+
+- Jackson Pollock (1912–1956)
+- Willem de Kooning (1904–1997)
+- Mark Rothko (1903–1970)
+- Barnett Newman (1905–1970)
+- Franz Kline (1910–1962)
+- Lee Krasner (1908–1984)
+- Adolph Gottlieb (1903–1974)
+- Clyfford Still (1904–1980)
+
+</div>
+
+:: left ::
+
+<div text-sm>
+
+#### Associated Artists
+
+<br>
+
+- Arshile Gorky (1904–1948)
+- Robert Motherwell (1915–1991)
+- Philip Guston (1913–1980)
+- William Baziotes (1912–1963)
+- Mark Tobey (1890–1976)
+- Bradley Walker Tomlin (1899–1953)
+- James Brooks (1906–1992)
+- Grace Hartigan (1922–2008)
+
+</div>
 
 ---
 layout: two-cols
@@ -201,21 +289,91 @@ layout: side-title
 
 :: content ::
 
-> At a certain moment in the evolution of American painting, the canvas began to appear less as a space to be filled with objects than as an arena in which to act... What was to go on the canvas was not a picture but an event.
+> At a certain moment in the evolution of American painting, the canvas began to appear less as a space to be filled with objects than as <u decoration-red>an arena in which to act</u>... What was to go on the canvas was not a picture but an event.
 
 <p text-xs>
 
 -- Harold Rosenberg, _The American Action Painters_, 1952 
 </p>
 
----
-layout: quote
-color: navy-light
-author: David Joselit, <i>American Art Since 1945</i>, p.9
+
+<!-- 
+
+- **Action Painting**
+  - Popularly associated with this term
+  - Coined by critic Harold Rosenberg
+  - Process of painting as important as the completed picture
+  - Not limited to athletic exercise
+  - Despite furious appearance, not completely uncontrolled or intuitive
+  - 
+ -->
+
 ---
 
-These painters allowed the process of making art to stand as a fundamental aspect of its 'content.' And although in one sense these actions were intensely <u decoration-orange>private</u>, paradoxically they were destined, as works of art, for <u decoration-orange>public sphere</u>.  ... In general, the art of New York School seized upon the most personal and individual psychic material in order to express a shared set of values and experiences.
+![Jackson Pollock. Number 1A, 1948.](https://www.moma.org/media/W1siZiIsIjQ3NzIxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=5781e3be575ea954)
 
+<Box v-drag="[713,418,226,66]" v-click p-4>
+
+#### allover painting ✏️
+</Box>
+
+<!-- 
+
+- By 1947, Pollock began experimenting with **"allover painting"**
+  - Labyrinthine network of lines, splatters, and paint drips
+  - Led to the great drip or poured paintings of the following years
+
+- **Number 1A, 1948** (fig. 16.8)
+  - Early realization of his distinctive drip painting approach
+  - Intricate web of oil colors mixed with black enamel and aluminum paint
+  - Asserts and subverts the viewer's attempt to interpret the image
+  - Thin lines of dripped pigment commingle with broader strokes
+  - Handprints visible in the upper right quadrant
+  - Red-pink smudges punctuate the lower left portion
+  - Creates a hazy, luminous whole hovering above the picture plane
+
+- **Process and Technique**
+  - Movements of the artist's arm, swift and assured
+  - Used sticks or dried-out brushes to drip paint onto the surface
+  - Lines divorced from any descriptive function
+  - Range from string-like thinness to coagulated puddles
+  - Executed on large canvas laid out on the floor
+
+
+
+- **Jazz Improvisation**
+  - Parallel to jazz improvisation techniques
+
+ -->
+
+---
+color: black
+---
+
+<Youtube id="FXijyYLcdcM" w-full h-full />
+
+A Film by Hans Namuth of Jackson Pollock Painting (1950) {.text-xs .text-center}
+
+<!-- 
+Hans Namuth (1915–1990), a German‑born American photographer and filmmaker.
+When?
+
+1950 (with some filming extending into early 1951)
+
+Where?
+
+Pollock’s studio‑barn and the surrounding farm in Springs, East Hampton, New York
+
+It Shaped Pollock’s Public Image
+Namuth’s footage cemented the image of Pollock as the archetypal Abstract Expressionist:
+
+the solitary male artist,
+working physically and intuitively,
+painting as performance.
+
+This visual myth became almost as influential as the paintings themselves.
+
+-->
 
 ---
 layout: quote
@@ -226,7 +384,66 @@ author: Jackson Pollock
 The method of painting is the natural growth out of a need. I want to express my feelings rather than illustrate them.
 
 
+<!-- 
+
+He wanted to express his feelings, not illustrate them.
+
+ -->
+
+
 ---
+class: "bg-orange/20"
+---
+
+### The Development of Greenbergian Modernism
+
+
+<div mt-10 text-sm>
+
+|  | The Young Critic (1930s) | The Established Theorist (1940s-1960s) |
+|-----|-----|-----|
+|Core Idea|A cultural-political defense of the avant-garde against the "dumbing down" of mass-produced kitsch|A formalist theory of art's historical development toward medium specificity and flatness|
+|Primary Concern|The survival of high culture against fascist propaganda, commercialism, and a shrinking elite base.|The internal logic of painting as a discipline, purifying itself to focus on its unique characteristics (flat surface, shape of support).|
+|Artists Championed|Picasso, Braque, Mondrian, Kandinsky (European modernists).|Jackson Pollock, Hans Hofmann, Morris Louis (American Abstract Expressionists, Post-Painterly Abstraction).|
+|Relationship to Art|The avant-garde must remain separate from society to critique it from a position of "superior consciousness".|Painting's value lies in its autonomy, pursuing a formal "aesthetic unity" independent of literature, narrative, or the world.|  
+
+</div>
+
+<Asterisk />
+
+<!-- 
+:: right ::
+
+#### "Avant-Garde and Kitsch" (1939)
+
+:: left ::
+
+#### "The Crisis of the Easel Picture" (1948)
+#### "Modernist Painting" (1960)
+
+
+
+
+### Avant-Garde and Kitsch
+
+"Avant-Garde and Kitsch" is the title of a 1939 essay by Clement Greenberg, first published in the Partisan Review, in which he claimed that avant-garde and modernist art was a means to resist the "dumbing down" of culture caused by consumerism. 
+ -->
+
+
+
+---
+layout: quote
+color: navy-light
+author: David Joselit, <i>American Art Since 1945</i>, p.9
+---
+
+These painters allowed the process of making art to stand as a fundamental aspect of its 'content.' And although in one sense these actions were intensely <u decoration-orange>private</u>, paradoxically they were destined, as works of art, for <u decoration-orange>public sphere</u>.  ... In general, the art of New York School seized upon the most personal and individual psychic material in order to express a shared set of values and experiences.
+
+
+
+---
+
+<Asterisk />
 
 ![Jackson Pollock, _Autumn Rhythm Number 30_, 1950, oil on canvas](https://res.cloudinary.com/image-solar/image/upload/v1768540663/2026nwp-ar2205/jackson_pollock-autumn_rhythm_number_30_-1950-trivium-art-history-1_a29eur.jpg)
 
@@ -237,6 +454,21 @@ The method of painting is the natural growth out of a need. I want to express my
 
  -->
 
+---
+layout: top-title
+---
+
+:: title ::
+
+#### From an Avant-Garde to a Celebrity Artist
+
+:: content ::
+
+![Life Magazine, Vol. 47, No. 19, November 1959](https://res.cloudinary.com/image-solar/image/upload/v1768588189/2026nwp-ar2205/download_lrcw8r.png)
+
+
+---
+hide: true
 ---
 
 Greenberg
@@ -260,13 +492,37 @@ color: zinc
 
 :: left ::
 
-![]()
+![Barnett Newman, _Pagan Void_, 1946](https://api.nga.gov/iiif/726ed259-4a54-4235-a93c-9704f5642ff0/full/!800,800/0/default.jpg)
 
-<!-- Pollock, Newman, Rothko, Gottlieb intersted in connecting to and creatinga collective conssciousness through as they believed to be found in Native American art, mythology, and ritual. Symbols like the "zips" of Newman and the "multiforms" of Gottlieb were inspired by Native American motifs. Archytypal themes of creation, destruction, and rebirth were central to their work. Gustav Jung's theories of the collective unconscious and archetypes also influenced these artists, who sought to tap into universal human experiences. Thus they were sometimes referred to as the "mythmakers" of Abstract Expressionism, (they strived to invent a new mythology for the modern age through their art.)
+<!-- 
+
+Pollock, Newman, Rothko, Gottlieb intersted in connecting to and creatinga collective conssciousness through as they believed to be found in Native American art, mythology, and ritual. Symbols like the "zips" of Newman and the "multiforms" of Gottlieb were inspired by Native American motifs. Archytypal themes of creation, destruction, and rebirth were central to their work. Gustav Jung's theories of the collective unconscious and archetypes also influenced these artists, who sought to tap into universal human experiences. Thus they were sometimes referred to as the "mythmakers" of Abstract Expressionism, (they strived to invent a new mythology for the modern age through their art.)
 
 Newman woking as curator and art critic he enstablished analogy between the function of Native American aesthetics and that of the New Yorlk School painters. Working with the gallerist Betty Parsons, he participated in organizing ans writing essays for exhibitions of pre-Columbian and Northwest Coast Indian art in 1944 and 1947 respectively
 
-Pollock possessed several volumes of the Annual Report of the Bureau of American Ethnology, which contained photographs and descriptions of Native American art and artifacts.  -->
+Pollock possessed several volumes of the Annual Report of the Bureau of American Ethnology, which contained photographs and descriptions of Native American art and artifacts. 
+
+### Newman on Native American Art
+
+Embodies Newman’s interest in creation, naming, and primal utterance, all closely linked to mythological thinking.
+The marks resemble glyphs or inscriptions, without referring to a specific language or culture.
+Excellent for discussing abstraction as symbolic speech rather than image.
+
+ -->
+
+---
+
+<Asterisk />
+
+![Barnett Newman. Onement I. 1948, oil on canvas](https://www.moma.org/media/W1siZiIsIjIwMjIwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=4446d021f689a4bd)
+
+<!-- 
+
+
+Characterizing Onement, I as “the beginning of my present life,” Newman discovered in this breakthrough work a wealth of visual and conceptual complexity. He began by staining a modestly sized canvas with crimson. Over this richly hued ground, he applied a strip of masking tape, and then used a palette knife to scumble over it with cadmium orange. He had originally intended to remove the tape, leaving a lighter strip edged by orange flickers. Instead, he recognized in the vertical line it formed—which he would call a “zip”—a visual device that distilled painting to its essential qualities of space, color, and figure-ground relationship. Newman would spend the rest of his career exploring the potent possibilities of zips on fields of color, creating compositions whose purpose he described in lofty terms: “The image we produce is the self-evident one of revelation…that can be understood by anyone who will look at it without the nostalgic glasses of history.”
+
+source: https://www.moma.org/collection/works/79601
+ -->
 
 ---
 layout: quote
@@ -276,50 +532,10 @@ author: Barnet Newman, an essay on a show, 1944
 
 The New York art public found that these arts held for them a personal message. The were no longer the historical curiosities of a forgotten people, the crude expression of a primitive, underdeveloped people. Rather, they were the sublime creation of highly sophisticated artists with the same doubts, the same wondering, and the same searching for salvation ... which activates men of spirit of today.
 
----
-
-![Jackson Pollock. Number 1A, 1948.](https://www.moma.org/media/W1siZiIsIjQ3NzIxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=5781e3be575ea954)
-
-<Box v-drag="[713,418,226,66]" v-click p-4>
-
-#### allover painting ✏️
-</Box>
-
-<!-- 
-
-- By 1947 Pollock had begun to experiment with “allover painting,” a labyrinthine network of lines, splatters, and paint drips from which emerged the great drip or poured paintings of the next few years.
-
-Number 1A, 1948 (fig. 16.8) is an early realization of his
-distinctive approach to drip painting. Its intricate web of oil colors mixed with black enamel and aluminum paint asserts and then subverts the viewer’s attempt to interpret the image a sequence of overlapping webs or as a sort of veil obscur-
-ing an underlying subject. Thin lines of dripped pigment
-commingle with broader strokes and even handprints in the
-upper right quadrant, while smudges of red-pink punctu-
-ate the lower left portion of the composition, asserting the
-possibility of a distinct foreground before dissolving into the
-play of colors across the plane of the canvas.
-
-In Pollock’s Number 1A, 1948 one can trace the move-
-ments of the artist’s arm, swift and assured, as he deployed
-sticks or dried-out brushes to drip paint onto the surface.
-His lines are divorced from any descriptive function and
-range from string-like thinness to coagulated puddles, all
-merging into a hazy, luminous whole that seems to hover
-above the picture plane rather than illusionistically behind it. These paintings, generally executed on a large canvas
-laid out on the floor, are popularly associated with so-called
-Action Painting. It was never the intention of the critic Har-
-old Rosenberg, in coining this term, to imply that Action
-Painting was limited to a kind of athletic exercise, but rather
-that the process of painting was as important as the com-
-pleted picture (see Harold Rosenberg’s The American Action
-Painters, p. 386). Despite the furious and seemingly hap-
-hazard nature of his methods, Pollock’s painting was not a
-completely uncontrolled, intuitive act.
-
-- Jazz improvisatio
-
- -->
 
 ---
+
+<Asterisk />
 
 ![Willem de Kooning. Woman I. 1950–52](https://www.moma.org/media/W1siZiIsIjQ3NjYxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=2916eef468030d25)
 
@@ -329,8 +545,6 @@ completely uncontrolled, intuitive act.
 </div>
 
 <!--
-
-
 
 - De Kooniing notoriously reworked his paintings, scraping away and repainting areas multiple times until he was satisfied with the result. (Joselit considers this a part of a heroism)
 - 1955 he mounted an exhibition titled "Painting on the Theme of the Woman" at the Sidney Janis Gallery in New York, featuring a series of six large canvases collectively
@@ -351,7 +565,15 @@ repellent and arresting evocation  of woman as sex symbol and fer￾tility godde
 
 ---
 
+<Asterisk />
+
 ![Lee Krasner, Untitled, 1949, oil on composition board, 121.9 x 93.9 cm](https://smarthistory.org/wp-content/uploads/2016/06/krasner-untitled-2.jpg)
+
+<!-- 
+
+- Krasner's style evolved significantly over her career, reflecting her engagement with Abstract Expressionism and her own unique artistic vision.
+- 
+ -->
 
 ---
 layout: quote
@@ -359,6 +581,84 @@ author: Joselit, _American Art Since 1945_, p.17
 ---
 
 In painting of New York School, individualism was expressed through an array of distinctive visual styles. However, the particular type of individuality valued in this milieu was heroic emotion and suffering of heterosexual white men who, during the 1940s and 1950s, were unquestionably assumed to represent 'humanity' as a whole.
+
+---
+
+![Mark Rothko, Untitled (Rothko number 5068.49), 1949. Oil on canvas](https://api.nga.gov/iiif/5de772a6-b821-421d-a7d3-4f5b424f35ce/full/!800,800/0/default.jpg)
+
+<Asterisk />
+
+<!-- 
+
+<br>
+
+<div text-sm>
+
+- **Early Work (Mid-1940s)**
+  - Compositions based on classical myths
+  - Biomorphic, Surrealist-inspired hybrid creatures
+  - Floating in primordial waters
+
+- **Late 1940s Transition**
+  - Forms coalesced into floating color shapes
+  - Loose, undefined edges within larger expanses of color
+
+- **1949 Breakthrough**
+  - Refined and simplified to color rectangles floating on a color ground
+  - Thin washes of oil paint with considerable tonal variation
+  - Blurred edges to create luminous color effects
+  - Shifting, ambiguous space
+
+- **Next Twenty Years**
+  - Explored this basic compositional type with infinite and subtle variation
+  - Sheer sensuousness of color areas
+  - Sense of indefinite outward expansion without central focus
+  - Designed to absorb and engulf the spectator
+
+- **Scale**
+  - Eventually painted on a huge scale
+  - Contributed to the effect of enclosing, encompassing color
+
+</div>
+
+ -->
+
+---
+
+![Mark Rothko, North, Northeast, and East wall paintings in the Rothko Chapel, 1965–66 (opened in 1971). Oil on canvas. Houston, Texas.](https://res.cloudinary.com/image-solar/image/upload/v1764962365/nwp/28rothko-item-superJumbo_pzgr33.jpg)
+
+<Asterisk />
+
+<!-- 
+
+<br>
+
+<div text-sm>
+
+- **Late 1950s Shift**
+  - Moved away from bright, sensuous color toward deeper, more somber hues
+  - Received major commissions for large public spaces
+    - Restaurant in the Seagram Building (New York)
+    - Dining room at Harvard University
+    - Chapel in Houston, Texas (fig. 16.20)
+
+- **Rothko Chapel (1965–66)**
+  - Fourteen large panels, almost uniform in deep black and red-brown
+  - Designed to be homogeneous with the octagonal building (Philip Johnson, architect)
+  - Forms have a less amorphous, harder-edge appearance than earlier abstractions
+  - Creates a total architectural–pictorial experience
+  - Analogous to religious muralists of the Baroque seventeenth century
+  - Adopted the triptych (three-panel) format long associated with religious subjects
+  - Intended to provoke emotional and transcendental experiences, not mere formal experiments
+
+- **Late 1960s Darkening**
+  - Mood darkened still further
+  - Expressed conviction that abstract art could convey "tragedy, ecstasy, and doom"
+  - Some have linked this shift to his eventual suicide
+
+</div>
+
+-->
 
 ---
 layout: two-cols
@@ -373,9 +673,13 @@ layout: two-cols
 ![Franz Kline, Large Clown (Nijinsky as Petrouchka) c.1948, Oil on canvas, 841 x 714 mm](https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/fig1klinelargeclownnijinskyaspetrouchkac.1948.width-1440_njee4WZ.jpg)
 
 <!-- 
+<!-- 
+
+Kline's work demonstrates the transition from figurative to abstract painting that characterizes the New York School. His early paintings, such as _Large Clown_ (c.1948), depict the ballet dancer Vaslav Nijinsky in the role of the puppet Petrushka with expressive, gestural brushwork. By 1950, in _Nijinsky_, Kline had reduced the figure to bold, black calligraphic strokes against a white ground, distilling the movement and energy of the dancer into pure abstract form. This evolution illustrates how Abstract Expressionists often arrived at abstraction through a process of radical simplification of real-world subjects.
 
 
 source: https://www.tate.org.uk/research/in-focus/meryon/abstraction
 -->
 
----
+
+
