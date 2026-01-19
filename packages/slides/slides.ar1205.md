@@ -57,9 +57,13 @@ src: "./pages/ar1205/w1w.md"
 ---
 src: "./pages/ar1205/w1f.md"
 ---
-
+  
 ---
 src: "./pages/ar1205/w2w.md"
+---
+
+---
+src: "./pages/ar1205/w2f.md"
 ---
 
 ---

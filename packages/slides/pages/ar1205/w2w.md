@@ -417,6 +417,8 @@ hide: true
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Isenheim_Altarpiece_%E2%80%94_SECOND_OPENING.jpg/3840px-Isenheim_Altarpiece_%E2%80%94_SECOND_OPENING.jpg)
 
 ---
+hide: true
+---
 
 ![A portrait of Martin Luther by Lucas Cranach the Elder, 1528](https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg)
 

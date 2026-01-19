@@ -291,10 +291,10 @@ layout: side-title
 
 > At a certain moment in the evolution of American painting, the canvas began to appear less as a space to be filled with objects than as <u decoration-red>an arena in which to act</u>... What was to go on the canvas was not a picture but an event.
 
-<p text-xs>
+<div text-xs>
 
 -- Harold Rosenberg, _The American Action Painters_, 1952 
-</p>
+</div>
 
 
 <!-- 
@@ -515,6 +515,12 @@ Excellent for discussing abstraction as symbolic speech rather than image.
 <Asterisk />
 
 ![Barnett Newman. Onement I. 1948, oil on canvas](https://www.moma.org/media/W1siZiIsIjIwMjIwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=4446d021f689a4bd)
+
+
+<div v-drag="[524,374,226,66]" v-click p-4>
+
+#### "zip" ✏️
+</div>
 
 <!-- 
 
