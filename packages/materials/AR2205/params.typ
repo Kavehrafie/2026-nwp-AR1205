@@ -107,7 +107,7 @@
   A review of the characteristics and significance of Post-Painterly Abstraction in the evolution of abstract art.
 
   _Read_:
-  - "Post-Painterly Abstraction" in @MAS
+  - "Post-Painterly Abstraction" in @MAS // remove this and replace with Joselit's cahpter on Painting of 1950s
   - Sylvan Barnet, #text(style: "italic")[@ASGWA], 42--48
 ]
 

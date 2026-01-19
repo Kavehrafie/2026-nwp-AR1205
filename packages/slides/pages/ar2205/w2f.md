@@ -390,6 +390,14 @@ He wanted to express his feelings, not illustrate them.
 
  -->
 
+---
+layout: quote
+color: navy-light
+author: David Joselit, <i>American Art Since 1945</i>, p.9
+---
+
+These painters allowed the process of making art to stand as a fundamental aspect of its 'content.' And although in one sense these actions were intensely <u decoration-orange>private</u>, paradoxically they were destined, as works of art, for <u decoration-orange>public sphere</u>.  ... In general, the art of New York School seized upon the most personal and individual psychic material in order to express a shared set of values and experiences.
+
 
 ---
 class: "bg-orange/20"
@@ -422,23 +430,49 @@ class: "bg-orange/20"
 #### "Modernist Painting" (1960)
 
 
-
-
 ### Avant-Garde and Kitsch
 
 "Avant-Garde and Kitsch" is the title of a 1939 essay by Clement Greenberg, first published in the Partisan Review, in which he claimed that avant-garde and modernist art was a means to resist the "dumbing down" of culture caused by consumerism. 
  -->
 
-
-
 ---
-layout: quote
-color: navy-light
-author: David Joselit, <i>American Art Since 1945</i>, p.9
+layout: two-cols-title
+color: fuchsia-light
+tags: ['colorfield', 'action painters']
 ---
 
-These painters allowed the process of making art to stand as a fundamental aspect of its 'content.' And although in one sense these actions were intensely <u decoration-orange>private</u>, paradoxically they were destined, as works of art, for <u decoration-orange>public sphere</u>.  ... In general, the art of New York School seized upon the most personal and individual psychic material in order to express a shared set of values and experiences.
+:: title ::
 
+## Two Types of Abstract Expressionism
+
+:: right ::
+
+action painters
+
+![Jackson Pollock, _Autumn Rhythm Number 30_, 1950, oil on canvas](https://res.cloudinary.com/image-solar/image/upload/v1768540663/2026nwp-ar2205/jackson_pollock-autumn_rhythm_number_30_-1950-trivium-art-history-1_a29eur.jpg)
+
+
+
+:: left ::
+
+<div h-100>
+colour field painters
+
+![Mark Rothko, Untitled (Rothko number 5068.49), 1949. Oil on canvas](https://api.nga.gov/iiif/5de772a6-b821-421d-a7d3-4f5b424f35ce/full/!800,800/0/default.jpg)
+</div>
+
+
+<Asterisk />
+
+<!-- 
+
+Within abstract expressionism were two broad groupings: the so-called action painters, who attacked their canvases with expressive brush strokes; and the colour field painters who filled their canvases with large areas of a single colour.
+
+The action painters were led by Jackson Pollock and Willem de Kooning, who worked in a spontaneous improvisatory manner often using large brushes to make sweeping gestural marks. Pollock famously placed his canvas on the ground and danced around it pouring paint from the can or trailing it from the brush or a stick. In this way the action painters directly placed their inner impulses onto the canvas.
+
+The second grouping included Mark Rothko, Barnett Newman and Clyfford Still. They were deeply interested in religion and myth and created simple compositions with large areas of colour intended to produce a contemplative or meditational response in the viewer. In an essay written in 1948 Barnett Newmann said: 'Instead of making cathedrals out of Christ, man, or ‘'life'’, we are making it out of ourselves, out of our own feelings'. This approach to painting developed from around 1960 into what became known as colour field painting, characterised by artists using large areas of more or less a single flat colour.
+
+ -->
 
 
 ---
@@ -451,8 +485,45 @@ These painters allowed the process of making art to stand as a fundamental aspec
 <!-- 
  some of the artist's own processes of making the work is re-enacted by the viewer in the realm of perception
 
+- Pollock's drip paintings invite viewers to move around them, experiencing the dynamic energy and rhythm of the composition from different angles. This physical engagement mirrors Pollock's own movements as he created the work, allowing viewers to connect with the artist's process on a sensory level.
+
+The Met acquired this monumental "drip" painting by Pollock in 1957, the year following the artist’s unexpected death—a sign of how quickly his reinvention of painting was accepted into the canon of modern art. 
 
  -->
+
+---
+layout: center
+color: teal-light
+---
+
+<div flex gap-2 >
+
+![](https://res.cloudinary.com/image-solar/image/upload/v1768850588/2026nwp-ar2205/pollock2_p9lcni.jpg)
+
+![](https://res.cloudinary.com/image-solar/image/upload/v1768850679/2026nwp-ar2205/pollock5_vcu9wf.jpg)
+
+![](https://res.cloudinary.com/image-solar/image/upload/v1768850724/2026nwp-ar2205/pollock4_mox1nd.jpg)
+
+![](https://res.cloudinary.com/image-solar/image/upload/v1768850755/2026nwp-ar2205/pollock3_plsktk.jpg)
+</div>
+
+<div text-xs text-center mt-2>
+
+Details of Jackson Pollock's _Full Fathom Five_, 1947, oil on canvas
+</div>
+
+<!-- 
+
+- Paint tube caps.
+- coins
+- nails
+- pushpins
+- cigarette 
+- buttons
+- caps
+
+ -->
+
 
 ---
 layout: top-title
@@ -479,6 +550,28 @@ For Greenberg the objective of modernist painting was to analyze and express his
 
 Pollock's emotion transcended the personal to express broader cultural reality.
 
+ -->
+
+---
+layout: center
+color: orange
+---
+
+
+
+
+### Regionalism, Social Realism, and Mexican Muralism
+
+
+<br>
+
+### Indigenous Art 
+
+<!-- 
+
+However revolutionary in technique, Pollock’s large-scale work was rooted in the muralism of the 1930s, including the art of Thomas Hart Benton (see America Today, MMA 2012.478a–j) and David Alfaro Siqueiros, both of whom he had worked alongside.
+
+Navajo sand paintings, Mexican and Native American art, and the calligraphy of East Asian cultures also influenced Pollock’s art.
  -->
 
 ---
@@ -517,18 +610,16 @@ Excellent for discussing abstraction as symbolic speech rather than image.
 ![Barnett Newman. Onement I. 1948, oil on canvas](https://www.moma.org/media/W1siZiIsIjIwMjIwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=4446d021f689a4bd)
 
 
-<div v-drag="[524,374,226,66]" v-click p-4>
+<div v-drag="[652,367,226,66]" v-click p-4>
 
 #### "zip" ✏️
 </div>
 
-<!-- 
-
-
+<!--
 Characterizing Onement, I as “the beginning of my present life,” Newman discovered in this breakthrough work a wealth of visual and conceptual complexity. He began by staining a modestly sized canvas with crimson. Over this richly hued ground, he applied a strip of masking tape, and then used a palette knife to scumble over it with cadmium orange. He had originally intended to remove the tape, leaving a lighter strip edged by orange flickers. Instead, he recognized in the vertical line it formed—which he would call a “zip”—a visual device that distilled painting to its essential qualities of space, color, and figure-ground relationship. Newman would spend the rest of his career exploring the potent possibilities of zips on fields of color, creating compositions whose purpose he described in lofty terms: “The image we produce is the self-evident one of revelation…that can be understood by anyone who will look at it without the nostalgic glasses of history.”
 
 source: https://www.moma.org/collection/works/79601
- -->
+-->
 
 ---
 layout: quote
@@ -543,7 +634,7 @@ The New York art public found that these arts held for them a personal message. 
 
 <Asterisk />
 
-![Willem de Kooning. Woman I. 1950–52](https://www.moma.org/media/W1siZiIsIjQ3NjYxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=2916eef468030d25)
+![Willem de Kooning, _Woman I_, 1950–52](https://www.moma.org/media/W1siZiIsIjQ3NjYxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=2916eef468030d25)
 
 <div v-drag="[43,33,226,264]" v-click p-4 class="bg-white/90 backdrop-blur-sm">
 
@@ -579,6 +670,18 @@ repellent and arresting evocation  of woman as sex symbol and fer￾tility godde
 
 - Krasner's style evolved significantly over her career, reflecting her engagement with Abstract Expressionism and her own unique artistic vision.
 - 
+ -->
+
+---
+
+![Joan Mitchell, _City Landscape_, 1955](https://www.artic.edu/iiif/2/33d04b6a-3ebe-f577-444c-969cb208ad8d/full/843,/0/default.jpg)
+
+<!-- 
+
+Although influenced by Abstract Expressionist artists in New York in the early 1950s, Joan Mitchell did not prioritize self-expression: her often exuberant abstractions were “about landscape, not about me,” she once explained. Mitchell painted large, light-filled canvases animated by loosely applied skeins of bright color—here infused with the energy of a large metropolis.
+
+The title suggests a relationship between the painting’s network of pigments and the nerves or arteries of an urban space. The sense of spontaneity conveyed in City Landscape, however, belies Mitchell’s methods. Unlike many of her contemporaries, who were dubbed “action painters,” Mitchell worked slowly and deliberately. “I paint a little,” she said. “Then I sit and look at the painting, sometimes for hours. Eventually, the painting tells me what to do.”
+
  -->
 
 ---
@@ -686,6 +789,3 @@ Kline's work demonstrates the transition from figurative to abstract painting th
 
 source: https://www.tate.org.uk/research/in-focus/meryon/abstraction
 -->
-
-
-
