@@ -121,6 +121,7 @@
     - #link("https://youtu.be/tUOKkeEOkXk")[Michelangelo, Laurentian Library]
     - #link("https://youtu.be/YhsjS5CtCTE")[Jacopo Tintoretto, Last Supper]
     - #link("https://youtu.be/N09QNm3XKW4")[El Greco, The Burial of the Count of Orgaz]
+    - #link("https://youtu.be/Pj3HdzOR2pY")[Pieter Bruegel the Elder, Hunters in the Snow (Winter)]
   ]
 )
 
@@ -153,6 +154,7 @@
     - #link("https://smarthistory.org/artemisia-gentileschi-self-portrait-pittura/?tl=artemisia-gentileschi-self-portrait-pittura&sidebar=europe-1600-1700")["Artemisia Gentileschi, Self-Portrait as the Allegory of Painting or La Pittura" by Letha Ch'ien]
     - #link("https://smarthistory.org/juan-sanchez-de-cotan-quince-melon-and-cucumber/?tl=juan-sanchez-de-cotan-quince-melon-and-cucumber&sidebar=europe-1600-1700")["Juan Sanchez Cotán, Quince, Cabbage, Melon and Cucumber" by Sally Hickson]
     // - Gauvin Alexander Bailey,  _Art of Colonial Latin America_
+    - #link("https://smarthistory.org/pieter-aertsen-meat-stall/?tl=pieter-aertsen-meat-stall&sidebar=europe-1500-1600")["Pieter Aertsen, Meat Stall" by Irene Schaudies]
 
     _Watch_:
     - #link("https://youtu.be/EFHPAbHaoqk")[How to recognize Baroque art?]
@@ -180,6 +182,7 @@
     - #link("https://youtu.be/stMsneN1xw4")[What is genre painting?]
     - #link("https://youtu.be/agy4wXMF9wg")[Symbolism and meaning in Dutch still life painting]
     - #link("https://youtu.be/m-Wt51ScnNo")[Asia in Holland, 17th-century Delftware]
+    - #link("https://youtu.be/K9iMsmhBOjk")[Peter Paul Rubens, The Consequences of War]
     - #link("https://youtu.be/9fEublFSTOg")[Frans Hals, Malle Babbe]
     - #link("https://youtu.be/xt2M4HTw29A")[Judith Leyster, Self-Portrait]
     - #link("https://youtu.be/DhefUahS55o")[Rembrandt, The Anatomy Lesson of Dr. Tulp]
