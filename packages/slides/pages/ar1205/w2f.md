@@ -15,4 +15,21 @@ level: 1
 
 January 16, 2026
 
+<!-- 
+
+The art of Cinquecento > aristocratic ideals
+ -->
+
+---
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Baldassare_Castiglione%2C_by_Raffaello_Sanzio%2C_from_C2RMF_retouched.jpg/1920px-Baldassare_Castiglione%2C_by_Raffaello_Sanzio%2C_from_C2RMF_retouched.jpg)
+
+<!-- 
+
+- the ideal personality which Castiglione represents as throughly unattainable
+- versatility, the uniform development of physical and spiritual capacities, skilled in the use of weapons and in rhetoric, athlete, musician, poet, and painter: the aristocratic aversion from every kind of specialization (see Hauser)
+- presetving one's composure and dignity in all circumstances
+- colors disappear; moving to more monochromatic schemes
+
+ -->
 

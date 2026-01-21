@@ -148,7 +148,7 @@
     Investigation of the rise of Baroque art.
   
     _Read_:
-    - Gauvin Alexander Bailey, "Introduction," in _Baroque & Rococo_
+    // - Gauvin Alexander Bailey, "Introduction," in _Baroque & Rococo_
     - #link("https://smarthistory.org/global-baroque-introduction/?tl=global-baroque-introduction&sidebar=europe-1600-1700")["The global Baroque, an introduction" by Carmen Ripollés]
     - #link("https://smarthistory.org/artemisia-gentileschi-self-portrait-pittura/?tl=artemisia-gentileschi-self-portrait-pittura&sidebar=europe-1600-1700")["Artemisia Gentileschi, Self-Portrait as the Allegory of Painting or La Pittura" by Letha Ch'ien]
     - #link("https://smarthistory.org/juan-sanchez-de-cotan-quince-melon-and-cucumber/?tl=juan-sanchez-de-cotan-quince-melon-and-cucumber&sidebar=europe-1600-1700")["Juan Sanchez Cotán, Quince, Cabbage, Melon and Cucumber" by Sally Hickson]
