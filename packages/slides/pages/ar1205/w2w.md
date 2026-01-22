@@ -292,6 +292,43 @@ https://www.jstor.org/stable/community.41555280
 - multiplicity and variations of plants depicted (various species of grasses, flowers, and weeds)
  -->
 
+---
+
+![Albrecht Dürer, The Rhinoceros, 1515, woodcut on laid paper, 23.5 x 29.8 cm](https://smarthistory.org/wp-content/uploads/2024/04/the_rhinoceros_1964.8.697-scaled.jpg)
+
+
+<div v-click="[1]" v-drag="[40,32,108,58]">
+
+Woodcut ✏️
+</div>
+
+<!--
+- the story of the rhinoceros
+- Dürer never saw the rhinoceros in person; he based his woodcut on a written description and a sketch by an unknown artist.
+- The rhinoceros was brought to Lisbon in 1515 as a gift to King Manuel I of Portugal from an Indian sultan.
+- Dürer's woodcut became widely popular and was reproduced in various forms, influencing European perceptions of exotic animals.
+- The image is notable for its imaginative and somewhat fantastical depiction of the rhinoceros, including armor-like skin and a horn on its back, which were not accurate representations of the animal.
+- The woodcut reflects the Renaissance fascination with exploration, discovery, and the natural world.
+
+### woodcut technique
+- Woodcut is a relief printing technique where the artist carves an image into the surface of a wooden block, leaving the raised areas to be inked and printed.
+- Dürer's mastery of the woodcut technique is evident in the intricate details and textures he achieved in this print.
+-->
+
+---
+
+![Albrecht Dürer, The Four Horsemen of the Apocalypse, 1498, woodcut, 38.8 x 29.1 cm](https://smarthistory.org/wp-content/uploads/2023/07/DP816773-scaled.jpg)
+
+
+
+<!-- 
+It is a woodcut (first and most popular) print created as part of a series illustrating the Book of Revelation from the Bible.
+- The Four Horsemen represent Conquest, War, Famine, and Death, each riding a horse of a different color.
+- The print is known for its dramatic composition, intricate details, and powerful symbolism.
+- Dürer's mastery of the woodcut technique is evident in the dynamic lines and textures that convey movement and emotion.
+- The print reflects the apocalyptic anxieties of the late 15th century, a time marked by social upheaval, religious turmoil, and fears of the end times.
+
+ -->
 
 ---
 
@@ -372,25 +409,6 @@ https://www.jstor.org/stable/community.41555279
  -->
 
 
----
-
-![Albrecht Dürer, The Four Horsemen of the Apocalypse, 1498, woodcut, 38.8 x 29.1 cm](https://smarthistory.org/wp-content/uploads/2023/07/DP816773-scaled.jpg)
-
-<div v-click="[1]" v-drag="[150,29,493,486]">
-
-Woodcut ✏️
-</div>
-
-<!-- 
-It is a woodcut (first and most popular) print created as part of a series illustrating the Book of Revelation from the Bible.
-- The Four Horsemen represent Conquest, War, Famine, and Death, each riding a horse of a different color.
-- The print is known for its dramatic composition, intricate details, and powerful symbolism.
-- Dürer's mastery of the woodcut technique is evident in the dynamic lines and textures that convey movement and emotion.
-- The print reflects the apocalyptic anxieties of the late 15th century, a time marked by social upheaval, religious turmoil, and fears of the end times.
-
-
-
- -->
 
 ---
 hide: true
