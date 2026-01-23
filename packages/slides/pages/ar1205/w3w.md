@@ -2,14 +2,25 @@
 layout: cover
 transition: slide-left
 color: navy
-background: https://upload.wikimedia.org/wikipedia/commons/4/40/D%C3%BCrer_Alte_Pinakothek.jpg
+background: https://res.cloudinary.com/image-solar/image/upload/v1769143722/2026nwp-ar1205/lessons_in_mannerism_at_the_palazzo_del_te_1050x700_dejzva.jpg
 title: "Week 3: <b>Wed, Jan 21</b>"
 level: 1
 ---
 
-Sacred Realism and the Self
-## The Northern Renaissance
+
+## From the High Renaissance to Mannerism
 #### WEEK 3
+
+
+:: note ::
+
+Wednesday, January 21, 2026
+
+<!-- Ceiling of the Hall of the Giants in Palazzo del Te, Mantua -->
+
+---
+
+![]()
 
 ---
 hide: true
