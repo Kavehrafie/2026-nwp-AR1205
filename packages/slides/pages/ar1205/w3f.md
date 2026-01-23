@@ -11,6 +11,25 @@ level: 1
 ## 
 #### WEEK 3
 
+
+---
+hide: true
+---
+
+mannerism and baroque: "mannerism as the expression of the antagonism between spritualistic and the sensualistic trends of age, and the baroque as the temporary settlement of the conflict on the basis of spontaneous feeling." (Hauser)
+
+---
+hide: true
+---
+
+baroque vs. mannerism
+
+"Mannerism is the artistic style of an aristocratic, essentially international cultured class, the early baroque the expression of a more popular, more emotional, more nationalistic trend. ... in the sixteenth century mannerism is the court style par excellence." (Hauser)
+
+"The mannerism of the court is, especially in its later form. a uniform and universally European movement---the first great international style since the Gothic." (Hauser)
+
+
+
 ---
 layout: center
 ---

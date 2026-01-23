@@ -194,10 +194,31 @@ Over-privileges sociology, downplaying artistic lineage, individual genius, and 
  -->
 
 ---
+color: black
+---
+
+![Leonardo da Vinci, A sketch of the fetus in the womb, c. 1511, chalk, pen, ink, and wash drawing](https://cdn.britannica.com/57/181057-050-5A738365/Human-fetus-studies-Leonardo-da-Vinci-1510.jpg)
+
+<!-- 
+- physiogomy or anatomical correctness
+
+ -->
+
+---
+layout: two-cols
+columns: ['is-8', 'is-12']
+clicks: 2
+---
 
 <Asterisk />
 
-![Leonardo da Vinci, Last Supper, oil, tempera, fresco, 1495–98 (Santa Maria delle Grazie, Milan)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg/3840px-The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg)
+:: left ::
+
+![Leonardo da Vinci, Last Supper, oil, tempera, fresco, 1495–98](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg/3840px-The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg)
+
+:: right ::
+
+![Santa Maria delle Grazie, Milan](https://res.cloudinary.com/image-solar/image/upload/v1769158882/2026nwp-ar1205/4mxizmlo4qta1_ozkn2v.jpg)
 
 <!-- 
 - commissioned by Ludovico Sforza, Duke of Milan, for the refectory of the Convent of Santa Maria delle Grazie
@@ -231,16 +252,7 @@ why two versions? never finished. The bonous he got not what he expected. Disput
  -->
 
 
----
-color: black
----
 
-![Leonardo da Vinci, A sketch of the fetus in the womb, c. 1511, chalk, pen, ink, and wash drawing](https://cdn.britannica.com/57/181057-050-5A738365/Human-fetus-studies-Leonardo-da-Vinci-1510.jpg)
-
-<!-- 
-- physiogomy or anatomical correctness
-
- -->
 
 ---
 
@@ -364,7 +376,7 @@ layout: top-title
 </div>
 
 ---
-layout: hide
+hide: true
 ---
 
 ![Left: Perugino, Marriage of the Virgin, 1500–1504, oil on wood, 234 x 185 cm (Musée des Beaux-Arts, Caen); right: Raphael, Marriage of the Virgin, 1504, oil on panel, 174 × 121 cm / 69 × 48″ (Pinacoteca di Brera, Milan)](https://smarthistory.org/wp-content/uploads/2020/08/Two-marriage.jpg)

@@ -434,15 +434,4 @@ hide: true
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Isenheim_Altarpiece_%E2%80%94_SECOND_OPENING.jpg/3840px-Isenheim_Altarpiece_%E2%80%94_SECOND_OPENING.jpg)
 
----
-hide: true
----
 
-![A portrait of Martin Luther by Lucas Cranach the Elder, 1528](https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg)
-
-<!-- 
-
-1517: Luther posts his Ninety-five Theses on the door of the Castle Church in Wittenberg, Germany, sparking the Protestant Reformation.
-- Luther's emphasis on faith and scripture challenged the authority of the Catholic Church and its practices, such as the sale of indulgences.
-- The Reformation led to significant religious, political, and cultural changes across Europe, including the rise of Protestant denominations and conflicts such as the Thirty Years' War (1618-1648), between various European powers.
- -->

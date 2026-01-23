@@ -1,29 +1,74 @@
-<script setup lang="js">
+<script setup lang="ts">
 import { computed } from 'vue'
+import { useSlideContext } from '@slidev/client'
 import { compute_alignment, compute_column_size } from 'slidev-theme-neversink/layoutHelper'
 
-const props = defineProps({
-  columns: {
-    default: 'is-one-half',
-  },
-  align: {
-    default: 'lt-lt',
-  },
-  color: {
-    default: 'white',
-  },
-})
+const { $clicks } = useSlideContext()
+
+const props = defineProps<{
+  columns?: string | string[]
+  align?: string
+  color?: string
+}>()
+
+// Default values
+const columnsDefault = 'is-one-half'
+const alignDefault = 'lt-lt'
+const colorDefault = 'white'
 
 const alignment = computed(() => {
-  const parts = props.align.split('-')
-
+  const alignValue = props.align ?? alignDefault
+  const parts = alignValue.split('-')
   return { l: compute_alignment(parts[0]), r: compute_alignment(parts[1]) }
 })
 
-const colwidth = computed(() => compute_column_size(props.columns))
+// Support both string and array for columns
+// - String: static column width (e.g., 'is-8')
+// - Array: animated column widths based on clicks (e.g., ['is-6', 'is-8', 'is-4'])
+// Extended to support is-0 (hide left) and is-12 (hide right)
+const colwidth = computed(() => {
+  const columnsValue = props.columns ?? columnsDefault
+  
+  // Helper to compute size with extended support for is-0 and is-12
+  const computeSize = (val: string) => {
+    // Handle edge cases not in theme's layoutHelper
+    if (val === 'is-0' || val === 'is-0-12') {
+      return { l: 0, r: 12 }
+    }
+    if (val === 'is-12' || val === 'is-12-0') {
+      return { l: 12, r: 0 }
+    }
+    // Use theme's compute_column_size for standard values
+    return compute_column_size(val)
+  }
+  
+  // If it's a string, use the original behavior
+  if (typeof columnsValue === 'string') {
+    return computeSize(columnsValue)
+  }
+  
+  // If it's an array, select based on current click
+  if (Array.isArray(columnsValue) && columnsValue.length > 0) {
+    // Clamp the click index to available configurations
+    const clickIndex = Math.min($clicks.value, columnsValue.length - 1)
+    const selectedConfig = columnsValue[Math.max(0, clickIndex)]
+    return computeSize(selectedConfig)
+  }
+  
+  // Fallback to default
+  return computeSize(columnsDefault)
+})
+
+// Compute grid-template-columns using fr units (animatable)
+const gridTemplateColumns = computed(() => {
+  const l = colwidth.value.l
+  const r = colwidth.value.r
+  // Using fr units allows CSS to animate the grid columns
+  return `${l}fr ${r}fr`
+})
 
 const colorscheme = computed(() => {
-  return `neversink-${props.color}-scheme`
+  return `neversink-${props.color ?? colorDefault}-scheme`
 })
 </script>
 
@@ -45,6 +90,10 @@ const colorscheme = computed(() => {
       column is 1/12 wide and the the right columns is 11/12 wide. The component admits a short had of only specifying
       the left column (<code>columns: is-1</code> does the same thing). In addition there are short hands like
       <code>columns: is-one-quarter</code> which resolves to <code>is-3-9</code>, etc...
+    </p>
+    <p>
+      <b>Animated columns:</b> You can also pass an array of column values to animate between clicks:
+      <code>columns: ['is-6', 'is-8', 'is-4']</code>. The columns will transition smoothly on each click.
     </p>
     <p>
       Here are a bunch of examples:
@@ -80,34 +129,38 @@ const colorscheme = computed(() => {
 <style scoped>
 .two-cols {
   display: grid;
-  grid-template-columns: repeat(12, 1fr); /* 12 columns */
-  grid-template-rows: 1fr; /* no footer and content */
+  grid-template-columns: v-bind(gridTemplateColumns);
+  grid-template-rows: 1fr auto; /* content row + optional footer */
+  transition: grid-template-columns 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  gap: 1rem;
 }
 
+.two-cols .left-col,
+.two-cols .right-col {
+  overflow: visible;
+  transition: opacity 0.3s ease-in-out;
+}
+
+/* Hide column when width is 0 */
+.two-cols .left-col {
+  opacity: v-bind(colwidth.l === 0 ? '0' : '1');
+}
+
+.two-cols .right-col {
+  opacity: v-bind(colwidth.r === 0 ? '0' : '1');
+}
 
 .end-footer {
-  grid-area: 4 / 1 / 5 / span 12; /* full width */
+  grid-column: 1 / -1; /* full width */
   margin-bottom: 1rem;
 }
 
 .footer {
-  grid-area: 3 / 1 / 4 / span 12; /* full width */
+  grid-column: 1 / -1; /* full width */
   margin-bottom: 1rem;
 }
 
-.two-cols-footer .left-col {
-  margin-right: 2rem;
-  display: flex;
-  flex-direction: column;
-}
-
-.two-cols-footer .right-col {
-  display: flex;
-  flex-direction: column;
-}
-
 .two-cols .left-col {
-  margin-right: 2rem;
   display: flex;
   flex-direction: column;
 }
@@ -115,23 +168,6 @@ const colorscheme = computed(() => {
 .two-cols .right-col {
   display: flex;
   flex-direction: column;
-}
-
-/* 1-11 */
-.two-cols-footer .left-col {
-  grid-area: 2 / 1 / 3 / span v-bind(colwidth.l);
-}
-
-.two-cols-footer .right-col {
-  grid-area: 2 / v-bind(colwidth.l + 1) / 3 / span v-bind(colwidth.r);
-}
-
-.two-cols .left-col {
-  grid-area: 1 / 1 / 2 / span v-bind(colwidth.l);
-}
-
-.two-cols .right-col {
-  grid-area: 1 / v-bind(colwidth.l + 1) / 2 / span v-bind(colwidth.r);
 }
 
 .footnotes-sep {
