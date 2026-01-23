@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, watch, computed, onMounted, nextTick } from "vue";
+import { ref, watch, computed, onMounted, nextTick, useSlots } from "vue";
 import { useSlideContext } from "@slidev/client";
 import { tv } from "tailwind-variants";
 import { useRTL } from "../composables/useRTL";
@@ -28,7 +28,48 @@ const props = defineProps<{
   contentPosition?: "top-left" | "top-right" | "top-center" | "center" | "bottom-left" | "bottom-right" | "bottom-center";
   contentWidth?: string; // CSS width value like "400px", "50%", "auto"
   fadeOnProgress?: boolean; // Whether to fade content as timeline progresses
+  // Panel overlay settings
+  panelPosition?: "left" | "right" | "both"; // Which side(s) to show panel overlays
+  panelWidth?: string; // CSS width for panels (e.g., "350px", "30%")
 }>();
+
+// Check if slots are provided - dynamic slot detection
+const slots = useSlots();
+
+// Get all panel slots and extract their click numbers
+const getPanelSlots = (side: 'left' | 'right') => {
+  const pattern = new RegExp(`^panel-${side}-(\\d+)$`);
+  const result: { click: number; name: string }[] = [];
+  
+  for (const slotName of Object.keys(slots)) {
+    const match = slotName.match(pattern);
+    if (match) {
+      result.push({ click: parseInt(match[1], 10), name: slotName });
+    }
+  }
+  
+  return result;
+};
+
+// Compute active panel for each side based on current click
+const activeLeftPanel = computed(() => {
+  const panels = getPanelSlots('left');
+  // Find the panel that matches current click, or the highest one that's <= current click
+  const exact = panels.find(p => p.click === $clicks.value);
+  if (exact) return exact;
+  return null;
+});
+
+const activeRightPanel = computed(() => {
+  const panels = getPanelSlots('right');
+  const exact = panels.find(p => p.click === $clicks.value);
+  if (exact) return exact;
+  return null;
+});
+
+// Check if any panel slots exist for each side
+const hasLeftPanels = computed(() => getPanelSlots('left').length > 0);
+const hasRightPanels = computed(() => getPanelSlots('right').length > 0);
 
 const eventRefs = ref<HTMLElement[]>([]);
 const timelineContainerRef = ref<HTMLElement | null>(null);
@@ -188,6 +229,39 @@ const overlayStyles = computed(() => {
   };
 });
 
+// Panel visibility and styles
+const panelLeftStyles = computed(() => {
+  const width = props.panelWidth || "350px";
+  const isVisible = activeLeftPanel.value !== null;
+  
+  return {
+    width,
+    opacity: isVisible ? 1 : 0,
+    transform: isVisible ? "translateX(0)" : "translateX(-100%)",
+    pointerEvents: isVisible ? "auto" : "none",
+  };
+});
+
+const panelRightStyles = computed(() => {
+  const width = props.panelWidth || "350px";
+  const isVisible = activeRightPanel.value !== null;
+  
+  return {
+    width,
+    opacity: isVisible ? 1 : 0,
+    transform: isVisible ? "translateX(0)" : "translateX(100%)",
+    pointerEvents: isVisible ? "auto" : "none",
+  };
+});
+
+const showPanelLeft = computed(() => {
+  return (props.panelPosition === "left" || props.panelPosition === "both") && hasLeftPanels.value;
+});
+
+const showPanelRight = computed(() => {
+  return (props.panelPosition === "right" || props.panelPosition === "both") && hasRightPanels.value;
+});
+
 // Custom smooth scroll function with better easing
 const smoothScrollTo = (element: HTMLElement, targetScrollLeft: number, duration: number = 800) => {
   const startScrollLeft = element.scrollLeft;
@@ -284,6 +358,36 @@ watch($clicks, async (currentClick) => {
     :class="[directionClasses, currentSlideColor, { 'flex-row-reverse': isRTL }]"
     :dir="isRTL ? 'rtl' : 'ltr'"
   >
+    <!-- Left Panel Overlay -->
+    <div 
+      v-if="showPanelLeft"
+      class="panel-overlay panel-left"
+      :style="panelLeftStyles"
+    >
+      <div class="panel-content">
+        <template v-for="panel in getPanelSlots('left')" :key="panel.name">
+          <div v-show="activeLeftPanel?.click === panel.click">
+            <slot :name="panel.name" />
+          </div>
+        </template>
+      </div>
+    </div>
+
+    <!-- Right Panel Overlay -->
+    <div 
+      v-if="showPanelRight"
+      class="panel-overlay panel-right"
+      :style="panelRightStyles"
+    >
+      <div class="panel-content">
+        <template v-for="panel in getPanelSlots('right')" :key="panel.name">
+          <div v-show="activeRightPanel?.click === panel.click">
+            <slot :name="panel.name" />
+          </div>
+        </template>
+      </div>
+    </div>
+
     <!-- Independent content overlay positioned relative to the entire slide -->
     <div 
       :class="styles.overlay()"
@@ -530,5 +634,110 @@ watch($clicks, async (currentClick) => {
   .container-grid {
     grid-template-columns: 50px repeat(v-bind("count"), minmax(150px, 1fr)) 50px;
   }
+}
+
+/* Panel Overlay Styles */
+.panel-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 40;
+  pointer-events: auto;
+  transition: 
+    opacity 600ms cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    transform 600ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  will-change: transform, opacity;
+  background: linear-gradient(
+    to var(--panel-gradient-direction, right),
+    var(--neversink-bg-color) 70%,
+    transparent 100%
+  );
+  display: flex;
+  align-items: stretch;
+}
+
+.panel-left {
+  left: 0;
+  --panel-gradient-direction: right;
+  padding-right: 2rem;
+}
+
+.panel-right {
+  right: 0;
+  --panel-gradient-direction: left;
+  padding-left: 2rem;
+}
+
+.panel-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+/* Panel content styling */
+.panel-content :deep(h1),
+.panel-content :deep(h2),
+.panel-content :deep(h3),
+.panel-content :deep(h4) {
+  color: var(--neversink-text-color);
+  margin-bottom: 0.75rem;
+  flex-shrink: 0;
+}
+
+.panel-content :deep(p) {
+  color: var(--neversink-text-color);
+  opacity: 0.9;
+  line-height: 1.6;
+  flex-shrink: 0;
+}
+
+.panel-content :deep(ul),
+.panel-content :deep(ol) {
+  color: var(--neversink-text-color);
+  padding-left: 1.5rem;
+  flex-shrink: 0;
+}
+
+.panel-content :deep(img) {
+  max-width: 100%;
+  max-height: 60vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  flex-shrink: 1;
+  min-height: 0;
+}
+
+/* Ensure inner div also respects height constraints */
+.panel-content > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  overflow: hidden;
+  gap: 1rem;
+}
+
+/* RTL adjustments for panels */
+.dir-rtl .panel-left {
+  left: auto;
+  right: 0;
+  --panel-gradient-direction: left;
+  padding-left: 2rem;
+  padding-right: 0;
+}
+
+.dir-rtl .panel-right {
+  right: auto;
+  left: 0;
+  --panel-gradient-direction: right;
+  padding-right: 2rem;
+  padding-left: 0;
 }
 </style>

@@ -20,6 +20,8 @@ Wednesday, January 21, 2026
 
 ---
 layout: timeline
+panelPosition: both
+panelWidth: "400px"
 events:
   - year: "1492"
     title: "Fall of *Granada*"
@@ -31,11 +33,6 @@ events:
     description: "• Charles VIII invades Italy• Starts Italian Wars (1494-1559)• Disrupts Italian Renaissance stability"
     icon: war
     color: red
-  - year: "1513"
-    title: "*The Prince* (Machiavelli)"
-    description: "• Political realism• Power over morality• Reflects new political climate"
-    icon: revolution
-    color: orange
   - year: "1516"
     title: "Charles V"
     description: "• Becomes Holy Roman Emperor• Rules vast empire: Spain, Germany, Netherlands, parts of Italy• Most powerful monarch in Europe"
@@ -45,7 +42,7 @@ events:
     title: "95 Theses (Luther)"
     description: "• Protestant Reformation begins• Challenges Catholic authority• Religious division spreads"
     icon: revolution
-    color: red
+    color: indigo
   - year: "1520"
     title: "Sack of Rome"
     description: "• Imperial troops attack Rome• End of High Renaissance peace• Artists flee, styles change"
@@ -83,17 +80,29 @@ events:
     color: navy
 ---
 
-
-
----
+:: panel-left-4 ::
 
 ![A portrait of Martin Luther by Lucas Cranach the Elder, 1528](https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg)
 
+:: panel-left-10 ::
+
+> every superstition shall be removed, all filthy lucre be abolished; finally, all lasciviousness be avoided; in such wise that figures shall not be painted or adorned with a beauty exciting to lust; nor the celebration of the saints, and the visitation of relics be by any perverted into revellings and drunkenness; as if festivals are celebrated to the honor of the saints by luxury and wantonness.
+
+— Council of Trent, 1563 {.text-xs}
+
+
 <!-- 
 
+[click:4] ### Reformation
 1517: Luther posts his Ninety-five Theses on the door of the Castle Church in Wittenberg, Germany, sparking the Protestant Reformation.
 - Luther's emphasis on faith and scripture challenged the authority of the Catholic Church and its practices, such as the sale of indulgences.
 - The Reformation led to significant religious, political, and cultural changes across Europe, including the rise of Protestant denominations and conflicts such as the Thirty Years' War (1618-1648), between various European powers.
+
+[click:10] ### Counter-Reformation
+The Catholic Church responded to the Reformation with the Counter-Reformation, which included the Council of Trent (1545-1563).
+- The Council reaffirmed Catholic doctrines and reformed church practices, emphasizing the role of art in religious devotion.
+- One of the final points made in the Tridentine decrees (which, you will recall, were vague on what art should look like specifically) has been interpreted as an attack on mannerist art (which is itself almost impossible for scholars to define today because it encompasses such a broad range of forms and artists). The decree states that
+- The Baroque style, characterized by emotional intensity, dramatic use of light and shadow, and dynamic compositions, emerged as a means to inspire faith and convey religious themes effectively.
  -->
 
 
@@ -113,6 +122,9 @@ The classicist of the seventeenth century (Bellori and Malvasi) first to connect
 estrangement fro classicism which makes itself felt in art after 1520
 
 why does classicis, which in qntiquity was a style based on composure and permanence, now appear as a 'transitory stage'? -->
+
+---
+
 
 ---
 layout: quote

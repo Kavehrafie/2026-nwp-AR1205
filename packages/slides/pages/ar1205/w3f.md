@@ -162,3 +162,14 @@ To twist the metaphor of the baroque pearl even further, we should add that the 
 We can’t deny that one strand of the global Baroque is its Catholic, monarchical, and colonizing nature
 
  -->
+
+---
+hide: true
+---
+
+<div v-drag="[684,50,220,366]" v-click="[1]" class="bg-white/90 p-4 backdrop-blur-sm">
+
+![Image of the moon, from Galileo’s presentation copy of the Sidereus nuncius (1610)](https://ka-perseus-images.s3.amazonaws.com/49af0bc596fb9858dcc006e4f918b8f849676038.jpg)
+</div>
+
+- Galileo Galilei's telescopic observations of the moon in 1609 revealed a rugged, mountainous surface, challenging the Aristotelian notion of celestial perfection. His detailed drawings, published in the Sidereus Nuncius (1610), depicted the moon's craters and valleys, demonstrating that it was not a smooth, flawless sphere but a world with its own topography. This empirical observation undermined the long-held belief in the incorruptibility and perfection of heavenly bodies, suggesting that they were subject to change and imperfection just like earthly objects.

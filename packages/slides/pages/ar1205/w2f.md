@@ -199,6 +199,8 @@ color: black
 
 ![Leonardo da Vinci, A sketch of the fetus in the womb, c. 1511, chalk, pen, ink, and wash drawing](https://cdn.britannica.com/57/181057-050-5A738365/Human-fetus-studies-Leonardo-da-Vinci-1510.jpg)
 
+
+
 <!-- 
 - physiogomy or anatomical correctness
 
@@ -536,3 +538,51 @@ stylobate: the continuous base supporting a row of columns
 ---
 
 ![Left to right: Bramante, plan for Saint Peter’s Basilica, 1506; Raphael, plan for Saint Peter’s Basilica, 1513; Michelangelo, plan for Saint Peter’s Basilica, 1547](https://cdn.kastatic.org/ka-content-images/4d2795d55459ebe50233e1b3026399f1a24887d5.jpg)
+
+---
+layout: top-title
+color: violet
+---
+
+:: title ::
+
+### **Venetian** Renaissance Art
+
+:: content ::
+
+![Paolo Veronese, Feast in the House of Levi, 1573, oil on canvas, 18′ 3″ x 42′](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Feast_in_the_House_of_Levi_by_Paolo_Veronese_%28edited_2%29.jpg/3840px-The_Feast_in_the_House_of_Levi_by_Paolo_Veronese_%28edited_2%29.jpg)
+
+<div v-drag="[682,50,214,366]" v-click="[1]" class="bg-white/90 p-4 backdrop-blur-sm">
+
+oil painting ✏️
+</div>
+
+<!-- 
+
+- oil painting: pigments mixed with oil (linseed oil) as a binder, allowing for rich colors, fine details, and layering techniques. The technique mastered by Northern Renaissance artists like Jan van Eyck
+
+- The title "Feast in the House of Levi" was adopted after the Inquisition challenged the original title "The Last Supper" for its lavish depiction of a banquet scene, which was seen as inappropriate for a sacred event.
+- Enjoyed color, light, and texture (Known for vibrant colors, dramatic lighting, and rich textures)
+- Less focused on linear perspective and anatomical precision compared to Florentine art
+- apostles
+- peter carving a piece of lamb
+- diverse array of figures (nobles, soldiers, jesters, musicians, animals)
+- cosmopolitan gathering (trading across the mediterranean), 
+
+- banquet scene: opulence and abundance, reflecting Venice's wealth and status as a major trading hub
+- inquisition called the tribunal: questioned Veronese about the inclusion of "irreverent" figures in a religious scene. Interestingly the church commissioned the painting seemed to have no issue with the content until the Inquisition intervened.
+- Veronese responded by saying that the artist has the freedom to depict as poets do, and he changed the title to "Feast in the House of Levi" to avoid further controversy. 
+ -->
+
+---
+
+![Paolo Veronese, _The Wedding at Cana_, 1562–1563](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Paolo_Veronese_008.jpg/3840px-Paolo_Veronese_008.jpg)
+
+<!-- 
+- commissioned for the refectory of the Benedictine monastery of San Giorgio Maggiore in Venice
+- depicts the biblical story of the Wedding at Cana, where Jesus performed his first miracle by turning water into wine
+- massive scale (22 feet or 6.7 meters high and 32 feet or 9.75 meters wide)
+- composition: dynamic arrangement of figures, with Jesus and Mary at the center, surrounded by a lively crowd
+- use of color and light: vibrant colors and dramatic lighting enhance the festive atmosphere
+
+ -->
