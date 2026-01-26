@@ -7,7 +7,7 @@ title: "Week 3: <b>Wed, Jan 21</b>"
 level: 1
 ---
 
-
+Harmony under Strain
 ## From the High Renaissance to Mannerism
 #### WEEK 3
 
@@ -17,6 +17,23 @@ level: 1
 Wednesday, January 21, 2026
 
 <!-- Ceiling of the Hall of the Giants in Palazzo del Te, Mantua -->
+
+---
+color: black
+---
+
+![Michelangelo Buonarroti, _The Last Judgment_, 1536-1541.](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Last_Judgement_%28Michelangelo%29.jpg/1920px-Last_Judgement_%28Michelangelo%29.jpg)
+
+<!-- 
+
+this painting was executed a decade after the ceiling of the Sistine Chapel, during a period of significant religious and political turmoil in Europe.
+
+- The Protestant Reformation, initiated by Martin Luther in 1517, challenged the authority of the Catholic Church and led to widespread religious conflict.
+- The Sack of Rome in 1527 by the troops of Charles V, Holy Roman Emperor, marked a significant blow to the power and prestige of the Papacy.
+
+- The moment of reformation and religious upheaval in Europe
+
+ -->
 
 ---
 layout: timeline
@@ -103,6 +120,9 @@ The Catholic Church responded to the Reformation with the Counter-Reformation, w
 - The Council reaffirmed Catholic doctrines and reformed church practices, emphasizing the role of art in religious devotion.
 - One of the final points made in the Tridentine decrees (which, you will recall, were vague on what art should look like specifically) has been interpreted as an attack on mannerist art (which is itself almost impossible for scholars to define today because it encompasses such a broad range of forms and artists). The decree states that
 - The Baroque style, characterized by emotional intensity, dramatic use of light and shadow, and dynamic compositions, emerged as a means to inspire faith and convey religious themes effectively.
+
+[click:11] ### The Peace of Augsburg (1555) was
+a treaty in the Holy Roman Empire that ended religious conflict between Catholics and Lutherans by allowing princes to choose either Catholicism or Lutheranism as the official religion of their territory, under the principle "cuius regio, eius religio" (whose realm, his religion). It granted Lutheranism legal status, but excluded Calvinism and other groups, establishing a temporary religious division that lasted until the Peace of Westphalia. 
  -->
 
 

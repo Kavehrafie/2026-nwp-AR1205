@@ -7,7 +7,7 @@ title: "Week 2: <b>Fri, Jan 16</b>"
 level: 1
 ---
 
-<!-- Sacred Realism and the Self -->
+The Transcendence of Luxury in Harmony
 ## The Spirit of the High Renaissance
 #### WEEK 2
 
@@ -146,7 +146,7 @@ Reading Vitruvius’ De architectura as well as Plato’s Timaeus acquainted Leo
 <!--
 The subject is presented in three-quarter view, wearing a dark, sumptuous garment that signifies his status. His attire includes a fur-lined robe and a black hat, hinting at the fashion of the period. The white collar of his shirt delicately emerges from the robe, offering a stark contrast to the dark clothing and imbuing the composition with a touch of elegance.
 
-One can observe the remarkable attention to detail in the rendering of textures, from the soft fur to the folds of the fabric. The background is understated, which directs the viewer’s focus to the subject’s face and expression. The subject’s gaze projects warmth and intelligence, features befitting his reputation as a courtier and the author of “The Book of the Courtier.”
+One can observe the remarkable attention to detail in the rendering of textures, from the soft fur to the folds of the fabric. The background is understated, which directs the viewer’s focus to the subject’s facLuxurious Harmonye and expression. The subject’s gaze projects warmth and intelligence, features befitting his reputation as a courtier and the author of “The Book of the Courtier.”
 
 - the ideal personality which Castiglione represents as throughly unattainable
 - versatility, the uniform development of physical and spiritual capacities, skilled in the use of weapons and in rhetoric, athlete, musician, poet, and painter: the aristocratic aversion from every kind of specialization (see Hauser)
@@ -239,8 +239,12 @@ color: black
 
 ![Leonardo da Vinci, The Virgin of the Rocks, c. 1491–1508, oil on panel, 189.5 x 120 cm (The National Gallery, London)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Leonardo_da_Vinci_Virgin_of_the_Rocks_%28National_Gallery_London%29.jpg/1920px-Leonardo_da_Vinci_Virgin_of_the_Rocks_%28National_Gallery_London%29.jpg)
 
-<!-- 
+<div v-drag="[765,161,114,45]">
 
+✏️ <span v-mark.red> _Sfumato_</span> 
+</div>
+
+<!--
 the two versions of the Virgin of the Rocks (this is the second in London; the first is in the Louvre in Paris)
 
 why two versions? never finished. The bonous he got not what he expected. Dispute with the confraternity. 
@@ -248,12 +252,11 @@ why two versions? never finished. The bonous he got not what he expected. Disput
 - Madona of humility (madona seated on the meadows) vs. madona of exaltation (madona enthroned)
 - her right arm embraces JOhn the baptist; arcangle next to christ
 - pyramidal composition
-- sfumato: soft, gradual transitions between light and shadow, creating a smoky, atmospheric effect
 - graceful, flowing lines: Leonardo's use of sinuous, flowing lines contributes to the overall sense of harmony and elegance in the composition.
+  
 
- -->
-
-
+- sfumato: soft, gradual transitions between light and shadow, creating a smoky, atmospheric effect
+-->
 
 
 ---
@@ -378,6 +381,53 @@ layout: top-title
 </div>
 
 ---
+layout: two-cols
+columns: ['is-12', 'is-8', 'is-12']
+clicks: 3
+color: black
+---
+
+<Asterisk />
+:: right :: 
+
+<v-switch>
+
+<template #1>
+
+![Pietà in Saint Peter’s Basilica, Rome](https://res.cloudinary.com/image-solar/image/upload/v1769187612/2026nwp-ar1205/Pieta-chapel_tjlqdm.jpg)
+</template>
+
+<template #2>
+
+![Röttgen Pietà, c. 1300–25, painted wood, 34 1/2" high ](https://cdn.kastatic.org/ka-perseus-images/1437baa6ac15d777c4740ecaccc807742f04193d.jpg)
+</template>
+</v-switch>
+
+:: left ::
+
+![Michelangelo, Pietà, 1498–1500, marble, 174 x 195 cm (Saint Peter’s Basilica, Rome)](https://upload.wikimedia.org/wikipedia/commons/6/65/Pieta_de_Michelangelo_-_Vaticano.jpg)
+
+
+<div v-drag="[682,50,214,366]" v-click="3" >
+
+#### Rhythm ✏️
+</div>
+
+
+<!-- 
+
+originally in the Old St. Peter's Basilica, now in the new basilica. lite from above and place in a circular building next to transcept (arm of cross)
+
+- commissioned by French cardinal Jean de Bilhères for his funeral monument
+- depicts the Virgin Mary holding the dead body of Jesus Christ after his crucifixion on her lap
+- emphasizes the sorrow and compassion of Mary, as well as the sacrifice of Christ for humanity; idealized beauty and serenity; lumibous
+- fresh is pressed into marble: veins of blood, muscles, tendons (Michelangelo's skill in rendering human anatomy in 20s)
+- the only work Michelangelo signed (on sash across Mary's chest)
+- rhythm and movement: diagonal lines of Christ's body contrast with the curves of Mary's figure, creating a dynamic composition
+
+ -->
+
+---
 hide: true
 ---
 
@@ -389,100 +439,17 @@ hide: true
 
 
 ---
-
-![Raphael, Madonna of the Meadow, 1505–06, oil on panel, 885 x 1130 cm (Kunsthistorisches Museum, Vienna)](https://smarthistory.org/wp-content/uploads/2020/08/Raphael_-_Madonna_in_the_Meadow_-_Google_Art_Project.jpg)
-
-<!-- 
-
-
-In 1504, at the age of twenty-one, Raphael arrived in Florence. There, the young artist found a flourishing art market. He was able to gaze upon the powerfully expressive works of the early Florentine renaissance, and also encountered first-hand the work of local artists, including that of Leonardo da Vinci, whose influence is evident in several of Raphael’s Florentine paintings. 
-
-
-In Florence, Raphael’s commissions were primarily for smaller, private paintings, such as the Madonna of the Meadow (1505) or his dual portraits of Agnolo and Maddalena Doni (1506). Local commissions for large-scale altarpieces—more desirable projects both for the higher prices they commanded and the public exposure they brought—eluded Raphael during these years. He did, however, continue to fulfil more prestigious projects for patrons outside of Florence, including in Siena, Urbino, and Perugia
-
- -->
-
----
-color: black
----
-
-![Raphael, School of Athens (left) and Disputà (right), fresco, 1509-1511 (Stanza della Segnatura, Papal Palace, Vatican)](https://smarthistory.org/wp-content/uploads/2020/08/Stanze.jpg)
-
-<div v-click v-drag="[216,61,568,400]">
-
-![](https://cdn.uvamagazine.org/articles/2013/03-spring/Retrospect/Popes_library_original.jpg)
-</div>
-
-<!--
-Having never completed a large-scale project in Florence, Raphael left for Rome in 1508. He was drawn to the Eternal City by the powerful Warrior Pope, Julius II, who was in the process of re-vitalizing Rome. Julius was an astute patron. He recognized t- considered one of the greatest achievements in Western arthe potential of art and architecture to give material form to his vision for Rome as a new center of the Christian empire—one that would rival antiquity.
-
-Raphael was initially one of a number of artists hired by Julius to decorate his personal suite of rooms in the Vatican palace, a semi-public space where the pope’s interests were to be materialized in art. The first room he painted, the **Stanza della Segnatura** (Stanza means “room” in Italian), so perfectly aligned with Julius’s vision that the entire suite was given over to him. The two frescos known as the School of Athens and Disputà (1509–1510) on the opposing largest walls of the Stanza represent Philosophy and Theology respectively. Raphael infused non-narrative scenes with dramatic force. His figures engage in active dialogue and interact emotionally—no artist before him had presented immaterial concepts with such ingenuity.
-
-FOUR AREADS OF KNOWLEDGE
-- Philosophy (School of Athens)
-- Theology (Disputà)
-- Poetry (Parnassus)
-- Justice (Cardinal and Theological Virtues)
--->
-
----- considered one of the greatest achievements in Western art
-color: black
----
-
-<Asterisk />
-
-![Raphael, School of Athens, fresco, 1509-1511 (Stanza della Segnatura, Papal Palace, Vatican)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/3820px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
-
-
-<!-- 
-
-The School of Athens represents the gathering of the greatest philosophers, scientists, and mathematicians from classical antiquity. Central to the composition are Plato and Aristotle, who are surrounded by other luminaries such as Socrates, Pythagoras, Euclid, and Ptolemy. Raphael ingeniously included contemporary figures among the ancient philosophers: Leonardo da Vinci is depicted as Plato, Michelangelo as Heraclitus, and Raphael himself appears as Apelles.
-
- -->
-
----
-layout: two-cols
----
-
-:: right ::
-
-![Inside of Sistine Chapel, Vatican City](https://upload.wikimedia.org/wikipedia/commons/8/82/Sistina-interno.jpg)
-
-:: left ::  
-
-![A section of the Sistine Chapel ceiling](https://upload.wikimedia.org/wikipedia/commons/5/58/Chapelle_sixtine_plafond.jpg)
-
-
-<Asterisk />
-
-<!-- 
-
-- commissioned by Pope Julius II in 1508
-- took four years to complete (1508-1512)
-- Michelangelo initially reluctant; considered himself a sculptor, not a painter
-- painted over 5,000 square feet of ceiling
-- depicted nine scenes from the Book of Genesis, including the Creation of Adam, the Fall of
-- Man, and the Great Flood
-- also included figures of prophets and sibyls, as well as the ancestors of Christ
-- Michelangelo worked on scaffolding high above the chapel floor, often in uncomfortable positions
-- the ceiling's complex iconography reflects Renaissance humanism, combining biblical themes with classical philosophy
-
-
- -->
-
-
----
 layout: two-cols
 ---
 
 <Asterisk />
 
 :: right ::
+
 
 ![Donato Bramante, Tempietto, c. 1502, San Pietro in Montorio, Rome](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tempietto_di_San_Pietro_in_Montorio.jpg/1920px-Tempietto_di_San_Pietro_in_Montorio.jpg)
 
-<div v-drag="[813,159,87,406]" v-click>
-
+<div v-drag="[863,190,87,406]" v-click>
 dome
 
 <br>
@@ -520,14 +487,13 @@ stylobate: the continuous base supporting a row of columns
 - columns: doric order or Tuscan order
 - triglyphs and metopes: decorative elements in the frieze of a Doric entablature
 - pilaster: a rectangular column projecting from a wall
-
 -->
 
 ---
 
 ![Numerous architects, Saint Peter’s Basilica, Vatican City, begun 1506, completed 1626](https://cdn.kastatic.org/ka-content-images/b457cfe7baaea70ea72afd50b265c1d92d2421fe.jpg)
 
-<div v-drag="[-49,0,0,0]" v-click="[1]" class="bg-white/90 p-4 backdrop-blur-sm">
+<div v-drag="[577,23,370,494]" v-click="[1]" class="bg-white/20 p-4 backdrop-blur-sm">
 
 <div>
 
@@ -535,9 +501,230 @@ stylobate: the continuous base supporting a row of columns
 </div>
 </div>
 
+<!-- 
+
+Saint Peter's Basilica history:
+- original basilica built by Emperor Constantine in the 4th century AD
+- by the late 15th century, the original structure was in disrepair, leading to plans for a new basilica
+- construction of the new basilica began in 1506 under the direction of Pope Julius II
+- Bramante was appointed as the chief architect, and he proposed a grand design featuring a central dome inspired by the Pantheon in Rome
+- after Bramante's death in 1514, several architects took over the project, including Raphael, Antonio da Sangallo the Younger, and finally Michelangelo
+- Michelangelo took over in 1547 and made significant changes to Bramante's original design, including strengthening the dome and simplifying the overall structure
+- the basilica was completed in 1626 under the direction of Carlo Maderno, who added a nave and a façade
+ -->
+
 ---
 
 ![Left to right: Bramante, plan for Saint Peter’s Basilica, 1506; Raphael, plan for Saint Peter’s Basilica, 1513; Michelangelo, plan for Saint Peter’s Basilica, 1547](https://cdn.kastatic.org/ka-content-images/4d2795d55459ebe50233e1b3026399f1a24887d5.jpg)
+
+
+---
+layout: two-cols
+class: h-110
+color: pink-light
+---
+
+<Asterisk position="lt" size="large" />
+
+
+:: left :: 
+
+
+<v-switch>
+
+<template #0>
+
+
+<div h-110>
+
+![Leonardo da Vinci, _Mona Lisa_, c. 1503–1506, oil on poplar panel, 77 × 53 cm, Musée du Louvre, Paris](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1374px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg)
+</div>
+
+
+</template>
+
+<template #1>
+
+
+<div h-110>
+
+![Raphael, _Portrait of Agnolo Doni_, c. 1506, oil on wood, 63 × 45 cm, Pitti Palace, Florence](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Agnolo_Doni%27s_portrait_paintings_by_Raffaello_Sanzio.jpg/1920px-Agnolo_Doni%27s_portrait_paintings_by_Raffaello_Sanzio.jpg)
+</div>
+</template>
+
+</v-switch>
+
+:: right :: 
+
+![Raphael, _Portrait of Maddalena Doni_, c. 1506, oil on wood, 63 × 45 cm, Pitti Palace, Florence](https://upload.wikimedia.org/wikipedia/commons/2/27/Ritratto_di_maddalena_strozzi.jpg)
+
+<!--
+### Raphael's Portrait of Maddalena Doni
+
+Raphaello Sanzio, known as Raphael, painted this portrait of Maddalena Strozzi Doni around 1506. Maddalena was the wife of Agnolo Doni, a wealthy Florentine merchant. The couple commissioned Raphael to paint their portraits to celebrate their marriage.
+
+In 1504, at the age of twenty-one, Raphael arrived in Florence. There, the young artist found a flourishing art market. He was able to gaze upon the powerfully expressive works of the early Florentine renaissance, and also encountered first-hand the work of local artists, including that of Leonardo da Vinci, whose influence is evident in several of Raphael’s Florentine paintings. 
+
+- refined character
+
+The Portrait of Agnolo Doni, Maddalena's husband and a rich cloth merchant, was made by Raphael at the same time. 
+- raphael down horizontal line align with the shoulder, pressing the figure forward emphasizing the aristocratic bearing of the sitter
+
+
+
+### Leonardo da Vinci's Mona Lisa
+
+Portrait of Lisa Gherardini, wife of Francesco del Giocondo (cloth merchant) , known as the Mona Lisa, is Leonardo da Vinci’s most famous painting. They were married in 1495 when she was 15 years old. The painting was probably commissioned by her husband to celebrate either the birth of their second son or the purchase of a new home. 
+Giocondo was a wealthy silk merchant and a government official in Florence and Lisa came from a well-to-do family.
+- portrait from the chest up; three-quarter view; hands visible
+- portrait like these existed in the Northern Renaissance, but were new to Italy 
+- 1911 it was stolen from the Louvre by an Italian handyman who believed it should be returned to Italy
+
+#### Leomnardo's Innovations in the Mona Lisa
+
+1. Use of Sfumato (the technique of allowing tones and colors to shade gradually into one another, producing softened outlines or hazy forms)
+(from Italian sfumare, “to tone down” or “to evaporate like smoke”)
+- atompheric effect: the soft transitions between light and shadow create a lifelike, three-dimensional appearance
+-->
+
+---
+
+![Raphael, Madonna of the Meadow, 1505–06, oil on panel, 885 x 1130 cm (Kunsthistorisches Museum, Vienna)](https://smarthistory.org/wp-content/uploads/2020/08/Raphael_-_Madonna_in_the_Meadow_-_Google_Art_Project.jpg)
+
+<!-- 
+
+
+In Florence, Raphael’s commissions were primarily for smaller, private paintings, such as the Madonna of the Meadow (1505) or his dual portraits of Agnolo and Maddalena Doni (1506). Local commissions for large-scale altarpieces—more desirable projects both for the higher prices they commanded and the public exposure they brought—eluded Raphael during these years. He did, however, continue to fulfil more prestigious projects for patrons outside of Florence, including in Siena, Urbino, and Perugia
+
+ -->
+
+---
+color: black
+---
+
+![Raphael, School of Athens (left) and Disputà (right), fresco, 1509-1511 (Stanza della Segnatura, Papal Palace, Vatican)](https://smarthistory.org/wp-content/uploads/2020/08/Stanze.jpg)
+
+<div v-click v-drag="[216,61,568,400]">
+
+![](https://cdn.uvamagazine.org/articles/2013/03-spring/Retrospect/Popes_library_original.jpg)
+</div>
+
+<!--
+Having never completed a large-scale project in Florence, Raphael left for Rome in 1508. He was drawn to the Eternal City by the powerful Warrior Pope, Julius II, who was in the process of re-vitalizing Rome. Julius was an astute patron. He recognized t- considered one of the greatest achievements in Western arthe potential of art and architecture to give material form to his vision for Rome as a new center of the Christian empire—one that would rival antiquity.
+
+Raphael was initially one of a number of artists hired by Julius to decorate his personal suite of rooms in the Vatican palace, a semi-public space where the pope’s interests were to be materialized in art. The first room he painted, the **Stanza della Segnatura** (Stanza means “room” in Italian), so perfectly aligned with Julius’s vision that the entire suite was given over to him. The two frescos known as the School of Athens and Disputà (1509–1510) on the opposing largest walls of the Stanza represent Philosophy and Theology respectively. Raphael infused non-narrative scenes with dramatic force. His figures engage in active dialogue and interact emotionally—no artist before him had presented immaterial concepts with such ingenuity.
+
+FOUR AREADS OF KNOWLEDGE
+- Philosophy (School of Athens)
+- Theology (Disputà)
+- Poetry (Parnassus)
+- Justice (Cardinal and Theological Virtues)
+-->
+
+---
+color: black
+---
+
+<Asterisk />
+
+![Raphael, School of Athens, fresco, 1509-1511 (Stanza della Segnatura, Papal Palace, Vatican)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/3820px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
+
+
+<!-- 
+
+The School of Athens represents the gathering of the greatest philosophers, scientists, and mathematicians from classical antiquity. Central to the composition are Plato and Aristotle, who are surrounded by other luminaries such as Socrates, Pythagoras, Euclid, and Ptolemy. Raphael ingeniously included contemporary figures among the ancient philosophers: Leonardo da Vinci is depicted as Plato, Michelangelo as Heraclitus, and Raphael himself appears as Apelles.
+- The architecture in the background, with its grand arches and vaults, evokes the grandeur of ancient Rome and Greece, situating the scene within a timeless intellectual tradition
+
+### The placement of figures:
+- Plato (left) points upwards, symbolizing his belief in the realm of forms and ideals beyond the physical world
+- Aristotle (right) gestures towards the earth, reflecting his focus on empirical observation and the material world
+- Euclid (foreground, right) is shown demonstrating a geometric principle, emphasizing the importance of mathematics in understanding the universe - Bramante's face
+- Pythagoras (foreground, left) is depicted writing in a book, highlighting the significance of knowledge and learning
+- Raphael himself appears in the scene as Apelles, the ancient Greek painter, symbolizing the artist's role in the pursuit of knowledge and truth
+- Diogenes (leaning on the steps, center right) represents the Cynic philosophy, emphasizing simplicity and self-sufficiency
+- Michaelangelo (sitting alone on the steps, center left) embodies the solitary nature of genius and creativity
+ -->
+
+---
+layout: two-cols
+color: black
+---
+
+<div v-drag="[101,29,318,514]" v-click="[1]" class="bg-white/20 p-4 backdrop-blur-sm">
+
+<div>
+
+![Michelangelo, Delphic Sibyl, Sistine Chapel Ceiling, 1508-12, fresco (Vatican City, Rome)](https://smarthistory.org/wp-content/uploads/2021/09/Delphic_Sibyl.jpg)
+</div>
+</div>
+
+<Asterisk />
+
+:: right ::
+
+![Inside of Sistine Chapel, Vatican City](https://upload.wikimedia.org/wikipedia/commons/8/82/Sistina-interno.jpg)
+
+:: left ::  
+
+![A section of the Sistine Chapel ceiling](https://upload.wikimedia.org/wikipedia/commons/5/58/Chapelle_sixtine_plafond.jpg)
+
+<!--
+- Vatican (where the college of cardinals meets to elect a new pope)
+- 
+- Sistine Chapel: built between 1473 and 1481 under Pope Sixtus IV
+
+- Michelangelo began to work on the frescoes for Pope Julius II in 1508, replacing a blue ceiling dotted with stars
+- Michelangelo initially reluctant; considered himself a sculptor, not a painter
+- painted over 5,000 square (meters) feet of ceiling
+- depicted nine scenes from the Book of Genesis, including the Creation of Adam, the Fall of
+- Man, and the Great Flood
+- also included figures of prophets and sibyls, as well as the ancestors of Christ
+- Michelangelo worked on scaffolding high above the chapel floor, often in uncomfortable positions
+- the ceiling's complex iconography reflects Renaissance humanism, combining biblical themes with classical philosophy
+
+- carving figures out of paint; massiveness
+-->
+
+---
+
+<div h-60 class="flex flex-col">
+
+![](https://smarthistory.org/wp-content/uploads/2021/09/Sistine_ceiling.jpg)
+
+![](https://smarthistory.org/wp-content/uploads/2022/01/1280px-Sistine_Chapel_ceiling_diagram.svg.png)
+</div>
+
+
+---
+layout: two-cols
+columns: ['is-12', 'is-8']
+clicks: 1
+color: blue-light
+---
+
+:: right ::
+
+![Andrea Palladio with modifications by Vicenzo Scamozzi, Villa Rotonda (formerly Villa Capra) from I quattro libri dell'architettura di Andrea Palladio (Book 2, page 19)](https://smarthistory.org/wp-content/uploads/2023/07/DP109542-scaled.jpg)
+
+:: left ::
+
+![Andrea Palladio with modifications by Vincenzo Scamozzi, Villa Rotonda (formerly Villa Capra), 1566–90s, near Vicenza, Italy](https://smarthistory.org/wp-content/uploads/2023/07/5252169792_4d97eaf624_o-scaled.jpg)
+
+<!-- 
+
+At the top of a hill in northern Italy, not far from Venice, stands a majestic villa. Designed by Andrea Palladio, the Villa Almerico-Capra, commonly known as La Rotonda, would become one of the most recognizable buildings of the Renaissance. It is a building that consciously recalls ancient Roman classical models but its innovative design had a lasting impact for future generations of architects in Italy and abroad.
+
+- it was commissioned by a wealthy priest, Paolo Almerico, as a country retreat
+- Palladio was inspired by ancient Roman architecture, particularly the Pantheon in Rome
+- built between 1566 and the 1590s, after Palladio's death, with modifications by his student Vincenzo Scamozzi
+
+- four identical facades: each with a portico featuring a pediment supported by columns, inspired by the Pantheon in Rome
+- symmetrical layout: central circular hall topped with a dome, surrounded by rectangular rooms on all four
+- during this time because the advance of the Ottoman Empire, Spanish and Portuguese empires made sea routes to Asia and the Americas, Venice's role as a trading hub declined 
+- 
+
+
+ -->
 
 ---
 layout: top-title
@@ -552,12 +739,15 @@ color: violet
 
 ![Paolo Veronese, Feast in the House of Levi, 1573, oil on canvas, 18′ 3″ x 42′](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Feast_in_the_House_of_Levi_by_Paolo_Veronese_%28edited_2%29.jpg/3840px-The_Feast_in_the_House_of_Levi_by_Paolo_Veronese_%28edited_2%29.jpg)
 
-<div v-drag="[682,50,214,366]" v-click="[1]" class="bg-white/90 p-4 backdrop-blur-sm">
+<div v-drag="[694,479,214,60]" v-click="[1]" >
 
 oil painting ✏️
 </div>
 
-<!-- 
+<Asterisk />
+
+<!--
+Venise: located on the Italian coast northeast of Florence. Major maritime power and trading hub during the Renaissance. Wealthy merchant class that patronized the arts.
 
 - oil painting: pigments mixed with oil (linseed oil) as a binder, allowing for rich colors, fine details, and layering techniques. The technique mastered by Northern Renaissance artists like Jan van Eyck
 
@@ -569,20 +759,57 @@ oil painting ✏️
 - diverse array of figures (nobles, soldiers, jesters, musicians, animals)
 - cosmopolitan gathering (trading across the mediterranean), 
 
-- banquet scene: opulence and abundance, reflecting Venice's wealth and status as a major trading hub
+- banquet scene: opulence and abundance, reflecting Venice's weal 	
+Titian (1490–1576)  
+Gth and status as a major trading hub
 - inquisition called the tribunal: questioned Veronese about the inclusion of "irreverent" figures in a religious scene. Interestingly the church commissioned the painting seemed to have no issue with the content until the Inquisition intervened.
-- Veronese responded by saying that the artist has the freedom to depict as poets do, and he changed the title to "Feast in the House of Levi" to avoid further controversy. 
- -->
+- Veronese responded by saying that the artist has the freedom to depict as poets do, and he changed the title to "Feast in the House of Levi" to avoid further controversy.
+-->
 
 ---
 
 ![Paolo Veronese, _The Wedding at Cana_, 1562–1563](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Paolo_Veronese_008.jpg/3840px-Paolo_Veronese_008.jpg)
-
+ 	
 <!-- 
 - commissioned for the refectory of the Benedictine monastery of San Giorgio Maggiore in Venice
 - depicts the biblical story of the Wedding at Cana, where Jesus performed his first miracle by turning water into wine
 - massive scale (22 feet or 6.7 meters high and 32 feet or 9.75 meters wide)
-- composition: dynamic arrangement of figures, with Jesus and Mary at the center, surrounded by a lively crowd
+- composition: dynamic arrangement of figures, with Jesus and Mar 	
+
 - use of color and light: vibrant colors and dramatic lighting enhance the festive atmosphere
 
+ -->
+
+---
+color: black
+layout: two-cols
+columns: ['is-12', 'is-12', 'is-4']
+---
+
+<Asterisk />
+
+
+:: left ::
+
+![itian, Venus of Urbino, 1538, oil on canvas, 119.20 x 165.50 cm (Galleria degli Uffizi, Florence)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg/3633px-Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg)
+
+<div v-drag="[708,150,214,60]" v-click="[1]" >
+
+Glazing technique ✏️
+</div>
+
+:: right ::
+
+![Giorgione, _Sleeping Venus_, 1510, oil on canvas, 108.5 x 175 cm (Gemäldegalerie Alte Meister, Dresden)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Giorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg/3840px-Giorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg)
+
+
+<!-- 
+
+Titian (1488–1576) was the leading painter of the Venetian Renaissance. His mastery of color, composition, and human emotion set him apart from his contemporaries. One of his most famous works is the *Venus of Urbino* (1538), which exemplifies his skill in portraying the human form and sensuality.
+
+- incredible softness and luminosity of skin tones
+- reclining nude figure of Venus, goddess of love, set in a domestic interior
+- direct gaze engages the viewer, creating an intimate connection
+- use of rich colors and textures, particularly in the fabrics and furnishings
+- glazing technique: applying multiple thin layers of translucent paint to create depth and richness in color. Titian was a master of this technique, which allowed him to achieve a luminous quality in his paintings. He often used 10 to 20 layers of glaze to build up the final image.
  -->
