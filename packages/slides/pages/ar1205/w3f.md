@@ -1,14 +1,14 @@
 ---
 layout: cover
 transition: slide-left
-color: navy
-background: https://upload.wikimedia.org/wikipedia/commons/4/40/D%C3%BCrer_Alte_Pinakothek.jpg
+color: fuchsia
+background: https://res.cloudinary.com/image-solar/image/upload/v1769613840/2026nwp-ar1205/32804949267_1775e40aba_h_xmlix1.jpg
 title: "Week 3: <b>Fri, Jan 21</b>"
 level: 1
 ---
 
-...
-## 
+The Sacred and the Profane
+## Baroque and Counter-Reformation
 #### WEEK 3
 
 
@@ -20,7 +20,7 @@ mannerism and baroque: "mannerism as the expression of the antagonism between sp
 
 ---
 hide: true
----
+---Baroque Art
 
 baroque vs. mannerism
 
@@ -47,6 +47,75 @@ in the second half of the 18th century, when it started to refer to art of the p
 including the Counter-Reformation, the Scientific Revolution, the consolidation of absolutism, the rise of capitalism, the expansion of colonization. In the 17th and 18th centuries, globalization meant connectedness across distant geographies, but not that every part of the globe was connected to each other. Rather, there were specific pathways shaped by the contours of religion, colonization, and trade, which themselves were closely linked. For example, the establishment of Portuguese colonies in India since the early 16th century facilitated the presence of religious missionaries such as the Jesuits, who in turn employed Hindu carvers to build extraordinary churches such as São Paulo in Diu, India. 
 
 - by contrasty to Renaissance separating art forms, Baroque joined them to form a single, unifed experience
+ -->
+
+---
+layout: two-cols
+color: black
+---
+
+:: left ::
+
+![Francesco La Barbera, _Chiesa del Gesù (Casa Professa)_, 1622--1767, Palermo, Italy](https://res.cloudinary.com/image-solar/image/upload/v1769613840/2026nwp-ar1205/32804949267_1775e40aba_h_xmlix1.jpg)
+
+:: right ::
+
+![Hipólito Rovira y Brocandel, _Portal of the Palace of the Marquis de Dos Aguas_, 1740-1744, Valencia, Spain](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fa%C3%A7ana_del_Palau_del_Marqu%C3%A9s_de_Dosaig%C3%BCes.JPG/1920px-Fa%C3%A7ana_del_Palau_del_Marqu%C3%A9s_de_Dosaig%C3%BCes.JPG)
+
+<!-- 
+
+- Saturated decoration such as the nave interior at the Gesu in Palermo (left) and the portal of the Palace of the Marquis de Dos Aguas in Valencia (right) overwhelm the viewer with a profusion of sculptural, painted, and architectural elements that create a sense of movement and drama. The intricate details and dynamic forms draw the eye in multiple directions, creating a lively and engaging visual experience.
+- erupts into an organic mass of vegetal, animal and human figures
+- _marmi mischi_ (mixed marbles): a paroxysm of multicolored marbles and three-dimensional reliefs that seem to spill over onto the viewer
+-->
+
+---
+color: black
+layout: two-cols
+---
+
+:: left ::
+
+![Caravaggio, _The Flagellation of Christ_, 1607. Oil on canvas](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Flagellation_of_Christ-Caravaggio_%281607%29.jpg/1920px-The_Flagellation_of_Christ-Caravaggio_%281607%29.jpg)
+
+:: right ::
+
+![Francisco de Zurbarán, _Saint Margaret_, 1631. Oil on canvas](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Francisco_de_Zurbar%C3%A1n_047.jpg/1920px-Francisco_de_Zurbar%C3%A1n_047.jpg)
+
+<!-- 
+- Baroque also encompasses the hushed despair of Caravaggio's Flagellation of Christ, a threnody (pronounce: THREN-uh-dee, meaning: a song of lamentation for the dead) over the tortured body of Christ, emerging twisted and broken from the blackness, or _Saint Margaret_ by the Spanish master Francisco de Zurbarán, in which a poised virgin martyr gazes resolutely at the viewer despite having being burnt, boiled, beheaded and swallowed by a dragon.
+
+- Baroque appealed to many different audiences, whether urban mobs in large public squares or solitary pilgrams mediating in a lonely wayside chapel.
+ -->
+
+---
+
+![Annibale Carracci, _The Loves pf the Gods_, 1597--1602. Fresco](https://res.cloudinary.com/image-solar/image/upload/v1769619490/2026nwp-ar1205/43563544090_365a3da94c_b_dqsxt2.jpg)
+
+<!-- 
+### the intellectual baroque
+
+Some works were aimed at intellectuals, such as the mythological frescos that adorned the ballrooms of the aristocracy: painted for Cardinal Odoardo Farnese
+
+Annibale Carracci's ceiling fresco is based on an interpretation of Ovid's Metamorphoses (a Latin narrative poem that was a major source of mythological themes for Renaissance and Baroque artists) by the Farnese family librarian Fulvio Orsini, its classical theme also complemented the family's collection of antique sculpture and championed their wealth and erudition. 
+
+
+The fresco depicts various love stories of the gods, including the tale of Jupiter and Europa, which is prominently featured in the central panel. The composition is dynamic and filled with movement, with figures swirling around in a complex arrangement that draws the viewer's eye across the entire ceiling. The use of foreshortening and dramatic poses enhances the sense of depth and three-dimensionality, creating an immersive experience for viewers looking up at the ceiling.
+
+"Considered the greatest fresco since Michelangelo's Sistine Chapel, Annibale's massive works traps its complex subject in an intricate web of feifned architecture, combining Michelangelo's _quadratura_ (illusionistic architecture) with a conceit called _quadro riportato_ (false frames painteind around frescoed images to make them look like easel paintings). The result is a three-dimentional overlapping of frames, false stuccos, flesh-coloured nudes and bronze medallions that nevertheless preserves the fresco's unity as it builds uptowards the central panel of _Triumph of Bacchus and Ariadne_." (Bailey, 18)
+
+ -->
+
+---
+color: black
+---
+
+![Franscesco Brunelli, _Crucifixion_, c.1600. Wood; life sized. Church of the Gesù, Rome](https://upload.wikimedia.org/wikipedia/commons/8/81/0_J%C3%A9sus_sur_la_croix_-_%C3%89glise_du_Ges%C3%B9_%C3%A0_Rome.JPG)
+
+<!-- 
+
+### the popular baroque
+- "the polychrome wooden crucifixion carved by Francesco Brunelli for the sacristy of the Gesu in Roome belongs to a tradition of hyper-realistic sculpture more common in Spain and Latin America, and is meant to provoke and shock the viewer. Even today the contrast between the suppleness of the flesh and the tortured pose and bloodied wounds in this dying Christ induces a visceral sense of pathos and sorrow." (Bailey, 18)
  -->
 
 ---
@@ -292,16 +361,3 @@ color: sky-light
 - how the facade shows baroque characteristics: the window frame thrust outward, the broken pediment above it, the undulating columns on either side, the swirling volutes at the top corners, and the abundance of sculptural decoration. An upward movement is created by the verticality of the columns and the pointed pediments, while the curves and scrolls add a sense of dynamism and fluidity. The overall effect is one of grandeur and theatricality, typical of Baroque architecture. (recall Gothic)
  -->
 
----
-layout: two-cols
----
-
-:: left ::
-
-![Francesco La Barbera, _Chiesa del Gesù (Casa Professa)_, 1622--1767, Palermo, Italy](https://res.cloudinary.com/image-solar/image/upload/v1769613840/2026nwp-ar1205/32804949267_1775e40aba_h_xmlix1.jpg)
-
-:: right ::
-
-![]()
-
-<!--  -->

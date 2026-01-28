@@ -685,6 +685,48 @@ color: black
 - carving figures out of paint; massiveness
 -->
 
+
+
+
+---
+
+<div flex gap-2>
+
+![](https://img.accademia.org/wp-content/uploads/2014/01/slaves-awakening-young-760x628.jpg)
+
+![](https://img.accademia.org/wp-content/uploads/2014/01/slaves-bearded-atlas-760x642.jpg)
+</div>
+<div text-xs> 
+
+Michelangelo, “The Awakening Slave”,“The Young Slave”,“The Bearded Slave” and “The Atlas (or Bound)”
+</div>
+
+<!-- 
+
+- series of four unfinished sculptures known as the "Prisoners" or "Slaves"
+- intended for the tomb of Pope Julius II
+- represent the struggle of the human soul to free itself from the material world
+- figures appear to be emerging from the marble, symbolizing the soul's attempt to break free
+- Michelangelo's technique of "non-finito" (unfinished) adds to the emotional intensity of the sculptures
+- the figures are muscular and dynamic, conveying a sense of tension and struggle
+
+ -->
+
+---
+
+![Michelangelo, The Slaves (commonly referred to as the Dying Slave and the Rebellious Slave), 1513-15, marble, 2.09 m high and usually considered unfinished. Originally intended for the tomb of Pope, Julius II](https://live.staticflickr.com/65535/50923305333_42f45fa565_k.jpg?s=eyJpIjo1MDkyMzMwNTMzMywiZSI6MTc2OTYzMjQ0MywicyI6IjM1NjVhM2M5NmU5OWVkZDUxYzdlMzRhODY4M2E5NTY3MzcxNjU5YTQiLCJ2IjoxfQ)
+
+<!-- 
+
+- commissioned by Pope Julius II for his tomb
+- intended to represent the soul's struggle to free itself from the body
+- muscular, contorted figures convey a sense of tension and struggle
+- unfinished state adds to the raw emotional power of the sculptures
+- titled accquired later
+- eyes half-closed, mouth slightly open, body twisted in a dynamic pose
+- remained bond to the marble block, symbolizing the soul's entrapment in the physical body
+ -->
+
 ---
 
 <div h-60 class="flex flex-col">
@@ -791,7 +833,7 @@ columns: ['is-12', 'is-12', 'is-4']
 
 :: left ::
 
-![itian, Venus of Urbino, 1538, oil on canvas, 119.20 x 165.50 cm (Galleria degli Uffizi, Florence)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg/3633px-Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg)
+![Titian, Venus of Urbino, 1538, oil on canvas, 119.20 x 165.50 cm (Galleria degli Uffizi, Florence)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg/3633px-Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg)
 
 <div v-drag="[708,150,214,60]" v-click="[1]" >
 
@@ -813,3 +855,4 @@ Titian (1488–1576) was the leading painter of the Venetian Renaissance. His ma
 - use of rich colors and textures, particularly in the fabrics and furnishings
 - glazing technique: applying multiple thin layers of translucent paint to create depth and richness in color. Titian was a master of this technique, which allowed him to achieve a luminous quality in his paintings. He often used 10 to 20 layers of glaze to build up the final image.
  -->
+
