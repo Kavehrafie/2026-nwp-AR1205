@@ -126,7 +126,7 @@
 )
 
 #let session-new-world = session(
-  "Art in Encounters: The Global Baroque",
+  "Art in Encounters: A Review of the Global Baroque",
   [
     The "New World" after contact: Hybridity, tequitqui, and the global baroque.
 
@@ -183,6 +183,7 @@
     - #link("https://youtu.be/agy4wXMF9wg")[Symbolism and meaning in Dutch still life painting]
     - #link("https://youtu.be/m-Wt51ScnNo")[Asia in Holland, 17th-century Delftware]
     - #link("https://youtu.be/K9iMsmhBOjk")[Peter Paul Rubens, The Consequences of War]
+    - #link("https://youtu.be/SHZojeuDLjM")[Anthony van Dyck, Charles I at the Hunt]
     - #link("https://youtu.be/9fEublFSTOg")[Frans Hals, Malle Babbe]
     - #link("https://youtu.be/xt2M4HTw29A")[Judith Leyster, Self-Portrait]
     - #link("https://youtu.be/DhefUahS55o")[Rembrandt, The Anatomy Lesson of Dr. Tulp]
@@ -198,15 +199,17 @@
   [
     Exploration of the Rococo style and its characteristics during the reign of Louis XV.
   \
-    _Key artists_: Watteau, Fragonard, Boucher.
-  
+    _Key artists_: Watteau, Fragonard, Boucher, Chardin and Hogarth.
+
     _Read_:
-    - TBA
+    - Michael Fried, "The Primacy of Absorption," in _The Absorption and Theatricality: Painting and Beholder in the Age of Diderot_ 
+    - Gauvin Alexander Bailey, _Baroque & Rococo_ (excerpt)
   
     _Watch_:
     - #link("https://youtu.be/8ZlH2JswO3Q")[Antoine Watteau, Pilgrimage to Cythera]
     - #link("https://youtu.be/lnJRkY0mZh4")[François Boucher, Madame de Pompadour]
     - #link("https://youtu.be/bE4BBy2lczM")[Jean-Honoré Fragonard, The Swing]
+    - #link("https://youtu.be/mFJ9tHJA2Sw")[William Hogarth, Marriage A-la-Mode]
   
   ]
 )

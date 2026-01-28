@@ -15,6 +15,9 @@
 
 // Terms organized alphabetically
 
+== Baroque 
+Baroque (c. 1580--c. 1700) grew out of the Catholic Reformation, and is a powerfully persuasive style based on rhetoric and drama. It also expanded---via the Iberian and French empires and the Dutch trading network—into the Americas and colonial Africa and Asia: to places such as Lima, Mozambique and Goa. … In fact, Baroque art and architecture cannot be fully appreciated without considering these Latin American, African and Asian variants.
+
 == Contrapposto
 An Italian term meaning "counterpoise" or "counterbalance." It describes the pose of a standing human figure where most weight is placed on one foot, causing the shoulders and arms to twist off-axis from the hips and legs. This creates a dynamic, naturalistic sense of movement that was revived and perfected during the Renaissance, most notably in Donatello's _David_ and Michelangelo's _David_.
 
@@ -50,6 +53,9 @@ French word meaning "rebirth," referring to the period from roughly the 14th to 
 
 == Rhythm
 In visual art, the principle of organizing elements to create a sense of movement or visual tempo through the repetition of lines, shapes, colors, or forms. Rhythm can be regular (with even intervals), flowing (with curved, organic repetition), progressive (with gradual changes), or alternating. Renaissance artists used rhythmic arrangements of figures and architectural elements to guide the viewer's eye and create visual harmony, as seen in the repeated poses of Raphael's _School of Athens_ or the flowing drapery patterns in Botticelli's works.
+
+== Rococo
+Rococo (c. 1700--c. 1800) began as decor, a whimsical, more intimate style that values ornamentation over structure and is more concerned with pastoral and exotic form than with weighty theological or historical themes.
 
 == Sfumato
 Italian term meaning "smoky" or "vanished like smoke." A painting technique, perfected by Leonardo da Vinci, that involves applying subtle, translucent layers of glaze to create soft, imperceptible transitions between colors and tones, eliminating harsh outlines. This technique creates atmospheric perspective and a sense of three-dimensional volume, most famously seen in the enigmatic smile of the _Mona Lisa_ and the soft modeling of faces in Leonardo's _Virgin of the Rocks_.

@@ -45,6 +45,8 @@ As you probably guessed, when applied to art, the word “Baroque” can connote
 in the second half of the 18th century, when it started to refer to art of the previous century, the term “Baroque” designated art which was “not in accord with the rules of proportions.” [2] In the 19th century, it was associated with notions of bizarreness, and then finally became associated with a distorted and degenerate version of Renaissance (or more precisely of Italian Renaissance) art.
 
 including the Counter-Reformation, the Scientific Revolution, the consolidation of absolutism, the rise of capitalism, the expansion of colonization. In the 17th and 18th centuries, globalization meant connectedness across distant geographies, but not that every part of the globe was connected to each other. Rather, there were specific pathways shaped by the contours of religion, colonization, and trade, which themselves were closely linked. For example, the establishment of Portuguese colonies in India since the early 16th century facilitated the presence of religious missionaries such as the Jesuits, who in turn employed Hindu carvers to build extraordinary churches such as São Paulo in Diu, India. 
+
+- by contrasty to Renaissance separating art forms, Baroque joined them to form a single, unifed experience
  -->
 
 ---
@@ -173,3 +175,121 @@ hide: true
 </div>
 
 - Galileo Galilei's telescopic observations of the moon in 1609 revealed a rugged, mountainous surface, challenging the Aristotelian notion of celestial perfection. His detailed drawings, published in the Sidereus Nuncius (1610), depicted the moon's craters and valleys, demonstrating that it was not a smooth, flawless sphere but a world with its own topography. This empirical observation undermined the long-held belief in the incorruptibility and perfection of heavenly bodies, suggesting that they were subject to change and imperfection just like earthly objects.
+
+---
+
+![View of the crossing
+1629-40
+Photo
+Basilica di San Pietro, Vatican](https://res.cloudinary.com/image-solar/image/upload/v1769566667/2026nwp-ar1205/crossin1_zk1tzy.jpg)
+
+<!-- 
+
+TODO identify the places
+
+Bernini, from 1629 architect to the fabric of St Peter's, was charged with systematizing the display of three Early Christian relics housed from 1606 in niches in the crossing piers flanking the apse: the head of the apostle Andrew; the lance of Longinus; and Veronica's veil. These relics, along with fragments of the True Cross brought to Rome by St Helena and transferred to St Peter's in 1629 by Urban VIII, were assembled by Bernini in the crossing. Each relic was honoured by the decoration of one of the giant piers. Bernini divided each pier into an upper and lower section. In the latter he created a large niche for a colossal marble statue of the saint, while the relic itself was commemorated in a tabernacle framed by a pair of spiral marble columns from the original Constantinian basilica, thus stressing the continuity of place.
+
+The statues, some three times life-size, were designed by Bernini and carved by him and by sculptors working under his control: St Andrew by François Duquesnoy; St Longinus by Bernini; St Helena by Andrea Bolgi; and St Veronica by Francesco Mochi. In pairs and as a group they relate to the baldacchino. St Veronica and St Helena seem to direct their attention to and move towards the papal altar at which Christ's Passion is re-enacted during Mass. St Andrew and St Longinus, with arms outspread in wonder, look upward towards the top of the baldacchino. Bernini thus charged the space of the crossing with an unprecedented dramatic power, engaging spectators physically and psychologically and making them not merely witnesses but participants in the unfolding events.
+
+The photo shows the crossing with St Veronica (left pier) and St Helena (right pier). The baldacchino is in the centre.
+ -->
+
+---
+
+![Gianlorenzo Bernini, _Saint Longinus_, 1629--38. Marble; 4.5 m](https://res.cloudinary.com/image-solar/image/upload/v1769567264/2026nwp-ar1205/26955407394_eae14b3ec0_b_bq45v5.jpg)
+
+<!-- 
+
+- carved of four massive blocks of marble, each weighing several tons, and assembled on site. This monumental scale enhances the statue's dramatic impact, making it a focal point within the vast space of St. Peter's Basilica.
+- Saint Longinus, the Roman centurion who pierced Christ's side with a lance, is depicted at the moment of his conversion, inspired by the sight of Christ's suffering. Bernini captures this transformative moment with dynamic movement and emotional intensity. Longinus is shown in a dramatic pose, his body twisting as he looks upward, his expression a mix of awe and revelation. The statue's swirling drapery and the upward gaze create a sense of ascension and spiritual awakening.
+- he is caught in the mid-motion like snapshot and the moment of transfomation (physical and spiritual) is frozen in time
+
+ -->
+
+
+---
+layout: two-cols-title
+---
+
+:: title ::
+
+### Compare 🗨️
+
+:: left ::
+
+![](https://res.cloudinary.com/image-solar/image/upload/v1769567264/2026nwp-ar1205/26955407394_eae14b3ec0_b_bq45v5.jpg)
+
+:: right ::
+
+
+![Donatello, St. George, c. 1409–1417. Formerly in Orsanmichele, Florence. 1417–1420. Marble](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-01.jpg/1229px-St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-01.jpg)
+
+---
+layout: two-cols
+columns: ["is-12", "is-half"]
+---
+
+:: left ::
+
+![Gianlorenzo Bernini, _Apollo and Daphne_, 1622-1625. Marble](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg/1280px-Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg)
+
+:: right ::
+
+![_Apollo and Daphne_ (detail)](https://upload.wikimedia.org/wikipedia/commons/4/45/Apollo_%26_Daphne_September_2015-1a.jpg)
+
+<!-- 
+A quentessential Baroque sculpture:
+1.  depicting transformation (the nymph Daphne turning into a laurel tree to escape Apollo)
+2.  dramatic capture of a moment in time (the climax of the myth)
+
+ -->
+
+---
+
+![Gianlorenzo Bernini, _Martyrdom of Saint Lawrence_. c.1618. Marble](https://res.cloudinary.com/image-solar/image/upload/v1769581633/2026nwp-ar1205/52423574324_38df33551a_o_gxzf9x.jpg)
+
+<!-- 
+-  Saint Lawrence was a deacon in Rome who was martyred in 258 AD during the persecution of Christians by the Roman Emperor Valerian. According to tradition, Lawrence was executed by being roasted alive on a gridiron. The sculpture captures the moment of his martyrdom with intense emotion and dramatic movement, characteristic of Baroque art.
+-  (ithe media borrowed techniques from each other) Bernini crafted flames and smoke out of marble (exclusive for the painter in Renaissance). The aim was to surround, dazzlew and astonish the viewer.
+
+ -->
+
+---
+
+![Francesco Borromini, _Chiesa di San Carlo alle Quattro Fontane_, 1638-1640](https://res.cloudinary.com/image-solar/image/upload/v1769568369/2026nwp-ar1205/Francesco-Borromini-San-Carlo-alle-Quattro-Fontane-1634-67-Roma.-arte-svelata_ywgkhb.jpg)
+
+<!-- 
+- "...walls that in the Renaissancee would have been flat and solid begin to bend, at times expanding and receding beyond the columns that frame them, like a giant lung. The conteracting concave and convex surfaces of the facade of Francesco Borromini's S. Carlo alle Quattro Fontane give the walls the fluency of waves, opening up a variety of viewpoints and encouraging viewers to linger over individual carved details." (Bailey, 6)
+
+ -->
+
+---
+
+![Francesco Borromini, _Chiesa di San Carlo alle Quattro Fontane_ (view of the ceiling from below), 1638-1640](https://res.cloudinary.com/image-solar/image/upload/v1769568061/2026nwp-ar1205/8563112820_7bbaa558e1_b_duafcs.jpg)
+
+
+---
+
+![Ottaviano Diodati, _Villa Garzoni_ gardens, c.1650--1786, Italy](https://res.cloudinary.com/image-solar/image/upload/v1769579677/2026nwp-ar1205/50312431646_59c676e3ca_b_lfz22b.jpg)
+
+<!-- 
+
+The delibrate confusion between art and nature finds its ultimate expression in the Baroque garden, where grottos and hillocks are constructd of marble and plaster while the straight-edged, architectural topiaries and box-hedges are crafted of living plants.
+
+Diodati's gardens at the Villa Garzoni in Italy (c. 1650--1786) where well-tended yews in the parterres (
+formal gardens on level surfaces edged with hedges or gravel) of the lower garden contrast with artificial caves, rock faces and mosses in the cascading upper garden--all carved by hand. 
+ -->
+
+---
+color: sky-light
+---
+
+![Ferdinando de Casos y Nova, facade of the cathedral of Santiago de Compostela, Spain](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Santiago_cathedral_2021.jpg/1920px-Santiago_cathedral_2021.jpg)
+
+
+<!-- 
+- columns, pediments and frizes are interconnected.
+- how the facade shows baroque characteristics: the window frame thrust outward, the broken pediment above it, the undulating columns on either side, the swirling volutes at the top corners, and the abundance of sculptural decoration. An upward movement is created by the verticality of the columns and the pointed pediments, while the curves and scrolls add a sense of dynamism and fluidity. The overall effect is one of grandeur and theatricality, typical of Baroque architecture. (recall Gothic)
+ -->
+
+
