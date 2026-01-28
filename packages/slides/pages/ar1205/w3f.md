@@ -292,4 +292,16 @@ color: sky-light
 - how the facade shows baroque characteristics: the window frame thrust outward, the broken pediment above it, the undulating columns on either side, the swirling volutes at the top corners, and the abundance of sculptural decoration. An upward movement is created by the verticality of the columns and the pointed pediments, while the curves and scrolls add a sense of dynamism and fluidity. The overall effect is one of grandeur and theatricality, typical of Baroque architecture. (recall Gothic)
  -->
 
+---
+layout: two-cols
+---
 
+:: left ::
+
+![Francesco La Barbera, _Chiesa del Gesù (Casa Professa)_, 1622--1767, Palermo, Italy](https://res.cloudinary.com/image-solar/image/upload/v1769613840/2026nwp-ar1205/32804949267_1775e40aba_h_xmlix1.jpg)
+
+:: right ::
+
+![]()
+
+<!--  -->
