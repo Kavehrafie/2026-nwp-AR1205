@@ -27,7 +27,8 @@ const alignment = computed(() => {
 // - Array: animated column widths based on clicks (e.g., ['is-6', 'is-8', 'is-4'])
 // Extended to support is-0 (hide left) and is-12 (hide right)
 const colwidth = computed(() => {
-  const columnsValue = props.columns ?? columnsDefault
+  // More defensive default check - handle undefined, null, and empty string
+  const columnsValue = (props.columns && props.columns.length > 0) ? props.columns : columnsDefault
   
   // Helper to compute size with extended support for is-0 and is-12
   const computeSize = (val: string) => {
@@ -37,6 +38,10 @@ const colwidth = computed(() => {
     }
     if (val === 'is-12' || val === 'is-12-0') {
       return { l: 12, r: 0 }
+    }
+    // Handle is-one-half explicitly for default 50-50 split
+    if (val === 'is-one-half' || val === 'is-6' || val === 'is-6-6') {
+      return { l: 6, r: 6 }
     }
     // Use theme's compute_column_size for standard values
     return compute_column_size(val)
@@ -55,14 +60,16 @@ const colwidth = computed(() => {
     return computeSize(selectedConfig)
   }
   
-  // Fallback to default
-  return computeSize(columnsDefault)
+  // Fallback to default - always return 6-6 for half-half
+  return { l: 6, r: 6 }
 })
 
 // Compute grid-template-columns using fr units (animatable)
 const gridTemplateColumns = computed(() => {
-  const l = colwidth.value.l
-  const r = colwidth.value.r
+  const col = colwidth.value
+  // Ensure we have valid l and r values, default to 6-6 (half-half)
+  const l = (col && typeof col.l === 'number') ? col.l : 6
+  const r = (col && typeof col.r === 'number') ? col.r : 6
   // Using fr units allows CSS to animate the grid columns
   return `${l}fr ${r}fr`
 })
@@ -70,6 +77,13 @@ const gridTemplateColumns = computed(() => {
 const colorscheme = computed(() => {
   return `neversink-${props.color ?? colorDefault}-scheme`
 })
+
+// Computed properties to hide columns when width is 0
+const hideLeft = computed(() => colwidth.value.l === 0)
+const hideRight = computed(() => colwidth.value.r === 0)
+
+// Remove gap when one column is hidden
+const gridGap = computed(() => (hideLeft.value || hideRight.value) ? '0' : '1rem')
 </script>
 
 <!-- default.vue -->
@@ -111,12 +125,12 @@ const colorscheme = computed(() => {
       is vertical alignment (<code>t</code> for top, <code>m</code> for middle, <code>b</code> for bottom).
     </p>
   </div>
-  <div v-else class="slidev-layout default two-cols slidecolor h-full" :class="colorscheme">
-    <div v-if="$slots.left" class="left-col h-110" :class="alignment.l">
+  <div v-else class="slidev-layout default two-cols slidecolor h-full" :class="colorscheme" :style="{ gridTemplateColumns: gridTemplateColumns, gap: gridGap }">
+    <div v-if="$slots.left" class="left-col h-110" :class="[alignment.l, { 'col-hidden': hideLeft }]">
       <slot name="left" />
     </div>
 
-    <div v-if="$slots.right" class="right-col  h-110" :class="alignment.r">
+    <div v-if="$slots.right" class="right-col h-110" :class="[alignment.r, { 'col-hidden': hideRight }]">
       <slot name="right" />
     </div>
 
@@ -129,25 +143,35 @@ const colorscheme = computed(() => {
 <style scoped>
 .two-cols {
   display: grid;
-  grid-template-columns: v-bind(gridTemplateColumns);
+  grid-template-columns: 1fr 1fr; /* fallback default */
   grid-template-rows: 1fr auto; /* content row + optional footer */
-  transition: grid-template-columns 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: grid-template-columns 0.5s cubic-bezier(0.4, 0, 0.2, 1), gap 0.5s ease;
   gap: 1rem;
 }
 
 .two-cols .left-col,
 .two-cols .right-col {
   overflow: visible;
-  transition: opacity 0.3s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-width: 0; /* Allow columns to shrink below content size */
 }
 
-/* Hide column when width is 0 */
-.two-cols .left-col {
-  opacity: v-bind(colwidth.l === 0 ? '0' : '1');
+.two-cols .left-col > *,
+.two-cols .right-col > * {
+  width: 100%;
+  text-align: center;
 }
 
-.two-cols .right-col {
-  opacity: v-bind(colwidth.r === 0 ? '0' : '1');
+/* Hide column content when width is 0 - clip content as it collapses */
+.two-cols .col-hidden {
+  opacity: 0;
+  overflow: hidden;
+  pointer-events: none;
 }
 
 .end-footer {
@@ -158,16 +182,6 @@ const colorscheme = computed(() => {
 .footer {
   grid-column: 1 / -1; /* full width */
   margin-bottom: 1rem;
-}
-
-.two-cols .left-col {
-  display: flex;
-  flex-direction: column;
-}
-
-.two-cols .right-col {
-  display: flex;
-  flex-direction: column;
 }
 
 .footnotes-sep {
