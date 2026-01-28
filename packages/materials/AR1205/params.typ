@@ -204,10 +204,9 @@
     - TBA
   
     _Watch_:
-    - TBA
-    // - #link("https://youtu.be/8ZlH2JswO3Q")[Antoine Watteau, Pilgrimage to Cythera]
-    // - #link("https://youtu.be/lnJRkY0mZh4")[François Boucher, Madame de Pompadour]
-    // - #link("https://youtu.be/bE4BBy2lczM")[Jean-Honoré Fragonard, The Swing]
+    - #link("https://youtu.be/8ZlH2JswO3Q")[Antoine Watteau, Pilgrimage to Cythera]
+    - #link("https://youtu.be/lnJRkY0mZh4")[François Boucher, Madame de Pompadour]
+    - #link("https://youtu.be/bE4BBy2lczM")[Jean-Honoré Fragonard, The Swing]
   
   ]
 )

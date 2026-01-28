@@ -425,7 +425,8 @@ FOUR AREADS OF KNOWLEDGE
 - Justice (Cardinal and Theological Virtues)
 -->
 
----- considered one of the greatest achievements in Western art
+---
+
 color: black
 ---
 
@@ -552,13 +553,12 @@ color: violet
 
 ![Paolo Veronese, Feast in the House of Levi, 1573, oil on canvas, 18′ 3″ x 42′](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Feast_in_the_House_of_Levi_by_Paolo_Veronese_%28edited_2%29.jpg/3840px-The_Feast_in_the_House_of_Levi_by_Paolo_Veronese_%28edited_2%29.jpg)
 
-<div v-drag="[682,50,214,366]" v-click="[1]" class="bg-white/90 p-4 backdrop-blur-sm">
+<div v-drag="[682,50,214,72]" v-click="[1]" class="bg-white/90 p-4 backdrop-blur-sm">
 
 oil painting ✏️
 </div>
 
-<!-- 
-
+<!--
 - oil painting: pigments mixed with oil (linseed oil) as a binder, allowing for rich colors, fine details, and layering techniques. The technique mastered by Northern Renaissance artists like Jan van Eyck
 
 - The title "Feast in the House of Levi" was adopted after the Inquisition challenged the original title "The Last Supper" for its lavish depiction of a banquet scene, which was seen as inappropriate for a sacred event.
@@ -571,8 +571,8 @@ oil painting ✏️
 
 - banquet scene: opulence and abundance, reflecting Venice's wealth and status as a major trading hub
 - inquisition called the tribunal: questioned Veronese about the inclusion of "irreverent" figures in a religious scene. Interestingly the church commissioned the painting seemed to have no issue with the content until the Inquisition intervened.
-- Veronese responded by saying that the artist has the freedom to depict as poets do, and he changed the title to "Feast in the House of Levi" to avoid further controversy. 
- -->
+- Veronese responded by saying that the artist has the freedom to depict as poets do, and he changed the title to "Feast in the House of Levi" to avoid further controversy.
+-->
 
 ---
 
