@@ -306,3 +306,46 @@ Art Exhibition and the International Exhibition of Fine Arts (1947), the Italian
 
 ---
 
+<!-- 
+art et liberte : distancsed itsekf from previous groups such as La chimere and the state-sponsored Society of Art Lovers, which was responsible for the influential annual Salon du Caire from 1923. 
+
+ -->
+
+---
+
+![GAMAL EL SAGINI , Egypt
+Hoda
+,
+1951
+Medium:
+Oil on panel
+80 * 57.5 cm](https://res.cloudinary.com/image-solar/image/upload/v1769780804/2026nwp-ar2205/daf01gse0011-gamalelseguini-front.jpg_i3tiyf.webp)
+
+<!-- 
+
+in 1947, a group formed called Group of Modern Art based at the Institute of Pedagy, Cairo joining in rejecting both elitism associated with the school of finr arts and art et liberte's avant-garde. Looking inward, the Group of Modern Art, led by Gamal al-Sigini, Hamed Oweis, and Gazbia Sirry embraced the revolutionary nationalism that came in the wake of July 1952 revolution.
+- Their work often depicted the struggles of everyday Egyptians, particularly peasants and workers, aligning with the social realist movement. they mixed social realism with Egyptian folk imagery and Copic figuration
+- The group was short lived but brought modernism in alignment with political rhetoric and practice if decolonization and cultural nationalism.
+  
+- The Egyptian revolution of 1952,[3] also known as the 1952 coup d'état[4][5][6] and the 23 July Revolution,[7] was a period of profound political, economic, and societal change in Egypt. On 23 July 1952, the revolution began with the toppling of King Farouk in a coup d'état by the Free Officers Movement, a group of army officers led by Mohamed Naguib and Gamal Abdel Nasser
+
+Naser's pan-Arabism and socialism greatly influenced Egyptian art during this period, as artists sought to reflect the ideals of unity, social justice, and national pride in their work.
+
+pan-Arabism is an ideology espousing the unification of the countries of North Africa and West Asia from the Atlantic Ocean to the Arabian Sea, referred to as the Arab world. It is based on the premise that the peoples of the Arab world constitute a single nation.
+
+ -->
+
+---
+
+![Ellington on stage. 1966](https://images.theconversation.com/files/115313/original/image-20160316-30227-1n3uldl.jpeg?ixlib=rb-4.1.0&q=50&auto=format&w=768&h=512&fit=crop&dpr=2)
+
+---
+
+<Youtube id="slh755jvYpo" />
+
+The First World Festival of Negro Arts (1966)
+USA, 40 minutes
+Directed by William Greaves
+
+---
+
