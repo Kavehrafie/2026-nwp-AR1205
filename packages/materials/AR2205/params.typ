@@ -33,7 +33,7 @@
   - David Joselit, from _American Art Since 1945_
 ]
 
-#let post_war_art_africa = session("Post-War Art in Africa")[
+#let post_war_art_africa = session("Postwar Art in Africa")[
   Examination of post-war art movements in Africa and their contributions to global art narratives.
 
   _Read_:
