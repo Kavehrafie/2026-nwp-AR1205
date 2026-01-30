@@ -128,17 +128,15 @@
 #let session-new-world = session(
   "Art in Encounters: A Review of the Global Baroque",
   [
-    The "New World" after contact: Hybridity, tequitqui, and the global baroque.
+    The "New World" after contact: Hybridity and the global baroque.
 
     _Read_:
-    - TBA
-    // - Claire Farago, "On the Peripatetic Life of Objects in Era of Globalization" in #text(style: "italic")[@CCMEA]
-    // - #link("https://smarthistory.org/featherworks/")["Featherworks: The Mass of St. Gregory" by Lauren Kilroy-Ewbank]
+    - Claire Farago, "On the Peripatetic Life of Objects in Era of Globalization" in #text(style: "italic")[@CCMEA]
+    - #link("https://smarthistory.org/featherworks/")["Featherworks: The Mass of St. Gregory" by Lauren Kilroy-Ewbank]
+    - #link("https://smarthistory.org/cabrera-portrait-of-sor-juana-ines-de-la-cruz/?tl=cabrera-portrait-of-sor-juana-ines-de-la-cruz&sidebar=north-america-1500-1800")[Miguel Cabrera, Portrait of Sor Juana Inés de la Cruz]
+
+    // _Watch_:
     // - #link("https://smarthistory.org/medici-americas/?sidebar=europe-1500-1600")["The Medici collect the Americas" by Lauren Kilroy-Ewbank]
-    // - #link("https://smarthistory.org/cabrera-portrait-of-sor-juana-ines-de-la-cruz/?tl=cabrera-portrait-of-sor-juana-ines-de-la-cruz&sidebar=north-america-1500-1800")[Miguel Cabrera, Portrait of Sor Juana Inés de la Cruz]
-    
-    _Watch_:
-    - TBA
   ]
 )
 
@@ -203,7 +201,7 @@
 
     _Read_:
     - Michael Fried, "The Primacy of Absorption," in _The Absorption and Theatricality: Painting and Beholder in the Age of Diderot_ 
-    - Gauvin Alexander Bailey, _Baroque & Rococo_ (excerpt)
+    // - Gauvin Alexander Bailey, _Baroque & Rococo_ (excerpt)
   
     _Watch_:
     - #link("https://youtu.be/8ZlH2JswO3Q")[Antoine Watteau, Pilgrimage to Cythera]

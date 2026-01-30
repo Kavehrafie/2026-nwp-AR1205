@@ -124,6 +124,14 @@
   - "1960" in @ART1900
 ]
 
+#let happenings_neo-data = session("Happenings and the Neo-Dada")[
+  Examination of Happenings as a precursor to performance art and their role in the development of Pop Art.
+
+  _Read_:
+  - "Pop, Environments and Happenings" in #text(style: "italic")[@MAS], pp. 97--106
+  - "1955a" and "1961" in @ART1900
+]
+
 #let calligraphic_abstraction = session("Calligraphic Abstraction")[
   Examination of calligraphic abstraction as a movement in majority Muslim nations.
 

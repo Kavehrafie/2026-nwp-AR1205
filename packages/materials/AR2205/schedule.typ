@@ -18,6 +18,7 @@
     after_abstract_exp,
     european_post_war,
     post_war_art_africa,
+    happenings_neo-data,
     pop_art,
     minimalism,
     fluxus,
@@ -33,7 +34,7 @@
     video_photography,
     curation,
     community_art,
-    guest,
+    // guest, // She is not confirmed 
     biennials,
     // new_media_art,
     ai,
