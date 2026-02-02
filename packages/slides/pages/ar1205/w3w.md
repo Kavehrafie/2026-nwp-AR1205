@@ -275,16 +275,57 @@ layout: two-cols
 </v-switch>
 
 ---
+layout: flex
+---
 
-![Left: Giulio Romano, Wall of the Sala dei Giganti, 1528–30, Palazzo Te, Mantua; right: Giulio Romano, Ceiling of the Sala dei Giganti, 1528–30, Palazzo Te, Mantua](https://smarthistory.org/wp-content/uploads/2020/08/sala-dei-giganti.jpg)
+
+![Internal courtyard of the Palazzo Te in Mantua with access to the palace](https://upload.wikimedia.org/wikipedia/commons/1/1c/Palazzo_Te_courtyard.jpg)
+
+![Archway to the semicircular colonnade](https://upload.wikimedia.org/wikipedia/commons/b/bd/Palazzo_Te_-_Veduta_del_giardino_interno.jpg)
 
 <!-- 
-- we find elements of the maniera among Raphael’s followers, such as in the work of Giulio Romano, who, along with Gian Francesco Penni, took over Raphael’s workshop in Rome upon the master’s untimely death.
+
+Just north of the city of Mantua is an enormous palace. It’s beautiful. It’s a series of courtyards and surrounding rooms. And some of it is quite quirky. For instance, there’s the Salon of the Horses. But the real star of this palace is one of the corner rooms. This is the Room of the Giants.
+ -->
+
+---
+color: black
+---
+
+<Asterisk />
+
+![Left: Giulio Romano, Wall of the Sala dei Giganti (Room of the Giants), 1528–30, Palazzo Te, Mantua; right: Giulio Romano, Ceiling of the Sala dei Giganti, 1528–30, Palazzo Te, Mantua](https://smarthistory.org/wp-content/uploads/2020/08/sala-dei-giganti.jpg)
+
+<!-- 
+  1520, Raphael dies unexpectedly at age 37
+
+- room covered in stucco\
+- giants building a wall to reach the heavens
+- 
+
+- we find elements of the maniera among Raphael’s followers, such as in the work of Giulio Romano, who, along with Gian Francesco Penni, took over Raphael’s workshop in Rome upon the master’s untimely death. 
 - His work at Palazzo Tè (the pleasure villa of Federico II Gonzaga of Mantua), like the frescoes in the Sala dei Giganti (Hall of the Giants), is a creative interpretation of and playful riff upon the classical tradition, continuing renaissance fascination with the ancient past. Powerful, elongated figures writhe across painted walls and ceiling that are reminiscent of ancient sarcophagi. At the Palazzo, Romano even developed architectural spaces that appear to dissolve in place like ancient ruins.
 
 
 -->
 
+---
+
+![Andrea Mantegna, _The Camera picta ("painted chamber")_, 1465. Fresco, Mantua](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mantegna_-_Camera_degli_Sposi.jpg/3840px-Mantegna_-_Camera_degli_Sposi.jpg)
+
+<div v-click v-drag="[76,29,484,649]">
+
+![](https://images.squarespace-cdn.com/content/v1/606ae1caf837c344b6222358/9370b387-146a-410f-9189-def724d3be01/77EC40D1-5192-4687-8D4B-B08ADAA73CEC.jpeg?format=1000w)
+
+</div>
+
+<!--
+And an urban planner. The rulers of Mantua have a long history of art patronage. We can think back to Andrea Mantegna, who decorated the Ducal Palace, or Alberti, who built Sant’Andrea.
+
+0:01:07.7 Dr. Steven Zucker: And in fact, Mantegna’s Camera Picta in the Palazzo Ducale, the Duke’s Palace, is a tour de force that envelops the entire room in painting. And what we’re seeing here is something similar. But while that painting was all about refinement and courtly manner, this painting couldn’t be more different.
+
+- Mantegna’s Camera Picta (painted chamber) in the Ducal Palace of Mantua is a masterpiece of illusionistic fresco painting. The room is designed to create the illusion of an open sky above, with figures peering down from a balcony and cherubs flying overhead. The ceiling features a trompe-l'œil oculus that gives the impression of a dome opening to the heavens, surrounded by painted architectural elements that enhance the sense of depth and space.
+-->
 
 ---
 layout: quote
@@ -296,10 +337,14 @@ color: zinc
 ... to understand the creative nature of this style and to recognize in the often imitation of classical models an overcompensation for the spiritual distance by which it was separated from them. ... We are the first to grasp the fact that the stylistic efforts of all leading artists of mannerism ... were concentered, above all, on breaking up the all too obvious regularity and harmony of classical art and replacing its superpersonal normativity by more subjectve and more suggestuve features.
 
 ---
+color: sky-light
+---
 
 ![Agnolo di Cosimo Bronzino, An Allegory with Venus and Cupid, c. 1545, oil on panel, 146.1 x 116.2cm](https://smarthistory.org/wp-content/uploads/2020/08/N-0651-00-000071-wpu.jpg)
 
 <!-- 
+Medici's court painter (casimo de' medici give it Francis I, for whom it was likely a gift)
+
 ### Secular Mannerism
 
 While mannerist qualities are found in secular works, like Bronzino’s Allegory with Venus and Cupid
@@ -307,6 +352,18 @@ While mannerist qualities are found in secular works, like Bronzino’s Allegory
 
 ### Stylishness
 Mannerist art has been associated with the tastes of aristocratic patrons, particularly those within court circles where displays of wealth and appreciation for beautiful things helped cultivate an elite persona. The self-conscious artifice and deliberate complexity of these works would have appealed to patrons who were familiar with recent artistic developments and eager to show off their knowledge and good taste. The general rise in the status of the artist—particularly in central Italy where mannerism first developed over the course of the renaissance, may also have contributed to a rising taste in art that reflected an artist’s individual style.
+
+
+### painting
+ - I find it disturbingly erotic and incestuous. The two figures embrace and kiss, but in a way that is also emptied of any overt eroticism. There’s a kind of icy coolness here at the same time.
+- at the same time icy coolness
+- They all seem to express an idea, to stand for something. [1:26] Well, that’s why this must be a kind of visual poetry. [1:30] Or a pun, or a riddle.
+- **golden apple** - symbol of discord - cupid's arrow - dove also  symbol of venus
+- masks
+- the mischevous child with blossom : folly
+- a serpent with honey comb and woman 
+- screening: syphilis (a disease associated with sexual promiscuity)
+- chronous
  -->
 
 ---
@@ -403,6 +460,7 @@ color: black
 
 ---
 transition: fade
+hide: true
 ---
 
 ![The interior of Santa Felicità, Florence](https://res.cloudinary.com/image-solar/image/upload/v1769625506/2026nwp-ar1205/50360554458_09371cb767_k_mc6coq.jpg)
@@ -418,6 +476,7 @@ the Capponi Chapel in Santa Felicità, Florence, is another important example of
 ---
 transition: fade-out
 color: black
+hide: true
 ---
 
 <Asterisk />
@@ -441,20 +500,28 @@ it seems that he is wightless, almost floating, as his body is supported by the 
 - fast and lose with human anatomy
  -->
 
-We find elements of the maniera among Raphael’s followers, such as in the work of Giulio Romano, who, along with Gian Francesco Penni, took over Raphael’s workshop in Rome upon the master’s untimely death.
-
-His work at Palazzo Tè (the pleasure villa of Federico II Gonzaga of Mantua), like the frescoes in the Sala dei Giganti (Hall of the Giants), is a creative interpretation of and playful riff upon the classical tradition, continuing renaissance fascination with the ancient past. Powerful, elongated figures writhe across painted walls and ceiling that are reminiscent of ancient sarcophagi. At the Palazzo, Romano even developed architectural spaces that appear to dissolve in place like ancient ruins.
-
- -->
-
-
-
 
 ---
+color: black
+---
+
+<Asterisk />
 
 ![Tintoretto, The Last Supper, 1592-94, oil on canvas, 365 x 568 cm (San Giorgio Maggiore, Venice)](https://upload.wikimedia.org/wikipedia/commons/4/46/Jacopo_Tintoretto_-_The_Last_Supper_-_WGA22649.jpg)
 
 <!-- 
+We’re in San Giorgio Maggiore, across the Grand Canal from San Marco in Venice. We’re looking at Tintoretto’s “Last Supper.”[0:13] It’s located in the sanctuary of the church on the right wall. It’s huge.
+
+
 - Tintoretto's Last Supper, painted for the church of San Giorgio Maggiore in Venice, is another example of mannerist art. The composition is dynamic and complex, with figures arranged in a swirling motion that draws the viewer's eye throughout the scene. The use of dramatic lighting and bold colors creates a sense of emotional intensity and spiritual fervor.
 
  -->
+
+---
+layout: flex
+---
+
+![Tintoretto, The Last Supper, 1592-94, oil on canvas, 365 x 568 cm (San Giorgio Maggiore, Venice)](https://upload.wikimedia.org/wikipedia/commons/4/46/Jacopo_Tintoretto_-_The_Last_Supper_-_WGA22649.jpg)
+
+
+![Leonardo da Vinci, Last Supper, oil, tempera, fresco, 1495–98](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg/3840px-The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg)

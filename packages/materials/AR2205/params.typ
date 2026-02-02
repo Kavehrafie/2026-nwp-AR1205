@@ -121,7 +121,8 @@
 
   _Read_:
   - Blake Stimson, from _Citizen Warhol_
-  - "1960" in @ART1900
+  // - "1960" and "1964" in @ART1900
+  - Lucie-Smith, from #text(style: "italic")[@MAS], pp. 107--130 (optional)
 ]
 
 #let happenings_neo-data = session("Happenings and the Neo-Dada")[

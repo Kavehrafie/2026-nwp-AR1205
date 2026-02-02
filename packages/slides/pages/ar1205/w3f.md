@@ -20,7 +20,8 @@ mannerism and baroque: "mannerism as the expression of the antagonism between sp
 
 ---
 hide: true
----Baroque Art
+---
+
 
 baroque vs. mannerism
 
@@ -32,6 +33,7 @@ baroque vs. mannerism
 
 ---
 layout: center
+color: rose-light
 ---
 
 ## Baroque ✏️
@@ -116,12 +118,36 @@ color: black
 
 ### the popular baroque
 - "the polychrome wooden crucifixion carved by Francesco Brunelli for the sacristy of the Gesu in Roome belongs to a tradition of hyper-realistic sculpture more common in Spain and Latin America, and is meant to provoke and shock the viewer. Even today the contrast between the suppleness of the flesh and the tortured pose and bloodied wounds in this dying Christ induces a visceral sense of pathos and sorrow." (Bailey, 18)
+ 
+ -->
+
+---
+layout: top-title
+---
+
+:: title :: 
+
+Comparing Renaissance and Baroque
+
+:: content :: 
+
+<div h-110>
+
+![Left: Raphael, Madonna of the Goldfinch, 1505–6, oil on panel, 107 x 77 cm (Uffizi, Florence); right: Peter Paul Rubens, Assumption of the Virgin Mary, 1626, oil on panel, 490 cm x 325 cm, High Altar of the Cathedral of Our Lady, Antwerp, Province of Antwerp, Flanders, Belgium (photo: Rolf Kranz, CC BY-SA 4.0)](https://smarthistory.org/wp-content/uploads/2022/01/raphael-rubens-cf.-copy.jpg)
+</div>
+
+<!-- 
+
+A comparison between Raphael’s Madonna of the Goldfinch from the Renaissance and Peter Paul Rubens’s The Assumption of the Virgin from the Baroque illustrates Wölfflin’s categories. Raphael’s painting emphasizes defining lines, self-contained figures—notice how through her gaze and posture, the Virgin draws the composition inward rather than expanding it beyond the borders of the canvas—and spatial clarity. Rubens’s Assumption, on the other hand, displays painterly brushwork, prominent color, the blurring of contours, dynamic diagonals, and dramatic contrast of light and shadow. It also seems to project outward into the space of the viewer.
+
  -->
 
 ---
 
-![1700: An illustrative map of the world in the early colonial period. ](https://commons.wikimedia.org/wiki/File:1700_CE_world_map.PNG)
+![1700: An illustrative map of the world in the early colonial period. ](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/1700_CE_world_map.PNG/3840px-1700_CE_world_map.PNG)
 
+---
+hide: true
 ---
 
 <!-- 
@@ -132,35 +158,7 @@ Bernini’s “Theatrical Baroque” (Bernini was in fact a stage designer).
 
  -->
 
----
 
-![Juan Sánchez Cotán, Still Life with Quince, Cabbage, Melon, and Cucumber, c. 1602, oil on canvas](https://smarthistory.org/wp-content/uploads/2018/09/Cotan-EDITED.jpg)
-
-
-<!-- 
-
-Juan Sánchez Cotán’s Quince, Cabbage, Melon and Cucumber combines the hyper-realistic depiction of fruits and vegetables with the theatricality of staging these objects under dramatic lighting against a dark background, as well as an erudite classical reference: like most Baroque still life painters, Cotán was probably emulating the ancient Greek painter Zeuxis, who was known through written accounts for the deceptively illusionistic powers of his paintings.
-
- -->
-
-
----
-layout: title-top
----
-
-:: title :: 
-
-Comparing Renaissance and Baroque
-
-:: content :: 
-
-![Left: Raphael, Madonna of the Goldfinch, 1505–6, oil on panel, 107 x 77 cm (Uffizi, Florence); right: Peter Paul Rubens, Assumption of the Virgin Mary, 1626, oil on panel, 490 cm x 325 cm, High Altar of the Cathedral of Our Lady, Antwerp, Province of Antwerp, Flanders, Belgium (photo: Rolf Kranz, CC BY-SA 4.0)](https://smarthistory.org/wp-content/uploads/2022/01/raphael-rubens-cf.-copy.jpg)
-
-<!-- 
-
-A comparison between Raphael’s Madonna of the Goldfinch from the Renaissance and Peter Paul Rubens’s The Assumption of the Virgin from the Baroque illustrates Wölfflin’s categories. Raphael’s painting emphasizes defining lines, self-contained figures—notice how through her gaze and posture, the Virgin draws the composition inward rather than expanding it beyond the borders of the canvas—and spatial clarity. Rubens’s Assumption, on the other hand, displays painterly brushwork, prominent color, the blurring of contours, dynamic diagonals, and dramatic contrast of light and shadow. It also seems to project outward into the space of the viewer.
-
- -->
 
 ---
 layout: two-cols
@@ -173,6 +171,7 @@ layout: two-cols
 :: right ::
 
 ![San Pedro Apóstol de Andahuaylillas, Peru, 16th century ](https://smarthistory.org/wp-content/uploads/2019/10/44342033064_c75d7f3f17_o.jpg)
+
 
 ---
 
@@ -189,6 +188,87 @@ In case you are wondering, knowledge of Japanese traditions such as lacquerware 
 
 
  -->
+
+---
+
+![Gianlorenzo Bernini, _Saint Longinus_, 1629--38. Marble; 4.5 m](https://res.cloudinary.com/image-solar/image/upload/v1769567264/2026nwp-ar1205/26955407394_eae14b3ec0_b_bq45v5.jpg)
+
+<!-- 
+
+- carved of four massive blocks of marble, each weighing several tons, and assembled on site. This monumental scale enhances the statue's dramatic impact, making it a focal point within the vast space of St. Peter's Basilica.
+- Saint Longinus, the Roman centurion who pierced Christ's side with a lance, is depicted at the moment of his conversion, inspired by the sight of Christ's suffering. Bernini captures this transformative moment with dynamic movement and emotional intensity. Longinus is shown in a dramatic pose, his body twisting as he looks upward, his expression a mix of awe and revelation. The statue's swirling drapery and the upward gaze create a sense of ascension and spiritual awakening.
+- he is caught in the mid-motion like snapshot and the moment of transfomation (physical and spiritual) is frozen in time
+
+ -->
+
+
+---
+layout: two-cols-title
+---
+
+:: title ::
+
+### Compare 🗨️
+
+:: left ::
+
+![[Gianlorenzo Bernini, _Saint Longinus_, 1629--38. Marble; 4.5 m](https://res.cloudinary.com/image-solar/image/upload/v1769567264/2026nwp-ar1205/26955407394_eae14b3ec0_b_bq45v5.jpg)
+
+:: right ::
+
+
+![Donatello, St. George, c. 1409–1417. Formerly in Orsanmichele, Florence. 1417–1420. Marble](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-01.jpg/1229px-St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-01.jpg)
+
+
+<!-- 
+
+bernini's Saint Longinus and Donatello's St. George both depict saints in moments of action and transformation, but they do so in ways that reflect the distinct artistic styles and cultural contexts of their respective periods.
+
+Donatello's St. George, created during the early Renaissance, embodies the ideals of humanism and classical antiquity. The statue portrays St. George as a poised and confident figure, standing in a contrapposto pose that emphasizes balance and harmony. His expression is calm and resolute, reflecting the Renaissance emphasis on rationality and the idealized human form. The sculpture is relatively restrained in its emotional expression, focusing more on the saint's heroic qualities and moral virtue.
+ -->
+
+---
+layout: two-cols
+columns: ["is-12", "is-half"]
+---
+
+:: left ::
+
+![Gianlorenzo Bernini, _Apollo and Daphne_, 1622-1625. Marble](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg/1280px-Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg)
+
+:: right ::
+
+![_Apollo and Daphne_ (detail)](https://upload.wikimedia.org/wikipedia/commons/4/45/Apollo_%26_Daphne_September_2015-1a.jpg)
+
+<!-- 
+A quentessential Baroque sculpture:
+1.  depicting transformation (the nymph Daphne turning into a laurel tree to escape Apollo)
+2.  dramatic capture of a moment in time (the climax of the myth)
+
+ -->
+
+---
+
+![Gianlorenzo Bernini, _Martyrdom of Saint Lawrence_. c.1618. Marble](https://res.cloudinary.com/image-solar/image/upload/v1769581633/2026nwp-ar1205/52423574324_38df33551a_o_gxzf9x.jpg)
+
+<!-- 
+-  Saint Lawrence was a deacon in Rome who was martyred in 258 AD during the persecution of Christians by the Roman Emperor Valerian. According to tradition, Lawrence was executed by being roasted alive on a gridiron. The sculpture captures the moment of his martyrdom with intense emotion and dramatic movement, characteristic of Baroque art.
+-  (ithe media borrowed techniques from each other) Bernini crafted flames and smoke out of marble (exclusive for the painter in Renaissance). The aim was to surround, dazzlew and astonish the viewer.
+
+ -->
+
+---
+
+![Francesco Borromini, _Chiesa di San Carlo alle Quattro Fontane_, 1638-1640](https://res.cloudinary.com/image-solar/image/upload/v1769568369/2026nwp-ar1205/Francesco-Borromini-San-Carlo-alle-Quattro-Fontane-1634-67-Roma.-arte-svelata_ywgkhb.jpg)
+
+<!-- 
+- "...walls that in the Renaissancee would have been flat and solid begin to bend, at times expanding and receding beyond the columns that frame them, like a giant lung. The conteracting concave and convex surfaces of the facade of Francesco Borromini's S. Carlo alle Quattro Fontane give the walls the fluency of waves, opening up a variety of viewpoints and encouraging viewers to linger over individual carved details." (Bailey, 6)
+
+ -->
+
+---
+
+![Francesco Borromini, _Chiesa di San Carlo alle Quattro Fontane_ (view of the ceiling from below), 1638-1640](https://res.cloudinary.com/image-solar/image/upload/v1769568061/2026nwp-ar1205/8563112820_7bbaa558e1_b_duafcs.jpg)
 
 ---
 layout: two-cols
@@ -218,6 +298,18 @@ The wealth of materials, techniques, and especially the countless artists, artis
 
  -->
 
+---
+color: black
+---
+
+![Juan Sánchez Cotán, Still Life with Quince, Cabbage, Melon, and Cucumber, c. 1602, oil on canvas](https://smarthistory.org/wp-content/uploads/2018/09/Cotan-EDITED.jpg)
+
+
+<!-- 
+
+Juan Sánchez Cotán’s Quince, Cabbage, Melon and Cucumber combines the hyper-realistic depiction of fruits and vegetables with the theatricality of staging these objects under dramatic lighting against a dark background, as well as an erudite classical reference: like most Baroque still life painters, Cotán was probably emulating the ancient Greek painter Zeuxis, who was known through written accounts for the deceptively illusionistic powers of his paintings.
+
+ -->
 
 ---
 title: Oppression and Global Baroque
@@ -263,78 +355,6 @@ The statues, some three times life-size, were designed by Bernini and carved by 
 The photo shows the crossing with St Veronica (left pier) and St Helena (right pier). The baldacchino is in the centre.
  -->
 
----
-
-![Gianlorenzo Bernini, _Saint Longinus_, 1629--38. Marble; 4.5 m](https://res.cloudinary.com/image-solar/image/upload/v1769567264/2026nwp-ar1205/26955407394_eae14b3ec0_b_bq45v5.jpg)
-
-<!-- 
-
-- carved of four massive blocks of marble, each weighing several tons, and assembled on site. This monumental scale enhances the statue's dramatic impact, making it a focal point within the vast space of St. Peter's Basilica.
-- Saint Longinus, the Roman centurion who pierced Christ's side with a lance, is depicted at the moment of his conversion, inspired by the sight of Christ's suffering. Bernini captures this transformative moment with dynamic movement and emotional intensity. Longinus is shown in a dramatic pose, his body twisting as he looks upward, his expression a mix of awe and revelation. The statue's swirling drapery and the upward gaze create a sense of ascension and spiritual awakening.
-- he is caught in the mid-motion like snapshot and the moment of transfomation (physical and spiritual) is frozen in time
-
- -->
-
-
----
-layout: two-cols-title
----
-
-:: title ::
-
-### Compare 🗨️
-
-:: left ::
-
-![](https://res.cloudinary.com/image-solar/image/upload/v1769567264/2026nwp-ar1205/26955407394_eae14b3ec0_b_bq45v5.jpg)
-
-:: right ::
-
-
-![Donatello, St. George, c. 1409–1417. Formerly in Orsanmichele, Florence. 1417–1420. Marble](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-01.jpg/1229px-St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-01.jpg)
-
----
-layout: two-cols
-columns: ["is-12", "is-half"]
----
-
-:: left ::
-
-![Gianlorenzo Bernini, _Apollo and Daphne_, 1622-1625. Marble](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg/1280px-Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg)
-
-:: right ::
-
-![_Apollo and Daphne_ (detail)](https://upload.wikimedia.org/wikipedia/commons/4/45/Apollo_%26_Daphne_September_2015-1a.jpg)
-
-<!-- 
-A quentessential Baroque sculpture:
-1.  depicting transformation (the nymph Daphne turning into a laurel tree to escape Apollo)
-2.  dramatic capture of a moment in time (the climax of the myth)
-
- -->
-
----
-
-![Gianlorenzo Bernini, _Martyrdom of Saint Lawrence_. c.1618. Marble](https://res.cloudinary.com/image-solar/image/upload/v1769581633/2026nwp-ar1205/52423574324_38df33551a_o_gxzf9x.jpg)
-
-<!-- 
--  Saint Lawrence was a deacon in Rome who was martyred in 258 AD during the persecution of Christians by the Roman Emperor Valerian. According to tradition, Lawrence was executed by being roasted alive on a gridiron. The sculpture captures the moment of his martyrdom with intense emotion and dramatic movement, characteristic of Baroque art.
--  (ithe media borrowed techniques from each other) Bernini crafted flames and smoke out of marble (exclusive for the painter in Renaissance). The aim was to surround, dazzlew and astonish the viewer.
-
- -->
-
----
-
-![Francesco Borromini, _Chiesa di San Carlo alle Quattro Fontane_, 1638-1640](https://res.cloudinary.com/image-solar/image/upload/v1769568369/2026nwp-ar1205/Francesco-Borromini-San-Carlo-alle-Quattro-Fontane-1634-67-Roma.-arte-svelata_ywgkhb.jpg)
-
-<!-- 
-- "...walls that in the Renaissancee would have been flat and solid begin to bend, at times expanding and receding beyond the columns that frame them, like a giant lung. The conteracting concave and convex surfaces of the facade of Francesco Borromini's S. Carlo alle Quattro Fontane give the walls the fluency of waves, opening up a variety of viewpoints and encouraging viewers to linger over individual carved details." (Bailey, 6)
-
- -->
-
----
-
-![Francesco Borromini, _Chiesa di San Carlo alle Quattro Fontane_ (view of the ceiling from below), 1638-1640](https://res.cloudinary.com/image-solar/image/upload/v1769568061/2026nwp-ar1205/8563112820_7bbaa558e1_b_duafcs.jpg)
 
 
 ---
