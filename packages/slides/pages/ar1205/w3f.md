@@ -146,6 +146,21 @@ A comparison between Raphael’s Madonna of the Goldfinch from the Renaissance a
 
 ![1700: An illustrative map of the world in the early colonial period. ](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/1700_CE_world_map.PNG/3840px-1700_CE_world_map.PNG)
 
+<div v-drag="[734,5,242,368]" class="bg-white/80" >
+
+<div>
+
+![The Encounter between Hernan Cortes and Montezuma II from 'Le Costume Ancien ou Moderne' by Jules Ferrario](https://res.cloudinary.com/image-solar/image/upload/v1770204043/2026nwp-ar1205/Gallo_Gallina_-_The_Encounter_between_Hernan_Cortes__281485-1547_29_and_Montezuma_II__281466-1520_29_fro_-__28MeisterDrucke-263993_29_hry6xy.jpg)
+</div>
+</div>
+
+<!-- 
+
+- Colombus's voyages to the Americas in 1492 marked the beginning of European exploration and colonization of the New World. This period saw the establishment of Spanish, Portuguese, English, French, and Dutch colonies across the Americas, leading to significant cultural exchanges, economic exploitation, and profound impacts on indigenous populations.
+- The early colonial period was marked by significant encounters between European explorers and indigenous civilizations in the Americas. One of the most notable events was the meeting between Hernán Cortés, a Spanish conquistador, and Montezuma II, the emperor of the Aztec Empire, in 1519. This encounter symbolized the beginning of Spanish colonization in Mexico and had profound consequences for the indigenous peoples.
+
+ -->
+
 ---
 hide: true
 ---
@@ -173,6 +188,8 @@ layout: two-cols
 ![San Pedro Apóstol de Andahuaylillas, Peru, 16th century ](https://smarthistory.org/wp-content/uploads/2019/10/44342033064_c75d7f3f17_o.jpg)
 
 
+---
+color: black
 ---
 
 ![Left: Schelte à Bolswert, The Assumption of the Virgin, 1630–90, engraving, 27.3 x 17.2 cm, after the painting by Rubens (The British Museum, CC BY-NC-SA 4.0); right: Miguel González and/or Juan González, The Assumption of the Virgin, c. 1700, oil on panel with inlaid mother-of-pearl, 93 x 74 cm (private collection, Monterrey, Mexico)](https://smarthistory.org/wp-content/uploads/2022/01/rubenscomp.jpg)
@@ -212,13 +229,17 @@ layout: two-cols-title
 
 :: left ::
 
-![[Gianlorenzo Bernini, _Saint Longinus_, 1629--38. Marble; 4.5 m](https://res.cloudinary.com/image-solar/image/upload/v1769567264/2026nwp-ar1205/26955407394_eae14b3ec0_b_bq45v5.jpg)
+<div h-110>
+
+![Gianlorenzo Bernini, _Saint Longinus_, 1629--38. Marble; 4.5 m](https://res.cloudinary.com/image-solar/image/upload/v1769567264/2026nwp-ar1205/26955407394_eae14b3ec0_b_bq45v5.jpg)
+</div>
 
 :: right ::
 
+<div h-110>
 
 ![Donatello, St. George, c. 1409–1417. Formerly in Orsanmichele, Florence. 1417–1420. Marble](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-01.jpg/1229px-St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-01.jpg)
-
+</div>
 
 <!-- 
 
@@ -270,46 +291,6 @@ A quentessential Baroque sculpture:
 
 ![Francesco Borromini, _Chiesa di San Carlo alle Quattro Fontane_ (view of the ceiling from below), 1638-1640](https://res.cloudinary.com/image-solar/image/upload/v1769568061/2026nwp-ar1205/8563112820_7bbaa558e1_b_duafcs.jpg)
 
----
-layout: two-cols
----
-
-:: right :: 
-
-![](https://smarthistory.org/wp-content/uploads/2018/09/Pereda-still-life-thumb.jpg)
-
-:: left ::
-
-
-
-Trade routes and cultural exchange in the Baroque period
-
-<!-- 
-
-hese included:
-
-the India Run (the voyage made by the Portuguese between Lisbon and Goa, on the southwestern coast of India. from the 16th to the 19th centuries)
-the Manila Galleon (maintained by Spain between 1565–1815 to bring Asian goods—including the Japanese lacquer works that Mexican artists embraced in enconchado paintings such as the one mentioned above—across the North Pacific from Manila in the Philippines to Acapulco in New Spain, now Mexico),
-and the Dutch East and West India Companies (VOC and GWC), which monopolized trade with Eurasia and Southern Africa and with West Africa and the Americas, respectively, during much of the 17th and 18th centuries.
-These routes and companies moved exotic luxury objects such as Indian and Chinese fabrics, lacquer furniture, ivory figurines, porcelain, and spices across all the known continents. But most were also involved in the slave trade, adding a brutal aspect to this early modern globalization in the thousands of Africans who were forced into slavery in Europe and the Americas.
-
-### painting
-The wealth of materials, techniques, and especially the countless artists, artisans, and craftsmen of various origins who contributed to the creation of this global Baroque can’t be overestimated. Think about how the desire for Chinese porcelain in the Dutch Republic drove the production of delftware (illustrated earlier), a domestic version of the coveted ware (and in turn how the Chinese created new types of ceramics for European markets), or how the “perfect red” attained with American cochineal dye became the color of royalty and nobility across Europe and the Americas.
-
- -->
-
----
-color: black
----
-
-![Juan Sánchez Cotán, Still Life with Quince, Cabbage, Melon, and Cucumber, c. 1602, oil on canvas](https://smarthistory.org/wp-content/uploads/2018/09/Cotan-EDITED.jpg)
-
-
-<!-- 
-
-Juan Sánchez Cotán’s Quince, Cabbage, Melon and Cucumber combines the hyper-realistic depiction of fruits and vegetables with the theatricality of staging these objects under dramatic lighting against a dark background, as well as an erudite classical reference: like most Baroque still life painters, Cotán was probably emulating the ancient Greek painter Zeuxis, who was known through written accounts for the deceptively illusionistic powers of his paintings.
-
- -->
 
 ---
 title: Oppression and Global Baroque
@@ -381,3 +362,44 @@ color: sky-light
 - how the facade shows baroque characteristics: the window frame thrust outward, the broken pediment above it, the undulating columns on either side, the swirling volutes at the top corners, and the abundance of sculptural decoration. An upward movement is created by the verticality of the columns and the pointed pediments, while the curves and scrolls add a sense of dynamism and fluidity. The overall effect is one of grandeur and theatricality, typical of Baroque architecture. (recall Gothic)
  -->
 
+---
+layout: two-cols
+color: amber-light
+---
+
+:: right :: 
+
+![Antonio de Pereda, Still Life with Ebony Chest, 1652, oil on canvas, 80 x 94 cm](https://smarthistory.org/wp-content/uploads/2018/09/Pereda-still-life-thumb.jpg)
+
+:: left ::
+
+
+
+### Trade routes and cultural exchange in the Baroque period
+
+<!-- 
+
+hese included:
+
+the India Run (the voyage made by the Portuguese between Lisbon and Goa, on the southwestern coast of India. from the 16th to the 19th centuries)
+the Manila Galleon (maintained by Spain between 1565–1815 to bring Asian goods—including the Japanese lacquer works that Mexican artists embraced in enconchado paintings such as the one mentioned above—across the North Pacific from Manila in the Philippines to Acapulco in New Spain, now Mexico),
+and the Dutch East and West India Companies (VOC and GWC), which monopolized trade with Eurasia and Southern Africa and with West Africa and the Americas, respectively, during much of the 17th and 18th centuries.
+These routes and companies moved exotic luxury objects such as Indian and Chinese fabrics, lacquer furniture, ivory figurines, porcelain, and spices across all the known continents. But most were also involved in the slave trade, adding a brutal aspect to this early modern globalization in the thousands of Africans who were forced into slavery in Europe and the Americas.
+
+### painting
+The wealth of materials, techniques, and especially the countless artists, artisans, and craftsmen of various origins who contributed to the creation of this global Baroque can’t be overestimated. Think about how the desire for Chinese porcelain in the Dutch Republic drove the production of delftware (illustrated earlier), a domestic version of the coveted ware (and in turn how the Chinese created new types of ceramics for European markets), or how the “perfect red” attained with American cochineal dye became the color of royalty and nobility across Europe and the Americas.
+
+ -->
+
+---
+color: black
+---
+
+![Juan Sánchez Cotán, Still Life with Quince, Cabbage, Melon, and Cucumber, c. 1602, oil on canvas](https://smarthistory.org/wp-content/uploads/2018/09/Cotan-EDITED.jpg)
+
+
+<!-- 
+
+Juan Sánchez Cotán’s Quince, Cabbage, Melon and Cucumber combines the hyper-realistic depiction of fruits and vegetables with the theatricality of staging these objects under dramatic lighting against a dark background, as well as an erudite classical reference: like most Baroque still life painters, Cotán was probably emulating the ancient Greek painter Zeuxis, who was known through written accounts for the deceptively illusionistic powers of his paintings.
+
+ -->

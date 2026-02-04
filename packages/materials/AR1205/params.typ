@@ -277,24 +277,23 @@
 
 
 #let session-south-asian-art = session(
-  "From the 14th Century to the Mogul Empire in the Indian Subcontinent and Beyond",
+  "The Indian Subcontinent and Beyond",
   [
-    Study of South Asian art from the 14th century.
+    A study of the 14th century to the Mughal Empire in the Indian Subcontinent and beyond.
 
     _Read_:
-    - TBA
-    // - #link("https://smarthistory.org/the-qutb-complex-and-early-sultanate-architecture/?sidebar=asia-1000-1500")["The Qutb complex and early Sultanate architecture" by Arathi Menon]
-    // - #link("https://smarthistory.org/art-and-architecture-of-vijayanagara-empire/?sidebar=asia-1000-1500")["Art and architecture of the Vijayanagara empire" by Gita V. Pai]
-    // - #link("https://smarthistory.org/indo-portuguese-ivory-statuettes/?sidebar=asia-1500-1900")["Christian art in India: Indo-Portuguese ivory statuettes" by Marsha G. Olson]
-    // - #link("https://smarthistory.org/meenakshi-madurai/?sidebar=asia-1500-1900")["Meenakshi Temple at Madurai" by Edward Fosmire]
-    // - #link("https://smarthistory.org/akbarnama/?sidebar=asia-1500-1900")["Illustration from the Akbarnama" by Katrina Klaasmeyer]
-    // - #link("https://smarthistory.org/the-taj-mahal/?sidebar=asia-1500-1900")["The Taj Mahal" by Roshna Kapadia]
-    // - #link("https://smarthistory.org/wat-phra-kaew-temple-of-the-emerald-buddha/")[
-    //   "Wat Phra Kaew (Temple of the Emerald Buddha)" by Melody Rod-ari
-    // ]
+    - #link("https://smarthistory.org/the-qutb-complex-and-early-sultanate-architecture/?sidebar=asia-1000-1500")["The Qutb complex and early Sultanate architecture" by Arathi Menon]
+    - #link("https://smarthistory.org/art-and-architecture-of-vijayanagara-empire/?sidebar=asia-1000-1500")["Art and architecture of the Vijayanagara empire" by Gita V. Pai]
+    - #link("https://smarthistory.org/indo-portuguese-ivory-statuettes/?sidebar=asia-1500-1900")["Christian art in India: Indo-Portuguese ivory statuettes" by Marsha G. Olson]
+    - #link("https://smarthistory.org/meenakshi-madurai/?sidebar=asia-1500-1900")["Meenakshi Temple at Madurai" by Edward Fosmire]
+    - #link("https://smarthistory.org/akbarnama/?sidebar=asia-1500-1900")["Illustration from the Akbarnama" by Katrina Klaasmeyer]
+    - #link("https://smarthistory.org/the-taj-mahal/?sidebar=asia-1500-1900")["The Taj Mahal" by Roshna Kapadia]
+    - #link("https://smarthistory.org/wat-phra-kaew-temple-of-the-emerald-buddha/")[
+      "Wat Phra Kaew (Temple of the Emerald Buddha)" by Melody Rod-ari
+    ]
 
-    _Watch_:
-    - TBA
+    // _Watch_:
+    // - TBA
   ]
 )
 
@@ -530,7 +529,7 @@
 
 #let important-dates = (
   date-note("Artifact I", datetime(year: 2026, month: 1, day: 19), kind: "assignment", body: [_Linear Perspective in Action_ is due.]),
-  date-note("Artifact II", datetime(year: 2026, month: 2, day: 9), kind: "assignment"),
+  date-note("Artifact II", datetime(year: 2026, month: 2, day: 13), kind: "assignment"),
   date-note("Artifact III", datetime(year: 2026, month: 2, day: 27), kind: "assignment"),
   date-note("Artifact IV", datetime(year: 2026, month: 3, day: 23), kind: "assignment"),
   date-note("Artifact V", datetime(year: 2026, month: 4, day: 13), kind: "assignment"),
