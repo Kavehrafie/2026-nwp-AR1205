@@ -92,7 +92,8 @@
   Exploration of Minimalism as a reaction against Abstract Expressionism and its emphasis on simplicity and objecthood.
 
   _Read_:
-  - James Meyer, from _Minimalism: Art and Polemics in the Sixties_ 
+  - David Joselit, "Mimalism" in _American Art Since 1945_
+  // - James Meyer, from _Minimalism: Art and Polemics in the Sixties_ 
   // the intro and 1966 look to get more specific
 ]
 
