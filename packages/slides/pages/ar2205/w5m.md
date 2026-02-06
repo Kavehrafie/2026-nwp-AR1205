@@ -200,9 +200,42 @@ color: teal-light
 
 :: content ::
 
+<!-- 
+- In the United States, Pop Art emerged in the late 1950s and early 1960s, with artists like Andy Warhol, Roy Lichtenstein, Claes Oldenburg, James Rosenquist, and Tom Wesselmann leading the movement. These artists drew inspiration from popular culture, including advertising, comic books, and mass media, to create works that often featured bold colors, graphic imagery, and a sense of irony () or satire.
+- 
+- 
+#### irony: 
+Postmodern irony is a defining feature of postmodernism, characterized by a self-aware, playful, and often contradictory approach that challenges grand narratives, ideologies, and traditional storytelling.  It reflects skepticism toward absolute truths, using parody, pastiche, metafiction, and black humor to highlight the constructed nature of meaning and reality.  This form of irony often presents serious themes in a lighthearted or comical way, blurring the line between sincerity and mockery.
+
+-->
+
+---
+color: black
 ---
 
-![Andy Warhol, Gold Marilyn Monroe, 1962, silkscreen on canvas, 211.4 x 144.7 cm](https://smarthistory.org/wp-content/uploads/2022/06/316_1962_CR-Press_Use_3000_pixel_length.jpg)
+![Oldenburg in ‘‘The Store,’’ 107 East Second Street, New York, 1961. Photo: Robert R. McElroy](https://static01.nyt.com/images/2017/10/16/t-magazine/oldenburg-slide-XJ7R/oldenburg-slide-XJ7R-superJumbo.jpg?quality=75&auto=webp&disable=upscale)
+
+<!-- 
+- oldenburg began his career in the early 1960s with a series of installations and performances that he called “happenings.” These were often staged in public spaces, such as storefronts or parks, and involved the use of everyday objects and materials. For instance, in his 1961 installation “The Store,” Oldenburg filled a storefront with a variety of objects, including a giant hamburger, a pair of scissors, and a toilet. The installation was meant to be interactive, with visitors encouraged to touch and manipulate the objects.
+
+ -->
+
+---
+color:
+---
+
+<Asterisk />
+
+![Claes Oldenburg, _Floor Cake_, 1962. Synthetic polymer paint and latex on canvas filled with foam rubber and cardboard boxes](https://www.moma.org/media/W1siZiIsIjIyNTMyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=fad045f5eb0be314)
+
+
+
+<!-- 
+- frosting and sprinkles of the cake are made from latex, while the cake itself is made from canvas filled with foam rubber and cardboard boxes. The work is meant to be a playful and ironic commentary on consumer culture and the mass production of goods, as well as a critique of traditional notions of art and beauty.
+- dirty and imperfect, with drips of paint and rough edges, which adds to its sense of humor and irreverence. The work is also meant to be interactive, with viewers encouraged to touch and manipulate the cake, further blurring the line between art and everyday objects.
+- it looks like a poop
+
+ -->
 
 ---
 
@@ -214,3 +247,124 @@ In contrast to the dripping paint and slashing brushstrokes of Abstract Expressi
 
 As the decade progressed, artists shifted away from painting towards the use of industrial techniques. Warhol began making silkscreens, before removing himself further from the process by having others do the actual printing in his studio, aptly named “The Factory.”  Similarly, Oldenburg abandoned his early installations and performances, to produce the large-scale sculptures of cake slices, lipsticks, and clothespins that he is best known for today.
  -->
+
+---
+
+<Asterisk />
+
+![Roy Lichtenstein, _Whaam!_, 1963](https://res.cloudinary.com/image-solar/image/upload/v1770401469/2026nwp-ar2205/T00897_10_rth6px.jpg)
+
+<!-- 
+- Lichtenstein's "Whaam!" is a diptych painting that depicts a fighter plane shooting down an enemy aircraft, rendered in the style of a comic book. The painting is characterized by its bold colors, graphic imagery, and use of Ben-Day dots, which were commonly used in comic book printing to create shading and texture. The work is meant to be a commentary on the glorification of war and violence in popular culture, as well as a critique of traditional notions of art and beauty.
+
+ -->
+
+---
+
+![Andy Warhol, _Campbell's Soup Cans_, 1962. Acrylic on canvas, the Museum of Modern Art.](https://upload.wikimedia.org/wikipedia/commons/a/a3/Campbell%27s_Soup_Cans_by_Andy_Warhol.jpg)
+
+
+<!-- 
+
+- Warhol's "Campbell's Soup Cans" is a series of 32 paintings that depict different varieties of Campbell's soup, rendered in a flat, graphic style. The paintings are characterized by their bold colors, simple shapes, and repetition, which creates a sense of mass production and consumer culture. The work is meant to be a commentary on the commodification of everyday objects and the blurring of the line between art and commercial products.
+- The paintings were originally displayed in a grocery store, further blurring the line between art and consumer culture. The work is also meant to be a critique of traditional notions of art and beauty, as well as a commentary on the role of advertising and mass media in shaping our perceptions of the world around us.
+
+ -->
+
+---
+color: zinc
+---
+
+![Installation view, Ferus Gallery, Los Angeles, 1962, with Campbell's Soup Cans.](https://res.cloudinary.com/image-solar/image/upload/v1770402331/2026nwp-ar2205/Picture3_sizfrm.png)
+
+<!-- 
+- At the Ferus Gallery in Los Angeles, Warhol displayed the paintings on shelves, like cans in a grocery store, further blurring the line between art and consumer culture.
+
+ -->
+
+---
+layout: two-cols
+color: black
+---
+
+::right::
+
+#### Silkscreen Printing ✏️
+
+::left::
+
+<div h-100>
+
+![](https://res.cloudinary.com/image-solar/image/upload/v1770402748/2026nwp-ar2205/Picture5_oovmaq.png)
+
+</div>
+
+<!-- 
+
+- Silkscreen printing, also known as screen printing or serigraphy, is a printing technique that involves creating a stencil (or screen) and using it to apply ink onto a surface, such as paper, fabric, or canvas. The process involves several steps:
+1. Creating the stencil: A mesh screen is stretched over a frame, and a stencil is created by blocking out areas of the screen with a light-sensitive emulsion or other materials.
+2. Preparing the ink: Ink is prepared in the desired color and consistency.
+3. Setting up the screen: The screen is placed over the surface to be printed, and the ink is applied to the top of the screen.
+4. Printing: A squeegee is used to press the ink through the mesh screen and onto the surface below, creating the desired image.
+5. Drying: The printed surface is allowed to dry before additional colors or layers are added.
+6. Cleaning: The screen is cleaned and prepared for future use.
+ -->
+
+---
+
+![Warhol in The Factory, originally located at 231 East 47th Street before moving to two later sites](https://res.cloudinary.com/image-solar/image/upload/v1770402746/2026nwp-ar2205/Picture7_euamoe.png)
+
+<!-- 
+Warhol in 
+The Factory was pop artist Andy Warhol's New York City studio and the center of his artistic, social, and filmmaking activities from 1964 to 1987. 
+
+- The Factory was known for its eclectic mix of artists, musicians, actors, and socialites who gathered there to collaborate and socialize. It was a hub of creativity and experimentation, where Warhol produced many of his most famous works, including his silkscreen prints of celebrities like Marilyn Monroe and Elvis Presley.
+ -->
+
+---
+
+![Andy Warhol, _Green Coca-Cola Bottles_, 1962](https://res.cloudinary.com/image-solar/image/upload/v1770402753/2026nwp-ar2205/68_25_cropped_ptx2az.jpg)
+
+<!-- 
+
+Green Coca-Cola Bottles was created the year that Andy Warhol developed his pioneering silkscreen technique, which allowed him to produce his paintings through a mechanical process that paralleled his use of mass culture subjects. Here, the image of a single Coca-Cola bottle is repeated in regular rows, seven high by sixteen across, above the company’s logo. The repetitive imagery and standardized format evokes the look of mechanical reproduction, but the black outlines were probably stamped by hand from a single carved woodblock onto green areas printed in a grid pattern. This engenders subtle differences in the work’s pattern; each of the bottles differs in both the evenness of the green underpainting and in the clarity of its stamped profile. The bottles are also often slightly askew, disturbing the overall regularity of the grid and making them appear simultaneously handmade and individualized, streamlined and mass-produced. In his deadpan and ironic way, Warhol at once criticized and glorified the consumerist idols and surface values of America’s media-saturated postwar culture. “A Coke is a Coke,” he explained, “and no amount of money can get you a better Coke than the one the bum on the corner is drinking.”
+
+-->
+
+---
+layout: quote
+author: "Andy Warhol"
+---
+
+What's great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest. You can be watching TV and see Coca-Cola, and you know that the President drinks Coca-Cola, Liz Taylor drinks Coca-Cola, and just think, you can drink Coca-Cola, too. <u>A Coke is a Coke and no amount of money can get you a better Coke than the one the bum on the corner is drinking. All the Cokes are the same and all the Cokes are good. Liz Taylor knows it, the President knows it, the bum knows it, and you know it.</u>
+
+---
+
+
+
+
+---
+
+![Andy Warhol, Gold Marilyn Monroe, 1962, silkscreen on canvas, 211.4 x 144.7 cm](https://smarthistory.org/wp-content/uploads/2022/06/316_1962_CR-Press_Use_3000_pixel_length.jpg)
+
+<!-- 
+- Warhol's "Gold Marilyn Monroe" is a silkscreen painting that features a portrait of the iconic actress Marilyn Monroe, rendered in a flat, graphic style against a gold background. The painting is characterized by its bold colors, simple shapes, and repetition, which creates a sense of mass production and consumer culture. The work is meant to be a commentary on the commodification of celebrity culture and the blurring of the line between art and commercial products. The use of gold in the background adds a sense of glamour and luxury to the image, while also highlighting the superficiality of celebrity culture. 
+- The painting was created in 1962, the same year that Marilyn Monroe died, and is often interpreted as a tribute to the actress and a commentary on the fleeting nature of fame and beauty. The work is also meant to be a critique of traditional notions of art and beauty, as well as a commentary on the role of advertising and mass media in shaping our perceptions of the world around us.
+
+-->
+
+---
+color: sky-light
+---
+
+![Andy Warhol, _Thirty-Five Jackies (Multiplied Jackies)_, 1964](https://res.cloudinary.com/image-solar/image/upload/v1770404452/2026nwp-ar2205/dba515b4-6a90-4577-be09-25e7b9024770_lse7to.jpg)
+
+<!-- 
+
+- Warhol's "Thirty-Five Jackies (Multiplied Jackies)" is a silkscreen painting that features 35 identical images of Jacqueline Kennedy Onassis, the former First Lady of the United States, rendered in a flat, graphic style. The painting is characterized by its repetition and uniformity, which creates a sense of mass production and consumer culture. The work is meant to be a commentary on the commodification of celebrity culture and the blurring of the line between art and commercial products.
+- The use of Jacqueline Kennedy Onassis as the subject of the painting adds a sense of glamour and sophistication to the image, while also highlighting the superficiality of celebrity culture. The work is also meant to be a critique of traditional notions of art and beauty, as well as a commentary on the role of advertising and mass media in shaping our perceptions of the world around us.
+- The painting was created in 1964, shortly after the assassination of President John F. Kennedy, and is often interpreted as a tribute to the former First Lady and a commentary on the fleeting nature of fame and beauty.
+
+ -->
+
+ 
