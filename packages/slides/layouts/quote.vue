@@ -3,7 +3,7 @@ import { computed } from 'vue'
 
 const props = defineProps({
   color: {
-    default: 'teal',
+    default: 'zinc-light',
   },
   author: {
     default: null,
