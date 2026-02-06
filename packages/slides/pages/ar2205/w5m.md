@@ -153,6 +153,22 @@ The years following World War II saw enormous growth in the American economy, wh
  -->
 
 ---
+
+
+![David Hockney, Peter Getting Out of Nick’s Pool, 1966, Walker Art Gallery](https://www.dailyartmagazine.com/wp-content/uploads/2020/11/Peter-Getting-Out-of-Nick-s-Pool-ebay.jpg)
+
+<!-- 
+
+No one can talk about European Pop Art without mentioning David Hockney. He is its most prominent representative, even though he moved to the US. He had an eccentric appearance and was associated with the Beatles. Hockney’s first paintings were influenced by Francis Bacon. Later he found his personal style. Hockney painted in strong and intense color combinations on big, flat surfaces. His works were related to his own sexual experiences. By 1964, he was already living in California, where he made references to famous Hollywood stars and their luxurious way of living.
+
+
+Hockney’s most famous works are his pool paintings. They are characterized by the use of bright colors and geometric shapes. The water in the pool is depicted with a mosaic of blue and green shapes, creating a sense of movement and depth. The figures in the paintings are often shown in relaxed poses, enjoying the sun and water. Hockney’s pool paintings are seen as a celebration of leisure and luxury, as well as a reflection of the California lifestyle.
+
+a pop artist who moved to the US. He had an eccentric appearance and was associated with the Beatles. Hockney’s first paintings were influenced by Francis Bacon. Later he found his personal style. Hockney painted in strong and intense color combinations on big, flat surfaces. His works were related to his own sexual experiences. By 1964, he was already living in California, where he made references to famous Hollywood stars and their luxurious way of living.
+
+ -->
+
+---
 layout: top-title
 color: violet-light
 ---
@@ -334,13 +350,10 @@ Green Coca-Cola Bottles was created the year that Andy Warhol developed his pion
 ---
 layout: quote
 author: "Andy Warhol"
+quotesize: "text-2xl"
 ---
 
-What's great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest. You can be watching TV and see Coca-Cola, and you know that the President drinks Coca-Cola, Liz Taylor drinks Coca-Cola, and just think, you can drink Coca-Cola, too. <u>A Coke is a Coke and no amount of money can get you a better Coke than the one the bum on the corner is drinking. All the Cokes are the same and all the Cokes are good. Liz Taylor knows it, the President knows it, the bum knows it, and you know it.</u>
-
----
-
-
+What's great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest. You can be watching TV and see Coca-Cola, and you know that the President drinks Coca-Cola, Liz Taylor drinks Coca-Cola, and just think, you can drink Coca-Cola, too. <span bg-yellow>A Coke is a Coke and no amount of money can get you a better Coke than the one the bum on the corner is drinking. All the Cokes are the same and all the Cokes are good. Liz Taylor knows it, the President knows it, the bum knows it, and you know it.</span>
 
 
 ---
@@ -367,4 +380,37 @@ color: sky-light
 
  -->
 
- 
+---
+
+![Andy Warhol, _White Disaster_, 1963](https://res.cloudinary.com/image-solar/image/upload/v1770413220/2026nwp-ar2205/90_a6tavj.webp)
+
+<!-- 
+
+- Warhol's "White Disaster" is a silkscreen painting that features a graphic image of a car crash, rendered in a flat, monochromatic style. The painting is characterized by its bold lines and stark contrast, which creates a sense of drama and tension. The work is meant to be a commentary on the commodification of violence and tragedy in popular culture, as well as a critique of traditional notions of art and beauty. The use of a car crash as the subject of the painting adds a sense of danger and excitement to the image, while also highlighting the superficiality of celebrity culture. The work is also meant to be a commentary on the role of advertising and mass media in shaping our perceptions of the world around us, particularly in relation to violence and tragedy. The painting was created in 1963, a time when car crashes were becoming increasingly common due to the rise of automobile culture in the United States.
+
+-->
+
+---
+
+![Andy Warhol, Three Electric Chairs, 1964](https://res.cloudinary.com/image-solar/image/upload/v1770413376/2026nwp-ar2205/download_ofii2b.jpg)
+
+<!-- 
+- Warhol's "Three Electric Chairs" is a silkscreen painting that features three identical images of an electric chair, rendered in a flat, graphic style. The painting is characterized by its repetition and uniformity, which creates a sense of mass production and consumer culture. The work is meant to be a commentary on the commodification of violence and tragedy in popular culture, as well as a critique of traditional notions of art and beauty. The use of an electric chair as the subject of the painting adds a sense of danger and excitement to the image, while also highlighting the superficiality of celebrity culture. The work is also meant to be a commentary on the role of advertising and mass media in shaping our perceptions of the world around us, particularly in relation to violence and tragedy. The painting was created in 1964, a time when the death penalty was a controversial issue in the United States.
+
+ -->
+
+---
+
+![Andy Warhol, Birmingham Race Riot, 1964](https://whitneymedia.org/assets/artwork/10301/96_53_5_cropped.jpg)
+
+
+<!-- 
+
+- Warhol's "Birmingham Race Riot" is a silkscreen painting that features a graphic image of a violent confrontation between civil rights protesters and police officers in Birmingham, Alabama, rendered in a flat, monochromatic style. The painting is characterized by its bold lines and stark contrast, which creates a sense of drama and tension. The work is meant to be a commentary on the commodification of violence and tragedy in popular culture, as well as a critique of traditional notions of art and beauty. The use of a violent confrontation as the subject of the painting adds a sense of danger and excitement to the image, while also highlighting the superficiality of celebrity culture. The work is also meant to be a commentary on the role of advertising and mass media in shaping our perceptions of the world around us, particularly in relation to violence and tragedy. The painting was created in 1964, a time when the civil rights movement was gaining momentum in the United States.
+- The painting is based on a photograph taken by Charles Moore, which was widely circulated in the media at the time. The image depicts a group of civil rights protesters being attacked by police officers using fire hoses and police dogs. Warhol's use of this image in his painting is meant to draw attention to the violence and injustice faced by African Americans during the civil rights movement, while also critiquing the way that such images were commodified and consumed by popular culture.
+
+ -->
+
+---
+
+![](https://www.dailyartmagazine.com/wp-content/uploads/2020/11/http___com.ft_.imagepublish.upp-prod-eu.s3.amazonaws-661x1024.jpg)

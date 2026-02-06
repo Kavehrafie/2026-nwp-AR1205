@@ -91,6 +91,15 @@ color: sky-light
 
 ![](https://res.cloudinary.com/image-solar/image/upload/v1770356509/2026nwp-ar1205/Dutch_trade_routes_huaxlh.jpg)
 
+
+<div v-drag="[33,74,410,267]" v-click="[1]" class="bg-sky-100/90 rounded-lg p-2">
+
+<div>
+
+![Gold duit of the Dutch East India Company, 1755, Dutch East Indies (Indonesia), 23 mm in diameter ](https://smarthistory.org/wp-content/uploads/2021/02/31994001-1536x778.jpg)
+</div>
+</div>
+
 ---
 layout: timeline
 events:
@@ -195,6 +204,7 @@ color: green
 
 ---
 layout: two-cols
+color: black
 ---
 
 :: left ::
@@ -203,11 +213,67 @@ layout: two-cols
 
 :: right ::
 
-![]()
+![Frans Post, _A Brazilian Landscape_, 1650](https://res.cloudinary.com/image-solar/image/upload/v1770405187/2026nwp-ar2205/DP145952_dilqht.jpg)
 
+<!-- 
 
+- Andries Beeckman's The Castle of Batavia depicts the Dutch colonial presence in Indonesia, showcasing the architecture and bustling activity of the port city. The painting serves as a visual record of Dutch imperialism and the global trade networks that connected Europe to Asia during the 17th century.
+
+### Franz Post
+From 1630 to 1654, the Dutch colony in northern Brazil, appropriated from the Portuguese, forcibly dispossessed Indigenous populations of their land. Post and a naturalist accompanied the governor to the area and recorded flora and fauna (such as the foreground iguana). The landscapes he produced after returning home mix observation with fantasy. Post’s painting hides the process by which natural resources were obtained. Absent are obvious references to the enslavement of African people and their forced labor on plantations, the basis of Dutch colonial wealth. Indigenous families appear at rest, apparently after hunting and food gathering. Routinely treated as generic figures in Dutch representations, Indigenous Brazilian groups include the Aymoré, Potiguara, Tarairiu, and Tupinambá, among others.
+
+ -->
 ---
 
+![A Suger Plant in Brasil, the 16th century](https://res.cloudinary.com/image-solar/image/upload/v1770405391/2026nwp-ar2205/1200px-Brasilise-Suykerwerken-Johannes-Ribbius_kxg4b7.jpg)
+
+<!-- 
+
+
+Portuguese traders had first introduced sugarcane to the Americas in the 1500s. Portugal had pioneered the plantation system in the Atlantic islands of Madeira and São Tomé, and because the sugar produced from Brazilian plantations was used for an export market, this necessitated land that could be acquired with little conflict from existing occupants. By the sixteenth century, sugarcane plantations had been developed along the northeast coast of Brazil, and the sugar produced from these plantations became the basis of the Brazilian economy and society. By 1570, Brazil's sugar output rivaled that of the Atlantic islands.
+
+At first, the settlers tried to enslave the native peoples to work the sugarcane fields, but this proved to be difficult, so they turned to using slaves instead. Slave labor was the driving force behind the growth of the sugar economy in Brazil, and sugar was the primary export of the colony from 1600 to 1650.
+
+In the mid-seventeenth century, the Dutch seized productive areas of northeast Brazil, and because the Dutch were expelled from Brazil, following a strong push by Portuguese-Brazilians and their indigenous and Afro-Brazilian allies, Dutch sugar production became the model for Brazilian sugar production in the Caribbean. Increased production and competition meant that the price of sugar dropped, and Brazil's market share dropped. However, Brazil's recovery from the Dutch incursion was slow, as warfare had taken its toll on the sugar plantations.
+ -->
+
+---
+color: black
+---
+
+![Frans Post, _A Brazilian Landscape_, 1650](https://res.cloudinary.com/image-solar/image/upload/v1770405187/2026nwp-ar2205/DP145952_dilqht.jpg)
+
+
+<!-- 
+
+From 1630 to 1654, the Dutch colony in northern Brazil, appropriated from the Portuguese, forcibly dispossessed Indigenous populations of their land. Post and a naturalist accompanied the governor to the area and recorded flora and fauna (such as the foreground iguana). The landscapes he produced after returning home mix observation with fantasy. Post’s painting hides the process by which natural resources were obtained. Absent are obvious references to the enslavement of African people and their forced labor on plantations, the basis of Dutch colonial wealth. Indigenous families appear at rest, apparently after hunting and food gathering. Routinely treated as generic figures in Dutch representations, Indigenous Brazilian groups include the Aymoré, Potiguara, Tarairiu, and Tupinambá, among others.
+
+- a detailed recording of the flora and fauna of the Brazilian landscape, but it also omits the harsh realities of colonialism, such as the exploitation of indigenous peoples and enslaved Africans. The painting presents an idealized view of the New World, emphasizing its natural beauty while ignoring the human suffering that underpinned the Dutch colonial enterprise in Brazil. 
+ -->
+
+---
+color: black
+---
+
+![Jacob van Ruisdael, _View of Haarlem with Bleaching Grounds_, c. 1665. Oil on canvas](https://upload.wikimedia.org/wikipedia/commons/0/07/View_of_Haarlem_with_Bleaching_Grounds_c1665_Ruisdael.jpg)
+
+
+<!--
+- Jacob van Ruisdael's View of Haarlem with Bleaching Grounds depicts the Dutch landscape and the process of bleaching linen, which was an important industry in the Netherlands. The painting reflects the economic prosperity of the Dutch Golden Age and the connection between art and commerce during this period.
+- The painting also serves as a metaphor for the Dutch Republic's global reach and influence, as the bleaching grounds can be seen as a symbol of the country's ability to transform raw materials into valuable commodities through trade and industry. The expansive sky and distant horizon in the painting evoke a sense of openness and possibility, mirroring the opportunities presented by global trade and exploration during the 17th century.
+- Compared to the other European nations, the Dutch peseats were relatively wealthy, and the country had a high standard of living. This economic prosperity was largely due to the success of Dutch trade and commerce, which allowed for a flourishing art market and the patronage of artists like Ruisdael. The painting can be seen as a celebration of the Dutch Republic's achievements in trade and industry, as well as a reflection of the country's identity as a maritime power.
+- Landownership: 
+- independent farmers, not feudal lords (in France sengurial system, in England manorial system)
+- Dutch Republic had a high percentage of land owned by peasants, which contributed to a more egalitarian society and a strong middle class. This contrasts with the feudal systems in France and England, where land was concentrated in the hands of the nobility, leading to greater social stratification and less economic mobility for peasants.
+- sengurial system: a system of land ownership in which a lord (sengur) owned the land and peasants (serfs) worked it in exchange for protection and a portion of the produce. This system was prevalent in France during the medieval period and persisted into the early modern era.
+- manorial system: a system of land ownership in which a lord owned a manor and the peasants (serfs) worked the land in exchange for protection and a portion of the produce. This system was prevalent in England during the medieval period and persisted into the early modern era.
+-->
+
+---
+hide: true
+---
+
+![Jacob van Ruisdael, View of Haarlem with Bleaching Grounds, c. 1670–75, oil on canvas, 55.5 x 62 cm](https://smarthistory.org/wp-content/uploads/2018/08/DutchBaroqueCover.jpg)
 
 ---
 layout: two-cols
@@ -257,6 +323,41 @@ layout: two-cols
 
 ![Willem Kalf, _Still Life with Fruit, Glassware, and a Wanli Bowl_, 1659. Oil on canvas](https://collectionapi.metmuseum.org/api/collection/v1/iiif/436805/795801/main-image)
 
+
+<!-- 
+
+### Still Life with Fruit, Glassware, and a Wanli Bowl, 1659
+- This painting by Willem Kalf features a luxurious arrangement of fruit, glassware, and a Wanli bowl, which was a type of Chinese porcelain highly prized in Europe during the 17th century. The inclusion of the Wanli bowl highlights the influence of global trade on Dutch art, as it reflects the demand for exotic goods from Asia. The painting also exemplifies the Baroque style with its dramatic lighting and rich textures, while also serving as a symbol of wealth and the transience of material possessions.
+ -->
+
+---
+layout: two-cols
+---
+
+:: left ::
+
+![Arita ware porcelain dish, Edo period, 17th century, from Japan, 34.29 cm in diameter](https://smarthistory.org/wp-content/uploads/2021/02/36064001.jpg)
+
+:: right ::
+
+![Shop window display of Delftware in the market place Delft, 1981](https://upload.wikimedia.org/wikipedia/commons/9/9e/Delftware_display.JPG)
+
+<!-- 
+
+By the seventeenth century the Netherlands had become a prosperous country through its shipping trade across Europe and its trade links with Asia. The United Dutch East India Company (Vereenigde Oostindische Compagnie) was formed in 1602 in order to unite various small trade companies which had created commercial links with the India and East Asia during the late sixteenth century. With bases in Sri Lanka, India and Indonesia, the Company became a powerful trade organization. It was even given powers of rule over its dominions, along similar lines to those of the English East India Company. Like its British rival, the Dutch East India Company issued coins for trade in its dominions. The coin bears the Company’s monogram (VOC) and the date.
+
+ -->
+
+---
+
+![Willem Claesz. Heda, Still Life with Glasses and Tobacco, 1633, oil on panel, 50.8 x 75.6 cm](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/04._Still_Life_with_Glasses_and_Tobacco_Willem_Claesz._Heda.jpg/3300px-04._Still_Life_with_Glasses_and_Tobacco_Willem_Claesz._Heda.jpg)
+
+<!-- 
+
+
+
+-->
+
 ---
 color: black
 ---
@@ -287,12 +388,28 @@ color: black
 <!-- 
 
 Juan Sánchez Cotán’s Quince, Cabbage, Melon and Cucumber combines the hyper-realistic depiction of fruits and vegetables with the theatricality of staging these objects under dramatic lighting against a dark background, as well as an erudite classical reference: like most Baroque still life painters, Cotán was probably emulating the ancient Greek painter Zeuxis, who was known through written accounts for the deceptively illusionistic powers of his paintings.
+- Cotán’s painting is a meditation on the transience of life and the inevitability of death, themes that were common in Baroque art. The stark contrast between the vibrant colors of the fruits and vegetables and the dark background creates a sense of drama and emphasizes the fleeting nature of beauty and life. The meticulous attention to detail in the depiction of the produce also reflects the influence of global trade, as these items were often exotic imports that symbolized wealth and status during the 17th century.
+- Unlike the Dutch still lifes, which often included luxury items and symbols of wealth, Cotán's painting focuses on simple, everyday objects, elevating them to a level of significance and beauty. This approach reflects the Spanish Baroque's emphasis on spirituality and the contemplation of mortality, contrasting with the more materialistic themes found in Dutch still life paintings.
 
  -->
 
 ---
 layout: two-cols
+---
+
+:: left ::
+
+![Frontispiece, Olaus Worm, Museum Wormianum (Leiden: Isaac Elzevier, 1655), engraved by G. Wingendorp, 1655, engraving on paper, 27.8 x 35.8 cm ](https://smarthistory.org/wp-content/uploads/2024/01/Full-size-image-smaller-scaled.jpg)
+
+:: right ::
+
+
+### _Wunderkammer_ (Cabinet of Curiosities) ✏️
+
+---
+layout: two-cols
 color: black
+hide: true
 ---
 
 :: right ::
@@ -308,30 +425,72 @@ color: black
 ![Rembrandt van Rijn, The Night Watch (Militia Company of District II under the Command of Captain Frans Banninck Cocq), 1642, oil on canvas, 379.5 x 453.5 cm](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg/3840px-La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg)
 
 
-<div v-drag="[-36,0,0,0]" v-click="[1]">
+<div v-drag="[21,3,924,676]" v-click="[1]">
 
 ![Captain and Lieutenant (detail), Rembrandt van Rijn, The Night Watch, 1642, oil on canvas, 379.5 x 453.5 cm](https://smarthistory.org/wp-content/uploads/2022/07/SK-C-5-detail-1-scaled.jpg)
 </div>
 
+<!-- 
+
+- Rembrandt's The Night Watch is a prime example of how art can serve as a form of mapping and representation of the world. The painting depicts a group of civic guardsmen, and through its composition, use of light and shadow, and attention to detail, it captures the social dynamics and cultural context of 17th-century Amsterdam. The painting can be seen as a visual map of the city's militia, reflecting the importance of civic duty and community in Dutch society during the Golden Age. The dynamic arrangement of the figures and the dramatic use of chiaroscuro also create a sense of movement and energy, further emphasizing the painting's role in representing the vibrancy of urban life in the Dutch Republic.
+- ceremonial group portrait of a militia company, which was a common subject in Dutch art during the 17th century. 
+- civic prides
+- elite citizen (pay to be part of the militia, and to be in the painting)
+- - The painting was originally intended to be a traditional group portrait of the militia company, but Rembrandt's innovative composition and use of light and shadow created a dynamic and dramatic scene that broke away from the conventions of the time. The painting's title, "The Night Watch," is actually a misnomer, as it was originally called "The Militia Company of District II under the Command of Captain Frans Banning Cocq." The painting depicts the militia company in action, with figures moving in various directions and engaging in different activities, creating a sense of movement and energy that was unprecedented in group portraits of the era. The Night Watch is now considered one of Rembrandt's masterpieces and a symbol of Dutch art and culture during the Golden Age.
+- **Captain Frans Banning Cocq and his lieutenant**, Willem van Ruytenburch, are prominently featured in the foreground, dressed in black and red, respectively. The other members of the militia are depicted in various poses and attire, creating a sense of individuality and character within the group. The painting's composition and use of light draw attention to the central figures while also highlighting the diversity and camaraderie among the militia members. The Night Watch can be seen as a visual representation of the social hierarchy and civic pride of Amsterdam during the Dutch Golden Age, as well as a celebration of the city's military and civic institutions.
+
+ -->
+
 ---
 color: black
 ---
 
+![Details, left to right: musketeer in red, musketeer with oak leaves helmet, and musketeer blowing off powder, Rembrandt van Rijn, The Night Watch, 1642, oil on canvas, 379.5 x 453.5 cm](https://smarthistory.org/wp-content/uploads/2022/10/night-watch-detail-2-fixed.jpg)
 
+<!-- 
+- in depicting the militia company, Rembrandt included a variety of characters, such as musketeers and a drummer, who are shown in action, adding to the dynamic nature of the painting. The musketeer in red stands out with his vibrant attire, while the musketeer with the oak leaves helmet adds a touch of symbolism, as oak leaves were often associated with strength and victory. The musketeer blowing off powder captures a moment of action and movement, further emphasizing the lively atmosphere of the scene. These details contribute to the overall narrative of the painting, showcasing the diversity and camaraderie among the militia members while also highlighting their roles and identities within the group.
+- the girl in the background, often referred to as the "little girl," is a mysterious figure in the painting. She is believed to be a symbolic representation of the militia's mascot or a personification of the company itself. The little girl is depicted wearing a yellow dress and holding a chicken, which is thought to be a reference to the emblem of the militia company. Her presence adds an element of intrigue and symbolism to the painting, as she stands out from the rest of the figures and draws the viewer's attention. 
+
+ -->
+
+---
+layout: two-cols
+---
+
+:: left ::
+
+![Franz Hals, _Banquet of the officers of the St George Civic Guard_, 1616, oil on canvas, 175 x 324 cm](https://upload.wikimedia.org/wikipedia/commons/1/1c/Frans_Hals_013.jpg)
+
+:: right ::
+
+![Rembrandt van Rijn, The Night Watch (Militia Company of District II under the Command of Captain Frans Banninck Cocq), 1642, oil on canvas, 379.5 x 453.5 cm](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg/3840px-La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg)
+
+
+<!-- 
+- Frans Hals' Banquet of the Officers of the St George Civic Guard is a group portrait that depicts the members of a civic guard company in a banquet setting. The painting captures the camaraderie and social dynamics of the militia, with figures engaged in conversation and celebration. The composition is more static compared to Rembrandt's Night Watch, with the officers arranged in a more traditional manner around a table. The use of light and color in Hals' painting creates a lively and festive atmosphere, while Rembrandt's Night Watch employs dramatic lighting and a more dynamic composition to convey a sense of action and movement. Both paintings serve as visual representations of the civic pride and social structure of Amsterdam during the Dutch Golden Age, but they do so through different artistic approaches and styles.
+
+ -->
 
 ---
 color: black
+hide: true
 ---
 
 ![View of Rembrandt van Rijn, The Night Watch, 1642, oil on canvas, 379.5 x 453.5 cm](https://smarthistory.org/wp-content/uploads/2022/07/10439856305_898b00bd67_3k-scaled.jpg)
 
+
+<!-- 
+
+- it is now in the Rijksmuseum in Amsterdam, where it is one of the most famous and celebrated works of art in the world. The painting has undergone several restorations and conservation efforts over the years to preserve its condition and ensure that it can be enjoyed by future generations. The Night Watch continues to be a symbol of Dutch art and culture, attracting millions of visitors to the Rijksmuseum each year.
+ -->
+
+---
+hide: true
 ---
 
 ![Details, left to right: Standard bearer, young boy with powder horn, and drummer with dog, Rembrandt van Rijn, The Night Watch, 1642, oil on canvas, 379.5 x 453.5 cm ](https://smarthistory.org/wp-content/uploads/2022/07/night-watch-details-scaled.jpg)
 
----
 
-![Details, left to right: musketeer in red, musketeer with oak leaves helmet, and musketeer blowing off powder, Rembrandt van Rijn, The Night Watch, 1642, oil on canvas, 379.5 x 453.5 cm](https://smarthistory.org/wp-content/uploads/2022/10/night-watch-detail-2-fixed.jpg)
 
 ---
 
@@ -349,27 +508,16 @@ color: black
 
 ![Rembrandt, Self-portrait with Two Circles, c. 1665–69, oil on canvas, 114.3 cm x 94 cm wide ](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rembrandt_Self-portrait_%28Kenwood%29.jpg/1920px-Rembrandt_Self-portrait_%28Kenwood%29.jpg)
 
----
 
-![Jacob van Ruisdael, View of Haarlem with Bleaching Grounds, c. 1670–75, oil on canvas, 55.5 x 62 cm](https://smarthistory.org/wp-content/uploads/2018/08/DutchBaroqueCover.jpg)
 
 ---
 layout: center
 ---
 
-### _Wunderkammer_ (Cabinet of Curiosities) ✏️
 
----
-layout: two-cols
----
 
-:: left ::
 
-![Frontispiece, Olaus Worm, Museum Wormianum (Leiden: Isaac Elzevier, 1655), engraved by G. Wingendorp, 1655, engraving on paper, 27.8 x 35.8 cm ](https://smarthistory.org/wp-content/uploads/2024/01/Full-size-image-smaller-scaled.jpg)
 
-:: right ::
-
-![]()
 
 ---
 
