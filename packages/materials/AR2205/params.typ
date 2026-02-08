@@ -190,7 +190,7 @@
 #let guest = session("Guest Lecture")[
 ]
 
-#let fluxus = session("Fluxus and the Neo-Avant-Garde")[
+#let fluxus = session("From Happening to Fluxus")[
   Examination of the Fluxus movement and its impact on avant-garde art practices.
 
   _Read_:
