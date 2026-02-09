@@ -78,12 +78,12 @@ blockquote::after {
 }
 
 
-blockquote p {
+/* blockquote p {
   margin: 0.5rem 0;
   line-height: 1.6;
   color: var(--neversink-text-color);
   opacity: 0.95;
-}
+} */
 
 blockquote p:first-child {
   margin-top: 0;
@@ -94,11 +94,11 @@ blockquote p:last-child {
 }
 
 /* Quote layout specific enhancements */
-.slidev-layout.quote blockquote {
+/* .slidev-layout.quote blockquote {
   border-left-width: 6px !important;
   padding-left: 4.5rem !important;
   font-size: 1.4em;
-}
+} */
 
 .slidev-layout.quote blockquote::before {
   width: 4rem;

@@ -361,10 +361,22 @@ What's great about this country is that America started the tradition where the 
 ![Andy Warhol, Gold Marilyn Monroe, 1962, silkscreen on canvas, 211.4 x 144.7 cm](https://smarthistory.org/wp-content/uploads/2022/06/316_1962_CR-Press_Use_3000_pixel_length.jpg)
 
 <!-- 
+- Warhol was a fan of sherlyn temple, and he created a series of paintings featuring the child star, including "Child with Curl," which depicts Temple with a single curl of hair on her forehead. The painting is characterized by its bright colors and simple shapes, which create a sense of innocence and playfulness. The work is meant to be a commentary on the commodification of childhood and the blurring of the line between art and commercial products. The use of a child star as the subject of the painting adds a sense of nostalgia and sentimentality to the image, while also highlighting the superficiality of celebrity culture. The work is also meant to be a critique of traditional notions of art and beauty, as well as a commentary on the role of advertising and mass media in shaping our perceptions of the world around us.
+  
 - Warhol's "Gold Marilyn Monroe" is a silkscreen painting that features a portrait of the iconic actress Marilyn Monroe, rendered in a flat, graphic style against a gold background. The painting is characterized by its bold colors, simple shapes, and repetition, which creates a sense of mass production and consumer culture. The work is meant to be a commentary on the commodification of celebrity culture and the blurring of the line between art and commercial products. The use of gold in the background adds a sense of glamour and luxury to the image, while also highlighting the superficiality of celebrity culture. 
 - The painting was created in 1962, the same year that Marilyn Monroe died, and is often interpreted as a tribute to the actress and a commentary on the fleeting nature of fame and beauty. The work is also meant to be a critique of traditional notions of art and beauty, as well as a commentary on the role of advertising and mass media in shaping our perceptions of the world around us.
 
 -->
+
+---
+
+![Andy Warhol, MAO (F. & S. II.90-99), 1972--74](https://res.cloudinary.com/image-solar/image/upload/v1770665613/2026nwp-ar2205/Andy-Warhol-MAO-F.-S.-II.90-99_bt2s3j.jpg)
+
+<!-- 
+
+- Warhol's "MAO (F. & S. II.90-99)" is a silkscreen painting that features a portrait of Mao Zedong, the former Chairman of the 
+
+ -->
 
 ---
 color: sky-light
@@ -405,12 +417,51 @@ color: sky-light
 
 
 <!-- 
-
-- Warhol's "Birmingham Race Riot" is a silkscreen painting that features a graphic image of a violent confrontation between civil rights protesters and police officers in Birmingham, Alabama, rendered in a flat, monochromatic style. The painting is characterized by its bold lines and stark contrast, which creates a sense of drama and tension. The work is meant to be a commentary on the commodification of violence and tragedy in popular culture, as well as a critique of traditional notions of art and beauty. The use of a violent confrontation as the subject of the painting adds a sense of danger and excitement to the image, while also highlighting the superficiality of celebrity culture. The work is also meant to be a commentary on the role of advertising and mass media in shaping our perceptions of the world around us, particularly in relation to violence and tragedy. The painting was created in 1964, a time when the civil rights movement was gaining momentum in the United States.
+- civil right began in the 1950s and continued into the 1960s, with significant events such as the Montgomery Bus Boycott (1955-1956), the March on Washington (1963), and the Civil Rights Act (1964). The movement aimed to end racial segregation and discrimination against African Americans, and to secure equal rights and opportunities for all citizens. The Birmingham was a major center of civil rights activism, and the city was the site of several significant events during the movement, including the Birmingham Campaign (1963) and the bombing of the 16th Street Baptist Church (1963). The painting was created in 1964, a time when the civil rights movement was gaining momentum in the United States.
+- Warhol's "Birmingham Race Riot" is a silkscreen painting that features a graphic image of a violent confrontation between civil rights protesters and police officers in Birmingham, Alabama, rendered in a flat, monochromatic style. The painting is characterized by its bold lines and stark contrast, which creates a sense of drama and tension. 
 - The painting is based on a photograph taken by Charles Moore, which was widely circulated in the media at the time. The image depicts a group of civil rights protesters being attacked by police officers using fire hoses and police dogs. Warhol's use of this image in his painting is meant to draw attention to the violence and injustice faced by African Americans during the civil rights movement, while also critiquing the way that such images were commodified and consumed by popular culture.
 
  -->
 
 ---
 
-![](https://www.dailyartmagazine.com/wp-content/uploads/2020/11/http___com.ft_.imagepublish.upp-prod-eu.s3.amazonaws-661x1024.jpg)
+![Andy Warhol, _Pink Race Riot (Red Race Riot)_, 1964](https://www.dailyartmagazine.com/wp-content/uploads/2020/11/http___com.ft_.imagepublish.upp-prod-eu.s3.amazonaws-661x1024.jpg)
+
+---
+
+![Andy Warhol, _Brillo Boxes_, 1964](https://res.cloudinary.com/image-solar/image/upload/v1770652720/2026nwp-ar2205/fb44ebe9eb457ceca55c271bf96e8176f63aa789-700x525_am8j3n.jpg)
+
+<!-- 
+Warhol’s Brillo Box sculptures are life-size replicas of real shipping cartons by Brillo, a popular brand of American washing-up pads. At 17 x 17 x 14 inches in size, each authentic, cardboard Brillo box would have held 24 individual soup pads. Warhol’s Brillo Box, however, were constructed with plywood.
+
+- In 1964, Danto visited an exhibition of Andy Warhol’s Brillo boxes at the Stable Gallery, New York. The show changed his life.
+- the artist’s Brillo box sculptures — silkscreened plywood facsimiles of actual Brillo boxes — were virtually indistinguishable from the real thing
+- 
+-->
+
+---
+layout: two-cols
+---
+
+<div v-drag="[106,29,159,36]" v-click>
+
+
+## literalism ✏️
+</div>
+
+:: left ::
+
+![Andy Warhol, _Brillo Boxes_, 1964](https://res.cloudinary.com/image-solar/image/upload/v1770652720/2026nwp-ar2205/fb44ebe9eb457ceca55c271bf96e8176f63aa789-700x525_am8j3n.jpg)
+
+:: right ::
+
+### "What in the end makes the difference between a Brillo box and a work of art consisting of a Brillo box is a certain theory of art. It is theory that takes it up into the world of art, and keeps it from collapsing into the real object which it is.\[Warhol’s Brillo boxes\] could not have been art fifty years ago. The world has to be ready for certain things, the artworld no less than the real one. It is the role of artistic theories, these days as always, to make the artworld, and art, possible."
+
+<div text-xs>
+  — Arthur Danto, "The Artworld," 1964
+</div>
+
+<!-- 
+
+literalism: a term used to describe the approach of artists who create works that are meant to be taken at face value, without any deeper symbolic or metaphorical meaning. In the context of Pop Art, literalism refers to the way that artists like Andy Warhol and Roy Lichtenstein created works that were meant to be read as straightforward representations of popular culture, rather than as complex or layered works of art. This approach was often seen as a critique of traditional notions of art and beauty, as well as a commentary on the role of advertising and mass media in shaping our perceptions of the world around us.
+ -->
