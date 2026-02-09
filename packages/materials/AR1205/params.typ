@@ -333,22 +333,21 @@
   [
     From the Muromachi to the Edo period.
 
-    _Key topics_: Zen gardens, tea ceremony, Ukiyo-e prints.
+    _Key topics_: Zen gardens, tea ceremony, _Ukiyo-e_ prints.
 
   _Read_:
-  - TBA
-  // - From "Japonisme: Cultural Crossings between Japan and the West"
+  - From "Japonisme: Cultural Crossings between Japan and the West"
   // - #link("https://smarthistory.org/ryoanji-peaceful-dragon-temple/?sidebar=asia-1000-1500")["Ryōanji (Peaceful Dragon Temple)" by Yoonjung Seo]
-  // - #link("https://smarthistory.org/edo-period/?sidebar=asia-1500-1900")["Edo period, an introduction" by Sonia Coman]
+  - #link("https://smarthistory.org/edo-period/?sidebar=asia-1500-1900")["Edo period, an introduction" by Sonia Coman]
   // - #link("https://smarthistory.org/francis-xavier-christianity-japan/?sidebar=asia-1500-1900")["A portrait of St. Francis Xavier and Christianity in Japan" by Rachel Miller]
   // - #link("https://smarthistory.org/different-places-japanese-porcelain-english-gilt-bronze-mounts/?sidebar=asia-1500-1900")["Different places: Japanese porcelain with English gilt-bronze mounts" by Jeffrey Weaver]
-  // - #link("https://smarthistory.org/kabuki-actor-prints/?sidebar=asia-1500-1900")["Kabuki actor prints"]
-  // - #link("https://smarthistory.org/hokusai-under-the-wave-off-kanagawa-the-great-wave/?sidebar=asia-1500-1900")["Katsushika Hokusai, Under the Wave off Kanagawa (The Great Wave)" by Leila Anne Harris]
+  - #link("https://smarthistory.org/kabuki-actor-prints/?sidebar=asia-1500-1900")["Kabuki actor prints"]
+  - #link("https://smarthistory.org/hokusai-under-the-wave-off-kanagawa-the-great-wave/?sidebar=asia-1500-1900")["Katsushika Hokusai, Under the Wave off Kanagawa (The Great Wave)" by Leila Anne Harris]
 
   _Watch_:
-  - TBA
-  // - #link("https://youtu.be/vwoK8-y-5_U")[Bamboo in the Four Seasons: painting and poetry in Japan]
-  // - #link("https://youtu.be/2ft6OfcbIfk")["Different places: Japanese porcelain with English gilt-bronze mounts" by Jeffrey Weaver]
+  - #link("https://youtu.be/WfZe2NLKEns")[Ryōanji (Peaceful Dragon Temple)]
+  - #link("https://youtu.be/vwoK8-y-5_U")[Bamboo in the Four Seasons: painting and poetry in Japan]
+  - #link("https://youtu.be/2ft6OfcbIfk")["Different places: Japanese porcelain with English gilt-bronze mounts" by Jeffrey Weaver]
   ]
 )
 
