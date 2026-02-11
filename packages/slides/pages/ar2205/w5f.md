@@ -49,7 +49,7 @@ layout: quote
 author: "David Joselit, <i>American Art Since 1945</i>"
 ---
 
-If `content` in commercial culture consists of the spectacular rhetoric of packaging and advertising as it was monoumentalized in Pop art, then Minimal objects of the early and mid-1960s sough ... to strip this content away. Minimalism is characterized by three-dimentional geometric forms so basic, and surfaces so ordinary and unadorned, that critics of the time refused to accept them as art.
+If content in commercial culture consists of the spectacular rhetoric of packaging and advertising as it was monoumentalized in Pop art, then Minimal objects of the early and mid-1960s sough ... to strip this content away. Minimalism is characterized by three-dimentional geometric forms so basic, and surfaces so ordinary and unadorned, that critics of the time refused to accept them as art.
 
 ---
 color: zinc
