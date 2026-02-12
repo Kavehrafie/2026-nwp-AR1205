@@ -276,6 +276,13 @@ hide: true
 ![Jacob van Ruisdael, View of Haarlem with Bleaching Grounds, c. 1670–75, oil on canvas, 55.5 x 62 cm](https://smarthistory.org/wp-content/uploads/2018/08/DutchBaroqueCover.jpg)
 
 ---
+layout: quote
+author: "Svetlana Alpers, <i>The Art of Describing</i>, p. 122"
+---
+
+The aim of Dutch painters was to capture on a surface a great range of knowledge and information about the world. ... Like the mapper, they made additive works that could not be taken in from a single viewing point.
+
+---
 layout: two-cols
 color: amber-light
 ---
@@ -336,17 +343,28 @@ layout: two-cols
 
 :: left ::
 
-![Arita ware porcelain dish, Edo period, 17th century, from Japan, 34.29 cm in diameter](https://smarthistory.org/wp-content/uploads/2021/02/36064001.jpg)
+![Jar with Dragon, c. early 15th century. Porcelain painted with cobalt blue under transparent glaze (Jingdezhen ware)](https://res.cloudinary.com/image-solar/image/upload/v1770838342/2026nwp-ar1205/ming-porcelain_t5jvue.jpg)
 
 :: right ::
 
 ![Shop window display of Delftware in the market place Delft, 1981](https://upload.wikimedia.org/wikipedia/commons/9/9e/Delftware_display.JPG)
 
+
 <!-- 
+![Arita ware porcelain dish, Edo period, 17th century, from Japan, 34.29 cm in diameter](https://smarthistory.org/wp-content/uploads/2021/02/36064001.jpg)
 
 By the seventeenth century the Netherlands had become a prosperous country through its shipping trade across Europe and its trade links with Asia. The United Dutch East India Company (Vereenigde Oostindische Compagnie) was formed in 1602 in order to unite various small trade companies which had created commercial links with the India and East Asia during the late sixteenth century. With bases in Sri Lanka, India and Indonesia, the Company became a powerful trade organization. It was even given powers of rule over its dominions, along similar lines to those of the English East India Company. Like its British rival, the Dutch East India Company issued coins for trade in its dominions. The coin bears the Company’s monogram (VOC) and the date.
 
- -->
+- The demand for Chinese porcelain in the Dutch Republic led to the production of Delftware, a type of tin-glazed earthenware that imitated the blue and white porcelain imported from China. This reflects the influence of global trade on Dutch art and culture during the Baroque period, as European artists and consumers sought to incorporate exotic goods and styles into their work and daily lives.
+- But in because of the shortage of silver, the Dutch also produced their own versions of Chinese porcelain, known as Delftware, which were made from tin-glazed earthenware and often featured blue and white designs inspired by Chinese motifs. This illustrates how global trade influenced not only the materials and objects depicted in Dutch art but also the production of art itself, as European artists adapted and reinterpreted foreign styles to meet local demand.
+
+Claire Fargo: "I say “extra- European” rather than
+“non- European” because in many cases, such as the examples discussed in
+this chapter, the object produced outside Europe is already touched by European ideas. It is not exactly a non- European object. The approach used
+here, developed to deal with just such complexities, considers the entire
+arc of cultural production from point of origin to ultimate destination."
+-->
+
 
 ---
 
@@ -354,7 +372,9 @@ By the seventeenth century the Netherlands had become a prosperous country throu
 
 <!-- 
 
-
+- Willem Claesz. Heda's Still Life with Glasses and Tobacco is a quintessential example of Dutch still life painting, showcasing the artist's mastery of light, texture, and composition. The painting features an array of objects, including glasses, a tobacco pipe, and a silver goblet, arranged on a table with a dark background. The meticulous attention to detail and the play of light on the surfaces of the objects create a sense of realism and depth. This painting not only reflects the material wealth of the Dutch Republic but also serves as a meditation on the fleeting nature of life and the transience of worldly possessions, themes commonly explored in Baroque art.
+- The inclusion of tobacco in the painting is significant, as it was a luxury item that became popular in Europe during the 17th century, largely due to global trade. The presence of such items in still life paintings highlights the interconnectedness of European art with global commerce and the influence of exotic goods on European culture during the Baroque period.
+- the venition glassware and silver goblet in the painting are indicative of the wealth and status of the Dutch middle class during the Golden Age. The meticulous depiction of these objects also reflects the influence of global trade, as many of the luxury items featured in Dutch still lifes were imported from Asia and other parts of the world, showcasing the reach and impact of global commerce on European art and society during this period.
 
 -->
 
@@ -391,6 +411,13 @@ Juan Sánchez Cotán’s Quince, Cabbage, Melon and Cucumber combines the hyper-
 - Cotán’s painting is a meditation on the transience of life and the inevitability of death, themes that were common in Baroque art. The stark contrast between the vibrant colors of the fruits and vegetables and the dark background creates a sense of drama and emphasizes the fleeting nature of beauty and life. The meticulous attention to detail in the depiction of the produce also reflects the influence of global trade, as these items were often exotic imports that symbolized wealth and status during the 17th century.
 - Unlike the Dutch still lifes, which often included luxury items and symbols of wealth, Cotán's painting focuses on simple, everyday objects, elevating them to a level of significance and beauty. This approach reflects the Spanish Baroque's emphasis on spirituality and the contemplation of mortality, contrasting with the more materialistic themes found in Dutch still life paintings.
 
+
+In fact, the gradual, emergent curvilinear plane has been compared to Archimedes’ hyperbola, suggesting that such paintings, which were generally made for an educated, secular clientele, were perhaps understood as geometric meditations.
+
+Archimedes was first translated and published by Federico Commandino in 1565 (Archimedis De iis quae vehuntur in aqua libri duo/ a Frederico Commandino restituti et commentariis illustrate), at approximately the same time that he published his own De Centro Gravitatis. Commandino’s work was followed by Luca Valerio’s De Centro Gravitatis in 1604—confirming a strong contemporary interest in spherical bodies that might be related to Cotán’s still-life experiments.
+
+Others have suggested that the arrangement of spheres and sectioned semi-spherical fruits and vegetables is to be understood in terms of astronomy, a representation of celestial bodies moving against the night sky, possibly in relation to celestial navigation. Spain was, of course, at the forefront of exploration in the fifteenth and sixteenth centuries. Or, they could represent specific celestial bodies in their various phases, although Galileo did not turn his telescope toward the moon until 1609. Finally, all four of the items here were introduced from Europe for cultivation in the Americas, perhaps alluding, however obliquely, to Empire and conversion.
+
  -->
 
 ---
@@ -405,6 +432,76 @@ layout: two-cols
 
 
 ### _Wunderkammer_ (Cabinet of Curiosities) ✏️
+
+<!-- 
+
+- The concept of the Wunderkammer, or Cabinet of Curiosities, emerged during the Renaissance and continued into the Baroque period as a way to collect and display a wide variety of objects that were considered rare, exotic, or scientifically significant. These cabinets often included natural specimens, artworks, artifacts from different cultures, and other curiosities that reflected the owner's interests and status. The frontispiece of Olaus Worm's Museum Wormianum illustrates the idea of a Wunderkammer, showcasing a diverse array of objects that represent the breadth of knowledge and curiosity during the 17th century. These collections served as microcosms of the world, allowing viewers to explore and learn about different cultures, natural phenomena, and artistic achievements in one space.
+- By the mid- sixteenth century, these two objects might have been prize specimens in European collections, where they are still located today.
+ -->
+
+---
+color: black
+---
+
+![The Mass of St. Gregory (detail), 1539, feathers on wood with touches of paint, 26 1/4 x 22 inches / 68 x 56 cm](https://smarthistory.org/wp-content/uploads/2019/05/Featherwork-sm.jpg)
+
+<!-- 
+
+In 1539, the Nahua noble and gobernador (governor) of Mexico City, Diego de Alvarado Huanitzin (nephew and son-in-law to Moctezuma II, the last Aztec ruler before Spanish colonial rule began in 1521), commissioned a featherwork for Pope Paul III showing the Mass of St. Gregory. This artwork, made of different types of bird feathers attached to a wood panel, is remarkable for several reasons. Not only is it the oldest surviving featherwork from colonial Mexico, but it was made by an Indigenous man in order to be sent to the Pope during the early period of Spanish colonization. Two years before the featherwork’s creation, Pope Paul III had issued the bull Sublimus Dei that decreed Amerindian peoples to be rational human beings complete with souls, and called for an end to their enslavement.
+
+The subject of the Mass of St. Gregory was popular at this time because of its focus on transubstantiation—the belief that the bread and wine transform into the body and blood of Christ during Mass. Saint Gregory was an important 6th-century pope, and one day during Mass he raised the consecrated host (the bread) and experienced a miraculous vision of Christ on the altar. His vision offered proof that the bread literally became Christ’s body when consecrated. Christ appeared to Saint Gregory as the Man of Sorrows—a type of image of Christ, where he is shown above the waist, with his wounds displayed on his hands and side.
+ -->
+
+
+---
+layout: two-cols
+---
+
+
+:: left ::
+
+![The Mass of St. Gregory (detail), 1539, feathers on wood with touches of paint, 26 1/4 x 22 inches / 68 x 56 cm](https://smarthistory.org/wp-content/uploads/2019/05/Featherwork-sm.jpg)
+
+:: right ::
+
+![srahel van Meckenem, The Mass of Saint Gregory, c. 1490/1500, engraving](http://smarthistory.org/wp-content/uploads/2016/03/R-20101118-0026-1.jpg)
+
+<Asterisks />
+
+<!-- 
+
+The featherwork production of The Mass of Saint Gregory was likely supervised by the famous Franciscan missionary, Pedro de Gante, who came to the Viceroyalty of New Spain (the Spanish colonies in North America) from Flanders to aid in converting the native peoples to Christianity. He established a well-known school that trained Indigenous men in European artistic conventions and techniques. Prints were often supplied as models for these Christian neophytes. The featherwork represents the clash of different worlds—its technique is Mesoamerican, but the subject is European and Christian.
+
+The instruments of the Passion of Christ (also known as the Arma Christi— specifically the instruments of Christ’s suffering, including the column, nails, sponge, cock, and flagellant whip) appear on or surrounding the altar in both van Meckenem’s print and the featherwork. Other colonial Mexican artworks—especially those used to aid in conversion of Indigenous populations—displayed passional instruments. On atrial crosses (crosses found in the courtyards, or atria, of missionary churches), for example, friars could point to the different Arma Christi as they taught native peoples about Christian dogma and biblical history.
+
+ -->
+
+---
+layout: two-cols
+columns: "is-7"
+color: red-light
+---
+
+:: left ::
+
+![Feathered headdress, Aztec, reproduction (National Anthropology Museum, Mexico City). Original: early 16th century, quetzal, cotinga, roseate spoonbill, piaya feathers, wood, fibers, amate paper, cotton, gold, and gilded brass, Aztec, Mexico,](https://res.cloudinary.com/image-solar/image/upload/v1770836396/2026nwp-ar1205/16790130426_c8c193c153_k_khxmng.jpg)
+
+:: right ::
+
+![Detail, Codex Mendoza, folio 46r (Bodleian Library, Oxford). ](https://smarthistory.org/wp-content/uploads/2016/03/mendozafeathers.jpg)
+
+<!-- 
+
+Featherworks were among the most highly prized objects in the early post-Conquest period. Hernan Cortes sent feathered objects to Holy Roman Emperor Charles V to dazzle him with their richness and unique qualities. Others, like Diego de Soto, carried packages of featherworks from New Spain to Spain to give to Charles V soon after the Spanish Conquest. Many featherworks found their way into cabinets of curiosities throughout Europe, no doubt collected because they symbolized the exotic “New World” across the Atlantic. Still today, feathered goods like the so-called Headdress of Moctezuma are some of the most prized possessions of European museums.
+
+Quetzal  feathers were especially prized, and the Codex Mendoza (a 16th-century Aztec codex created for Charles V) records the tribute paid in feathers to the Aztec emperor. The codex includes a detailed illustration of the different types of feathers that were collected and used for various purposes, such as ceremonial attire and featherwork art. The high value placed on feathers in Aztec society is evident in the elaborate feathered headdresses and other objects that were created using these materials, which were often reserved for nobility and important religious ceremonies.
+
+We find many Indigenous groups used feathers to adorn luxury goods, festoon clothing, and function within ceremonies. The Mexica (more commonly known as the Aztecs), were among those groups who prized feathers. Through long-distance trade, the Aztecs acquired feathers from afar. The most highly prized feathers—those of the resplendent quetzal—came from Guatemala. Hummingbirds, macaws, and many other birds supplied feathers. The Mexica also collected feathers as tribute from areas they conquered. Tribute lists illustrated in the Codex Mendoza, produced after the Spanish Conquest, demonstrate the large number of birds and feathers sent to the Aztec capital city, Tenochtitlan. In Tenochtitlan, featherworkers comprised their own special social class. They lived in a neighborhood called Amantla, which is why they were called amanteca.
+
+### mendoza
+The text records feathers paid as tribute (from top to bottom and left to right: “four pieces of rich feathers, made like handfuls into this form,” “eight thousand little handfuls of rich turquoise feathers,” “eight thousand little handfuls of rich red feathers” and “eight thousand little handfuls of rich green feathers.”
+
+ -->
 
 ---
 layout: two-cols
@@ -494,60 +591,138 @@ hide: true
 
 ---
 
-![Rembrandt van Rijn, Self-Portrait with Saskia, 1636, etching, 10.4 x 9.5 cm](https://smarthistory.org/wp-content/uploads/2021/11/RembrandtSaskia.jpg)
-
----
-
 ![Rembrandt van Rijn, The Anatomy Lesson of Dr. Tulp, 1632, oil on canvas, 169.5 x 216.5 cm](https://smarthistory.org/wp-content/uploads/2022/07/146_repro-scaled.jpg)
 
+
+<!-- 
+
+- it was commissioned by the Amsterdam Guild of Surgeons to commemorate Dr. Tulp's appointment as the guild's official anatomist. The painting serves as a visual representation of the guild's commitment to advancing medical knowledge and education, as well as a testament to Dr. Tulp's expertise and influence in the field of anatomy during the Dutch Golden Age.
+- The Anatomy Lesson of Dr. Tulp is a group portrait that depicts Dr. Nicolaes Tulp, a prominent Amsterdam physician, demonstrating a dissection to a group of surgeons. The painting captures the scientific and intellectual atmosphere of the Dutch Golden Age, showcasing the importance of medical knowledge and education during this period. The composition is carefully arranged, with Dr. Tulp positioned at the center, drawing attention to his role as the instructor. The other figures are engaged in observing the dissection, creating a sense of focus and concentration. The use of light and shadow adds depth and drama to the scene, emphasizing the significance of the moment being depicted. The Anatomy Lesson of Dr. Tulp is not only a celebration of scientific inquiry but also a reflection of the social status and prestige associated with the medical profession in 17th-century Amsterdam.
+
+Rembrandt’s almost obsessive relationship with his own visage could be viewed as a process of self-exploration, a way he took stock of who he was at different points in his career. In some ways, this might seem consistent with the seventeenth-century Calvinist mindset within which Rembrandt would have been raised, a mindset that advocated intense personal responsibility for the state of one’s own soul.
+
+ -->
+
 ---
 
-![embrandt, Self-portrait (left), 1640, oil on canvas, 102 x 80 cm (National Gallery, London), public domain and Self-Portrait, Leaning on a Stone Wall (right),1639, etching, 16 x 16cm (The Metropolitan Museum of Art)](https://smarthistory.org/wp-content/uploads/2019/08/Wall-portraits.jpg)
+![Rembrandt van Rijn, Self-Portrait with Saskia, 1636, etching, 10.4 x 9.5 cm](https://smarthistory.org/wp-content/uploads/2021/11/RembrandtSaskia.jpg)
+
+<!-- 
+
+- the typical rambrandt self-portraits in pose: one hand placed on a table or plantform the torso turned slightly to the side, and the head turned toward the viewer. The pose is relaxed and informal, with the artist looking directly at the viewer with a calm and confident expression. The composition is simple, with Rembrandt and Saskia positioned in the center of the image, surrounded by a dark background that emphasizes their faces and clothing. The use of light and shadow adds depth and dimension to the etching, creating a sense of intimacy and immediacy in the portrayal of the couple. This self-portrait is a testament to Rembrandt's skill as an artist and his ability to capture the essence of his subjects with great sensitivity and nuance.
+- elbow on the table, torso turned slightly to the side, and head turned toward the viewer. This pose is a common feature in Rembrandt's self-portraits, as it allows him to engage directly with the viewer while also creating a sense of depth and dimension in the composition. The relaxed and informal nature of the pose also reflects Rembrandt's approach to self-portraiture, which often emphasized a candid and introspective portrayal of himself rather than a formal or idealized image.
+ -->
+
+---
+
+![Rembrandt, Self-portrait (left), 1640, oil on canvas, 102 x 80 cm (National Gallery, London), public domain and Self-Portrait, Leaning on a Stone Wall (right),1639, etching, 16 x 16cm (The Metropolitan Museum of Art)](https://smarthistory.org/wp-content/uploads/2019/08/Wall-portraits.jpg)
+
+<!-- 
+
+
+
+
+ -->
 
 ---
 
 ![Rembrandt, Self-portrait with Two Circles, c. 1665–69, oil on canvas, 114.3 cm x 94 cm wide ](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rembrandt_Self-portrait_%28Kenwood%29.jpg/1920px-Rembrandt_Self-portrait_%28Kenwood%29.jpg)
 
+<Asterisks />
 
+<!-- 
 
----
-layout: center
----
+An old man in a white cap stares out at the viewer with a penetrating gaze. His left hand holds his hastily painted palette, brushes and maulstick, while his right hand seems to disappear in an unresolved blur into his thigh or the folds of his coat. He wears a red bib over a white shirt, with a fur lined coat on his shoulders. Some viewers perceive a gold chain, usually a mark of high honor, tucked into the folds of his garments.
 
+The right edge of the canvas reveals the edge of the painting the artist is working on, while the back wall is adorned with two enigmatic arcing lines. The painting is not signed and is most likely unfinished. Technical studies suggest that it may have originally been slightly larger, which would have made the painting within the painting more prominent.
 
+This is Rembrandt in the early 1660s —late in his career and during a period when he used thick impasto and dark colors to build up complex and engaging works of art. Scholars have regarded this particular self-portrait, one of many from the last decade of his life, as perhaps the most enigmatic and masterful of them all. It stands out from approximately 80 other self-portraits because of its light-toned background, which emphasizes the strangeness of the two circles that arc across the wall.
 
-
-
-
----
-
-![Johannes Vermeer, The Glass of Wine, c. 1661, oil on canvas, 67.7 x 79.6 cm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg/3840px-Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg)
-
-
-
----
-
-![Johannes Vermeer, Woman Holding a Balance, 1664, oil on canvas, 42.5 x 38 cm](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg/1920px-Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg)
-
-
-
----
-
-![Rembrandt van Rijn, The Conspiracy of the Batavians under Claudius Civilis, 1661-62](http://smarthistory.org/wp-content/uploads/2017/09/rembrandt-claudius-civilis-edited.jpg)
+ -->
 
 ---
 color: black
 ---
 
-![The Mass of St. Gregory (detail), 1539, feathers on wood with touches of paint, 26 1/4 x 22 inches / 68 x 56 cm](https://smarthistory.org/wp-content/uploads/2019/05/Featherwork-sm.jpg)
+<Asterisks />
+
+![Judith Leyster, Self-portrait (c. 1630). Oil on canvas, 74.6 x 65.1 cm (29.4 x 25.6 in)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Self-portrait_by_Judith_Leyster.jpg/1920px-Self-portrait_by_Judith_Leyster.jpg)
+
+<!-- 
+- pronounced "LIE-stir," was a Dutch Golden Age painter who specialized in genre scenes, portraits, and still lifes.
+- she got into the guild (st. Luke’s Guild) in 1633, which was a significant achievement for a female artist at the time, as it allowed her to sell her work and take on apprentices. Her self-portrait, painted around 1630, is a testament to her skill and confidence as an artist. In the painting, Leyster is depicted holding a paintbrush and palette, with a lively expression on her face. The composition is dynamic, with Leyster positioned slightly off-center and looking directly at the viewer, which was a common pose for self-portraits during the Dutch Golden Age. The use of light and shadow adds depth and dimension to the painting, highlighting Leyster's features and creating a sense of intimacy. This self-portrait not only showcases Leyster's talent but also serves as a statement of her identity as a professional artist
+
+ -->
+
 
 ---
-layout: quote
-author: "Svetlana Alpers, <i>The Art of Describing</i>, p. 122"
+layout: center
+color: blue
 ---
 
-The aim of Dutch painters was to capture on a surface a great range of knowledge and information about the world. ,,, Like the mapper, they made additive works that could not be taken in from a single viewing point.
 
+## Genre-Painting ✏️
+
+<!-- 
+
+- vermeer's paintings is a prime example of genre painting, which depicts scenes of everyday life. In The Glass of Wine, Vermeer captures a quiet moment of contemplation as a young woman
+- suggestive of a narrative
+- temperance, the virtue of moderation in all things, including the consumption of alcohol. The painting's composition and use of light create a sense of intimacy and focus on the
+- the glass of wine itself, which is rendered with meticulous detail and serves as a symbol of the
+- sinister allure and the potential dangers of indulgence. The painting can be interpreted as a moralizing commentary on the consequences of excess and the importance of self-control, themes that were common in genre paintings of the Dutch Golden Age.
+
+- Genre painting, which depicts scenes of everyday life, became increasingly popular during the Baroque period, particularly in the Dutch Republic. Artists like Johannes Vermeer and Pieter de Hooch created intimate and detailed portrayals of domestic interiors, capturing moments of daily life with a sense of realism and warmth. These paintings often included subtle symbolism and reflected the values and social dynamics of the time, such as the importance of family, domesticity, and the emerging middle class. Genre paintings served as a visual representation of the world around them, offering viewers a glimpse into the lives of ordinary people during the 17th century.
+ -->
+
+
+
+---
+color: black
+---
+
+<Asterisk />
+
+![Johannes Vermeer, The Glass of Wine, c. 1661, oil on canvas, 67.7 x 79.6 cm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg/3840px-Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg)
+
+
+<!-- 
+- EARLY VERMEER and fascination with the soft light
+  
+- The Glass of Wine is a genre painting by Johannes Vermeer that depicts a young woman holding a glass of wine in a domestic interior. The painting captures a moment of quiet contemplation and intimacy, with the woman gazing at the glass of wine as if lost in thought. The composition is carefully arranged, with the use of light and shadow creating a sense of depth and atmosphere. The painting is notable for its attention to detail, with Vermeer meticulously rendering the textures of the woman's clothing, the glass of wine, and the surrounding objects. The Glass of Wine is a prime example of Vermeer's ability to capture the beauty and complexity of everyday life, making it a significant work in the genre of Dutch Golden Age painting.
+
+ -->
+
+
+---
+color: black
+---
+
+<Asterisk />
+
+![Johannes Vermeer, Woman Holding a Balance, 1664, oil on canvas, 42.5 x 38 cm](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg/1920px-Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg)
+
+<!-- 
+- part of upper merchant class, a signifant patrons 
+- a fine balance between the material and the spiritual, between the earthly and the divine. 
+- boxes with strings of pearls, gold coins, and other valuables are visible in the open cabinet behind her, while the painting of the Last Judgment on the wall behind her serves as a reminder of the spiritual consequences of one's actions. 
+- vanishing point is in the hand and the balance, which is a symbol of justice and morality. The painting can be interpreted as a meditation on the importance of living a balanced and virtuous life, where material wealth is not prioritized over spiritual
+
+
+
+ -->
+
+---
+hide: true
+---
+
+![Rembrandt van Rijn, The Conspiracy of the Batavians under Claudius Civilis, 1661-62](http://smarthistory.org/wp-content/uploads/2017/09/rembrandt-claudius-civilis-edited.jpg)
+
+
+
+
+
+---
+hide: true
 ---
 
 ![Johannes Vermeer, Young Woman with a Water Pitcher, oil on canvas, c. 1662](https://res.cloudinary.com/image-solar/image/upload/v1770355867/2026nwp-ar1205/DP353257_hemv4j.jpg)
@@ -580,3 +755,16 @@ Ellsworth Foster and James L. Hughes
 Publsiher: Ralph Durham Co. Chicago (IL)
 1919
 -->
+
+---
+color: black
+---
+
+![Frans Hals, Malle Babbe, c. 1633, oil on canvas, 78.50 x 66.20 cm (Gemäldegalerie, Staatliche Museen zu Berlin)](https://upload.wikimedia.org/wikipedia/commons/c/c0/Frans_Hals_021.jpg)
+
+<!-- 
+- Art historians have found documentation that this was a historical figure, somebody who actually lived in Haarlem at this time. She was in fact committed to the city of Haarlem’s insane asylum.
+-  The owl comes from a Dutch expression, “To be as drunk as an owl,” but also a reference to the idea of night, and perhaps also a reference to Malle Babbe’s nickname, which referred to her as a witch, and of course, the owl, a signifier of witchcraft.
+-  It’s interesting to know biographically that the artist Frans Hals’ son was also committed there with her. So it seems that the artist was perhaps inspired to explore madness in this very direct way.
+- You know, the 17th century in Holland was this moment when painting becomes modern, in that it begins to fulfill its potential to represent humanity in all of its facets. No longer is painting relegated to the religious, no longer is painting relegated to the royal portrait. There is this attention now to some of the complications that make us human. 
+ -->
