@@ -58,7 +58,10 @@ columns: "is-8"
 
 - Tenochtitlan was the capital city of the Aztec Empire, located on an island in Lake Texcoco. It was founded in 1325 and became one of the largest cities in the world at its peak, with a population of around 200,000 people. The city was known for its impressive architecture, including the Templo Mayor, a large pyramid dedicated to the Aztec gods. Tenochtitlan was also a major center of trade and culture, with bustling markets and vibrant artistic traditions. However, it was ultimately conquered by Spanish forces led by Hernán Cortés in 1521, leading to the fall of the Aztec Empire.
 - Lake Texcoco was a large lake in the Valley of Mexico, where the Aztec capital of Tenochtitlan was located. The lake played a crucial role in the development of the Aztec civilization, providing water for agriculture and transportation. The Aztecs built their city on an island in the lake, using a system of canals and causeways to connect it to the mainland. However, over time, the lake was drained and filled in, leading to significant environmental changes in the region. Today, much of the area that was once Lake Texcoco is now part of Mexico City.
+
+In the fifteenth century, the Mexica joined allies in a triple alliance and began an aggressive campaign of expansion. The tribute they exacted from all over the Aztec Empire transformed Tenochtitlan into a glittering capital.
  -->
+
 
 ---
 layout: quote
@@ -76,6 +79,132 @@ the things that we saw were not a dream.
 <!-- 
 - in november 1519, the army of the Spanish soldiers Hernan Cortes saw for the first time the great Aztec capital
 - One of Cortes;s companion later recalled the wonder.
+
+ -->
+
+
+---
+color: black
+---
+
+![Templo Mayor (reconstruction), Tenochtitlan, 1375–1520 C.E.](https://smarthistory.org/wp-content/uploads/2022/10/diagram_Templo-Mayor-scaled.jpg)
+
+<div v-drag v-click >
+
+![](https://res.cloudinary.com/image-solar/image/upload/v1771004862/2026nwp-ar1205/dios-huitzilopochtli-og_zddlsg.jpg)
+</div>
+
+<div v-drag v-click >
+
+![](https://res.cloudinary.com/image-solar/image/upload/v1771005110/2026nwp-ar1205/God-Tlaloc_uubo5p.png)
+
+### Tlaloc
+</div>
+
+<!-- 
+sacred precinct of the Aztec capital
+
+Great Pyramid (or Templo Mayor), with paired temples on top: The one on the north was dedicated to Tlaloc, an ancient rain god with a history extending back to Teotihuacan, and the one on the south to Huitzilopochtli, the solar god of the newly arrived Mexica tribe (FIG. 27–4). During the winter rainy season the sun rose behind the temple of Tlaloc, and  during the dry season it rose behind the temple of Huitzilopochtli. The double temple thus united two natural forces, sun and rain, or fire and water. During the spring and autumn equinoxes, the sun rose between the two temples.
+
+ -->
+
+---
+layout: two-cols
+columns: "is-4"
+color: black
+---
+
+<Asterisk />
+
+:: left ::
+
+![Reconstruction of the Great Pyramid (Templo Mayor) of Tenochtitlan, c. 1500](https://res.cloudinary.com/image-solar/image/upload/v1771005476/2026nwp-ar1205/Screenshot_2026-02-13_095737_g3qmsu.png)
+
+:: right ::
+
+![The Coyolxauhqui Stone, c. 1500, volcanic stone, found: Templo Mayor, Tenochtitlan](https://smarthistory.org/wp-content/uploads/2022/08/16193910604_9aa925e600_o-1-scaled.jpg)
+
+
+<div v-drag v-click class="bg-white/90 p-4 rounded-lg" >
+
+<div>
+
+![Coyolxauhqui stone reconstruction with possible original colors](https://smarthistory.org/wp-content/uploads/2022/08/CoyPolychromed.jpg)
+</div>
+</div>
+
+<!-- 
+
+Two steep staircases led up the west face of the pyramid from the plaza in front. Sacrificial victims climbed these stairs to the temple of Huitzilopochtli, where priests threw them over a stone, quickly cut open their chests, and pulled out their still-throbbing hearts, a sacrifice that ensured the survival of the sun, the gods, and the Aztecs. The bodies were then rolled down the stairs and dismembered. Thousands of severed heads were said to have been kept on a skull rack in the plaza, represented in FIGURE 27–3 by the rack with a single skull to the right of the eagle. In addition to major works of Aztec sculpture, current excavations have uncovered a series of deep shafts containing multiple levels of offerings—precious objects as well as animals—and some believe that eventually human burials will be discovered, perhaps those of Aztec kings.
+
+### Coyolxauhqui Monolith
+- the monolith displayed the Mexica (Aztec) goddess Coyolxauhqui, or Bells-Her-Cheeks, the sister of the Mexica’s patron god, Huitzilopochtli (Hummingbird-Left), who killed his sister when she attempted to kill their mother. This monolith led to the discovery of the Templo Mayor, the main Mexica (or Aztec) temple located in the sacred precinct of the former Mexica capital, known as Tenochtitlan (now Mexico City).
+
+But by far the most famous object decorating the Huiztilopochtli temple is the Coyolxauhqui monolith, found at the base of the stairs. Originally painted and carved in low relief, the Coyolxauhqui monolith is approximately eleven feet in diameter and displays the female deity Coyolxauhqui, or Bells-on-her-face. Golden bells decorate her cheeks, feathers and balls of down (feathers) adorn her hair, and she wears elaborate earrings, fanciful sandals and bracelets, and a serpent belt with a skull attached at the back. Monster faces are found at her joints, connecting her to other female deities—some of whom are associated with trouble and chaos. Otherwise, Coyolxauhqui is shown naked, with sagging breasts and a stretched belly to indicate that she was a mother. For the Mexica, nakedness was considered a form of humiliation and also defeat. She is also decapitated and dismembered. Her head and limbs are separated from her torso and are organized in a pinwheel shape. Pieces of bone stick out from her limbs.
+
+The monolith relates to an important myth: the birth of the Mexica patron deity, Huitzilopochtli. Apparently, Huitzilopochtli’s mother, Coatlicue (Snakes-her-skirt), became pregnant one day from a piece of down that entered her skirt. Her daughter, Coyolxauhqui, became angry when she heard that her mother was pregnant, and together with her 400 brothers (called the Centzonhuitznahua) attacked their mother. At the moment of attack, Huitzilopochtli emerged, fully clothed and armed, to defend his mother on the mountain called Coatepec (Snake Mountain). Eventually, Huitzilopochtli defeated his sister, then beheaded her and threw her body down the mountain, at which point her body broke apart.
+
+The monolith portrays the moment in the myth after Huitzilopochtli vanquished Coyolxauhqui and threw her body down the mountain. By placing this sculpture at the base of Huiztilopochtli’s temple, the Mexica effectively transformed the temple into Coatepec. Many of the temple’s decorations and sculptural program also support this identification. The snake balustrades and serpent heads identify the temple as a snake mountain, or Coatepec. It is possible that the standard-bearer figures recovered at the Templo Mayor symbolized Huitzilopochtli’s 400 brothers.
+ -->
+
+---
+color: black
+---
+
+![Coatlicue, c. 1500, Mexica (Aztec), found on the SE edge of the Plaza mayor/Zocalo in Mexico City, basalt, 257 cm high](https://smarthistory.org/wp-content/uploads/2022/07/16816048015_e106109399_o.jpg)
+
+<Asterisk />
+
+<!-- 
+
+Coatlicue’s name literally means Snakes-Her-Skirt, so her clothing helps identify her. Her snake belt ties at the waist to keep a skull “buckle” in place. Her upper torso is exposed, and we can just make out her breasts and rolls in her abdomen. The rolls indicate she is a mother. A sizable necklace formed of hands and hearts largely obscures her breasts.
+
+Two enormous snakes curl upwards from her neck to face one another (see the image below). Their bifurcated, or split, tongues curl downwards, and the resulting effect is that the snake heads and tongues appear to be a single, forward-facing serpent face. Snakes coming out of body parts, as we see here, was an Aztec convention for squirting blood. Coatlicue has in fact been decapitated, and her snaky head represents the blood squirting from her severed neck. Her arms are also formed of snake heads, suggesting she was dismembered there as well.
+
+You might read elsewhere that Coatlicue was decapitated by her daughter or beheaded when her son was born from her severed neck (the idea has been adopted in part to explain this monumental sculpture). However, the myth from which this story derives does not actually state that Coatlicue suffered this fate. For this reason, it is useful to review the myth—one of the most important for the Aztecs.
+
+
+ -->
+
+---
+
+![Chacmool on the Tlaloc temple platform ](https://smarthistory.org/wp-content/uploads/2022/10/Chac_mool-scaled.jpeg)
+
+<!-- 
+
+- Chacmool is a type of pre-Columbian Mesoamerican sculpture that depicts a reclining figure with its head turned to one side and its legs bent at the knees. The figure is often shown holding a bowl or a disk on its stomach, which is believed to have been used for offerings or sacrifices. Chacmool sculptures are typically associated with the Toltec and Aztec civilizations, and they are often found in temples and other religious sites. The exact purpose and meaning of Chacmool sculptures are still debated among scholars, but they are generally thought to represent a connection between the earthly and spiritual realms.
+ -->
+
+---
+
+![View of the Templo Mayor excavations today in the center of what is now Mexico City](https://smarthistory.org/wp-content/uploads/2022/08/overview-scaled.jpg)
+
+<!-- 
+n 1978, electrical workers in Mexico City came across a remarkable discovery. While digging near the main plaza, they found a finely carved stone monolith that displayed a dismembered and decapitated woman. Immediately, they knew they found something special. Shortly thereafter, archaeologists realized that the monolith displayed the Mexica (Aztec) goddess Coyolxauhqui, or Bells-Her-Cheeks, the sister of the Mexica’s patron god, Huitzilopochtli (Hummingbird-Left), who killed his sister when she attempted to kill their mother. This monolith led to the discovery of the Templo Mayor, the main Mexica (or Aztec) temple located in the sacred precinct of the former Mexica capital, known as Tenochtitlan (now Mexico City).
+
+ -->
+
+
+---
+
+![Gemelli Careri's map of the Aztec migration from Aztlan to Chapultapec from "Voyage Round the World", 1704](https://upload.wikimedia.org/wikipedia/commons/c/c5/Gemelli_Careri_Aztec_Map.jpg)
+
+<!-- 
+
+Their rise to power had been recent and swift. Only 400 years earlier, according to their own legends, they had been a nomadic people living far north of the Valley of Mexico in a distant place called Aztlan. The term Aztec derives from the word Aztlan and refers to all those living in Central Mexico who came from this mythical homeland, not just to the Mexica of Tenochtitlan. The Mexica arrived in the Valley of Mexico in the thirteenth century and settled—according to their mythologized account—on an island in Lake Texcoco where they had seen an eagle perching on a prickly pear cactus (nochtli) growing out of a stone (tetl), a sign that their god Huitzilopochtli told them would mark the end of their wandering. They called the place Tenochtitlan. The city on the island was gradually expanded by reclaiming land from the lake and serviced by a grid of artificial canals.
+ -->
+
+
+---
+color: sky-light
+---
+
+![The Founding of Tenochtitlan, page from the Codex Mendoza, 1545. Ink and color on paper](https://upload.wikimedia.org/wikipedia/commons/a/aa/CodexMendoza01.jpg)
+
+<!-- 
+- The Codex Mendoza is a 16th-century Aztec codex created shortly after the Spanish conquest of Mexico. It was commissioned by the Spanish viceroy Antonio de Mendoza and is named after him. (commissioned a book with drawings by indigenous artists for presentation to Holy Roman Emperor Charles V) The codex contains a wealth of information about Aztec society, culture, and history, including details about the founding of Tenochtitlan, the capital city of the Aztec Empire. The page depicting the founding of Tenochtitlan shows the Aztecs arriving at the site where they would build their city, guided by an eagle perched on a cactus, which was a significant symbol in Aztec mythology. The codex is an important historical document that provides insight into the Aztec civilization and its interactions with the Spanish conquistadors.
+  
+- An eagle perched on a prickly pear cactus growing out of a stone—the symbol of the city—fills the center of the page.
 
  -->
 
@@ -97,6 +226,9 @@ the things that we saw were not a dream.
 - malinchōtl, also known as La Malinche, was a native woman who played a crucial role in the Spanish conquest of the Aztec Empire. She served as an interpreter, advisor, and intermediary for Hernán Cortés, helping him communicate with the indigenous peoples of Mexico. Malinchōtl's knowledge of both the Nahuatl language and Spanish made her an invaluable asset to Cortés during his campaign. However, her legacy is complex, as she is often viewed as a traitor by some for her collaboration with the Spanish, while others see her as a victim of circumstance who navigated a difficult situation to survive.
 -
 -->
+
+
+
 
 ---
 layout: center
@@ -163,15 +295,22 @@ his hairstyle of a warrior’s topknot.
  -->
 
 ---
-color: sky-light
+title: Aztec Calendar
 ---
 
-![The Founding of Tenochtitlan, page from the Codex Mendoza, 1545. Ink and color on paper](https://upload.wikimedia.org/wikipedia/commons/a/aa/CodexMendoza01.jpg)
 
 <!-- 
-- The Codex Mendoza is a 16th-century Aztec codex created shortly after the Spanish conquest of Mexico. It was commissioned by the Spanish viceroy Antonio de Mendoza and is named after him. The codex contains a wealth of information about Aztec society, culture, and history, including details about the founding of Tenochtitlan, the capital city of the Aztec Empire. The page depicting the founding of Tenochtitlan shows the Aztecs arriving at the site where they would build their city, guided by an eagle perched on a cactus, which was a significant symbol in Aztec mythology. The codex is an important historical document that provides insight into the Aztec civilization and its interactions with the Spanish conquistadors.
-- 
+
+According to Aztec belief, the gods had created the current era, or sun, at the ancient city of Teotihuacan in the Valley of Mexico. The continued existence of the world depended on human actions, including rituals of bloodletting and human sacrifice, because blood was the life force that was owed the gods to help keep the cosmos going and time running. Many Mesoamerican peoples believed that the world had been created multiple times before the present era. But while most Mesoamericans believed that they were living in the fourth era, or Sun, the Mexica asserted that they lived in the fifth Sun, a new era that coincided with  the Aztec Empire. The Calendar Stone (see “Closer Look” above) boldly makes this claim, using the dates of the destructions of the four previous eras to form the glyph that names the fifth sun, 4 Motion.
+
  -->
 
+
+
+
+
 ---
+
+![](https://res.cloudinary.com/image-solar/image/upload/v1771002544/2026nwp-ar1205/Screenshot_2026-02-13_090817_qtdhnb.png)
+
 
