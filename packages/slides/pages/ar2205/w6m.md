@@ -1,14 +1,14 @@
 ---
 layout: cover
 transition: slide-left
-color: teal
+color: pink
 background: https://www.moma.org/media/W1siZiIsIjMxMTkwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=e107ee064af43450
 title: "Week 6: <b>Mon, Feb 9</b>"
 level: 1
 ---
 
-Thing instead of Art Object
-##  Minimalism
+
+##  Fluxus
 #### WEEK 6
 
 
@@ -17,15 +17,49 @@ Monday, Feb 9, 2026
 
 ---
 color: pink
+layout: center
 ---
 
-## Fluxus
+## Fluxus ✏️
 
 <!-- 
 
 Less a movement than an innovative matrix of performance and publishing activities aimed at promoting new sorts and events, Fluxus included a wide range of artists working in several nations from around the world.
 
- -->
+
+-->
+
+---
+layout: iframe
+url: "https://player.vimeo.com/video/244384327?h=1a30e84e61"
+---
+
+<!-- 
+
+- intialy he wanted to publish a magazine of experimental art on the model of An Anthology, a collection of event scores, essays and poetry edited by La Monte Young which was initiated in 1960 but not published until 1963. To fund the project, Maciunas organized a series of concerts in his downtown loft, which featured performances by artists such as John Cage and Yoko Ono herself, further blurring the lines between music, performance, and visual art during 1961, and in 1962, he staged the first Fluxus event in Wiesbaden, Germany. The event featured performances by artists such as Nam June Paik and George Brecht, and it was a significant moment in the history of avant-garde art and performance.
+- these raucous festivals, full of absurd and nihilistic actions generated a good deal of notoriety for Fluxus both in the media and in the art world
+
+-->
+
+---
+layout: two-cols
+color: black
+---
+
+::right::
+
+![George Maciunas, _Flux Year Box 2_, 1965--1968. Black-and-white film (photographic materials); wood; metal; white paper; colored paper; tissue paper; ink; seed (plant materials); plastic](https://res.cloudinary.com/image-solar/image/upload/v1770997670/2026nwp-ar2205/fluxus2860_qpuc1f.jpg)
+
+::left::
+
+![Marcel Duchamp. Box in a Valise (From or by Marcel Duchamp or Rrose Sélavy). 1935-41. Leather valise containing miniature replicas, photographs, color reproductions of works by Duchamp, and one "original" drawing](https://www.moma.org/media/W1siZiIsIjIyNjMyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=7a2e502addb28f75)
+
+<!-- 
+
+- Flux Year Box 2, 1965–1968, by George Maciunas, is a work that consists of a wooden box containing various materials such as black-and-white film, photographic materials, white paper, colored paper, tissue paper, ink, seeds (plant materials), and plastic. The box is designed to be opened and explored by the viewer, inviting them to engage with the contents and experience the work in a tactile and interactive way. The piece is often interpreted as a reflection on the nature of art and the creative process, as well as a commentary on the idea of flux and change in art and life.
+- Duchamp's Box in a Valise, created between 1935 and 1941, is a leather valise that contains miniature replicas, photographs, and color reproductions of works by Marcel Duchamp, as well as one "original" drawing. The piece is a playful and self-referential exploration of the concept of art and the role of the artist, as it encapsulates Duchamp's own artistic output in a portable and compact form. The work challenges traditional notions of art as a static object and instead emphasizes the idea of art as an experience that can be carried and shared.
+
+-->
 
 ---
 
@@ -190,12 +224,12 @@ color: black
 Raphael Montañez Ortiz, 1967
 </div>
 
-<div v-drag v-click>
+<div v-drag="[-36,0,0,0]" v-click>
 
 ### Dematerialization ✏️
 </div>
 
-<!-- 
+<!--
 - sprituality
 - dematerialization of the art object
 
@@ -206,7 +240,98 @@ Montanez Oritz who ritually destroyed a number of objects, including a sofa and 
 ### dematerialization of the art object
 
 - The 1960s and 1970s witnessed a significant shift in the art world, with many artists embracing the concept of dematerialization, which involved moving away from traditional physical art objects and instead focusing on ideas, concepts, and experiences. This shift was influenced by various factors, including the rise of conceptual art, performance art, and the influence of movements like Fluxus and Minimalism. Artists sought to challenge the notion of art as a tangible object and instead emphasized the importance of the creative process, audience engagement, and the ephemeral nature of art. This led to the creation of works that were often temporary, interactive, or based on instructions rather than physical artifacts.
+-->
+
+---
+layout: two-cols
+color: black
+---
+
+:: right ::
+
+![Yoko Ono, _Self Portrait_, 1965](https://www.moma.org/media/W1siZiIsIjI5MTA5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=190279a83702af26)
+
+
+:: left ::
+
+![Albrecht Dürer, _Self-Portrait with Fur-Trimmed Robe_, 1500, oil on panel](https://upload.wikimedia.org/wikipedia/commons/4/40/D%C3%BCrer_Alte_Pinakothek.jpg)
+
+<!-- 
+
+Ono conceived Self-Portrait, a Fluxus object which consisted of a small mirror placed inside an enveloped on which the title of the work and the name of the artist were written. The work was intended to be a commentary on the nature of art and the role of the artist, as well as a reflection on the concept of self-identity. By placing a mirror inside an envelope, Ono invited viewers to engage with the work in a personal and introspective way, encouraging them to see themselves as part of the artistic experience. The piece is often interpreted as a critique of traditional notions of art and a celebration of the idea that art can be found in everyday objects and experiences.
+
+as in much Fluxus art, a modest gesture--regarding oneself in the mirror--severs to deflate artistic pretensions--in this case, the conventions of formal portatuire.
+
+ -->
+
+
+---
+color: zinc
+layout: two-cols
+---
+
+:: right ::
+
+![George Maciunas. Fluxus cc V TRE Fluxus Fluxus newspaper no. 2. 1964](https://www.moma.org/media/W1siZiIsIjIxOTAxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=749854a7343a78f1)
+
+:: left ::
+
+![Warhol in The Factory, originally located at 231 East 47th Street before moving to two later sites](https://res.cloudinary.com/image-solar/image/upload/v1770402746/2026nwp-ar2205/Picture7_euamoe.png)
+
+<!-- 
+
+- Fluxus objects is often entered on play and in this sense they challanged the regimention and monotony which underlie the superficial choices of consumer society by taking literally and acting upon, the diverse pleasure it promises
+- despite its ostensible rejection of commodified relationships, one of the most significant aspects of Fluxus, as Buchloh also notes, is its tongue-in-cheek adoptation of corporate modes of marketing and distribution.
+- Maciunas sold Fluxus artworks through main order via advertisement in his publication VTRE and elsewhere. He conceived of a Fluxshop on his New York loft as well as branches in ohter cities. while these ventures were hardly successful in financial terms, they did pressent an alternative to elite art networks by making inexpensive artworks available beyond the commercial gallery.
+ -->
+
+
+---
+hide: true
+---
+
+![Various Artists. Fluxus Vaudeville TouRnamEnt Fluxus newspaper no. 6. 1965. Double-sided offset lithograph](https://www.moma.org/media/W1siZiIsIjIxODk4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=0c2caa5d446a2039)
+
+---
+layout: two-cols
+color: black
+---
+
+::right::
+
+![Robert Watts. Mechanical for artist's self-published Safepost / K.u.K. Feldpost / Jockpost postage stamps. 1961](https://www.moma.org/media/W1siZiIsIjIzODQ2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=1d5d9627f50d1d27)
+
+::left::
+
+![Robert Watts. Stamp Dispenser. 1963](https://www.moma.org/media/W1siZiIsIjI5ODQyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=fea4465a7bb15610)
+
+<!-- 
+
+Robert Watts, a key figure in the Fluxus movement, created a series of works that involved the use of postage stamps and stamp dispensers. In 1961, he self-published a set of postage stamps under the name Safepost / K.u.K. Feldpost / Jockpost, which were intended to be used as a form of artistic expression and commentary on the nature of communication and commerce. In 1963, he created a Stamp Dispenser, which was a functional object that dispensed his self-published stamps. These works are often interpreted as a critique of consumer culture and the commodification of art, as well as an exploration of the relationship between art and everyday objects.
+
+- unconventional heroes like WC Fields (a comedian known for his cynical and irreverent humor) and others including erotic images 
+- lightheated and ironic
+- the postage stamp carries both the authority and the identify of a nation within global networks of communication
+- information and intellectual property
+
  -->
 
 ---
+layout: two-cols
+color: black
+---
 
+::right::
+
+![Nam June Paik, Magnet TV, 1965](https://res.cloudinary.com/image-solar/image/upload/v1771001245/2026nwp-ar2205/Paik_MagnetTV_lo_hwjpjt.webp)
+
+::left::
+
+![Nam June Paik, TV-Buddha, 1974](https://s3-eu-west-1.amazonaws.com/production-static-stedelijk/images/_whats%20on/tentoonstellingen/2020/Nam%20June%20Paik/scaled/1024/tv%20buddha%20bijgesneden.png)
+
+---
+layout: quote
+author: "Edward Luci-Smith, <i>Art Movements Since 1945</i>"
+---
+
+Two fundamental strategies therefore characterize the art of Fluxus objects are reframed as events and networks of circulation are incorporated within the artwork.
