@@ -2,7 +2,7 @@
 layout: cover
 transition: slide-left
 color: pink
-background: https://www.moma.org/media/W1siZiIsIjMxMTkwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=e107ee064af43450
+background: https://res.cloudinary.com/image-solar/image/upload/v1770960766/2026nwp-ar2205/612172623_1295262012642496_1114282548076170421_n_r9agi0.jpg 
 title: "Week 6: <b>Mon, Feb 9</b>"
 level: 1
 ---
@@ -40,6 +40,8 @@ url: "https://player.vimeo.com/video/244384327?h=1a30e84e61"
 - these raucous festivals, full of absurd and nihilistic actions generated a good deal of notoriety for Fluxus both in the media and in the art world
 
 -->
+
+
 
 ---
 layout: two-cols
@@ -84,6 +86,7 @@ source @Artspace)
 
 
 -->
+
 
 
 
@@ -224,7 +227,7 @@ color: black
 Raphael Montañez Ortiz, 1967
 </div>
 
-<div v-drag="[-36,0,0,0]" v-click>
+<div v-drag="[650,229,236,58]" v-click>
 
 ### Dematerialization ✏️
 </div>
@@ -240,6 +243,44 @@ Montanez Oritz who ritually destroyed a number of objects, including a sofa and 
 ### dematerialization of the art object
 
 - The 1960s and 1970s witnessed a significant shift in the art world, with many artists embracing the concept of dematerialization, which involved moving away from traditional physical art objects and instead focusing on ideas, concepts, and experiences. This shift was influenced by various factors, including the rise of conceptual art, performance art, and the influence of movements like Fluxus and Minimalism. Artists sought to challenge the notion of art as a tangible object and instead emphasized the importance of the creative process, audience engagement, and the ephemeral nature of art. This led to the creation of works that were often temporary, interactive, or based on instructions rather than physical artifacts.
+-->
+
+---
+color: black
+---
+
+<Youtube id="gXOIkT1-QWY" w-full h-full />
+
+<div text-xs>
+
+John Cage performing "Water Walk" in January, 1960
+</div>
+
+<div v-drag="[674,157,196,108]" v-click class="bg-black/90 p-2 rounded">
+
+I-Ching 
+<br>
+Zen Buddhism 
+<br>
+</div>
+
+<!--
+### John Cage's "Water Walk"
+- In January 1960, John Cage performed "Water Walk," a piece that involved him using various household objects to create sounds, including a bathtub filled with water, a radio, and a piano. The performance was part of a series of concerts organized by George Maciunas in his downtown loft, which aimed to blur the lines between music, performance, and visual art. "Water Walk" is often cited as an example of Cage's innovative approach to composition and his interest in incorporating everyday sounds into his music.
+
+### John Cage's 4"33
+- John Cage's 4"33" is a composition that consists of three movements, during which the performer(s) do not play their instruments for the duration of the piece. Instead, the focus is on the ambient sounds of the environment, which become the "music" of the piece. The composition is often interpreted as a commentary on the nature of music and the role of silence in art, as well as a reflection on the idea that any sound can be considered music if it is framed in the right context. The piece challenges traditional notions of musical performance and encourages listeners to engage with their surroundings in a new and attentive way.
+
+### I-Ching and Zen Buddhism
+- many of the artists associated with Fluxus, including Yoko Ono and La Monte Young, were influenced by Eastern philosophies such as Zen Buddhism and the I-Ching, which emphasized mindfulness, impermanence, and the interconnectedness of all things. These influences can be seen in the way that Fluxus artists approached their work, often focusing on the process of creation and the experience of the audience rather than the final product, and in their use of everyday objects and materials in their art.
+- i-ching: an ancient Chinese divination text that has been used for centuries to provide guidance and insight into various aspects of life. The I-Ching is based on the concept of yin and yang, which represents the duality of nature and the interconnectedness of all things. It consists of 64 hexagrams, each made up of six lines that can be either broken (yin) or unbroken (yang). The I-Ching is often consulted by individuals seeking advice or clarity on a particular issue, and it has also been used as a source of inspiration for artists and writers throughout history.
+
+one of influential figures on Fluxus
+- John Cage : 
+- noise and chance
+- his 4"33:
+  - a composition where performers do not play their instruments for the duration of the piece, highlighting the ambient sounds of the environment
+  - in the performance he closed the door
 -->
 
 ---
