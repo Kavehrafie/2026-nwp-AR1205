@@ -89,24 +89,23 @@ color: black
 
 ![Templo Mayor (reconstruction), Tenochtitlan, 1375–1520 C.E.](https://smarthistory.org/wp-content/uploads/2022/10/diagram_Templo-Mayor-scaled.jpg)
 
-<div v-drag v-click >
+<div v-drag="[678,129,274,254]" v-click >
 
 ![](https://res.cloudinary.com/image-solar/image/upload/v1771004862/2026nwp-ar1205/dios-huitzilopochtli-og_zddlsg.jpg)
 </div>
 
-<div v-drag v-click >
+<div v-drag="[72,101,196,222]" v-click >
 
 ![](https://res.cloudinary.com/image-solar/image/upload/v1771005110/2026nwp-ar1205/God-Tlaloc_uubo5p.png)
 
 ### Tlaloc
 </div>
 
-<!-- 
+<!--
 sacred precinct of the Aztec capital
 
 Great Pyramid (or Templo Mayor), with paired temples on top: The one on the north was dedicated to Tlaloc, an ancient rain god with a history extending back to Teotihuacan, and the one on the south to Huitzilopochtli, the solar god of the newly arrived Mexica tribe (FIG. 27–4). During the winter rainy season the sun rose behind the temple of Tlaloc, and  during the dry season it rose behind the temple of Huitzilopochtli. The double temple thus united two natural forces, sun and rain, or fire and water. During the spring and autumn equinoxes, the sun rose between the two temples.
-
- -->
+-->
 
 ---
 layout: two-cols
@@ -125,7 +124,7 @@ color: black
 ![The Coyolxauhqui Stone, c. 1500, volcanic stone, found: Templo Mayor, Tenochtitlan](https://smarthistory.org/wp-content/uploads/2022/08/16193910604_9aa925e600_o-1-scaled.jpg)
 
 
-<div v-drag v-click class="bg-white/90 p-4 rounded-lg" >
+<div v-drag="[10,77,352,439]" v-click class="bg-black/90 p-4 rounded-lg" >
 
 <div>
 
@@ -133,8 +132,7 @@ color: black
 </div>
 </div>
 
-<!-- 
-
+<!--
 Two steep staircases led up the west face of the pyramid from the plaza in front. Sacrificial victims climbed these stairs to the temple of Huitzilopochtli, where priests threw them over a stone, quickly cut open their chests, and pulled out their still-throbbing hearts, a sacrifice that ensured the survival of the sun, the gods, and the Aztecs. The bodies were then rolled down the stairs and dismembered. Thousands of severed heads were said to have been kept on a skull rack in the plaza, represented in FIGURE 27–3 by the rack with a single skull to the right of the eagle. In addition to major works of Aztec sculpture, current excavations have uncovered a series of deep shafts containing multiple levels of offerings—precious objects as well as animals—and some believe that eventually human burials will be discovered, perhaps those of Aztec kings.
 
 ### Coyolxauhqui Monolith
@@ -145,7 +143,7 @@ But by far the most famous object decorating the Huiztilopochtli temple is the C
 The monolith relates to an important myth: the birth of the Mexica patron deity, Huitzilopochtli. Apparently, Huitzilopochtli’s mother, Coatlicue (Snakes-her-skirt), became pregnant one day from a piece of down that entered her skirt. Her daughter, Coyolxauhqui, became angry when she heard that her mother was pregnant, and together with her 400 brothers (called the Centzonhuitznahua) attacked their mother. At the moment of attack, Huitzilopochtli emerged, fully clothed and armed, to defend his mother on the mountain called Coatepec (Snake Mountain). Eventually, Huitzilopochtli defeated his sister, then beheaded her and threw her body down the mountain, at which point her body broke apart.
 
 The monolith portrays the moment in the myth after Huitzilopochtli vanquished Coyolxauhqui and threw her body down the mountain. By placing this sculpture at the base of Huiztilopochtli’s temple, the Mexica effectively transformed the temple into Coatepec. Many of the temple’s decorations and sculptural program also support this identification. The snake balustrades and serpent heads identify the temple as a snake mountain, or Coatepec. It is possible that the standard-bearer figures recovered at the Templo Mayor symbolized Huitzilopochtli’s 400 brothers.
- -->
+-->
 
 ---
 color: black
@@ -295,22 +293,137 @@ his hairstyle of a warrior’s topknot.
  -->
 
 ---
-title: Aztec Calendar
+layout: top-title
+---
+
+:: title :: 
+
+## The Aztec Calendar
+
+:: content ::
+
+<div h-110>
+
+![The Sun Stone (or The Calendar Stone), Aztec, reign of Moctezuma II (1502–20), discovered in 1790 at the southeastern edge of the Plaza Mayor (Zocalo) in Mexico City, stone (unfinished), 358 cm diameter x 98 cm depth ](https://upload.wikimedia.org/wikipedia/commons/6/65/Monolito_de_la_Piedra_del_Sol.jpg)
+</div>
+
+<!-- 
+- Aztec two calendars: the 260-day ritual calendar and the 365-day solar calendar. The two calendars were used together to create a 52-year cycle, which was considered a significant period of time in Aztec culture. The Aztec calendar was based on a complex system of interlocking cycles and was used for various purposes, including religious ceremonies, agricultural planning, and historical record-keeping. The calendar was also associated with the Aztec gods and their influence on human affairs. The most famous representation of the Aztec calendar is the Sun Stone, which is a large circular stone carved with intricate designs that depict the various cycles of the calendar and the gods associated with them.
+
+ -->
+
 ---
 
 
+![The Sun Stone (or The Calendar Stone), Aztec, reign of Moctezuma II (1502–20), discovered in 1790 at the southeastern edge of the Plaza Mayor (Zocalo) in Mexico City, stone (unfinished), 358 cm diameter x 98 cm depth ](https://res.cloudinary.com/image-solar/image/upload/v1771002544/2026nwp-ar1205/Screenshot_2026-02-13_090817_qtdhnb.png)
+
 <!-- 
+
+- ear spools (decoration)
 
 According to Aztec belief, the gods had created the current era, or sun, at the ancient city of Teotihuacan in the Valley of Mexico. The continued existence of the world depended on human actions, including rituals of bloodletting and human sacrifice, because blood was the life force that was owed the gods to help keep the cosmos going and time running. Many Mesoamerican peoples believed that the world had been created multiple times before the present era. But while most Mesoamericans believed that they were living in the fourth era, or Sun, the Mexica asserted that they lived in the fifth Sun, a new era that coincided with  the Aztec Empire. The Calendar Stone (see “Closer Look” above) boldly makes this claim, using the dates of the destructions of the four previous eras to form the glyph that names the fifth sun, 4 Motion.
 
  -->
 
+---
 
+![](https://res.cloudinary.com/image-solar/image/upload/v1771011501/2026nwp-ar1205/Screenshot_2026-02-13_11-37-59_yballh.png)
 
+<!-- 
 
+260 day calendar: 20 day signs and 13 numbers, which together create a cycle of 260 days. Each day was represented by a combination of a number and a day sign, and the calendar was used for various purposes, including religious ceremonies, divination, and agricultural planning. The 260-day calendar was also associated with the Aztec gods and their influence on human affairs.
+
+ -->
 
 ---
 
-![](https://res.cloudinary.com/image-solar/image/upload/v1771002544/2026nwp-ar1205/Screenshot_2026-02-13_090817_qtdhnb.png)
+![The Codex Fejervary-Mayer. Mexico. Aztec or Mixtec, c. 1400–1519. Paint on animal hide, each page](https://res.cloudinary.com/image-solar/image/upload/v1771011719/2026nwp-ar1205/1179_00_2_yo4kii.jpg)
+
+<!-- 
+
+- codex: a manuscript book, especially of scripture, classics, or ancient history, typically illustrated by hand. Codices were used in various cultures throughout history, including the Aztecs and Mixtecs of Mesoamerica. These codices often contained important historical, religious, and cultural information, and they were created using materials such as animal hide or bark paper. The Codex Fejervary-Mayer is an example of a Mesoamerican codex that provides valuable insights into the art, culture, and history of the Aztec or Mixtec civilizations.
+- codex Fejervary-Mayer: The Codex Fejervary-Mayer is a Mesoamerican codex that is believed to have been created by either the Aztec or Mixtec civilization around 1400–1519. It is a painted manuscript on animal hide and contains a series of pages that depict various scenes, including historical events, religious rituals, and cultural practices. The codex is an important artifact that provides valuable insights into the art, culture, and history of the Mesoamerican civilizations.j
+ -->
+
+---
+layout: two-cols
+---
+
+:: left ::
+
+![First page of the Codex Fejérváry-Mayer](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Codex_F%C3%A9jervary-Mayer_Lamina_01.svg/1920px-Codex_F%C3%A9jervary-Mayer_Lamina_01.svg.png)
+
+:: right ::
+
+![Plate 4 of the Mesoamerican Codex Fejérváry-Mayer](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Codex_F%C3%A9jervary-Mayer_Lamina_04.svg/1920px-Codex_F%C3%A9jervary-Mayer_Lamina_04.svg.png)
+
+<!-- 
+- xiuhtecuhtli: The god of fire, heat, and the year in Aztec mythology. He was often depicted as an old man with a turquoise mask and a headdress made of turquoise and quetzal feathers. Xiuhtecuhtli was considered one of the most important deities in the Aztec pantheon, and he was associated with the sun and the passage of time. He was also believed to be the ruler of the underworld and the protector of warriors. The Aztecs offered sacrifices to Xiuhtecuhtli to ensure the continuation of life and the balance of the cosmos.
+
+- the cental figure of the frontpiece of the Codex Fejervary-Mayer is a warrior who wears a headdress of quetzal feathers and a shield decorated with the face of the sun god. He holds a spear in one hand and a captive in the other, symbolizing his role as a warrior and conqueror. The surrounding imagery includes various symbols and motifs that represent different aspects of Aztec culture, such as the calendar, religious rituals, and social hierarchy. The codex provides valuable insights into the art, culture, and history of the Aztec civilization.
+
+ -->
+
+---
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/11/Codex_Fej%C3%A9v%C3%A1ry-Mayer_frontispiece_trecena_annotations_edited.png)
+
+---
+layout: center
+color: teal
+---
+
+## The Inka (Inca) Empire
+
+<div v-drag="[671,49,257,257]" >
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Tawantinsuyu_%28orthographic_projection%29.svg/500px-Tawantinsuyu_%28orthographic_projection%29.svg.png)
+</div>
+
+<!--
+At the beginning of the sixteenth century the Inca Empire was one of the largest states in the world. It extended more than 2,600 miles along western South America, encompassing most of present-day Peru, Ecuador, Bolivia, and northern Chile and reaching into Argentina. Like the Aztec Empire, its rise was rapid and its destruction abrupt. The Incas called their empire the “Land of the Four Quarters.” At its center was their capital, Cusco, “the navel of the world,” located high in the Andes Mountains.
+-->
+
+---
+
+![Machu Picchu, Peru, c. 1450–1540](https://smarthistory.org/wp-content/uploads/2023/03/50618773601_7983706494_o.jpg)
+
+<!-- 
+
+Machu Picchu is often described as “mysterious,” but in fact a great deal is known about its construction and purpose. It was built as a royal estate for the first Inka emperor, Pachacuti Inka Yupanqui, in the middle of the 15th century, on a mountain saddle overlooking the Urubamba River (in modern day Peru). The location was approximately three days’ walk from the Inka capital of Cusco, and nearly 3,000 feet lower in elevation (7,972 feet / 2,430 meters), with a pleasant climate. It was intended as a place where the Inka emperor and his family could host feasts, perform religious ceremonies, and administer the affairs of empire, while also establishing a claim to land that would be owned by his lineage after his death. The site was chosen and situated for its relationship to the Andean landscape, including sight lines to other mountain peaks, called apus, which have long been considered ancestral deities throughout the Andes. The site contains housing for elites, retainers, and maintenance staff, religious shrines, fountains, and terraces, as well as carved rock outcrops, a signature element of Inka art.
+
+ -->
+
+---
+layout: two-cols
+---
+
+:: left ::
+
+![Stone channel drain, Machu Picchu, Peru, c. 1450–1540](https://smarthistory.org/wp-content/uploads/2023/03/3484138772_8705097ae2_o.jpg)
+
+:: right ::
+
+![Stone walls and trapezoid-shaped windows, Machu Picchu, Peru, c. 1450–1540](https://smarthistory.org/wp-content/uploads/2023/03/15723467492_f9ac63ca89_k.jpg)
+
+<!-- 
+### architecture
+The architecture of Machu Picchu is characterized by its use of finely cut and fitted stone, which was a hallmark of Inka construction. The stones were cut with such precision that they fit together without the need for mortar, a technique known as ashlar masonry. The walls of the buildings were often built with a slight inward slope, which provided stability and resistance to earthquakes. The windows and doorways were typically trapezoidal in shape, which also contributed to the structural integrity of the buildings. The site also features a complex system of terraces and drainage channels, which were used for agriculture and to manage water flow. The architecture of Machu Picchu reflects the Inka's advanced engineering skills and their ability to adapt to the challenging mountainous environment in which the site is located.
+
+### social structure
+The emperor and his retinue would only reside at Machu Picchu for part of the year. Most of the people who lived there permanently were yanaconas (retainers) and mitimaes (colonists obligated to move to their location). Graves at Machu Picchu have yielded evidence that many of the yanaconas there were craftspeople, including metalsmiths, who came from all over the empire. The ability to command people across the empire and to oblige them to work for the Inka nobility was an expression of imperial power. The buildings of Machu Picchu clearly show the social divisions of the site, with most of the high-status residential buildings in a cluster to the northeast. The emperor himself lived in a separate compound at the southwest of the site, indicating his unique status as the ruler. The observatory was adjacent to the royal residence, emphasizing the relationship between the elites, religious ritual, and astronomical observation, including Pachacuti’s claim as both a descendant of the sun (whom the Inka called Inti) and the sun himself.
+
+ -->
+
+---
+
+![Intihuatana, Machu Picchu, Peru, c. 1450–1540](https://smarthistory.org/wp-content/uploads/2023/04/7914094258_d0d6328f09_o.jpg)
+
+<!-- 
+
+Also called the Temple of the Sun, this building’s purpose is echoed in its unique shape. It is composed of two main parts: an upper curved stone enclosure with windows and niches placed in it, and a cave beneath this structure with masonry additions that hold more niches. Modifications of the windows in the Observatory’s upper walls indicate that they were used to calculate the June solstice, as well as the first morning rise of the constellation Pleiades and other important constellations. The cave beneath the enclosure may refer to the place of the underworld in Inka myth, making the Observatory a building that embodied cosmological thought as much as it facilitated astronomical observation.
 
 
+The Intihuatana (“hitching post of the sun”) is a carved boulder located in the ritual area of the site, to the west of the main plaza. Carved boulders were a part of the Inka relationship with the earth, and expressions of belief in a landscape inhabited by supernatural forces. Carved boulders of this type are found throughout the heart of the Inka empire. The stone’s name refers to the idea that it was used to track the passage of the sun throughout the year, part of the reckoning of time used to determine when religious events would take place and similar to the Observatory.
+
+ -->
