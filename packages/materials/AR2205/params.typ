@@ -58,10 +58,10 @@
 ]
 
 #let installation_art = session("Earthwork and Installation")[
-  Examination of installation art as a medium for creating immersive and interactive experiences.
+  Examination of land art as a medium from minimalism.
 
   _Read_:
-  - Claire Bishop, "Installation Art: A Critical History,"
+  - Suzanne Boettger, "Earthworks" (excerpt)
 ]
 
 #let curation = session("When Curators Took Over the Art World")[
@@ -190,7 +190,7 @@
 #let guest = session("Guest Lecture")[
 ]
 
-#let fluxus = session("From Happening to Fluxus")[
+#let fluxus = session("Art as Experience")[
   Examination of the Fluxus movement and its impact on avant-garde art practices.
 
   _Read_:
