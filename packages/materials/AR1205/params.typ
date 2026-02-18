@@ -358,14 +358,14 @@
 
     _Read_:
     // - #link()[] in _African Art at The Met_
-  //   - Suzanne Preston Blier, "Imaging otherness in ivory: African portrayals of the Portuguese ca. 1492" in _Art Bulletin_
-  //   - #link("https://smarthistory.org/rites-of-passage/")["Rites of passage in Africa" by Christa Clarke]
-  // - #link("https://smarthistory.org/masquerade-basics/?tl=masquerade-basics&sidebar=africa-1500-today")["Masquerade basics" by Kristen Laciste]
-  // - #link("https://smarthistory.org/african-art-and-the-effects-of-european-contact-and-colonization/")["African art and the effects of European contact and colonization" by Peri Klemm]
-  - TBA
+    - Suzanne Preston Blier, "Imaging otherness in ivory: African portrayals of the Portuguese ca. 1492" in _Art Bulletin_
+    - #link("https://smarthistory.org/rites-of-passage/")["Rites of passage in Africa" by Christa Clarke]
+  - #link("https://smarthistory.org/masquerade-basics/?tl=masquerade-basics&sidebar=africa-1500-today")["Masquerade basics" by Kristen Laciste]
+  - #link("https://smarthistory.org/african-art-and-the-effects-of-european-contact-and-colonization/")["African art and the effects of European contact and colonization" by Peri Klemm]
+  
   _Watch_:
-  // - #link("https://www.youtube.com/watch?v=H9iy5TTALBQ")[Power Figure: Male (Nkisi)]
-  - TBA
+  - #link("https://www.youtube.com/watch?v=H9iy5TTALBQ")[Power Figure: Male (Nkisi)]
+  
   ]
 )
 
@@ -375,13 +375,11 @@
     Arts of Oceania: Polynesia, Micronesia, and Melanesia.
   
   _Read_:
-  - TBA
-  // - Adrienne L. Kaeppler, "The Pacific Arts of Polynesia and Micronesia" (an excerpt)
+  - Adrienne L. Kaeppler, "The Pacific Arts of Polynesia and Micronesia" (an excerpt)
 
   _Watch_:
-  - TBA
-  // - #link("https://youtu.be/rrJkjEYJLWs")[Navigation Chart, Marshall Islands]
-  // - #link("https://youtu.be/EjtHXyRkt1A")[Rapa Nui (Easter Island) Moai]
+  - #link("https://youtu.be/rrJkjEYJLWs")[Navigation Chart, Marshall Islands]
+  - #link("https://youtu.be/EjtHXyRkt1A")[Rapa Nui (Easter Island) Moai]
   ]
 )
 
