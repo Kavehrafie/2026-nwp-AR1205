@@ -357,11 +357,11 @@
     Art, power, and the impact of colonization.
 
     _Read_:
-    // - #link()[] in _African Art at The Met_
     - Suzanne Preston Blier, "Imaging otherness in ivory: African portrayals of the Portuguese ca. 1492" in _Art Bulletin_
     - #link("https://smarthistory.org/rites-of-passage/")["Rites of passage in Africa" by Christa Clarke]
   - #link("https://smarthistory.org/masquerade-basics/?tl=masquerade-basics&sidebar=africa-1500-today")["Masquerade basics" by Kristen Laciste]
   - #link("https://smarthistory.org/african-art-and-the-effects-of-european-contact-and-colonization/")["African art and the effects of European contact and colonization" by Peri Klemm]
+  - #link("https://smarthistory.org/images-african-kingship/?tl=images-african-kingship&sidebar=africa-1500-today")["Africa in the European imagination" by Kristen Collins and Bryan C. Keene]
   
   _Watch_:
   - #link("https://www.youtube.com/watch?v=H9iy5TTALBQ")[Power Figure: Male (Nkisi)]
