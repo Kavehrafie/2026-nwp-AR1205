@@ -221,8 +221,8 @@
     _Key artists_: Ingres, Delacroix, Goya.
 
     _Read_:
-    - TBA
-
+    - David Blayney Brown, "Heroes, Soldiers, Citizens" in _Romanticism_
+    - #link("https://smarthistory.org/orientalism/")["Orientalism" by Nancy Demerdash]
     _Watch_:
     - TBA
   ]
@@ -409,15 +409,19 @@
 #let session-north-american-indigenous = session(
   "North American Indigenous Art",
   [
-    Study of indigenous art forms from various North American cultures.
+    Study of indigenous art forms from North American cultures.
 
     _Read_:
-    - TBA
+    - #link("https://smarthistory.org/fort-ancient-culture-great-serpent-mound/?tl=fort-ancient-culture-great-serpent-mound&sidebar=north-america-before-1500")["Fort Ancient Culture: Great Serpent Mound" by Katherine T. Brown]
+    - #link("https://smarthistory.org/pueblo-architecture-place/?tl=pueblo-architecture-place&sidebar=north-america-before-1500")["Pueblo architecture and its relationship to place" by Cassandra Smith]
     // - Janet Catherine Berlo and Ruth B. Phillips, "Native North American Art" in _Native North American Art_
 
     _Watch_:
-    - TBA
-    // - #link("https://youtu.be/ifY8gBIonAc")[Mesa Verde]
+    - #link("https://youtu.be/RKh6VxDULLA")[Global trade and an 18th-century Anishinaabe outfit]
+    - #link("https://youtu.be/ifY8gBIonAc")[Mesa Verde]
+    - #link("https://youtu.be/t5cP_CiITTM")[Tlingit mortuary and memorial totem poles]
+    - #link("https://youtu.be/LScbQN_qZXI")[Haida potlatch pole]
+    - #link("https://youtu.be/UvpP2OcvIMk")[Dorica Jackson, Diving Whale Chilkat Robe]
   ]
 )
 
