@@ -379,7 +379,9 @@
 
   _Watch_:
   - #link("https://youtu.be/rrJkjEYJLWs")[Navigation Chart, Marshall Islands]
+  - #link("https://www.youtube.com/watch?v=v14_N3xC-n4")[Fly Whisk (Tahiri), Austral Islands]
   - #link("https://youtu.be/EjtHXyRkt1A")[Rapa Nui (Easter Island) Moai]
+  - #link("https://youtu.be/f4UXY5weL3c")[Bark cloth from Wallis and Futuna]
   ]
 )
 
