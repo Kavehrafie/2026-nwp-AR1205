@@ -56,7 +56,7 @@
   - TBD
 ]
 
-#let installation_art = session("Earthwork and Installation")[
+#let installation_art = session("Earthwork")[
   Examination of land art as a medium from minimalism.
 
   _Read_:
@@ -134,13 +134,6 @@
   - "1955a" and "1961" in @ART1900
 ]
 
-#let calligraphic_abstraction = session("Calligraphic Abstraction")[
-  Examination of calligraphic abstraction as a movement in majority Muslim nations.
-
-  _Read_:
-  - Iftikhar Dadi, "Rethinking Calligraphic Abstraction," in _Discrepant Abstraction_
-]
-
 #let biennials = session("Biennials as New Spectacles")[
   Analysis of the role of cities and biennials in shaping contemporary art practices and discourses.
 
@@ -155,13 +148,19 @@
   - Jonathan D. Katz, "'The Senators Were  Revolted': Homophobia  and the Culture Wars" in _A Companion to Contemporary Art Since 1945_
 ]
 
-#let conceptual_art = session("Conceptual Art and Institutional Critique")[]
+#let conceptual_art = session("Conceptual Art and Institutional Critique")[
+  Examination of the emergence of Conceptual Art and its critique of traditional art institutions and practices.
 
-#let latin_american_art = session("From Neo-concretism to Tropicalia")[
-  Exploration of Latin American contributions to modern and contemporary art movements.
+  _Read_:   
+
+]
+
+#let latin_american_art = session("Global Abstraction")[
+  Abstract art movements across Latin America, the Arab world, and beyond.
 
   _Read_:
-
+  - "1959e" in #text(style: "italic")[@ART1900], pp. 494--501
+  - Iftikhar Dadi, "Rethinking Calligraphic Abstraction," in _Discrepant Abstraction_
 ]
 
 #let ai = session("From digital to AI")[
@@ -200,8 +199,8 @@
   - Hannah Higgins, "Fluxus Experience"
 ]
 
-#let video_photography = session("Video Art and Photography in Contemporary Art")[
-  Exploration of the use of video and photography as mediums in contemporary art practices.
+#let video_photography = session("Video Art and Photography")[
+  Exploration of the use of video and photography as mediums.
 
   _Read_:
   - TBD
