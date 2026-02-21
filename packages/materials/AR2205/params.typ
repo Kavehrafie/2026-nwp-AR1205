@@ -45,8 +45,7 @@
   A focused exploration of the emergence and significance of performance art in the post-war period from Happenings.
 
   _Read_:
-  - TBD
-  // - Amelia Jones from _Body Art_ in #text(style: "italic")[@ATC] 
+  - Michael Archer, _Art Since 1960_, pp. 96--108
   // mostly the 1980s
 ]
 
@@ -64,13 +63,14 @@
   - Suzanne Boettger, "Earthworks" (excerpt)
 ]
 
-#let curation = session("When Curators Took Over the Art World")[
-  Analysis of the increasing influence of curators in shaping art exhibitions and trends.
+#let curation = session("Guest Lecture")[
+  // Analysis of the increasing influence of curators in shaping art exhibitions and trends.
+  // The curator Jessica Groome
 
-  _Read_:
+  // _Read_:
   // - Hans Ulrich Obrist, "The Curator's Role in Contemporary Art," in #text(style: "italic")[@ATC]
   // - #link("https://www.e-flux.com/journal/2/68504/politics-of-installation")[Boris Groys, "Politics of Installation," e-flux journal, Issue \#2, 2009.]
-  - David Blazer, from _Curationism: How Curating Took Over the Art World and Everything Else_
+  // - David Blazer, from _Curationism: How Curating Took Over the Art World and Everything Else_
 ]
 
 #let community_art = session("Art and Community Engagement")[
@@ -179,8 +179,11 @@
 #let feminist_art = session("Feminist Art Movements")[
   Exploration of the history of feminist art movements in the second half of the 20th century.
 
+  *Class Evaluation*
+
   _Read_:
   - #link("https://www.theartstory.org/movement/feminist-art/")["Feminist art movement". The Art Story Foundation.]
+  - Amelia Jones from _Body Art_ in #text(style: "italic")[@ATC] 
 ]
 
 #let presentations = session("Student Presentations")[
