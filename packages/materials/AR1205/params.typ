@@ -214,7 +214,7 @@
 
 
 #let session-neoclassicism-romanticism = session(
-  "Neoclassicism and Romanticism",
+  "From Neoclassicism to Romanticism",
   [
     Study of Neoclassical and Romantic art movements.
 
@@ -224,12 +224,18 @@
     - David Blayney Brown, "Heroes, Soldiers, Citizens" in _Romanticism_
     - #link("https://smarthistory.org/orientalism/")["Orientalism" by Nancy Demerdash]
     _Watch_:
-    - TBA
+    - #link("https://youtu.be/qfAga9DAuU4")[Jacques-Louis David, Oath of the Horatii]
+    - #link("https://youtu.be/PPwz3iaT71M")[Painting colonial culture: Ingres’s La Grande Odalisque]
+    - #link("https://youtu.be/jlVBaqyGKMs")[Théodore Géricault, Raft of the Medusa]
+    - #link("https://youtu.be/6skizQlC-uU")[Eugène Delacroix, Liberty Leading the People]
+    - #link("https://youtu.be/eE7BR9HCffk")[Caspar David Friedrich, Woman at a Window]
+    - #link("https://youtu.be/NoCW80MEGXY")[
+J. M. W. Turner, Slave Ship]
   ]
 )
 
 #let session-realism = session(
-  "Realism",
+"From Romanticism to Realism",
   [
     Analysis of the Realist movement and its focus on everyday life.
   
@@ -407,7 +413,7 @@
 )
 
 #let session-north-american-indigenous = session(
-  "North American Indigenous Art",
+  "Native and Indigenous Art",
   [
     Study of indigenous art forms from North American cultures.
 
