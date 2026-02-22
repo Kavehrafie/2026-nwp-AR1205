@@ -42,7 +42,7 @@
 ]
 
 #let performance_art = session("Bodies in Action")[
-  A focused exploration of the emergence and significance of performance art in the post-war period from Happenings.
+  A focused exploration of the emergence and significance of performance art in the post-war period.
 
   _Read_:
   - Michael Archer, _Art Since 1960_, pp. 96--108
@@ -152,7 +152,7 @@
   Examination of the emergence of Conceptual Art and its critique of traditional art institutions and practices.
 
   _Read_:   
-
+  - Lucy Lippard, "Escape Attempts: Conceptual Art 1967-1972," in _Reconstructing the Object of Art: 1965-1972_
 ]
 
 #let latin_american_art = session("Global Abstraction")[
@@ -203,5 +203,5 @@
   Exploration of the use of video and photography as mediums.
 
   _Read_:
-  - TBD
+  - Jeff Wall, "Marks of Indifference": Aspects of Photography in, or as, Conceptual Art (1995)
 ]
