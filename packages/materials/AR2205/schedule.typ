@@ -23,7 +23,7 @@
     minimalism,
     fluxus,
     installation_art,
-    latin_american_art,
+    beyond_abstraction,
     // calligraphic_abstraction,
     conceptual_art,
     video_photography,

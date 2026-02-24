@@ -78,3 +78,13 @@ open-ended processes
 
 
 
+---
+
+![Documentation of Sol LeWitt’s Buried Cube, 1968. Stainless steel, 10-in. cube. In the photographs on the top row are (left to right) the artist’s patrons and hosts, Carel and Mia Visser, Dick van der Net, a metal fabricator, and LeWitt.](https://res.cloudinary.com/image-solar/image/upload/v1771865052/470207131_18254306839274632_1826944071099177540_n.jpg_pmv4ul.jpg)
+
+
+<!-- 
+
+- Sol LeWitt, 1968, ‘Buried Cube Containing an Object of Importance but Little Value’. — The burial of the cube reportedly took place in a local garden, but these photographs, referring again to the notion of the series or process, are the only proof that LeWitt’s actions actually took place. A conceptual piece, this work was produced shortly following the publication of LeWitt’s 1968 manifesto describing the new Conceptual art movement. In the manifesto, he declares, “The execution is a perfunctory affair. The idea becomes a machine that makes the art.” LeWitt disengages himself from the work and takes a strong “death of the author” stance. However this is only “death of the author” as a craftsman, and “birth of the author” as idea-maker.
+
+ -->

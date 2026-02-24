@@ -155,8 +155,8 @@
   - Lucy Lippard, "Escape Attempts: Conceptual Art 1967-1972," in _Reconstructing the Object of Art: 1965-1972_
 ]
 
-#let latin_american_art = session("Global Abstraction")[
-  Abstract art movements across Latin America, the Arab world, and beyond.
+#let beyond_abstraction = session("Counter-Narratives of Abstraction")[
+  A critical examination of two parallel movements that emerged in the 1950s-60s to challenge dominant Euro-American modernist abstraction.
 
   _Read_:
   - "1959e" in #text(style: "italic")[@ART1900], pp. 494--501
