@@ -386,7 +386,7 @@ For Johns the common shooting target is one of the many "things the mind already
 
 ![](https://res.cloudinary.com/image-solar/image/upload/v1770053249/b1f920b1b5bf979b57bccc1301fd983f_z3d7gb.jpg)
 
-</div>="[-88,0,0,0]"
+</div>
 
 <!--
 “It all began . . . with my painting a picture of an American flag,” Johns remarked in 1959, in reference to this work. The artist made Flag using a cut bedsheet, oil paint, and encaustic (pigment mixed with melted wax). He dipped strips of cloth and newsprint into the hot wax, then affixed them to the sheet to fill in a penciled outline of the US flag. The result is a picture whose process is registered on its surface. Johns went on to use encaustic to depict common forms—flags, targets, numbers, letters, and maps—time and again throughout his career.
@@ -587,7 +587,7 @@ author: "Lucie-Smith, Edward. <i>Movements in Art Since 1945</i>"
 color: indigo-light
 ---
 
-... an example of an artist who was important for what he did---the symbolic value of his actions---rather than for what he made. One sees in him an example of the increasing tendency for the personality of the artist to be his or her onw true and complete creation.
+... an example of an artist who was important for what he did---the symbolic value of his actions---rather than for what he made. One sees in him an example of the increasing tendency for the personality of the artist to be his or her own true and complete creation.
 
 <!-- on klein -->
 

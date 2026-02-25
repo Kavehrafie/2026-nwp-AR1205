@@ -330,6 +330,8 @@ His work La Femme et le Coq (1950s) shows a woman holding a cockerel in her arms
 color: black
 ---
 
+<Asterisk />
+
 ![Ahmed Cherkaoui, _Les Miroirs Noirs VII_, 1965. Oil on canvas, 25 x 30cm (9 13/16 x 11 13/16in).](https://res.cloudinary.com/image-solar/image/upload/v1769788524/image_oevp9w.jpg)
 
 <!-- 
