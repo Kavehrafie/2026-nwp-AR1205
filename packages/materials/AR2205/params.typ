@@ -63,11 +63,10 @@
   - Suzanne Boettger, "Earthworks" (excerpt)
 ]
 
-#let curation = session("Guest Lecture")[
-  // Analysis of the increasing influence of curators in shaping art exhibitions and trends.
-  // The curator Jessica Groome
+#let curation = session("Artist-Curator")[
+  Analysis of the increasing influence of curators in shaping art exhibitions and trends.
 
-  // _Read_:
+  _Read_:
   // - Hans Ulrich Obrist, "The Curator's Role in Contemporary Art," in #text(style: "italic")[@ATC]
   // - #link("https://www.e-flux.com/journal/2/68504/politics-of-installation")[Boris Groys, "Politics of Installation," e-flux journal, Issue \#2, 2009.]
   // - David Blazer, from _Curationism: How Curating Took Over the Art World and Everything Else_
