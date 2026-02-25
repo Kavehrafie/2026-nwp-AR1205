@@ -20,6 +20,19 @@ February 6, 2026
 
 ![South and Southeast Asia](https://res.cloudinary.com/image-solar/image/upload/v1772011245/2026nwp-ar1205/Screenshot_2026-02-25_012038_oyqll6.png)
 
+
+<!-- 
+
+- Buddhism in India began its decline starting in the 4th–6th century CE, with the process accelerating over centuries and largely completing by the 12th century.
+
+### Janism: 
+Janism did not went in decline like Buddhism, but it also did not spread widely. It is still practiced by a small percentage of the population in India, and it has had a significant influence on Indian culture and philosophy.
+
+The Jain religion traces its roots to a spiritual leader called Mahavira (c. 599–527 bce), whom it regards as the last in a series of 24 saviors known as pathfinders (tirthankaras). Devotees seek through purification and moral action to become worthy of escaping the cycle of rebirth. 
+
+
+ -->
+
 ---
 layout: two-cols
 color: black
@@ -36,12 +49,6 @@ color: black
 
 <!-- 
 
-- Buddhism in India began its decline starting in the 4th–6th century CE, with the process accelerating over centuries and largely completing by the 12th century.
-
-### Janism: 
-Janism did not went in decline like Buddhism, but it also did not spread widely. It is still practiced by a small percentage of the population in India, and it has had a significant influence on Indian culture and philosophy.
-
-The Jain religion traces its roots to a spiritual leader called Mahavira (c. 599–527 bce), whom it regards as the last in a series of 24 saviors known as pathfinders (tirthankaras). Devotees seek through purification and moral action to become worthy of escaping the cycle of rebirth. 
 
 #### donors of Jain art
 Jain monks live a life of austerity, and even laypeople avoid killing any living creature. The Jain commitment to nonviolence means that there are relatively few Jain kings in South Asian history, but this same commitment led many Jains to gravitate toward lucrative professions in banking and trade.

@@ -375,7 +375,7 @@ color: teal
 
 ## The Inka (Inca) Empire
 
-<div v-drag="[671,49,257,257]" >
+<div v-drag="[715,7,257,257]" >
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Tawantinsuyu_%28orthographic_projection%29.svg/500px-Tawantinsuyu_%28orthographic_projection%29.svg.png)
 </div>
@@ -420,6 +420,8 @@ The emperor and his retinue would only reside at Machu Picchu for part of the ye
 ![Intihuatana, Machu Picchu, Peru, c. 1450–1540](https://smarthistory.org/wp-content/uploads/2023/04/7914094258_d0d6328f09_o.jpg)
 
 <!-- 
+
+In-tee-wa-TAH-nah
 
 Also called the Temple of the Sun, this building’s purpose is echoed in its unique shape. It is composed of two main parts: an upper curved stone enclosure with windows and niches placed in it, and a cave beneath this structure with masonry additions that hold more niches. Modifications of the windows in the Observatory’s upper walls indicate that they were used to calculate the June solstice, as well as the first morning rise of the constellation Pleiades and other important constellations. The cave beneath the enclosure may refer to the place of the underworld in Inka myth, making the Observatory a building that embodied cosmological thought as much as it facilitated astronomical observation.
 
