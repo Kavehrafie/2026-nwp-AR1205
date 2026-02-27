@@ -29,9 +29,6 @@ color: gray
 
  -->
 
-
--->
-
 ---
 
 two exhibitions:
