@@ -311,7 +311,7 @@ J. M. W. Turner, Slave Ship]
 )
 
 #let session-chinese-art = session(
-  "Chinese Art from the late Yuan through the Qing Dynasty",
+  "Chinese and Korean Art from the 14th Century",
   [
     An overview of Chinese art of the Yuan, Ming, and Qing Dynasties.
 
@@ -539,7 +539,7 @@ J. M. W. Turner, Slave Ship]
 #let important-dates = (
   date-note("Artifact I", datetime(year: 2026, month: 1, day: 19), kind: "assignment", body: [_Linear Perspective in Action_ is due.]),
   date-note("Artifact II", datetime(year: 2026, month: 2, day: 13), kind: "assignment"),
-  date-note("Artifact III", datetime(year: 2026, month: 2, day: 27), kind: "assignment"),
+  date-note("Artifact III", datetime(year: 2026, month: 3, day: 13), kind: "assignment"),
   date-note("Artifact IV", datetime(year: 2026, month: 3, day: 23), kind: "assignment"),
   date-note("Artifact V", datetime(year: 2026, month: 4, day: 13), kind: "assignment"),
 

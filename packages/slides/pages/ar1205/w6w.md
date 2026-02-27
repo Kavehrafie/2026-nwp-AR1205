@@ -3,17 +3,305 @@ layout: cover
 transition: slide-left
 color: orange
 background: https://smarthistory.org/wp-content/uploads/2020/06/Full-page.jpg
-title: "Week 5: <b>Fri,  Feb 6</b>"
+title: "Week 6: <b>d,  Feb </b>"
 level: 1
 ---
 
 
-## The Indian Subcontinent and Beyond
-#### WEEK 5 
+## Chinese and Korean Art from the 14th Century
+#### WEEK 6
 
 
 :: note :: 
 
-February 6, 2026
+February 
 
 ---
+
+![](https://cdn.britannica.com/27/61827-050-C6FCC135/Mongol-empire.jpg)
+
+<!-- 
+
+- The Mongol Empire (1206–1368) was the largest contiguous land empire in history, stretching from Eastern Europe to East Asia. It was founded by Genghis Khan, who united the nomadic tribes of the Mongolian plateau and launched a series of military campaigns that resulted in the conquest of much of Asia and parts of Europe. The Mongol Empire was known for its military prowess, its efficient administration, and its promotion of trade and cultural exchange along the Silk Road. However, it also had a reputation for brutality and destruction, as the Mongols were known for their ruthless tactics in warfare.
+- their empire was vast (from  the Pacific Ocean to the Caspian Sea) and diverse, encompassing many different cultures, languages, and religions. The Mongols were known for their tolerance of different cultures and religions, and they often incorporated local customs and traditions into their rule. 
+- it was divided into four khanates, each ruled by a different branch of the family. The Yuan dynasty (1271–1368) was the Mongol-ruled dynasty in China, established by Kublai Khan, the grandson of Genghis Khan. The Yuan dynasty was marked by significant cultural and economic exchange between China and the rest of the Mongol Empire, as well as by political instability and rebellion. Despite its relatively short duration, the Yuan dynasty had a lasting impact on Chinese history and culture, influencing art, literature, and governance in subsequent dynasties.
+ -->
+
+
+---
+title: Yuan Dynasty (1271-1368)
+level: 2
+layout: side-title
+---
+
+:: title ::
+
+## Yuan Dynasty (1271-1368)
+
+:: content ::
+
+![Yuan Dynasty, with Goryeo marked as a vassal (the white stripes)](https://smarthistory.org/wp-content/uploads/2021/04/Yuen_Dynasty_1294_-_Goryeo_as_vassal.png)
+
+
+<!-- 
+
+In 1271, the leader of the Mongol empire, Khan (c. 1215–c. 1294), proclaimed the establishment of the Yuan dynasty and declared himself emperor of China, but it was not until 1279 that his conquest of China was completed and the Southern Song dynasty fell. The Yuan dynasty (1279–1368) was the first foreign-ruled dynasty in Chinese history to commandeer all of China. With no experience in the running of such a large and complex empire, the Mongols gradually adopted many Chinese cultural and bureaucratic models.
+
+**separation of China’s political and cultural centers**: The Mongols established their capital in the northern city now known as Beijing. The cultural centers of China, however, remained the great cities of the south, where the Song court had been located for the previous 150 years
+
+### cultural impact
+The Mongol invasions were traumatic; their effect on China was long-lasting. During the Song dynasty, China had grown increasingly introspective. Rejecting foreign ideas and influences, intellectuals had focused on defining the qualities that constituted true “Chinese-ness.” They drew a clear distinction between their own people, whom they characterized as gentle, erudite, and sophisticated, and the “barbarians” outside China’s borders, whom they regarded as wild and uncivilized. Now, faced with the reality of foreign occupation, China’s inward gaze intensified in spiritual resistance. For centuries to come, long after the Mongols had gone, leading scholars continued to seek intellectually more challenging, philosophically more profound, and artistically more subtle expressions of all that could be identified as authentically Chinese.
+
+The conditions of Yuan rule now encouraged a clear distinction between court taste, ministered to by professional artists and artisans, and literati taste.
+
+ -->
+
+
+---
+
+<Asterisk />
+
+![Zhao Mengfu 趙孟頫 (1254–1322), Sheep and Goat (detail), Yuan dynasty, c. 1300, ink on paper, China, 25.2 x 48.7 cm](https://smarthistory.org/wp-content/uploads/2021/04/FS-F1931.4_detail-scaled.jpg)
+
+<div v-drag="[23,9,228,63]" v-click="[1]">
+
+#### literati painting ✏️
+</div>
+
+<!--
+Nor did Yuan rulers have much use for scholars, especially those from the south. The civil service examinations were abolished, and the highest government positions were bestowed, instead, on Mongols and their foreign allies. Scholars now tended to turn inward to search for solutions of their own and try to express themselves in personal and symbolic terms.
+
+Zhao Mengfu (1254–1322) was a descendant of the imperial line of Song. Unlike many scholars of his time, he eventually chose to serve the Yuan government and was made a high official. A distinguished painter, calligrapher,  and poet, Zhao was especially known for his carefully rendered paintings of horses, but he also practiced traditional landscape painting.
+
+### literati painting
+
+- Zhao Mengfu became a prime practitioner of literati painting with his unassuming brushwork, sparing use of color (many literati paintings, like FIG. 25–2,** give up color altogether**), and use of traditional painting to convey personal meaning. 
+- The literati did not paint for public display but for each other, and Zhao’s Sheep and Goat was actually created at the request of a friend of the artist. The literati favored small formats such as handscrolls, hanging scrolls, or album leaves (book pages), which could easily be shown to friends or shared at small gatherings (see “Formats of Chinese Painting” opposite).  25–2 Zhao Me
+
+### sheep and goat
+- SHEEP AND GOAT (FIG. 25–2), which he claimed to have drawn from life.
+- This may be too simplistic an assessment, because the two animals are portrayed in clearly different styles. The goat, on the right, is carefully described and lifelike in appearance, but the sheep, on the left, is more abstracted, almost flattened. The markings on its body create a sense of pattern rather than the appearance of natural irregularities. Some have seen pride in the sheep’s posture and submission in the pose of the goat—although with head down, the goat could also be prepared to attack. Some have proposed that Zhao was expressing either acceptance of or resistance to the rule of the foreign Yuan dynasty, or since the same Chinese word is used for these two animals, perhaps he implies that the Mongols and the Chinese are not as different as they seem.
+-->
+
+---
+
+![Ni Zan 倪瓚 (1306–1374), A Branch of Bamboo, Yuan or Ming dynasty, ca. 1369, Inscription by Qian Weishan (1341–c. 1379), ink on paper, China, 29.3 x 29 cm](https://smarthistory.org/wp-content/uploads/2021/04/FS-8257_04-scaled.jpg)
+
+<!-- 
+
+In a sense, he was creating historical art. In doing so, he opened the way not only for the next generation of Yuan amateur (or literati) painters—notably the Four Great Masters of the Yuan, which included Huang Gongwang (1269–1354), Ni Zan (1301–1374), Wu Zhen (1280–1354), and Wang Meng (1308–1385)—but also for all subsequent scholar-amateur style landscape painting until today.
+
+Another favored painting genre of the Yuan is bamboo painting (for example, a painting by Ni Zan). To the proud and secluded Yuan scholars, bamboo itself was a symbol of the true gentleman (it bends but does not break in a wind, returning upright), much like the scholar who maintains their integrity no matter how adverse the circumstance is.
+
+Ni Zan’s eccentric behavior became legendary in the history of Chinese art. In his early years he was one of the richest men in the region, the owner of a large estate. His pride and his aloofness from daily affairs often got him into trouble with the authorities. His cleanliness was notorious. In addition to washing himself several times daily, he ordered his servants to wash the trees in his garden and to clean the furniture after his guests had left. He was said to be so unworldly that late in life he gave away most of his possessions and lived as a hermit in a boat, wandering on rivers and lakes.
+
+Literati painting was associated with a viewpoint concerning what constituted an appropriate life. The ideal, as embodied by Ni Zan and others, was a brilliantly gifted scholar whose spirit was too refined for the dusty world of government service and who thus preferred to live as a recluse or had retired after having become frustrated by a brief stint as an official.
+
+-->
+
+---
+
+![Dish with design of mandarin fish, mid-14th century (Yuan dynasty; Jingdezhen, Jiangxi province, China) Jingdezhen ware, porcelain with cobalt pigment under colorless glaze, 8 x 45.5 cm](https://smarthistory.org/wp-content/uploads/2021/04/FS-6238_02-scaled.jpg)
+
+<div v-drag="[23,9,228,63]" v-click="[1]">
+
+#### blue-and-white porcelain ✏️
+</div>
+
+<!-- 
+
+ the widespread introduction of blue-and-white decorated porcelain, as well as innovations in lacquer manufacture, were crucial developments that affected the arts of the subsequent Ming and Qing dynasties.
+
+ the porclain is a special type of ceramic ware that is made from a particular kind of clay called kaolin, which is fired at very high temperatures to create a hard, white, and translucent material. Porcelain was first developed in China during the Tang dynasty (618–907) and reached its peak during the Song dynasty (960–1279). During the Yuan dynasty, porcelain production continued to flourish, and new techniques were developed that allowed for more intricate designs and decorations.
+
+ When Marco Polo visited China he was impressed by the outer shell and the word “porcelain” is derived from the Italian word for the cowrie shell, which was used as a form of currency in ancient China and was often depicted in early Chinese ceramics. The term “china” is also used to refer to porcelain, and it is believed to have originated from the Persian word for China, which was “Chin.”
+
+ Porcelain ceramics painted with cobalt oxide (which turns blue) before being coated with a clear glaze came to be known as blue-and-white porcelain and began to be widely produced in Jingdezhen in south China for domestic consumption and for trade, especially to the Near East. The Yuan court established some regulatory control at Jingdezhen, which became the most important center of porcelain manufacture in China.
+
+ -->
+
+---
+
+<Asterisk />
+
+![The David Vases, 1351 (Yuan dynasty), porcelain, cobalt and clear glaze, 63.6 x 20.7 cm each, Jingdezhen, Jiangxi province, China](https://upload.wikimedia.org/wikipedia/commons/6/65/The_David_Vases.jpg)
+
+
+<!-- 
+-  two vases and an incense burner were dedicated to a Daoist temple in China
+-  we have the date of dedication on the vases
+- incense burner is lost
+- the vases are named after the Englishman who bought them in the 19th century, Sir Percival David (1892–1964), who amassed one of the greatest collections of Chinese ceramics in the world. The vases are now in the British Museum, London.
+- An example of blue-and-white porcelain, the David Vases are decorated with a design of two dragons chasing a flaming pearl, a common motif in Chinese art. The dragons are depicted in a style that is characteristic of the Yuan dynasty, with sinuous bodies and sharp claws. The vases are considered masterpieces of Yuan porcelain and are among the most famous examples of Chinese ceramics in the world.
+
+
+### dragon symbolism
+Dragons have featured prominently in Chinese folklore from earliest times—Neolithic examples have been found painted on pottery and carved in jade. In Bronze Age China, dragons came to be associated with powerful and sudden manifestations of nature, such as wind, thunder, and lightning. At the same time, they became associated with superior beings such as virtuous rulers and sages. With the emergence of China’s first firmly established empire during the Han dynasty, the dragon was appropriated as an imperial symbol, and it remained so throughout Chinese history. Dragon sightings were duly recorded and considered auspicious. Yet even the Son of Heaven could not monopolize the dragon. During the Tang and Song dynasties the practice arose of painting pictures of dragons to pray for rain, and for Chan (Zen) Buddhists, the dragon was a symbol of sudden enlightenment.
+ -->
+
+---
+
+![Buddha of Medicine Bhaishajyaguru (Yaoshi fo), c. 1319 (Yuan dynasty), water-based pigments on clay mixed with straw, 751.8 x 1511.3 cm](https://res.cloudinary.com/image-solar/image/upload/v1772180442/2026nwp-ar1205/DT227320_zk4m08.jpg)
+
+<div v-drag="[203,67,579,294]" v-click="[1]" opacity-50>
+
+![](https://images.metmuseum.org/CRDImages/as/original/SC-LC_65_29_2-01.jpg)
+</div>
+
+<div v-drag="[56,384,849,101]" v-click="[1]" class="bg-white/80 p-2 rounded-lg backdrop-blur-md">
+
+A) Bhaishajyaguru
+B) Candraprabha (Yueguang Pusa 月光菩薩)
+C) Suryaprabha (Riguang Pusa 日光菩薩)
+D) Bodhisattva with monk’s staff
+E) Bodhisattva with medicine bowl
+F) Twelve Guardian Generals
+
+</div>
+
+<!--
+SOURCE: https://smarthistory.org/buddha-of-medicine-bhaishajyaguru-yaoshi-fo/
+
+Iconography:
+Bhaishajyaguru (A), the Buddha of Medicine, sits on a lotus throne surrounded by an assembly of deities. Standing to either side of the central figure are the Buddha’s attendant bodhisattvas: Candraprabha (B), or Yueguang Pusa 月光菩薩, and Suryaprabha (C), or Riguang Pusa 日光菩薩. They can be identified by the adjacent white moon and the red sun, respectively. Two larger bodhisattvas are seated to the right and left of the smaller standing figures. Two secondary bodhisattvas at lower left and lower right carry a monk’s staff and medicine bowl (D and E), Bhaishajyaguru’s traditional attributes. The Twelve Guardian Generals (F) are depicted at the two sides of the mural. They personify Bhaishajyaguru’s vow to help all in need by curing illness, ensuring the birth of healthy children, and providing clothing and other necessities.
+
+This painting was originally paired with an equally large image of Tejaprabha, the Buddha of Blazing Light, who controls the planets and constellations and, therefore, one’s fate. He is believed to bring good fortune and long life. The pairing of Bhaishajyaguru and Tejaprabha is unusual and may illustrate concerns fostered by the devastating earthquake and fire that destroyed the Guangsheng monastery complex in 1303.
+
+Technique and Style:
+This mural was painted on a ground of dry plaster mixed with straw and covered with clay. Thick black outlines define the images, which are filled in using vegetable and mineral pigments. Only the latter—predominantly red, green, and white—have survived. This is one of several murals from the Fen River area, in southern Shanxi province that are associated with the workshop of the early fourteenth-century master craftsman Zhu Haogu. A robust figure type with a full face and shallow spatial constrictions typify the style, found in both Buddhist and Daoist temple art.
+
+History:
+This representation of the Buddha of Medicine once adorned the east wall of the main hall in the Lower Guangsheng (“Vast
+Triumph”) Temple, in the northern Chinese province of Shanxi. Rebuilt after an earthquake in 1303, the temple’s eastern compound is constructed along a north-south axis. The large entry gate leads into the front and main halls, which are connected by covered
+walkways. Used for assemblies and lectures, the main hall once contained paintings on its east, north, and west walls, as well as
+numerous freestanding wooden sculptures of Buddhist deities. Records indicate that the hall was rebuilt and refurbished between
+1303 and 1319.
+
+A stele at the temple indicates that in the 1930s the monks sold four of the murals decorating the main hall in order to prevent its collapse after being damaged by an
+-->
+
+
+---
+title: Ming Dynasty (1368-1644)
+level: 2
+layout: side-title
+---
+
+:: title ::
+
+## Ming Dynasty (1368-1644)
+
+:: content ::
+
+<div h-110>
+
+![Map of the Ming Empire c. 1580](https://smarthistory.org/wp-content/uploads/2021/04/Ming_Empire_cca_1580.jpg)
+</div>
+
+<!-- 
+
+The founder of the next dynasty, the Ming (1368–1644), came from a family of poor, uneducated peasants. As Zhu Yuanzhang rose through the ranks in the army, he enlisted the help of scholars to gain power and solidify his following. Once he had driven the Mongols from Beijing and firmly established himself as emperor, however, he grew to distrust intellectuals. His rule was despotic, even ruthless. Throughout the nearly 300 years of Ming rule, most emperors shared his attitude, so although the civil service examinations were reinstated, scholars remained alienated from the government they were trained to serve.
+
+He established Nanjing (south capital) vs Beijing (north capital)
+
+ -->
+
+---
+layout: two-cols
+color: black
+---
+
+::right::
+
+![Ming Xiaoling Mausoleum, the tomb of the Hongwu Emperor, Zhu Yuanzhang (the first Ming emperor), Nanjing, begun 1381. ](https://upload.wikimedia.org/wikipedia/commons/2/2f/Ming_Xiaoling_Mausoleum_Spirit_Way.jpg)
+
+::left::
+
+![The Hongwu emperor (Zhu Yuanzhang); in the National Palace Museum, Taipei.](https://res.cloudinary.com/image-solar/image/upload/v1772190242/2026nwp-ar1205/Hongwu-emperor-hanging-scroll-silk-colour-ink_fr5y8c.jpg)
+
+---
+
+![Two Flasks, Ming dynasty, 1403–1424 (reign of Yongle emperor). Porcelain with decoration painted in underglaze cobalt blue.](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Two_flasks_with_dragons.jpg/3840px-Two_flasks_with_dragons.jpg)
+
+<!-- 
+
+- During Yuan rule porcelain production was for domentic market. 
+- During the reigns of the Yongle (1403–1424) and Xuande (1426–1435) emperors, major trade and diplomatic missions traveled to the Middle East, and Ming porcelain made its way to Turkey and Iran, where its refined decoration and flawless glazing was admired
+- the shape of two porcelain flasks used for decanting wine in the Chinese imperial household (FIG. 25–4) were probably inspired by Islamic glass vessels brought back to China with traders returning from these missions.
+
+### dragon symbolism
+Dragons have featured prominently in Chinese folklore from earliest times—Neolithic examples have been found painted on pottery and carved in jade. In Bronze Age China, dragons came to be associated with powerful and sudden manifestations of nature, such as wind, thunder, and lightning. At the same time, they became associated with superior beings such as virtuous rulers and sages. With the emergence of China’s first firmly established empire during the Han dynasty, the dragon was appropriated as an imperial symbol, and it remained so throughout Chinese history. Dragon sightings were duly recorded and considered auspicious. Yet even the Son of Heaven could not monopolize the dragon. During the Tang and Song dynasties the practice arose of painting pictures of dragons to pray for rain, and for Chan (Zen) Buddhists, the dragon was a symbol of sudden enlightenment.
+
+ -->
+
+
+---
+title: Qing Dynasty (1644-1912)
+level: 2
+layout: side-title
+---
+
+:: title ::
+
+## Qing Dynasty (1644-1912)
+
+:: content ::
+
+![Map of the Qing dynasty](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/China_1911_en.svg/3840px-China_1911_en.svg.png)
+
+
+---
+
+![Wang Hui, _A Thousand Peaks and Myriad Ravines_, Qing dynasty, 1693. Hanging scroll with ink on paper](https://res.cloudinary.com/image-solar/image/upload/v1772179664/2026nwp-ar1205/img2_wiaqid.jpg)
+
+<Box v-drag="[28,75,333,358]" p-2 v-click="[1]">
+
+Moss and weeds cover the rocks and mist hovers over the water. 
+
+The sound of dripping water is heard in front of the temple gate. 
+
+Through a thousand peaks and myriad ravines the spring flows, And brings the flying flowers into the sacred caves. 
+
+In the fourth month of the year 1693, in an inn in the capital, I painted this based on a Tang-dynasty poem in the manner of \[the painters\] Dong \[Yuan\] and Ju\[ran\].
+</Box>
+
+
+
+<!--
+### social context
+- China’s scholar class was unique, the product of an examination system designed to recruit the finest minds in the country for government service.
+- the civil service examinations were excruciatingly difficult, but for the tiny percentage who passed at the highest level, the rewards were great—prestige, position, power, and wealth. 
+- Steeped in philosophy, literature, and history, China’s scholars—often called wenren (literati)—shared an outlook. Following Confucianism (a philosophy of ethics and social responsibility going back to the  century), they became officials to fulfill their obligation to the world, but pulled by Daoism (a philosophy of harmony with nature and the universe), they retreated from society in order to come to terms with nature and the universe—to create a garden, to write poetry, or to paint.
+
+- In the subsequent Yuan and Ming periods, the tradition of **literati painting** (a style that reflected the taste of the educated class)
+- 
+### painting
+- in the painting: Mountains, rivers, waterfalls, trees, rocks, temples, pavilions, houses, bridges, boats, wandering scholars, fishers
+
+[click] At the top of the hanging scroll, the artist himself has written. The inscription refers to the artist’s inspiration—for the subject, found in the lines of a Tang-dynasty poem, and for the style, found in the work of tenth-century painters Dong Yuan and Juran. Wang Hui’s art embodies the ideals of the scholar in imperial China.
+-->
+
+
+
+
+---
+
+![Wang Lü, Landscapes of Mount Hua (Huashan), album leaves, 1384 (Ming Dynasty, China), ink on paper (Shanghai Museum)](https://res.cloudinary.com/image-solar/image/upload/v1772182689/2026nwp-ar1205/50306701167_9e734c0d6a_k_bapwcp.jpg)
+
+---
+
+![]()
+
+
+---
+
+![Wang Shimin (Xunzhi \[zi\], Yanke \[hao\]), Cloud Capped Mountains and Misty Riverside, 1658 (Qing dynasty), hanging scroll (Shanghai Museum)](https://live.staticflickr.com/65535/51944224528_d8d65cf1dc_k.jpg?s=eyJpIjo1MTk0NDIyNDUyOCwiZSI6MTc3MjE4NjY5OCwicyI6Ijc4ZjhjMWUyMzhkNGRiZDI0ODFmZTRhNmIzYTJhYTgxN2YxZTIzYzgiLCJ2IjoxfQ)
+
+
+---
+hide: true
+---
+
+### improtance of literati painting
+
+Throughout most of Chinese history, the imperial court had set the tone for artistic taste: Artisans attached to the court produced architecture, paintings, gardens, and objects of jade, lacquer, ceramics, and silk especially for imperial use. Over the centuries, painters and calligraphers gradually moved higher up the social scale, for these “arts of the brush” were often practiced by scholars and even emperors, whose high status reflected positively on whatever interested them. With the establishment of an imperial painting academy during the Song dynasty, painters finally achieved a status equal to that of court officials. For the literati, painting came to be grouped with calligraphy and poetry as the trio of accomplishments suited to members of the cultural elite. But while the literati elevated the status of painting by virtue of practicing it, they also began to develop their own  ideas of what painting should be. Not needing to earn an income from their art, they cultivated an amateur ideal in which personal expression counted for more than professional skill. They created for themselves a status as artists totally separate from and superior to professional painters, whose art they felt was inherently compromised, since it was done to please others and tainted by money.
