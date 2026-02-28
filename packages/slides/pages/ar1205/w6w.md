@@ -1,9 +1,9 @@
 ---
 layout: cover
 transition: slide-left
-color: orange
-background: https://smarthistory.org/wp-content/uploads/2020/06/Full-page.jpg
-title: "Week 6: <b>d,  Feb </b>"
+color: blue
+background: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Two_flasks_with_dragons.jpg/3840px-Two_flasks_with_dragons.jpg
+title: "Week 6: <b>Wed,  Feb 11</b>"
 level: 1
 ---
 
@@ -14,7 +14,7 @@ level: 1
 
 :: note :: 
 
-February 
+February 11, 2026
 
 ---
 
@@ -31,6 +31,7 @@ February
 ---
 title: Yuan Dynasty (1271-1368)
 level: 2
+color: green
 layout: side-title
 ---
 
@@ -40,8 +41,11 @@ layout: side-title
 
 :: content ::
 
-![Yuan Dynasty, with Goryeo marked as a vassal (the white stripes)](https://smarthistory.org/wp-content/uploads/2021/04/Yuen_Dynasty_1294_-_Goryeo_as_vassal.png)
 
+<div h-110>
+
+![Yuan Dynasty, with Goryeo marked as a vassal (the white stripes)](https://smarthistory.org/wp-content/uploads/2021/04/Yuen_Dynasty_1294_-_Goryeo_as_vassal.png)
+</div>
 
 <!-- 
 
@@ -69,14 +73,23 @@ The conditions of Yuan rule now encouraged a clear distinction between court tas
 </div>
 
 <!--
+
+His monumental murals, in excess of thirty-five, adorn the halls of State Bank, Frere Hall Karachi; Lahore Museum; Punjab University; Mangla Dam; Aligarh Muslim University; Banaras Hindu University; Indian Institute of Geological Sciences; Islamic Institute in Delhi, and Abu Dhabi Power House, among others. -
 Nor did Yuan rulers have much use for scholars, especially those from the south. The civil service examinations were abolished, and the highest government positions were bestowed, instead, on Mongols and their foreign allies. Scholars now tended to turn inward to search for solutions of their own and try to express themselves in personal and symbolic terms.
 
 Zhao Mengfu (1254–1322) was a descendant of the imperial line of Song. Unlike many scholars of his time, he eventually chose to serve the Yuan government and was made a high official. A distinguished painter, calligrapher,  and poet, Zhao was especially known for his carefully rendered paintings of horses, but he also practiced traditional landscape painting.
 
 ### literati painting
 
+- China’s scholar class was unique, the product of an examination system designed to recruit the finest minds in the country for government service.
+- the civil service examinations were excruciatingly difficult, but for the tiny percentage who passed at the highest level, the rewards were great—prestige, position, power, and wealth. 
+- Steeped in philosophy, literature, and history, China’s scholars—often called wenren (literati)—shared an outlook. Following Confucianism (a philosophy of ethics and social responsibility going back to the  century), they became officials to fulfill their obligation to the world, but pulled by Daoism (a philosophy of harmony with nature and the universe), they retreated from society in order to come to terms with nature and the universe—to create a garden, to write poetry, or to paint.
+
+- In the subsequent Yuan and Ming periods, the tradition of **literati painting** (a style that reflected the taste of the educated class)
+
+
 - Zhao Mengfu became a prime practitioner of literati painting with his unassuming brushwork, sparing use of color (many literati paintings, like FIG. 25–2,** give up color altogether**), and use of traditional painting to convey personal meaning. 
-- The literati did not paint for public display but for each other, and Zhao’s Sheep and Goat was actually created at the request of a friend of the artist. The literati favored small formats such as handscrolls, hanging scrolls, or album leaves (book pages), which could easily be shown to friends or shared at small gatherings (see “Formats of Chinese Painting” opposite).  25–2 Zhao Me
+- The literati did not paHis monumental murals, in excess of thirty-five, adorn the halls of State Bank, Frere Hall Karachi; Lahore Museum; Punjab University; Mangla Dam; Aligarh Muslim University; Banaras Hindu University; Indian Institute of Geological Sciences; Islamic Institute in Delhi, and Abu Dhabi Power House, among others. int for public display but for each other, and Zhao’s Sheep and Goat was actually created at the request of a friend of the artist. The literati favored small formats such as handscrolls, hanging scrolls, or album leaves (book pages), which could easily be shown to friends or shared at small gatherings (see “Formats of Chinese Painting” opposite).  
 
 ### sheep and goat
 - SHEEP AND GOAT (FIG. 25–2), which he claimed to have drawn from life.
@@ -136,7 +149,9 @@ Literati painting was associated with a viewpoint concerning what constituted an
 
 
 ### dragon symbolism
-Dragons have featured prominently in Chinese folklore from earliest times—Neolithic examples have been found painted on pottery and carved in jade. In Bronze Age China, dragons came to be associated with powerful and sudden manifestations of nature, such as wind, thunder, and lightning. At the same time, they became associated with superior beings such as virtuous rulers and sages. With the emergence of China’s first firmly established empire during the Han dynasty, the dragon was appropriated as an imperial symbol, and it remained so throughout Chinese history. Dragon sightings were duly recorded and considered auspicious. Yet even the Son of Heaven could not monopolize the dragon. During the Tang and Song dynasties the practice arose of painting pictures of dragons to pray for rain, and for Chan (Zen) Buddhists, the dragon was a symbol of sudden enlightenment.
+Dragons have featured prominently in Chinese folklore from earliest times—Neolithic examples have been found painted on pottery and carved in jade. In Bronze Age
+
+![Dish with design of mandarin fish, mid-14th century (Yuan dynasty; Jingdezhen, Jiangxi province, China) Jingdezhen ware, porcelain with cobalt pigment under color China, dragons came to be associated with powerful and sudden manifestations of nature, such as wind, thunder, and lightning. At the same time, they became associated with superior beings such as virtuous rulers and sages. With the emergence of China’s first firmly established empire during the Han dynasty, the dragon was appropriated as an imperial symbol, and it remained so throughout Chinese history. Dragon sightings were duly recorded and considered auspicious. Yet even the Son of Heaven could not monopolize the dragon. During the Tang and Song dynasties the practice arose of painting pictures of dragons to pray for rain, and for Chan (Zen) Buddhists, the dragon was a symbol of sudden enlightenment.
  -->
 
 ---
@@ -162,20 +177,37 @@ F) Twelve Guardian Generals
 <!--
 SOURCE: https://smarthistory.org/buddha-of-medicine-bhaishajyaguru-yaoshi-fo/
 
-Iconography:
+### Iconography:
 Bhaishajyaguru (A), the Buddha of Medicine, sits on a lotus throne surrounded by an assembly of deities. Standing to either side of the central figure are the Buddha’s attendant bodhisattvas: Candraprabha (B), or Yueguang Pusa 月光菩薩, and Suryaprabha (C), or Riguang Pusa 日光菩薩. They can be identified by the adjacent white moon and the red sun, respectively. Two larger bodhisattvas are seated to the right and left of the smaller standing figures. Two secondary bodhisattvas at lower left and lower right carry a monk’s staff and medicine bowl (D and E), Bhaishajyaguru’s traditional attributes. The Twelve Guardian Generals (F) are depicted at the two sides of the mural. They personify Bhaishajyaguru’s vow to help all in need by curing illness, ensuring the birth of healthy children, and providing clothing and other necessities.
+
+
+### Wall painting 
+This is from the east gable of the Guangcheng Lower Temple in Shanxi Province. This temple was rediscovered in the 1930s because a full set of Buddhist scriptures, known as sutras, was found at this temple complex, and it put this monastery on the map.
 
 This painting was originally paired with an equally large image of Tejaprabha, the Buddha of Blazing Light, who controls the planets and constellations and, therefore, one’s fate. He is believed to bring good fortune and long life. The pairing of Bhaishajyaguru and Tejaprabha is unusual and may illustrate concerns fostered by the devastating earthquake and fire that destroyed the Guangsheng monastery complex in 1303.
 
-Technique and Style:
-This mural was painted on a ground of dry plaster mixed with straw and covered with clay. Thick black outlines define the images, which are filled in using vegetable and mineral pigments. Only the latter—predominantly red, green, and white—have survived. This is one of several murals from the Fen River area, in southern Shanxi province that are associated with the workshop of the early fourteenth-century master craftsman Zhu Haogu. A robust figure type with a full face and shallow spatial constrictions typify the style, found in both Buddhist and Daoist temple art.
-
-History:
 This representation of the Buddha of Medicine once adorned the east wall of the main hall in the Lower Guangsheng (“Vast
 Triumph”) Temple, in the northern Chinese province of Shanxi. Rebuilt after an earthquake in 1303, the temple’s eastern compound is constructed along a north-south axis. The large entry gate leads into the front and main halls, which are connected by covered
 walkways. Used for assemblies and lectures, the main hall once contained paintings on its east, north, and west walls, as well as
 numerous freestanding wooden sculptures of Buddhist deities. Records indicate that the hall was rebuilt and refurbished between
 1303 and 1319.
+
+Buddha relinquished all worldly possessions and attachments to achieve enlightenment, but he is often depicted with a variety of attributes that symbolize his teachings and the path to enlightenment. The most common attributes include
+
+samsara (the cycle of birth, death, and rebirth), the lotus flower (symbolizing purity and enlightenment), the wheel of dharma (representing the teachings of the Buddha), and the mudra (hand gestures that convey specific meanings). In this mural, the Buddha of Medicine is depicted with a medicine bowl, which symbolizes his role as a healer and his ability to cure both physical and spiritual ailments. 
+
+### Buddhas
+Budhashakyamuni, the historical Buddha, is often depicted with a serene expression and a calm demeanor, reflecting his enlightenment and inner peace. In this mural, the Buddha of Medicine is shown with a gentle smile and a peaceful expression, conveying his compassion and benevolence towards all beings.
+
+Mahayāna Buddhism, which was the dominant form of Buddhism in China during the Yuan dynasty, emphasizes the importance of compassion and the idea of the bodhisattva, a being who has achieved enlightenment but chooses to remain in the world to help others achieve enlightenment as well. The Buddha of Medicine is often depicted as a bodhisattva, embodying the ideal of compassion and selflessness that is central to Mahayana Buddhism.
+
+#### Technique and Style:
+This mural was painted on a ground of dry plaster mixed with straw and covered with clay. Thick black outlines define the images, which are filled in using vegetable and mineral pigments. Only the latter—predominantly red, green, and white—have survived. This is one of several murals from the Fen River area, in southern Shanxi province that are associated with the workshop of the early fourteenth-century master craftsman Zhu Haogu. A robust figure type with a full face and shallow spatial constrictions typify the style, found in both Buddhist and Daoist temple art.
+
+#### History:
+
+
+![Dish with design of mandarin fish, mid-14th century (Yuan dynasty; Jingdezhen, Jiangxi province, China) Jingdezhen ware, porcelain with cobalt pigment under color.
 
 A stele at the temple indicates that in the 1930s the monks sold four of the murals decorating the main hall in order to prevent its collapse after being damaged by an
 -->
@@ -234,20 +266,33 @@ Dragons have featured prominently in Chinese folklore from earliest times—Neol
 
  -->
 
-
 ---
-title: Qing Dynasty (1644-1912)
-level: 2
-layout: side-title
+color: black
 ---
 
-:: title ::
+![Yin Hong, Hundreds of Birds Admiring the Peacocks,  Ming dynasty, late 15th–early 16th century. Hanging scroll with ink and color on silk](https://res.cloudinary.com/image-solar/image/upload/v1772218075/2026nwp-ar1205/1974.31_web_octgra.jpg)
 
-## Qing Dynasty (1644-1912)
+<!-- 
+The contrast between the luxurious world of the court and the austere ideals of the literati continued through the Ming dynasty. A typical example of Ming court taste is HUNDREDS OF BIRDS ADMIRING THE PEACOCKS (FIG. 25–5), a large painting on silk by Yin Hong, an artist active during the late fifteenth and early sixteenth centuries. A pupil of well-known courtiers, Yin probably served in the court at Beijing. This painting is an example of the birds-andflowers genre, which had been popular with artists of the Song academy. Here the subject takes on symbolic meaning, with the homage of the birds to the peacocks representing the homage of court officials to the imperial state. Although the style is faithful to Song academic models, the large format and intense attention to detail are traits of the Ming.
 
-:: content ::
+ -->
 
-![Map of the Qing dynasty](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/China_1911_en.svg/3840px-China_1911_en.svg.png)
+---
+color: black
+---
+
+![Qiu Ying,Spring Dawn in the Han Palace, Ming dynasty, 1500–1550. Handscroll with ink and color on silk,](https://upload.wikimedia.org/wikipedia/commons/5/55/Qiu_Ying-Han_Palace_Spring_Daybreak.jpg)
+
+<div v-drag="[182,60,735,399]" p-2 v-click="[1]">
+
+![](https://res.cloudinary.com/image-solar/image/upload/v1772218452/2026nwp-ar1205/maxresdefault_hsnsbd.jpg)
+</div>
+
+<!-- 
+
+A preeminent professional painter in the Ming period was Qiu Ying (1494–1552), who lived in Suzhou, a prosperous southern city. He inspired generations of imitators with exceptional works such as a long handscroll known as SPRING DAWN IN THE HAN PALACE. The painting is based on Tang-dynasty depictions of women in the court of the Han dynasty (206 bce220 ce). While in the service of a well-known collector, Qiu Ying had the opportunity to study many Tang paintings, whose artists usually concentrated on figures set on blank backgrounds. Qiu’s graceful and elegant figuresalthough modeled after those in Tang works—are situated  within a carefully described setting of palace buildings. They engage in courtly pastimes, such as chess, music, calligraphy, and painting. With its antique subject matter, refined technique, brilliant color, and controlled composition, Spring Dawn in the Han Palace brought professional painting to another level
+
+ -->
 
 
 ---
@@ -268,13 +313,7 @@ In the fourth month of the year 1693, in an inn in the capital, I painted this b
 
 
 <!--
-### social context
-- China’s scholar class was unique, the product of an examination system designed to recruit the finest minds in the country for government service.
-- the civil service examinations were excruciatingly difficult, but for the tiny percentage who passed at the highest level, the rewards were great—prestige, position, power, and wealth. 
-- Steeped in philosophy, literature, and history, China’s scholars—often called wenren (literati)—shared an outlook. Following Confucianism (a philosophy of ethics and social responsibility going back to the  century), they became officials to fulfill their obligation to the world, but pulled by Daoism (a philosophy of harmony with nature and the universe), they retreated from society in order to come to terms with nature and the universe—to create a garden, to write poetry, or to paint.
 
-- In the subsequent Yuan and Ming periods, the tradition of **literati painting** (a style that reflected the taste of the educated class)
-- 
 ### painting
 - in the painting: Mountains, rivers, waterfalls, trees, rocks, temples, pavilions, houses, bridges, boats, wandering scholars, fishers
 
@@ -286,14 +325,115 @@ In the fourth month of the year 1693, in an inn in the capital, I painted this b
 
 ---
 
+<Asterisk />
+
 ![Wang Lü, Landscapes of Mount Hua (Huashan), album leaves, 1384 (Ming Dynasty, China), ink on paper (Shanghai Museum)](https://res.cloudinary.com/image-solar/image/upload/v1772182689/2026nwp-ar1205/50306701167_9e734c0d6a_k_bapwcp.jpg)
 
+
+<!-- 
+-  Mount Hua is in Shaanxi province. Shaanxi province is a little bit to the north. The mountain itself is known for being this treacherous vertical form, very otherworldly. 
+-   Look at the way in which he’s used brushstrokes to define the verticality of that mountain. Those huge faces of rock that seem to jut skyward, to create this otherworldly space that has a deeply spiritual dimension. You can see the contour lines. First, these very rich, fluid lines demarcating the boulders, and then you’ve got these texture strips that give a sense of the roughness of each peak, and then little bits of moss dripping over the sides. Then you’ve also got softer washes of ink, especially in the peaks in the distance. On top of all of it, you’ve got these very dense strokes, these layers upon layers of little, tiny brushstrokes; very fluid, rich black ink of the pine trees. 
+-   This is a Taoist (or Daoist) idea, that the mountain was inhabited by the Immortals, perfected beings. Although that’s not explicitly referenced here, it does exist subtly in the background. 
+-   They’re specific scenes. Each of them pictures a particular place in the mountain, a particular moment in time that the artist then inscribed, explaining exactly when he visited this place and what those conditions might have been. So these are really personal memories. These are explorations of moments that he remembers from his encounter with this landscape. 
+ -->
+
 ---
 
-![]()
+<Asterisk />
+
+![Shen Zhou, Poet on A Mountaintop, Leaf from an album of landscapes; painting mounted as part of a handscroll. Ming dynasty, c. 1500. Ink and color on paper,](https://upload.wikimedia.org/wikipedia/commons/b/bc/Poet_on_a_Mountaintop.jpg)
+
+<!-- 
+
+One of the major literati painters from the Ming period is Shen Zhou (1427–1509), who had no desire to enter government service and spent most of his life in Suzhou (in the south ). He studied the Yuan painters avidly and tried to recapture their spirit in such works as Poet on a Mountaintop (see “Poet on a Mountaintop” opposite). Although the style of the painting recalls the freedom and simplicity of Ni Zan (SEE FIG. 25–3), the motif of a poet surveying the landscape from a mountain plateau is Shen’s creation.
+
+In earlier landscape paintings, human figures were typically shown dwarfed by the grandeur of nature. Travelers might be seen scuttling along a narrow path by a stream, while overhead towered mountains whose peaks were in the clouds and whose heights were inaccessible. But in FIGURE 25–9 the poet has climbed the mountain and dominates the landscape. Even the clouds are beneath him. Before his gaze, a poem hangs in the air, as though he were projecting his thoughts
+
+ -->
+
+---
+layout: two-cols
+columns: is-4
+---
+
+<Asterisk />
+
+:: left ::
+
+![Drawn plan of the Forbidden City, Beijing](https://smarthistory.org/wp-content/uploads/2022/01/35004cd80d38f5465ba65fc68e0547bd7ae2e7b1.jpeg)
+
+:: right ::
+
+![View of the Meridian Gate from outside the Forbidden City](https://smarthistory.org/wp-content/uploads/2022/01/Meridian_Gate_Forbidden_City_2015_December_morning-scaled.jpeg)
+
+<!-- 
+
+Centuries of warfare and destruction have left very few early Chinese architectural monuments intact. The most important remaining example of traditional architecture is THE FORBIDDEN CITY, the imperial palace compound in Beijing, whose principal buildings were constructed during the Ming dynasty
+
+Beijing was developed as a walled, rectangular city with streets laid out in a grid. The palace enclosure occupied the center of the northern part of the city, which was reserved for the Mongols. Chinese lived in the southern third of the city. Later, Ming and Qing emperors preserved this division, with officials living in the northern or Inner City and commoners living in the southern or Outer City. The third Ming emperor, Yongle (ruled 1403–1424), rebuilt the Forbidden City as we see it today.
+
+
+
+ -->
+
+---
+
+![Looking to the Meridian Gate from the north (Imperial Palace Museum)](https://smarthistory.org/wp-content/uploads/2022/01/4856709292_fc06d3d8b3_o.jpg)
+
+<!-- 
+The approach was impressive. Visitors entered through the Meridian Gate, a monumental complex with perpendicular side wings (in the center of FIG. 25–8). Next they encountered a broad courtyard crossed by a bow-shaped  waterway spanned by five arched marble bridges. At the opposite end of this courtyard is the Gate of Supreme Harmony, opening onto an even larger courtyard that houses three ceremonial halls raised on a broad platform. First is the Hall of Supreme Harmony, where on the most important state occasions the emperor sat on his throne, facing south. Beyond is the smaller Hall of Central Harmony, then the Hall of Protecting Harmony. Behind these vast ceremonial spaces, still on the central axis, is the inner court, again with a progression of three buildings, this time more intimate in scale. In its balance and symmetry the plan of the Forbidden City reflects ancient Chinese beliefs about the harmony of the universe, and it emphasizes the emperor’s role as the Son of Heaven, maintaining the cosmic order from his throne in the middle of the world.
+
+ -->
+
 
 
 ---
+title: Qing Dynasty (1644-1912)
+level: 2
+layout: side-title
+---
+
+:: title ::
+
+## Qing Dynasty (1644-1912)
+
+:: content ::
+
+![Map of the Qing dynasty](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/China_1911_en.svg/3840px-China_1911_en.svg.png)
+
+<!-- 
+
+In 1644, when the armies of the Manchu people northeast of China marched into Beijing, many Chinese reacted as though their civilization had come to an end. Yet the Manchus had already adopted many Chinese customs and institutions. After gaining control of all of China, a process that took decades, they showed great respect for Chinese tradition. All the major artistic trends of the late Ming dynasty eventually continued into the Manchu, or Qing, dynasty (1644–1911).
+
+Literati painting had been established as the dominant tradition; it now became orthodox. Scholars followed Dong Qichang’s recommendation, basing their approach on the study of past masters—especially Song and Yuan artistsand imitating antique styles as a way of expressing their own learning, technique, and taste. The Qing emperors of the late seventeenth and eighteenth centuries were painters themselves.
+
+ -->
+
+---
+
+![Wang Shimin (Xunzhi \[zi\], Yanke \[hao\]), Cloud Capped Mountains and Misty Riverside, 1658 (Qing dynasty), hanging scroll (Shanghai Museum)](https://res.cloudinary.com/image-solar/image/upload/v1772183333/2026nwp-ar1205/51944751320_bfb881abba_o_anrsa8.jpg)
+
+<!-- 
+Wang Shimin was one of several artists who was active in the south, in this area called Jiangnan, or south of the Yangtze River. That is a place that was a little farther from the court in Beijing that had a scholarly literati culture established through several of the major cities, Nanjing, Suzhou included.
+
+Wang Shimin painted among other artists, wrote poetry among his friends. They shared these works amongst each other and they were interested in studying that brushwork of the past.
+
+a hanging scroll.  Unlike a hand scroll, which would have unrolled arm’s length at a time. These would have been taken out, discussed, and at times they could be used for decoration. They could hang a little while longer.
+
+### Landscape painting
+
+Landscape paintings as a genre developed in the Five Dynasties period. We see the emergence of landscape painting as its own genre, not just a setting for narrative or a background for events, but something that is taken as a subject in its own right.
+
+600 years later, in the Qing dynasty, landscape painting is still the dominant genre.
+
+That’s what Wang Shimin is doing here. He’s interested in the theories, the principles, the brushwork, the composition, the elements that make for landscape painting.
+
+Instead of the earlier landscape painters who are immersing themselves in nature and responding emotionally to nature, he’s studying art and making his painting about that art. (Like Mannerism)
+
+ -->
+
+---
+
 
 ![Wang Shimin (Xunzhi \[zi\], Yanke \[hao\]), Cloud Capped Mountains and Misty Riverside, 1658 (Qing dynasty), hanging scroll (Shanghai Museum)](https://live.staticflickr.com/65535/51944224528_d8d65cf1dc_k.jpg?s=eyJpIjo1MTk0NDIyNDUyOCwiZSI6MTc3MjE4NjY5OCwicyI6Ijc4ZjhjMWUyMzhkNGRiZDI0ODFmZTRhNmIzYTJhYTgxN2YxZTIzYzgiLCJ2IjoxfQ)
 
@@ -302,6 +442,74 @@ In the fourth month of the year 1693, in an inn in the capital, I painted this b
 hide: true
 ---
 
-### improtance of literati painting
+### importance of literati painting
 
 Throughout most of Chinese history, the imperial court had set the tone for artistic taste: Artisans attached to the court produced architecture, paintings, gardens, and objects of jade, lacquer, ceramics, and silk especially for imperial use. Over the centuries, painters and calligraphers gradually moved higher up the social scale, for these “arts of the brush” were often practiced by scholars and even emperors, whose high status reflected positively on whatever interested them. With the establishment of an imperial painting academy during the Song dynasty, painters finally achieved a status equal to that of court officials. For the literati, painting came to be grouped with calligraphy and poetry as the trio of accomplishments suited to members of the cultural elite. But while the literati elevated the status of painting by virtue of practicing it, they also began to develop their own  ideas of what painting should be. Not needing to earn an income from their art, they cultivated an amateur ideal in which personal expression counted for more than professional skill. They created for themselves a status as artists totally separate from and superior to professional painters, whose art they felt was inherently compromised, since it was done to please others and tainted by money.
+
+---
+layout: section
+color: sky-light
+---
+
+## Joseon Dynasty (1392-1910) in Korea
+
+<!-- 
+
+### Joseon dynasty
+
+The Joseon, or Yi dynasty, was founded in 1392 by the military leader Yi Song-gye and lasted until 1910. It was the last imperial dynasty and the longest in the history of Korea.
+
+In 1392, General Yi Seonggye (1335–1408) overthrew the Goryeo dynasty (918–1392), establishing the Joseon dynasty (1392–1910), sometimes called the Yi dynasty. He first maintained his capital at Gaeseong, the old Goryeo capital, but moved it to Seoul in 1394, where it remained through the end of the dynasty. The Joseon regime rejected Buddhism, espousing Neo-Confucianism as the state  philosophy. Taking Ming-dynasty China as its model, the new government patterned its bureaucracy on that of the Ming emperors, even adopting as its own such outward symbols of Ming imperial authority as blue-and-white porcelain. The early Joseon era was a period of cultural refinement and scientific achievement during which Koreans invented Han’geul (the Korean alphabet) and movable type, not to mention the rain gauge, astrolabe, celestial globe, sundial, and water clock.
+
+ -->
+
+---
+
+![Horizontal Wine Bottle with Decoration of A Bird Carrying A Newly Caught Fish, Korea. Joseon dynasty, 16th century.](https://upload.wikimedia.org/wikipedia/commons/3/34/Buncheong_ware_drum-shaped_bottle_with_iron_brown_decoration_of_fish%2C_bird_and_lotus%2C_late_15th-early_16th_century_Korean%2C_Museum_of_Oriental_Ceramics%2C_Osaka.jpg)
+
+<!-- 
+- Buncheong ware: light gray stoneware with decoration painted in iron-brown slip on a white slip ground
+
+Descended from Goryeo celadons, Joseon-dynasty stonewares, known as buncheong wares, enjoyed widespread usage throughout the peninsula. Their decorative effect relies on the use of white slip that makes the humble stoneware resemble more expensive white porcelain. In fifteenth-century examples, the slip is often seen inlaid into repeating design elements stamped into the clay body. Sixteenth-century buncheong wares are characteristically embellished with wonderfully fluid, calligraphic brushwork painted in iron-brown slip on a white slip ground. Most painted buncheong wares have stylized floral décor, but rare pieces, such as a charming WINE BOTTLE (FIG. 25–17), feature pictorial decoration. In fresh, lively brushstrokes, a bird with outstretched wings grasps a fish that it has just caught in its talons; waves roll below, while two giant lotus blossoms frame the scene.
+
+ -->
+
+---
+color: black
+layout: two-cols
+---
+
+<Asterisk />
+
+:: left ::
+
+![ “A dancing boy” from Kim Hongdo, album of genre paintings, 18th century, Joseon Dynasty, 39.7 × 26.7 cm, Treasure 527](https://smarthistory.org/wp-content/uploads/2022/08/A-Dancing-Boy-rev-870x1057.jpg)
+
+:: right ::
+
+![ “Rice threshing” from Kim Hongdo, album of genre paintings, 18th century, Joseon Dynasty, 39.7 × 26.7 cm](https://smarthistory.org/wp-content/uploads/2022/08/Rice-threshing-scaled.jpg)
+
+<!-- 
+
+In the eighteenth century, a truly Korean style emerged, inspired by the silhak (“practical learning”) movement, which emphasized the study of things Korean in addition to the Chinese classics. The impact of the movement is exemplified by the painter Jeong Seon (1676–1759), who chose well-known Korean vistas as the subjects of his paintings, rather than the Chinese themes favored by earlier artists.
+
+Other artists expanded the growing interest in Korean themes to different sorts of subject matter. Kim Hongdo (1745–1806) painted genre scenes that showcased the everyday lives and occupations not of the nobility, but of commoners.
+
+### Kim Hongdo, album of genre paintings
+
+Album of Genre Paintings by Kim Hongdo contains twenty-five paintings of everyday life during the Joseon era
+series of 25 album leaves portraying genre scenes
+
+Album of Genre Paintings by Kim Hongdo contains twenty-five paintings of everyday life during the Joseon era: Tiling a Roof, Tavern, Lunch, Plowing, Blacksmith’s Workshop, Threshing Rice, Shoeing a Horse, Cutting Tobacco, Weaving a Straw Mat, Weaving and Spinning, Dancing Boy, Wrestling, Fortunetelling, Yunnori (Traditional Board Game), Village School, Admiring a Painting, Shooting Arrows, Bridegroom’s Trip to the Bride, Peddling, Ferryboats, At the Well, Fishing, Street Encounter, Merchants Going Home, and Washing Place. Painted by Kim Hongdo, the most renowned and beloved artist of his time, these iconic paintings are now among the most familiar images produced during the Joseon period.
+
+#### Compositions
+
+To depict such diverse scenes, Kim Hongdo used a variety of different compositions to creatively organize the space in his works. In particular, a number of the works from Album of Genre Paintings by Kim Hongdo are characterized by circular composition, including A Dancing Boy (below), Wrestling, Village School, and Admiring a Painting. Although many Joseon paintings feature images of people sitting in a circle, it is quite rare to find an entire painting that is organized with a circular composition. Along with the three aforementioned paintings, all of which plainly depict a gathering of people sitting in a circle, Wrestling  (shown earlier) has a more complex and dynamic circular arrangement, with numerous people (the most figures of any work in the album) facing in different directions.
+
+Since his works often have no other details, Kim tended to rely on unorthodox compositions and arrangements of people to enhance the vitality of his scenes. For example, in addition to circular compositions, he sometimes placed people along diagonals, in an “X” shape, or in a trapezoid. These distinct compositions can serve to draw the viewers’ eye to either the center or the edge of the painting, depending on the motif. Thus, the arrangements enliven the scenes with a subtle energy.
+
+
+
+
+
+ -->
