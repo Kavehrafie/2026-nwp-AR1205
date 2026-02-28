@@ -178,6 +178,7 @@ A large water tank (pushpakarni), close to the Mahanavami Dibba and square in sh
 
 ---
 
+<Asterisk />
 
 ![Meenakshi Temple, Madurai, Tamil Naidu, India](https://res.cloudinary.com/image-solar/image/upload/v1772037895/2026nwp-ar1205/meenakshi-amman-temple-india_tamgzb.jpg)
 

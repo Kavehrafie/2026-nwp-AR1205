@@ -87,6 +87,7 @@ the things that we saw were not a dream.
 color: black
 ---
 
+
 ![Templo Mayor (reconstruction), Tenochtitlan, 1375–1520 C.E.](https://smarthistory.org/wp-content/uploads/2022/10/diagram_Templo-Mayor-scaled.jpg)
 
 <div v-drag="[678,129,274,254]" v-click >
@@ -416,6 +417,8 @@ The emperor and his retinue would only reside at Machu Picchu for part of the ye
  -->
 
 ---
+
+<Asterisk />
 
 ![Intihuatana, Machu Picchu, Peru, c. 1450–1540](https://smarthistory.org/wp-content/uploads/2023/04/7914094258_d0d6328f09_o.jpg)
 

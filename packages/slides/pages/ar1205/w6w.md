@@ -253,6 +253,8 @@ color: black
 
 ---
 
+<Asterisk />
+
 ![Two Flasks, Ming dynasty, 1403–1424 (reign of Yongle emperor). Porcelain with decoration painted in underglaze cobalt blue.](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Two_flasks_with_dragons.jpg/3840px-Two_flasks_with_dragons.jpg)
 
 <!-- 
