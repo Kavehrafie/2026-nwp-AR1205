@@ -255,6 +255,8 @@ From 1630 to 1654, the Dutch colony in northern Brazil, appropriated from the Po
 color: black
 ---
 
+<Asterisk />
+
 ![Jacob van Ruisdael, _View of Haarlem with Bleaching Grounds_, c. 1665. Oil on canvas](https://upload.wikimedia.org/wikipedia/commons/0/07/View_of_Haarlem_with_Bleaching_Grounds_c1665_Ruisdael.jpg)
 
 
@@ -628,7 +630,7 @@ Rembrandt’s almost obsessive relationship with his own visage could be viewed 
 
 ![Rembrandt, Self-portrait with Two Circles, c. 1665–69, oil on canvas, 114.3 cm x 94 cm wide ](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rembrandt_Self-portrait_%28Kenwood%29.jpg/1920px-Rembrandt_Self-portrait_%28Kenwood%29.jpg)
 
-<Asterisks />
+<Asterisk />
 
 <!-- 
 
