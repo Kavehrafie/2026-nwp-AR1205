@@ -18,11 +18,23 @@
 == Baroque 
 Baroque (c. 1580--c. 1700) grew out of the Catholic Reformation, and is a powerfully persuasive style based on rhetoric and drama. It also expanded---via the Iberian and French empires and the Dutch trading network—into the Americas and colonial Africa and Asia: to places such as Lima, Mozambique and Goa. … In fact, Baroque art and architecture cannot be fully appreciated without considering these Latin American, African and Asian variants.
 
+== Blue-and-White Porcelain
+A type of ceramic ware featuring white clay bodies decorated with blue pigment under a transparent glaze, originating in China during the Tang dynasty (618--907 CE) but perfected during the Yuan (1271--1368) and Ming (1368--1644) dynasties. The cobalt blue pigment, imported from Persia, was painted onto the unfired porcelain and then covered with a clear glaze before high-temperature firing. This technique created durable, elegant wares that became highly prized trade objects throughout Asia, the Islamic world, and eventually Europe, where they inspired imitations at factories like Meissen and Delft.
+
+== Cabinet of Curiosity
+Also known as _Kunstkammer_ or _Wunderkammer_, these were encyclopedic collections of objects that emerged in Renaissance Europe, particularly among nobility and scholars. These private spaces housed diverse specimens including natural history (minerals, shells, exotic animals), scientific instruments, archaeological artifacts, art objects, and ethnographic materials from newly discovered lands. Cabinets of curiosity represented the microcosm of the world and reflected the collector's wealth, learning, and power, serving as precursors to modern museums and embodying the Renaissance fascination with classification, wonder, and the unity of knowledge.
+
+== Chiaroscuro
+Italian term meaning "light-dark"; a technique that uses strong contrasts between light and shadow to create a sense of volume and three-dimensionality in painting. Unlike the more dramatic tenebrism, chiaroscuro typically employs a more balanced and gradual transition between illuminated and shadowed areas. The technique was pioneered by artists like Masaccio and perfected by Leonardo da Vinci, Caravaggio, and Rembrandt. Chiaroscuro can refer to the modeling of individual figures or to the overall lighting scheme of a composition, and it became a fundamental element of Western painting after the Renaissance.
+
 == Contrapposto
 An Italian term meaning "counterpoise" or "counterbalance." It describes the pose of a standing human figure where most weight is placed on one foot, causing the shoulders and arms to twist off-axis from the hips and legs. This creates a dynamic, naturalistic sense of movement that was revived and perfected during the Renaissance, most notably in Donatello's _David_ and Michelangelo's _David_.
 
 == Glazing
 A painting technique where thin, transparent or semi-transparent layers of oil paint are applied over an opaque underlayer. Each glaze modifies the appearance of the layers beneath, creating luminous, rich colors and subtle tonal transitions. This technique was mastered by Renaissance and Baroque painters such as Titian, Vermeer, and Rembrandt to achieve depth and optical brilliance.
+
+== Genre Painting
+A category of art that depicts scenes from everyday life, ordinary people, and common activities, as opposed to religious, historical, or mythological subjects. Genre painting emerged as a distinct category in 16th-century Northern Renaissance art and flourished in 17th-century Dutch art, where artists like Johannes Vermeer, Pieter de Hooch, and Jan Steen captured domestic interiors, tavern scenes, peasant life, and moments of leisure. These paintings often carried moral, symbolic, or social commentary beneath their seemingly mundane surfaces, reflecting the values and concerns of the rising middle class.
 
 == Guild
 An association of craftsmen or merchants in medieval and Renaissance Europe that regulated trade, maintained quality standards, and provided training through apprenticeship systems. Artists were typically organized into guilds (such as the Guild of Saint Luke in Northern Europe), which controlled commissions, set prices, and ensured professional standards. Guild membership was essential for artists to receive commissions and establish workshops.
@@ -32,6 +44,9 @@ An intellectual movement of the Renaissance that emphasized the study of classic
 
 == Linear Perspective
 A mathematical system for creating the illusion of three-dimensional space on a two-dimensional surface, developed in Florence in the early 15th century. Based on the principle that parallel lines appear to converge at a single vanishing point on the horizon line, linear perspective allows artists to create convincing spatial depth. The technique was formalized by the architect Filippo Brunelleschi and theorized by Leon Battista Alberti in his treatise _De pictura_ (1435).
+
+== Literati Painting
+Also known as _wenrenhua_ in Chinese, this tradition of painting emerged during the Song dynasty (960--1279 CE) and was practiced by scholar-officials (literati) as a means of self-expression rather than professional craftsmanship. Literati painters valued personal expression, calligraphic brushwork, and the "three perfections" of painting, poetry, and calligraphy over realistic representation or technical perfection. They typically worked in monochrome ink on paper or silk, depicting landscapes, bamboo, plum blossoms, orchids, and chrysanthemums (the "Four Gentlemen") as symbols of moral virtue. This tradition, exemplified by artists like Ni Zan, Dong Qichang, and Shitao, emphasized the artist's cultivation and spiritual state over mere technical skill.
 
 == Lost Wax Casting
 An ancient bronze casting technique where a sculpture is first modeled in wax, then enclosed in a clay mold. When heated, the wax melts and flows out (hence "lost wax"), leaving a cavity that is filled with molten bronze. After cooling, the mold is broken to reveal the bronze sculpture. This method, dating back to ancient times, allowed Renaissance artists like Donatello to create complex, detailed bronze sculptures with high precision.
@@ -59,6 +74,9 @@ Rococo (c. 1700--c. 1800) began as decor, a whimsical, more intimate style that 
 
 == Sfumato
 Italian term meaning "smoky" or "vanished like smoke." A painting technique, perfected by Leonardo da Vinci, that involves applying subtle, translucent layers of glaze to create soft, imperceptible transitions between colors and tones, eliminating harsh outlines. This technique creates atmospheric perspective and a sense of three-dimensional volume, most famously seen in the enigmatic smile of the _Mona Lisa_ and the soft modeling of faces in Leonardo's _Virgin of the Rocks_.
+
+== Tenebrism
+From Italian _tenebroso_ meaning "shadowy" or "gloomy." A dramatic style of painting characterized by violent contrasts between light and dark, where large areas of shadow are punctuated by brilliant, often single-source illumination. Unlike chiaroscuro's more subtle modeling, tenebrism creates theatrical, emotionally charged effects that seem to spotlight specific figures or details while plunging much of the composition into darkness. The style was pioneered by Caravaggio in the early 17th century and spread throughout Europe, influencing artists like Georges de La Tour in France, José de Ribera in Spain, and Rembrandt in the Netherlands. Tenebrism became a hallmark of Baroque art, particularly in its most dramatic and spiritually intense expressions.
 
 == Triptych
 A specific type of polyptych consisting of three panels, typically a larger central panel flanked by two narrower side panels. Often used as altarpieces in churches, triptychs could be hinged so the side wings closed over the center, protecting the painting and revealing different images for different liturgical occasions. Famous examples include Hieronymus Bosch's _Garden of Earthly Delights_ and Robert Campin's _Mérode Altarpiece_.
