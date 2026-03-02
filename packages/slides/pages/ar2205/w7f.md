@@ -17,6 +17,47 @@ Friday, Feb 27, 2026
 
 ---
 layout: quote
+author: "Lucy Lippard, \"Escape Attempt\", 1970"
+---
+
+Conceptual art, for me, means work in which the idea is paramount and the material form is secondary, lightweight, ephemeral, cheap, unpretentious, and/or "dematerialized."
+
+---
+
+![Dr. Benjamin Spock, third from left, and Dr. Martin Luther King, third from right, are among the leaders in a parade on State Street, protesting the Vietnam conflict in Chicago, March 25, 1967. Dr. Spock is co-chairman of the National Committee for Sane Nuclear Policy.](https://images.squarespace-cdn.com/content/v1/57cf18ae6b8f5ba693497e1a/3e69f90b-c585-4e68-87d8-8ecf97223ef4/AP_670325035.jpg?format=2500w)
+
+<!-- 
+
+- Vietnam War protests, 1960s and 1970s 
+- the war began during the presidency of Dwight D. Eisenhower, who sent military advisors to support the South Vietnamese government in its fight against the 
+- President Lyndon B. Johnson escalated the U.S. involvement in the war, sending hundreds of thousands of troops to Vietnam and authorizing extensive bombing campaigns. The war was highly controversial and sparked widespread protests across the United States and around the world. Many artists and intellectuals were involved in the anti-war movement, using their platforms to speak out against the war and advocate for peace. The protests were often met with violence from law enforcement, but they played a significant role in shaping public opinion about the war and ultimately contributed to its end.
+- vietname war began in 1955 and lasted until 1975, with the United States becoming heavily involved in the conflict in the 1960s. The war was highly controversial and sparked widespread protests across the United States and around the world. Many artists and intellectuals were involved in the anti-war movement, using their platforms to speak out against the war and advocate for peace. The protests were often met with violence from law enforcement, but they played a significant role in shaping public opinion about the war and ultimately contributed to its end.
+- the civil rights movement, which was a social and political movement in the United States that aimed to end racial segregation and discrimination against African Americans. The movement gained momentum in the 1950s and 1960s, with leaders such as Martin Luther King Jr. advocating for nonviolent resistance and civil disobedience. The movement achieved significant victories, including the Civil Rights Act of 1964 and the Voting Rights Act of 1965, but it also faced significant opposition and violence from those who opposed racial equality.
+
+
+ -->
+
+
+---
+
+![Guerrilla Art Action Group & Art Workers Coalition, And the Babies? Joint protest in front of Pablo Picasso's mural "Guernica" on the occasion of the My Lai massacres (1968), Museum of Modern Art , 8. Januar, 1970,](https://res.cloudinary.com/image-solar/image/upload/v1772466968/2026nwp-ar2205/eflux-babies-105_26_2400tiff_guernicaweb_tp9nsy.jpg)
+
+<!-- 
+ART AND POLITICS meet
+
+- In 1970, a group of artists known as the Guerrilla Art Action Group and the Art Workers Coalition staged a protest in front of Pablo Picasso's mural "Guernica" at the Museum of Modern Art in New York City. The protest was in response to the My Lai Massacre, which occurred during the Vietnam War. The protesters held signs that read "And the Babies?" to draw attention to the fact that innocent civilians, including children, were being killed in the war. The protest was meant to criticize the museum for displaying a work of art that depicted the horrors of war while also benefiting from funding from corporations that were involved in the war effort.
+- the protest was meant to criticize the museum for displaying a work of art that depicted the horrors of war while also benefiting from funding from corporations that were involved in the war effort. The protesters argued that the museum's acceptance of funding from these corporations was hypocritical and undermined the message of "Guernica," which was meant to be a powerful anti-war statement. The protest sparked a public debate about the ethics of museum funding and the role of art in political activism.
+
+
+Kosuth created a fake membership card for the entrance to the MoMA
+-->
+
+
+
+
+
+---
+layout: quote
 color: slate
 author: "David Joselit, _American Art Since 1945_"
 ---
@@ -115,43 +156,6 @@ A chair sits alongside a photograph of a chair and a dictionary definition of th
 
 -->
 
----
-layout: quote
-author: "Lucy Lippard, \"Escape Attempt\", 1970"
----
-
-Conceptual art, for me, means work in which the idea is paramount and the material form is secondary, lightweight, ephemeral, cheap, unpretentious, and/or "dematerialized."
-
-
----
-
-![Dr. Benjamin Spock, third from left, and Dr. Martin Luther King, third from right, are among the leaders in a parade on State Street, protesting the Vietnam conflict in Chicago, March 25, 1967. Dr. Spock is co-chairman of the National Committee for Sane Nuclear Policy.](https://images.squarespace-cdn.com/content/v1/57cf18ae6b8f5ba693497e1a/3e69f90b-c585-4e68-87d8-8ecf97223ef4/AP_670325035.jpg?format=2500w)
-
-<!-- 
-
-- Vietnam War protests, 1960s and 1970s 
-- the war began during the presidency of Dwight D. Eisenhower, who sent military advisors to support the South Vietnamese government in its fight against the 
-- President Lyndon B. Johnson escalated the U.S. involvement in the war, sending hundreds of thousands of troops to Vietnam and authorizing extensive bombing campaigns. The war was highly controversial and sparked widespread protests across the United States and around the world. Many artists and intellectuals were involved in the anti-war movement, using their platforms to speak out against the war and advocate for peace. The protests were often met with violence from law enforcement, but they played a significant role in shaping public opinion about the war and ultimately contributed to its end.
-- vietname war began in 1955 and lasted until 1975, with the United States becoming heavily involved in the conflict in the 1960s. The war was highly controversial and sparked widespread protests across the United States and around the world. Many artists and intellectuals were involved in the anti-war movement, using their platforms to speak out against the war and advocate for peace. The protests were often met with violence from law enforcement, but they played a significant role in shaping public opinion about the war and ultimately contributed to its end.
-- the civil rights movement, which was a social and political movement in the United States that aimed to end racial segregation and discrimination against African Americans. The movement gained momentum in the 1950s and 1960s, with leaders such as Martin Luther King Jr. advocating for nonviolent resistance and civil disobedience. The movement achieved significant victories, including the Civil Rights Act of 1964 and the Voting Rights Act of 1965, but it also faced significant opposition and violence from those who opposed racial equality.
-
-
- -->
-
-
----
-
-![Guerrilla Art Action Group & Art Workers Coalition, And the Babies? Joint protest in front of Pablo Picasso's mural "Guernica" on the occasion of the My Lai massacres (1968), Museum of Modern Art , 8. Januar, 1970,](https://res.cloudinary.com/image-solar/image/upload/v1772466968/2026nwp-ar2205/eflux-babies-105_26_2400tiff_guernicaweb_tp9nsy.jpg)
-
-<!-- 
-ART AND POLITICS meet
-
-- In 1970, a group of artists known as the Guerrilla Art Action Group and the Art Workers Coalition staged a protest in front of Pablo Picasso's mural "Guernica" at the Museum of Modern Art in New York City. The protest was in response to the My Lai Massacre, which occurred during the Vietnam War. The protesters held signs that read "And the Babies?" to draw attention to the fact that innocent civilians, including children, were being killed in the war. The protest was meant to criticize the museum for displaying a work of art that depicted the horrors of war while also benefiting from funding from corporations that were involved in the war effort.
-- the protest was meant to criticize the museum for displaying a work of art that depicted the horrors of war while also benefiting from funding from corporations that were involved in the war effort. The protesters argued that the museum's acceptance of funding from these corporations was hypocritical and undermined the message of "Guernica," which was meant to be a powerful anti-war statement. The protest sparked a public debate about the ethics of museum funding and the role of art in political activism.
-
-
-Kosuth created a fake membership card for the entrance to the MoMA
--->
 
 
 
