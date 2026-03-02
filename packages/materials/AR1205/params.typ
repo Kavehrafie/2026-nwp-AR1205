@@ -228,6 +228,7 @@
     - #link("https://youtu.be/PPwz3iaT71M")[Painting colonial culture: Ingres’s La Grande Odalisque]
     - #link("https://youtu.be/jlVBaqyGKMs")[Théodore Géricault, Raft of the Medusa]
     - #link("https://youtu.be/6skizQlC-uU")[Eugène Delacroix, Liberty Leading the People]
+    - #link("https://youtu.be/iDBJK0y8vb0")[Eugène Delacroix, The Death of Sardanapalus]
     - #link("https://youtu.be/eE7BR9HCffk")[Caspar David Friedrich, Woman at a Window]
     - #link("https://youtu.be/NoCW80MEGXY")[
 J. M. W. Turner, Slave Ship]
@@ -235,35 +236,33 @@ J. M. W. Turner, Slave Ship]
 )
 
 #let session-realism = session(
-"From Romanticism to Realism",
+  "Realism",
   [
     Analysis of the Realist movement and its focus on everyday life.
   
     _Read_:
-    - TBA
-    // - Linda Nochlin, _Realism_ (excerpt)
-
+    - Linda Nochlin, _Realism_ (excerpt)
+    - 
     _Watch_:
     - TBA
   ]
 )
 
 #let session-photography-impressionism = session(
-  "The Modern Gaze: Photography & Impressionism",
+  "Modern Paris of Impressionists",
   [
-    How the invention of photography challenged painting and gave rise to Impressionism.
-  
-    _Key figures_: Daguerre, Talbot, Monet, Renoir, Degas.
+    A look at Impressionism.
+
+    _Key figures_: Renoir, Degas, Manet, Cassatt.
 
     _Read_:
-    - TBA
-    // - #link("https://smarthistory.org/early-photography-niepce-talbot-and-muybridge/")["Early Photography" by Rebecca Jeffrey Easby]
-    // - #link("https://smarthistory.org/a-beginners-guide-to-impressionism/")["A beginner's guide to Impressionism"]
+    - #link("https://smarthistory.org/early-photography-niepce-talbot-and-muybridge/")["Early Photography" by Rebecca Jeffrey Easby]
+    - #link("https://smarthistory.org/a-beginners-guide-to-impressionism/")["A beginner's guide to Impressionism"]
+    - #link("https://smarthistory.org/haussmann-the-demolisher-and-the-creation-of-modern-paris/?tl=haussmann-the-demolisher-and-the-creation-of-modern-paris&sidebar=europe-1800-1900")[Haussmann the Demolisher and the creation of modern Paris]
     
     _Watch_:
-    - TBA
-    // - #link("https://youtu.be/Zn4q3G65x8c")[Daguerre, The Artist's Studio]
-    // - #link("https://youtu.be/rTHb8Qf5bKk")[Monet, Rouen Cathedral Series]
+    - #link("https://youtu.be/Zn4q3G65x8c")[Daguerre, The Artist's Studio]
+    - #link("https://youtu.be/rTHb8Qf5bKk")[Monet, Rouen Cathedral Series]
   ]
 )
 
@@ -544,7 +543,7 @@ J. M. W. Turner, Slave Ship]
   date-note("Artifact V", datetime(year: 2026, month: 4, day: 13), kind: "assignment"),
 
   // Exams
-  date-note("Midterm Exam", datetime(year: 2026, month: 3, day: 2), kind: "exam", body: [Midterm Exam covering material from weeks 1-8.]),
+  date-note("Midterm Exam", datetime(year: 2026, month: 3, day: 2), kind: "exam", body: [Midterm Exam covering material from weeks 1-6.]),
   date-note("Final Exam", datetime(year: 2026, month: 4, day: 16), kind: "exam", body: [Final Exam covering material from weeks 9-14 will be available for 24hr.])
 )
 
