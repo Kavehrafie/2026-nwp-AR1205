@@ -241,10 +241,17 @@ J. M. W. Turner, Slave Ship]
     Analysis of the Realist movement and its focus on everyday life.
   
     _Read_:
-    - Linda Nochlin, _Realism_ (excerpt)
-    - 
+    - Linda Nochlin, _Realism_ (excerpt) 
+    - #link("https://smarthistory.org/daumier-nadar-elevating-photography/?tl=daumier-nadar-elevating-photography&sidebar=europe-1800-1900")[Honoré Daumier, Nadar Elevating Photography to the Height of an Art]
     _Watch_:
-    - TBA
+    - #link("https://youtu.be/HNZTmnngqrM")[Gustave Courbet, A Burial at Ornans]
+    - #link("https://youtu.be/iFHIL6rZnj0")[Gustave Courbet, The Painter’s Studio: A Real Allegory Summing Up Seven Years of My Life as an Artist]
+    - #link("https://youtu.be/kOnzZHJYzb4")[Rosa Bonheur, Plowing in the Nivernais (or The First Dressing)]
+    - #link("https://youtu.be/Dk1nuM5JKqQ")[Jean-François Millet, The Gleaners]
+    - #link("https://youtu.be/2GD1Oz0sPzY")[Édouard Manet, The Railway]
+    // - #link("https://youtu.be/K3XTsNlcDS8")[Édouard Manet, Plum Brandy]
+    - #link("https://youtu.be/3xBGF8H3bQ4")[Édouard Manet, Le déjeuner sur l’herbe (Luncheon on the Grass)]
+
   ]
 )
 
@@ -256,13 +263,21 @@ J. M. W. Turner, Slave Ship]
     _Key figures_: Renoir, Degas, Manet, Cassatt.
 
     _Read_:
+    - Richard R. Brettell, "Impressionism" in _Modern Art 1851--1929_ 
     - #link("https://smarthistory.org/early-photography-niepce-talbot-and-muybridge/")["Early Photography" by Rebecca Jeffrey Easby]
-    - #link("https://smarthistory.org/a-beginners-guide-to-impressionism/")["A beginner's guide to Impressionism"]
+    // - #link("https://smarthistory.org/a-beginners-guide-to-impressionism/")["A beginner's guide to Impressionism"]
     - #link("https://smarthistory.org/haussmann-the-demolisher-and-the-creation-of-modern-paris/?tl=haussmann-the-demolisher-and-the-creation-of-modern-paris&sidebar=europe-1800-1900")[Haussmann the Demolisher and the creation of modern Paris]
     
     _Watch_:
-    - #link("https://youtu.be/Zn4q3G65x8c")[Daguerre, The Artist's Studio]
-    - #link("https://youtu.be/rTHb8Qf5bKk")[Monet, Rouen Cathedral Series]
+    - #link("https://youtu.be/EtTGyLsR7lk")[Charles Garnier, The Paris Opéra]
+    - #link("https://youtu.be/7CqWCMmb2g0")[Edgar Degas, Little Dancer Age Fourteen]
+    - #link("https://youtu.be/mgqAfsqkuTs")[Berthe Morisot, Young Woman Watering a Shrub]
+    - #link("https://youtu.be/U8d45ETt78o")[Gustave Caillebotte, Paris Street; Rainy Day]
+    - #link("https://youtu.be/o6amlRsb1n4")[Auguste Renoir, Moulin de la Galette]
+    // - #link("https://youtu.be/vLaenIrxAXU")[Claude Monet, Wheatstacks (Snow Effect, Morning)]
+    - #link("https://youtu.be/DWHJx0kFQCo")[Claude Monet, Rouen Cathedral Series]
+    - #link("https://youtu.be/O4St29B7cmU")[Mary Cassatt, The Child’s Bath]
+
   ]
 )
 
@@ -272,11 +287,19 @@ J. M. W. Turner, Slave Ship]
     Exploration of Post-Impressionist artists and their diverse styles.
 
     _Read_:
-    - TBA
     // - Carol Mavor, "Gauguin in Black and Blue" in #text(style: "italic")[@CCMEA]
+    - Richard R. Brettell, "Symbolism" & "Post-Impressionism" in _Modern Art 1851--1929_
+    - #link("https://smarthistory.org/neo-impressionist-color-theory/?tl=neo-impressionist-color-theory&sidebar=europe-1800-1900")[Neo-Impressionist Color Theory]
 
     _Watch_:
-    - TBA
+    - #link("https://youtu.be/XBPgPEo0Xx4")[Paul Cézanne, Still Life with Plaster Cupid]
+    - #link("https://youtu.be/KJuYXFHvRaY")[Paul Cézanne, Mont Sainte-Victoire]
+    - #link("https://youtu.be/9bs1iQ14LJY")[Georges Seurat, Bathers at Asnières]
+    - #link("https://youtu.be/_HinBYpuaiA")[Vincent van Gogh, The Potato Eaters]
+    - #link("https://youtu.be/E1tA9-ypx0g")[Vincent van Gogh, The Bedroom]
+    - #link("https://youtu.be/ndwOgL3ZgCQ")[Vincent van Gogh, The Starry Night]
+    - #link("https://youtu.be/pQu1RMIkg3c")[Paul Gauguin, Nevermore]
+    - #link("https://youtu.be/XLcbGHNFcpM")[Henri de Toulouse-Lautrec, At the Moulin Rouge]
   ]
 )
 
@@ -439,7 +462,7 @@ J. M. W. Turner, Slave Ship]
     - TBA
 
     _Watch_:
-    - TBA
+
   ]
 )  
 
