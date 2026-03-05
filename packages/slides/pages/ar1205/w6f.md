@@ -1,8 +1,8 @@
 ---
 layout: cover
 transition: slide-left
-color: blue
-background: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Two_flasks_with_dragons.jpg/3840px-Two_flasks_with_dragons.jpg
+color: pink
+background: https://res.cloudinary.com/image-solar/image/upload/v1772634329/2026nwp-ar1205/www.artic.edu_artworks_20994_double-flowered-cherry-motoura-of-the-minami-yamasakiya-minami-yamasakiya-uchi-motoura-yaezakura-from-the-series-beauties-of-the-floating-world-compared-to-flowers-ukiyo-bijin-hana-ni-yosu_avdmd4.png
 title: "Week 6: <b>Fri,  Feb 13</b>"
 level: 1
 ---
@@ -398,7 +398,7 @@ color: black
 
 <Asterisk />
 
-![Ogata Kōrin, _Red and White Plum Blossoms_, ](https://upload.wikimedia.org/wikipedia/commons/4/4f/Red_and_White_Plum_Blossoms.jpg)
+![Ogata Kōrin, _Red and White Plum Blossoms_, 18th century](https://upload.wikimedia.org/wikipedia/commons/4/4f/Red_and_White_Plum_Blossoms.jpg)
 
 <!-- 
 It’s a Japanese screen pair of two hinged panels.
@@ -410,9 +410,145 @@ What we see are two plum trees. The one on the left has white flowers, and the o
  -->
 
 ---
+hide: true
+---
+
+<div flex gap-2 w-120 flex-col m-auto>
+
+![Ogata Kōrin, _Irises at Yatsuhashi (Eight Bridges) (left)_, the 18th century](https://upload.wikimedia.org/wikipedia/commons/d/de/Irises_at_Yatsuhashi_%28right%29.jpg)
+
+![Ogata Kōrin, _Irises at Yatsuhashi (Eight Bridges) (right)_, the 18th century](https://upload.wikimedia.org/wikipedia/commons/d/de/Irises_at_Yatsuhashi_%28right%29.jpg)
+</div>
 
 
+---
 
+![Nagasawa Rosetsu, Bull and Puppy, Edo period, late 18th century. Left of a pair of six-panel screens with ink and gold wash on paper,](https://res.cloudinary.com/image-solar/image/upload/v1772652562/2026nwp-ar1205/374L_71.MN.X_qiodjo.jpg)
+
+<!-- 
+
+NAGASAWA ROSETSU By the middle of the eighteenth century, the taste of wealthy Kyoto merchants had shifted, influencing the styles of artists who competed for their patronage. The public was enthralled with novel imagery captured in magnifying glasses, telescopes, and an optical device that enhanced the three-dimensional effects of Western-style perspective pictures. Schools of independent artists emerged in Kyoto to satisfy demands for naturalistic-style paintings that reflected this fascination. The most influential was founded by Maruyama Okyo, who had perfected methods to incorporate Western shading and perspective into a more native Japanese decorative style, creating a sense of volume new to East Asian painting, while still retaining a sense of familiarity. 
+
+
+Okyo’s most famous pupil was Nagasawa Rosetsu (1754–1799), a painter of great natural talent who added his own boldness and humor to his master’s tradition. Rosetsu delighted in surprising his viewers with odd juxtapositions and unusual compositions. One of his finest works is a pair of screens, the left one depicting a BULL AND PUPPY (FIG. 26–11). The bull is so immense that his mammoth body exceeds the borders of the screen, an effect undoubtedly influenced by new optical devices. The tiny puppy, white against the dark gray of the bull, helps to emphasize the bull’s huge size through its contrasting smallness. The puppy’s relaxed and informal pose, looking happily straight out at the viewer, gives this powerful painting a humorous touch that increases its charm. In the hands of a master such as Rosetsu, simple and common subject matter became simultaneously delightful and monumental.
+
+
+ -->
+
+---
+
+![Ike Taiga, Landscapes in Summer and Winter, 18th century](https://upload.wikimedia.org/wikipedia/commons/e/e6/Ike_Taiga_-_Landscapes_in_Summer_and_Winter_-_64.55.1_-_Metropolitan_Museum_of_Art.jpg)
+
+<!-- 
+### literati painting in Kyoto
+
+Because the city of Kyoto was far from the watchful eyes of the government in Edo, and the emperor resided there with his court, it enjoyed a degree of privilege and independence not found in any other Japanese city. These conditions allowed for the creation of art in the new Rinpa and naturalistic styles. They also encouraged the emergence of new schools of philosophy based on interpretations of Chinese Confucianism that disagreed with those taught at schools sponsored by Tokugawa shoguns. These new interpretations incorporated ideas from Chinese Daoism, which promoted the cultivation of a person’s uniqueness, thus encouraging artistic creativity. Kyoto’s intellectuals, who admired Chinese culture, even created a new, more informal tea ceremony of their own,  featuring steeped tea called sencha because this was the tea drunk by Ming-dynasty Chinese literati. They did this as a political protest—by then chanoyu had become encumbered by rules and was closely associated with the repressive shogunate. Influenced by such new ideas, a Chinese manner of painting arose in the mid eighteenth century in emulation of literati painting.
+
+Artists who embraced this style—both professionals who painted for paying clients and amateurs who painted for their own enjoyment—quickly grew to number in the hundreds as its popularity spread throughout Japan, along with increased interest in drinking sencha and other aspects of Chinese culture. These artists learned about Chinese literati painting not only from the paintings themselves, but also from woodblock-printed painting manuals imported from China, and Chinese emigrant monks and merchants who lived in Japan. 
+
+The best and most successful of these artists took Chinese literati painting models as starting points for their own original interpretations of literati themes. One of them was Ike Taiga (1723–1776), admired as much for his magnetic personality as for his art. He was born into a poor farming family near Kyoto and showed innate talent for painting at a young age. Moving to Kyoto in his teens, he became friends with Chinese scholars there, including those who promoted drinking sencha. Taiga became a leader in this group, attracting admirers who were enamored of both his quasi-amateurish painting style and his quest for spiritual self-cultivation.
+
+
+-->
+
+---
+layout: section
+color: blue-light
+---
+
+### Ukiyo-e (浮世絵, "pictures of the floating world")
+
+<!-- 
+### Ukiyo-e (浮世絵, "pictures of the floating world")
+This school of popular graphic art recorded the life, fashions and entertainments of the Japanese urban population in the 17th, 18th and the early 19th centuries.
+
+Edo served as the shogun’s capital as well as the center of a flourishing popular culture associated with tradespeople.  Deeply Buddhist, commoners were acutely aware of the transience of life, symbolized, for example, by the cherry tree which blossoms so briefly. Putting a positive spin on this harsh realization, they sought to live by the mantra: Let’s enjoy life to the fullest as long as it lasts. This they did to excess in the restaurants, theaters, bathhouses, and brothels of the city’s pleasure quarters, named after the Buddhist phrase ukiyo (“floating world”). Every major city in Japan had these quarters, and most were licensed by the government. But those of Edo were the largest and most famous. The heroes of the floating world were not famous samurai or aristocratic poets. Instead, swashbuckling kabuki actors and beautiful courtesans were admired. These paragons of pleasure soon became immortalized in paintings and—because paintings were too expensive for common people—in woodblock prints known as ukiyo-e (“pictures of the floating world;” see “Japanese Woodblock Prints” opposite). Most prints were inexpensively produced by the hundreds and not considered serious fine art. Yet when first imported to Europe and America, they were immediately acclaimed and strongly influenced late nineteenth- and early twentieth-century Western art
+
+-->
+
+
+---
+color: pink-light
+hide: true
+---
+
+![Suzuki Harunobu, The Flowers of Beauty in the Floating World: Motoura and Yaezakura of the Minami Yamasakiya, Edo period, 1769. Polychrome woodblock print on paper, 28.9 × 21.8 cm.](https://res.cloudinary.com/image-solar/image/upload/v1772634329/2026nwp-ar1205/www.artic.edu_artworks_20994_double-flowered-cherry-motoura-of-the-minami-yamasakiya-minami-yamasakiya-uchi-motoura-yaezakura-from-the-series-beauties-of-the-floating-world-compared-to-flowers-ukiyo-bijin-hana-ni-yosu_avdmd4.png)
+
+<!-- 
+
+HARUNOBU: The first woodblock prints had no color, only black outlines. Soon artists were adding colors by hand, but to produce colored prints more rapidly they gradually devised a system to print them using multiple blocks. The first artist to design prints that took advantage of this new technique, known as nishiki-e (“brocade pictures”), was Suzuki Harunobu (1724–1770), famous for his images of courtesans
+
+### painting 
+Perched on a window seat, a young woman pauses from smoking her pipe while the girl at her side peers intently through a telescope at boats in the bay below (FIG. 26–1). The scene takes place in the city of Edo (now Tokyo) in the 1760s, during an era of peace and prosperity that had started some 150 years earlier when the Tokugawa shoguns unified the nation. Edo was then the largest city in the world, with over 1 million inhabitants: samurai-bureaucrats and working-class townspeople. The commoners possessed a vibrant culture centered in urban entertainment districts, where geisha and courtesans, such as the lady and her young trainee portrayed in this woodblock print, worked.
+
+### Encountering the West
+The Japanese had first encountered Westerners Portuguese traders—in the mid sixteenth century. The Dutch reached Japan by 1600 and brought tobacco and, soon after that, the telescope and other exotic optical devices—including spectacles and microscopes—as well as other objects, including books, many illustrated. The Japanese eagerly welcomed these foreign goods and imitated foreign customs, which conferred an air of sophistication on the user. Looking through telescopes like the one in this print was a popular amusement of courtesans and their customers. It conveyed the sort of sexual overtones—because of the telescope’s phallic shape—that characterized the ribald humor then in vogue.
+
+-->
+
+---
+color
+---
+
+![oshusai Sharaku, Otani Oniji in the Role of Yakko Edobe, Edo period, 1794. Polychrome woodblock print with ink, colors, and white mica on paper,](https://upload.wikimedia.org/wikipedia/commons/0/0e/Toshusai_Sharaku-_Otani_Oniji%2C_1794.jpg)
+
+<!-- 
+
+Toshusai Sharaku is one of the most mysterious, if today among the most admired, masters of ukiyo-e. He seems to have been active less than a year in 1794–1795, during which he produced 146 prints, of which all but ten are pictures of famous actors in a popular form of theater known as kabuki. He was renowned for half-length portraits that captured the dramatic intensity of noted performers outfitted in the costumes and makeup of the characters they played on stage. Much as people today buy posters of their favorite sports, music, or movie stars, in the Edo period people clamored for images of their kabuki idols. The crossed eyes, craning neck, and stylized gestures of Sharaku’s portrayal of actor OTANI ONIJI (FIG. 26–13) capture a frozen, tension-filled moment in an action-packed drama, precisely the sort of stylized intensity that was valued in kabuki performance.
+
+
+### PROCESS
+
+The production of woodblock prints combined the expertise of three individual specialists: the artist, the carver, and the printer. Coordinating and funding this collaborative endeavor was a publisher, who commissioned the project and distributed the prints to stores or traveling vendors, who would sell them. The artist designed and supplied the master drawing for the print, executing its outlines with brush and ink on tissue paper. Colors might be indicated, but more often they were understood or determined later. 
+
+The drawing was passed on to the carver, who pasted it face down on a hardwood block—preferably cherrywood—so that the outlines were visible through the tissue paper in reverse. A light coating of oil might be brushed on to make the paper more transparent, allowing the drawing to stand out even more clearly. The carver then cut around the lines of the drawing with a sharp knife, always working in the same direction as the original brushstrokes. The rest of the block was then chiseled away, leaving only the outlines in relief. This block, which reproduced the master drawing, was called the key block. If the print was to be polychrome, involving multiple colors, prints made from the key block were in turn pasted face down as carving guides on blocks that would become the color blocks. Each color generally required a separate block, although both sides of a block might be used for economy. 
+
+Once the blocks were completed, the printer took over. Paper for printing was covered lightly with animal glue (gelatin), and before printing, the coated paper was lightly moistened so that it would take ink and color well. Water-based ink or color was brushed over the blocks, and the paper was placed on top and rubbed with a smooth, padded device called a baren until the design was completely transferred. The key block was printed first, then the colors, one by one. Each block was carved with two small marks called registration marks, in exactly the same place in the margins, outside of the image area—an L in one corner, and a straight line in another. By aligning the paper with these marks before letting it fall over the block, the printer ensured that the colors would be placed correctly within the outlines. One of the most characteristic effects of later Japanese prints is a grading of color from dark to pale. This was achieved
+
+
+ -->
+
+---
+layout: two-cols
+---
+
+:: left ::
+
+![Toshusai Sharaku (active 1794-1795), the actor Matsumoto Yonesaburo as the courtesean Kewaizaka no Shosho, actually Shinobu, the younger daughter of Matsushita Mikinoshin, 1794. Woodblock print. ](https://res.cloudinary.com/image-solar/image/upload/v1772653874/2026nwp-ar1205/composite-2400_oqiglq.jpg)
+
+:: right ::
+
+![Toshusai Sharaku (active 1794-95), Matsumoto Koshiro IV as fish seller Sakanaya Gorobei, 1794; Toshusai Sharaku (active 1794-95), Actor Onoe Matsusuke I as Matsushita Mikinojo, 1794](https://res.cloudinary.com/image-solar/image/upload/v1772653919/2026nwp-ar1205/new-comp_mahlsk.jpg)
+
+---
+
+![Katsushika Hokusai, Fine Wind, Clear Weather, also known as Red Fuju, from the series Thirty-six Views of Mount Fuji, c. 1830–31, woodblock print, ink and color on paper, 24.4 x 38.1 cm](https://smarthistory.org/wp-content/uploads/2023/11/SC130557-1536x1041.jpg)
+
+<!-- 
+
+THE GREAT WAVE (FIG. 26–14) is the most famous of the scenes from Thirty-Six Views of Mount Fuji. The great wave rears up like a dragon with claws of foam,  ready to crash down on the figures huddled in the boats below. Exactly at the point of imminent disaster, but far in the distance, rises Japan’s most sacred peak, Mount Fuji, whose slopes swing up like waves and whose snowy crown is like foam—comparisons the artist makes clear in the wave nearest us. In the late nineteenth century when Japonisme, a style of French and American nineteenth-century art that was highly influenced by Japanese art, became the vogue in the West, Hokusai’s art was greatly appreciated, even more so than it had been in Japan: The first book on the artist was published in France.
+
+ -->
+
+---
+color: sky-light
+---
+
+<Asterisk />
+
+![Katsushika Hokusai, Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei), c. 1830–32, polychrome woodblock print, ink and color on paper, 25.7 x 37.9 cm](https://smarthistory.org/wp-content/uploads/2023/11/DP130155-1536x1032.jpg)
+
+
+<!-- 
+During the first half of the nineteenth century, pictures of famous sights of Japan grew immensely popular. The two most famous ukiyo-e printmakers, Utagawa Hiroshige (1797–1858) and Katsushika Hokusai (1760–1849) (see Chapter 31), specialized in this genre. Hiroshige’s Fifty-Three Stations of the Tokaido and Hokusai’s Thirty-Six Views of Mount Fuji became the most successful sets of graphic art the world has known. The woodblocks were printed, and printed again, until they wore out. They were then recarved, and still more copies were printed. This process continued for decades, and thousands of prints from the two series still survive. 
+
+Despite the fact that it was created at a time when Japanese trade was heavily restricted, Hokusai’s print displays the influence of Dutch art and proved to be inspirational for many artists working in Europe later in the 19th century.
+
+
+ -->
+
+---
+hide: true
 ---
 
 Japonisme: Indeed, Japanese works ofart became potent catalysts for newdesigns in many disciplines, particularlyaffecting the ceramic industry,furniture making and textile desig.
@@ -424,43 +560,20 @@ Japonisme: Indeed, Japanese works ofart became potent catalysts for newdesigns i
 - 1860s: the foreign visitors to Japan, including artists and collectors, begin to bring back Japanese art and design to Europe, leading to the rise of Japonisme in the late 19th century.
 
 ---
-
-### Ukiyo-e (浮世絵, "pictures of the floating world")
-
-<!-- 
-### Ukiyo-e (浮世絵, "pictures of the floating world")
-This school of popular graphic art recorded the life, fashions and entertainments of the Japanese urban population in the 17th, 18th and the early 19th centuries.
-
- -->
-
----
-color: pink-light
+hide: true
 ---
 
-![Suzuki Harunobu, The Flowers of Beauty in the Floating World: Motoura and Yaezakura of the Minami Yamasakiya, Edo period, 1769. Polychrome woodblock print on paper, 28.9 × 21.8 cm.](https://res.cloudinary.com/image-solar/image/upload/v1772634329/2026nwp-ar1205/www.artic.edu_artworks_20994_double-flowered-cherry-motoura-of-the-minami-yamasakiya-minami-yamasakiya-uchi-motoura-yaezakura-from-the-series-beauties-of-the-floating-world-compared-to-flowers-ukiyo-bijin-hana-ni-yosu_avdmd4.png)
-
-<!-- 
-Perched on a window seat, a young woman pauses from smoking her pipe while the girl at her side peers intently through a telescope at boats in the bay below (FIG. 26–1). The scene takes place in the city of Edo (now Tokyo) in the 1760s, during an era of peace and prosperity that had started some 150 years earlier when the Tokugawa shoguns unified the nation. Edo was then the largest city in the world, with over 1 million inhabitants: samurai-bureaucrats and working-class townspeople. The commoners possessed a vibrant culture centered in urban entertainment districts, where geisha and courtesans, such as the lady and her young trainee portrayed in this woodblock print, worked.
-
-### Encountering the West
-The Japanese had first encountered Westerners Portuguese traders—in the mid sixteenth century. The Dutch reached Japan by 1600 and brought tobacco and, soon after that, the telescope and other exotic optical devices—including spectacles and microscopes—as well as other objects, including books, many illustrated. The Japanese eagerly welcomed these foreign goods and imitated foreign customs, which conferred an air of sophistication on the user. Looking through telescopes like the one in this print was a popular amusement of courtesans and their customers. It conveyed the sort of sexual overtones—because of the telescope’s phallic shape—that characterized the ribald humor then in vogue.
-
--->
-
----
-
-<!-- 
 
 
 
 
--->
 
 
 
 ---
 title: "Trading Banned"
 level: 2
+hide: true
 ---
 
 <!-- 
@@ -474,9 +587,3 @@ Not until 1853, when Commodore Matthew Perry of the United States forced Japan t
 
 
 
----
-
-
-![Ogata Kōrin, _Irises at Yatsuhashi (Eight Bridges) (left)_, the 18th century](https://upload.wikimedia.org/wikipedia/commons/d/de/Irises_at_Yatsuhashi_%28right%29.jpg)
-
-![Ogata Kōrin, _Irises at Yatsuhashi (Eight Bridges) (right)_, the 18th century](https://upload.wikimedia.org/wikipedia/commons/d/de/Irises_at_Yatsuhashi_%28right%29.jpg)
