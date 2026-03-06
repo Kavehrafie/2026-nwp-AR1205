@@ -16,43 +16,6 @@ level: 1
 Monday, Mar 2, 2026
 
 ---
-
-![Ed Ruscha, _Twentysix Gasoline Stations_, 1963](https://res.cloudinary.com/image-solar/image/upload/v1772480800/2026nwp-ar2205/1_Mp9omPpDHtDa2-TDvn9RUw_gehv79.webp)
-
-
-<!-- 
-
-- Ed Ruscha, _Twentysix Gasoline Stations_, 1963
-- Ed Ruscha, 26 Gasoline Stations, 1963, Halftone reproduction
-- recorded exactly that - the 26 gas stations along Route 66 between Los Angeles and Oklahoma City
-- the book's title is the same as the work itself, emphasizing the conceptual nature of the piece 
- 
- Taken on his journey from Los Angeles to Oklahoma whilst in his car, he manages to represent the subject that is rather a banal and quotidian space, as a collection of facts. What Ruscha has photographed is not composed, as he attempts to create a document of the real and exemplifies this idea of the American experience. ‘Twenty-six gasoline stations’ is a series of images that elucidate a ready made piece of art, gas stations.
- -->
-
----
-
-![Bernd Becher and Hilla Becher, _Pitheads_, 1974](https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-1440_fzeA7dU.jpg)
-
-<!-- 
-Hilla Becher was a German artist born in 1931 in Siegen, Germany. She was one half of a photography duo with her husband Bernd Becher. For forty years, they photographed disappearing industrial architecture around Europe and North America.
-- like: water towers, blast furnaces, gas tanks, coal mines, and grain elevators
-
- -->
-
----
-
-![Bernd and Hilla Becher, _Gas Tanks_, 1988](https://assets.phillips.com/t_Website_CuratedAuction_TwoColumnsOneRowNoPad/auctions/UK010624/204714_001.jpg)
-
----
-layout: quote
-author: "Bernd and Hilla Becher"
----
-
-We wanted to provide a viewpoint or rather a grammar for people to understand and compare different structures.
-
-
----
 layout: two-cols
 ---
 
@@ -99,6 +62,48 @@ Antin’s “traditional” sculpture is a witty and humorously feminist attack 
 
  -->
 
+
+
+
+---
+
+![Ed Ruscha, _Twentysix Gasoline Stations_, 1963](https://res.cloudinary.com/image-solar/image/upload/v1772480800/2026nwp-ar2205/1_Mp9omPpDHtDa2-TDvn9RUw_gehv79.webp)
+
+
+<!-- 
+
+- Ed Ruscha, _Twentysix Gasoline Stations_, 1963
+- Ed Ruscha, 26 Gasoline Stations, 1963, Halftone reproduction
+- recorded exactly that - the 26 gas stations along Route 66 between Los Angeles and Oklahoma City
+- the book's title is the same as the work itself, emphasizing the conceptual nature of the piece 
+ 
+ Taken on his journey from Los Angeles to Oklahoma whilst in his car, he manages to represent the subject that is rather a banal and quotidian space, as a collection of facts. What Ruscha has photographed is not composed, as he attempts to create a document of the real and exemplifies this idea of the American experience. ‘Twenty-six gasoline stations’ is a series of images that elucidate a ready made piece of art, gas stations.
+ -->
+
+---
+
+![Bernd Becher and Hilla Becher, _Pitheads_, 1974](https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-1440_fzeA7dU.jpg)
+
+<!-- 
+Hilla Becher was a German artist born in 1931 in Siegen, Germany. She was one half of a photography duo with her husband Bernd Becher. For forty years, they photographed disappearing industrial architecture around Europe and North America.
+- like: water towers, blast furnaces, gas tanks, coal mines, and grain elevators
+
+ -->
+
+---
+
+![Bernd and Hilla Becher, _Gas Tanks_, 1988](https://assets.phillips.com/t_Website_CuratedAuction_TwoColumnsOneRowNoPad/auctions/UK010624/204714_001.jpg)
+
+---
+layout: quote
+author: "Bernd and Hilla Becher"
+---
+
+We wanted to provide a viewpoint or rather a grammar for people to understand and compare different structures.
+
+
+
+
 ---
 
 ![Martha Rosler, _Red Stripe Kitchen, from the series House Beautiful: Bringing the War Home_, 1967--72](https://res.cloudinary.com/image-solar/image/upload/v1772444508/2026nwp-ar2205/www.artic.edu_artworks_195591_red-stripe-kitchen-from-the-series-house-beautiful-bringing-the-war-home_tbihtp.jpg)
@@ -126,3 +131,20 @@ layout: two-cols
 
 ---
 
+![Bruce Nauman
+Self Portrait as a Fountain
+1966–1967, printed 1970](https://res.cloudinary.com/image-solar/image/upload/v1772799325/2026nwp-ar2205/70_50_9_2_cropped_nj4593.jpg)
+
+---
+
+![Dan Graham, Present Continuous Past(s), 1974](https://res.cloudinary.com/image-solar/image/upload/v1772811523/2026nwp-ar2205/img-4_cnm5u5.jpg)
+
+<div v-drag="[465,105,480,317]" v-click>
+
+![](https://res.cloudinary.com/image-solar/image/upload/v1772811606/2026nwp-ar2205/dan_graham_4.jpg_d9bj3j.webp)
+</div>
+
+<!-- 
+- 
+
+ -->
