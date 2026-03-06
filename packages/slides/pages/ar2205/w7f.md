@@ -337,6 +337,27 @@ layout: two-cols
 Words relating to human want light up in a pulsing cycle, continually evoking and replacing meaning. By offering words and taking them away, this work disrupts viewers' habits of perception. Nauman believes that language is "a very powerful tool"; he was inspired to use neon tubing because of the convincing messages and hypnotic aura of neon advertisements. Here, with irony, the artist uses this flashing commercial medium—with all its wires exposed—to address fundamental elements of human experience.
  -->
 
+---
+
+![Mario Merz, Igloo di Giap (Giap’s Igloo), 1968, metal structure, wire mesh, bags of clay soil, neon, batteries, accumulators, 120 x 200 cm](https://res.cloudinary.com/image-solar/image/upload/v1772817803/2026nwp-ar2205/image_wkynir.jpg)
+
+<div v-drag="[1,4,271,362]" v-click="[1]" class="p-2 bg-white/90 rounded-lg">
+
+arte povera ✏️
+<div>
+
+<!-- 
+
+At first glance, Merz’s Igloo di Giap (translated as Giap’s Igloo) might confuse the viewer with its unusual appearance. It is a four-foot-tall igloo made from a metal frame covered with wire mesh on top of which are clear bags filled with clay soil. Across the surface of the igloo in white neon tubing is written the statement made by Vietnamese General Giáp translated into Italian. 
+
+During his career, he made over 30 igloos in various sizes and with a variety of organic and industrial materials. An igloo is a basic architectural structure that provides shelter and warmth and dates back to ancient nomadic cultures. 
+
+Igloo: a basic architectural structure that provides shelter and warmth and dates back to ancient nomadic cultures.
+
+### Arte Povera ✏️
+- a movement that emerged in Italy in the late 1960s and early 1970s, characterized by the use of everyday materials and a focus on process and concept over traditional aesthetics. The movement was a response to the consumer culture and industrialization of the time, and it sought to challenge traditional notions of art and its relationship to society. Artists associated with Arte Povera often used materials such as clay, wood, metal, and fabric to create works that were meant to be temporary and ephemeral, and that emphasized the process of creation over the final product. The movement had a significant impact on the development of contemporary art in Italy and beyond, and it continues to influence artists today.
+-->
+
 
 ---
 
