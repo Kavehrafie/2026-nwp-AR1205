@@ -490,7 +490,7 @@ The Japanese had first encountered Westerners Portuguese traders—in the mid si
 color
 ---
 
-![oshusai Sharaku, Otani Oniji in the Role of Yakko Edobe, Edo period, 1794. Polychrome woodblock print with ink, colors, and white mica on paper,](https://upload.wikimedia.org/wikipedia/commons/0/0e/Toshusai_Sharaku-_Otani_Oniji%2C_1794.jpg)
+![Toshusai Sharaku, Otani Oniji in the Role of Yakko Edobe, Edo period, 1794. Polychrome woodblock print with ink, colors, and white mica on paper,](https://upload.wikimedia.org/wikipedia/commons/0/0e/Toshusai_Sharaku-_Otani_Oniji%2C_1794.jpg)
 
 <!-- 
 
@@ -553,11 +553,7 @@ hide: true
 
 Japonisme: Indeed, Japanese works ofart became potent catalysts for newdesigns in many disciplines, particularlyaffecting the ceramic industry,furniture making and textile desig.
 
----
 
-- 1858: Japan opens its ports to the West, leading to an influx of Japanese art and design into Europe.
-- from 1639--1858: sakoku (鎖国, "closed country") policy in Japan, which limited foreign influence and trade, leading to a unique development of Japanese art and culture during this period.
-- 1860s: the foreign visitors to Japan, including artists and collectors, begin to bring back Japanese art and design to Europe, leading to the rise of Japonisme in the late 19th century.
 
 ---
 hide: true
@@ -587,3 +583,10 @@ Not until 1853, when Commodore Matthew Perry of the United States forced Japan t
 
 
 
+--- 
+hide: true
+---
+
+- 1858: Japan opens its ports to the West, leading to an influx of Japanese art and design into Europe.
+- from 1639--1858: sakoku (鎖国, "closed country") policy in Japan, which limited foreign influence and trade, leading to a unique development of Japanese art and culture during this period.
+- 1860s: the foreign visitors to Japan, including artists and collectors, begin to bring back Japanese art and design to Europe, leading to the rise of Japonisme in the late 19th century.
