@@ -105,6 +105,14 @@ src: "./pages/ar2205/w8m.md"
 ---
 
 ---
+src: "./pages/ar2205/w8f.md"
+---
+
+---
+src: "./pages/ar2205/w9m.md"
+---
+
+---
 layout: center
 color: zinc-light
 hideInToc: true
