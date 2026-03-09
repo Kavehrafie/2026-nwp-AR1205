@@ -93,14 +93,6 @@ src: "./pages/ar2205/w6f.md"
 ---
 
 ---
-src: "./pages/ar2205/w7m.md"
----
-
----
-src: "./pages/ar2205/w7f.md"
----
-
----
 src: "./pages/ar2205/w8m.md"
 ---
 
@@ -110,6 +102,14 @@ src: "./pages/ar2205/w8f.md"
 
 ---
 src: "./pages/ar2205/w9m.md"
+---
+
+---
+src: "./pages/ar2205/w9f.md"
+---
+
+---
+src: "./pages/ar2205/w10m.md"
 ---
 
 ---

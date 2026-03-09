@@ -177,8 +177,6 @@
 #let feminist_art = session("Feminist Art Movements")[
   Exploration of the history of feminist art movements in the second half of the 20th century.
 
-  *Class Evaluation*
-
   _Read_:
   - #link("https://www.theartstory.org/movement/feminist-art/")["Feminist art movement". The Art Story Foundation.]
   - Amelia Jones from _Body Art_ in #text(style: "italic")[@ATC] 
