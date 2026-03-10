@@ -15,6 +15,14 @@ level: 1
 :: note:: 
 Friday, Mar 6, 2026
 
+<!-- 
+
+### Performance Art
+Performance art is a form of contemporary art that combines visual art with dramatic performance. It often involves the artist using their body as a medium to convey a message or explore a concept. Performance art can take many forms, including live performances, video recordings, and installations. It is often characterized by its emphasis on the process of creation and the interaction between the artist and the audience.
+
+ -->
+
+
 ---
 hide: true
 ---
@@ -94,20 +102,6 @@ Dance has occupied an important aspect of Morris's oeuvre, involving the artist'
 
 
 ---
-color: black
----
-
-![Cut Piece 1964 performed in New Works of Yoko Ono, Carnegie Recital Hall, New York, 21 March 1965](https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Cut-Piece---MNiiz2015_0738-R-full.width-1440.jpg)
-
-<!-- 
-
-Cut Piece, between 1964 and 1966, invited audience members to come up to the stage, cut off a piece of the artist’s best clothes (whatever these might be at the time of the performance) and take it as a gift. This piece also prompted the viewers to leave their comfort zones and go on stage to perform the act of cutting. Under the limelight, they were the ones who were exposed and vulnerable, deciding where and how to cut, when to stop, and so on. Their personalities, attitudes and demeanours were reflected in their actions and became part of the performance. The sitter (who can be anyone, according to the score) became a mirror to reflect the minds of the participants.
-
--->
-
-
-
----
 layout: flex
 ---
 
@@ -153,6 +147,77 @@ In January 1972, Acconci staged one of the decade’s most notorious performance
  -->
 
 ---
+
+![Gilbert and George, The Singing Sculpture in 1970](https://static.standard.co.uk/s3fs-public/thumbnails/image/2017/11/07/13/an-134052788.jpg?quality=75&auto=webp&width=960)
+
+
+<!-- 
+
+once the epmphesise in art shifted to the process, an acknowledgment of bodily presence of the artist as a crucial factor in the process became all but undeniable
+
+The first performance in 1969
+- painted in metalic and standing on a pedastal, singing a song. The performance was meant to challenge traditional notions of art and the role of the artist, as well as to explore themes of identity, sexuality, and the human body.
+- in the later works they emphesized the socvial aspects of the work, for example serving dinner to David Hoknet in front of an audience
+
+### Gilbert and George, The Singing Sculpture in 1970
+Gilbert and George are a British artist duo who have been working together since the late 1960s. They are known for their provocative and often controversial performances, which often involve the use of their own bodies as a medium for artistic expression. One of their most famous performances is "The Singing Sculpture," which took place in 1970. In this performance, Gilbert and George---
+color: black
+
+-->
+
+
+
+
+---
+
+![Joseph Beuys, _Coyote, 'I like America and America Likes Me'_, 1974](https://res.cloudinary.com/image-solar/image/upload/v1773080243/1.tumblr_nws3t86x1g1upy2goo1_1280_gdc6vk.webp)
+
+<!-- 
+- In 1944, after his plane crashed while he was stationed as a rear-gunner in the Crimea, a nomadic Tatar tribesman in the area found him and wrapped him in animal fat and felt to protect and insulate him—so the story went, and Beuys was known to indulge in a fair bit of self-mythologizing.
+- Beuys himself transported by Ambulance wrapped in felt from airport to gallery where he spent 5 days living with a wild coyote. The coyote was a symbol of the American West, and Beuys saw it as a representation of the untamed spirit of the country. By living with the coyote, Beuys hoped to connect with this spirit and to explore the relationship between humans and nature.
+- So began his famous performance work, I Like America and America Likes Me. For three consecutive days, Beuys would spend eight hours living and communing with the coyote, which had been transported to the city after some legal finagling. Opting to get up close and personal with a wild animal may seem peculiar, but for an artist whose past works had included one in which the main event was Beuys cradling a dead hare, this was nothing very out of character
+
+ -->
+
+---
+color: black
+---
+
+![Cut Piece 1964 performed in New Works of Yoko Ono, Carnegie Recital Hall, New York, 21 March 1965](https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Cut-Piece---MNiiz2015_0738-R-full.width-1440.jpg)
+
+<!-- 
+
+Cut Piece, between 1964 and 1966, invited audience members to come up to the stage, cut off a piece of the artist’s best clothes (whatever these might be at the time of the performance) and take it as a gift. This piece also prompted the viewers to leave their comfort zones and go on stage to perform the act of cutting. Under the limelight, they were the ones who were exposed and vulnerable, deciding where and how to cut, when to stop, and so on. Their personalities, attitudes and demeanours were reflected in their actions and became part of the performance. The sitter (who can be anyone, according to the score) became a mirror to reflect the minds of the participants.
+
+-->
+
+---
+
+
+
+<div flex gap-2 m-auto>
+
+![](https://res.cloudinary.com/image-solar/image/upload/v1773080740/maxresdefault-1-1024x576_zmevwu.jpg)
+
+
+![](https://res.cloudinary.com/image-solar/image/upload/v1773081243/abramovic-art-1974-001-rhythm0_0_zljycd.jpg)
+</div>
+
+<div text-xs>
+
+Maria Abramović, _Rhythm 0_, 1974
+</div>
+
+<!-- 
+
+Ulay and Marina Abramović,
+
+the Serbian-born performance artist Maria Abramović is known for her intense and often controversial works that explore themes of pain, endurance, and the relationship between the artist and the audience. One of her most famous performances is "Rhythm 0," which took place in 1974. In this performance, Abramović stood still for six hours while the audience was invited to use any of the 72 objects on a table in front of her on her body in any way they desired. The objects included items such as a rose, a feather, a knife, and a gun. The performance was meant to explore the limits of human endurance and the power dynamics between the artist and the audience.
+- Proceedings wre halted when Abramovic having had all her clothes cut from her was forced to hold a pistol placing the barrel in her open mouth
+
+ -->
+
+---
 layout: two-cols
 ---
 
@@ -172,3 +237,4 @@ Performance artist Chris Burden has taken art, and his body, to the extreme. In 
 ** A .22 Rifle**: In 1971 Chris Burden got shot. Don’t worry, it was part of his art piece, Shoot. Standing 13 feet away from each other, surrounded by bare white walls, a friend shot Burden with a .22 rifle. He explained his motives as thus: “I had an intuitive sense that being shot is as American as apple pie. We see people being shot on TV, we read about it in the newspaper. Everybody has wondered what it’s like. So I did it.”
 
  -->
+
