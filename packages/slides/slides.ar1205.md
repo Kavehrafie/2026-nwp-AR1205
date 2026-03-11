@@ -99,6 +99,10 @@ src: "./pages/ar1205/w7w.md"
 ---
 
 ---
+src: "./pages/ar1205/w7f.md"
+---
+
+---
 layout: center
 color: zinc-light
 hideInToc: true
