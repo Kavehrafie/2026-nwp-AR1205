@@ -48,7 +48,7 @@ Australia, Tasmania, and New Guinea formed a single continent during the last Ic
 
 ![Oceania migration timeline](https://res.cloudinary.com/image-solar/image/upload/v1773240714/2026nwp-ar1205/1722401325-fipet_art_03_lapitaculturalcomplex_mapandtimeline_ft3jzo.webp)
 
-<Box v-drag="[7,238,374,256]" >
+<Box v-drag="[-6,174,374,256]" >
 <div>
 
 ![Terracotta fragments, Lapita people, c. 1000 B.C.E., red-slip earthenware, Santa Cruz Islands, south-east of Solomon Islands](https://smarthistory.org/wp-content/uploads/2016/12/lapitafragment.jpg)
