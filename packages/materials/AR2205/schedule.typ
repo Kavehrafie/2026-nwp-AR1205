@@ -30,9 +30,10 @@
     performance_art,
     feminist_art,
     culture_wars,
+    painting_again,
     what_is_contemporary_art,
     curation,
-    site_specific_art,
+    // site_specific_art,
     community_art,
     // guest, // She is not confirmed 
     biennials,

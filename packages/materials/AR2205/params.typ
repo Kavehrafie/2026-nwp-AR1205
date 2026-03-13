@@ -202,3 +202,11 @@
   _Read_:
   - Jeff Wall, "Marks of Indifference": Aspects of Photography in, or as, Conceptual Art (1995)
 ]
+
+#let painting_again = session("Return to Painting")[
+  Examination of the resurgence of painting since the 1980s and its implications for contemporary art.
+
+  _Read_:
+- "Neo-Expressionist tendencies" in #text(style: "italic")[@MAS]
+
+]
