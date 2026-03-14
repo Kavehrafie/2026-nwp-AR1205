@@ -328,13 +328,14 @@ salatasi: waist cloth
 - 
  -->
 
+
 ---
 
 <div flex gap-2 h-80>
 
 ![Front view](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Wharenui_in_Te_Papa_museum.jpg/1280px-Wharenui_in_Te_Papa_museum.jpg)
 
-![Raharuhi Rukupo, master carver *Te-hau-ki-turanga* (Maori meeting house) Gisborne/Turanga, NewZealand;](https://res.cloudinary.com/image-solar/image/upload/v1773253671/2026nwp-ar1205/T5AAA5W46RBORPWWISH2ZEHPFI_gjgqnw.jpg)
+![Raharuhi Rukupo, master carver Te Hau Ki Turanga House Museum, Gisborne/Turanga, NewZealand;](https://res.cloudinary.com/image-solar/image/upload/v1773253671/2026nwp-ar1205/T5AAA5W46RBORPWWISH2ZEHPFI_gjgqnw.jpg)
 </div>
 
 <div h-40 mt-10>
@@ -354,15 +355,13 @@ temperate New Zealand environment, they began to build
 wooden-frame homes, the largest of which, the chief’s
 house, evolved after Western contact into the meeting
 house (whare nui). The meeting house stands on an open
-plaza (marae), a sacred place where a Maori tribe (iwi) or
-subtribe (hapu) still today greets visitors, discusses impor-
-tant issues, and mourns the dead. In it, tribal history and
-genealogy are recorded and preserved. Created by the master carver Raharuhi Rukupo and his 18 named assistants in
-the early 1840s, TE-HAU-KI-TURANGA is the oldest exist-
+plaza (marae), a sacred place where a Maori tribe (iwi) or subtribe (hapu) still today greets visitors, discusses impor-
+tant issues, and mourns the dead. In it, tribal history and genealogy are recorded and preserved. Created by the master carver Raharuhi Rukupo and his 18 named assistants in the early 1840s, TE-HAU-KI-TURANGA is the oldest exist-
 ing, fully decorated meeting house in New Zealand (FIG.
 28–11).
 
- Built by Rukupo as a memorial to his elder brother,
+
+ Built by Rukupo (who was an important political and religious leader as well as a master carver) as a memorial to his elder brother,
 its name refers to the region of New Zealand where it was
 made—Turanga, today Gisborne and its region, on the
 northeast coast of the North Island. It has been translated
@@ -371,23 +370,10 @@ In this area of New Zealand, the meeting house sym-
 bolizes the tribe’s founding ancestor, for whom it is often
 named. 
 
-The ridgepole is the backbone, the rafters are the
-ribs, and the slanting bargeboards—the boards attached
-to the projecting end of the gable—are the outstretched
-enfolding arms. The face appears in the gable mask. Relief
-figures of ancestors cover the support poles, wall planks,
-and the lower ends of the rafters. The ancestors, in effect,
-support the house. They were thought to take an active
-interest in community affairs and to participate in the dis-
-cussions held in the meeting house. Rukupo, who was an important political and religious leader as well as a master
-carver, included an unusual naturalistic portrait of himself
-among them.
-Painted curvilinear patterns (kowhaiwhai) decorate
-the rafters in white on a red-and-black background. The
-koru pattern, a curling stalk with a bulb at the end that
-resembles the young tree fern, dominates the design sys-
-tem. Lattice panels (tukutuku) made by women fill the
-spaces between the wall planks. Because ritual prohibi-
+- ritual prohibitions, or taboos, prevented women from entering the meeting house
+
+### Women's 
+Because ritual prohibi-
 tions, or taboos, prevented women from entering the meeting house, they worked from the outside and wove
 the panels from the back. They created the black, white,
 and orange patterns from grass, flax, and flat slats. Each
@@ -395,9 +381,60 @@ pattern has a symbolic meaning: chevrons representing
 the teeth of the sea monster Taniwha, steps the stairs of
 heaven climbed by the hero-god Tawhaki, and diamonds
 the flounder.
+
+### inside
+- The ridgepole is the backbone, the rafters are the
+ribs, and the slanting bargeboards—the boards attached
+to the projecting end of the gable—are the outstretched
+enfolding arms. 
+- The face appears in the gable mask. Relief
+figures of ancestors cover the support poles, wall planks,
+and the lower ends of the rafters. 
+
+
  -->
 
+---
 
+![Te Hau Ki Turanga House Museum](https://res.cloudinary.com/image-solar/image/upload/v1773425970/2026nwp-ar1205/new-zealand-te-hau-ki-turanga-house-museum-with-maori-artefacts-wellington-north-island-new_eqkufy.jpg)
+
+<!-- 
+
+- The ancestors, in effect,
+support the house. They were thought to take an active
+interest in community affairs and to participate in the dis-
+cussions held in the meeting house. Rukupo, who was an important political and religious leader as well as a master
+carver, included an unusual naturalistic portrait of himself
+among them.
+
+
+Painted curvilinear patterns (kowhaiwhai) decorate
+the rafters in white on a red-and-black background. The
+koru pattern, a curling stalk with a bulb at the end that
+resembles the young tree fern, dominates the design sys-
+tem. Lattice panels (tukutuku) made by women fill the
+spaces between the wall planks. 
+
+ -->
+
+---
+layout: two-cols
+---
+
+:: left ::
+
+![Instruments for traditional Pacific Island tattoos: hāhau (tapping stick) made of ulei wood, moli (tattoo tool) made of wood and bone, and apu paʻu (ink bowl), made of jade. Date unknown.](https://www.worldhistory.org/uploads/images/10737.jpg?v=1599157803-0)
+
+:: right ::
+
+![Tāwhiao, Second King of the Māori](https://www.worldhistory.org/uploads/images/10690.jpg?v=1605643202-0)
+
+<!-- 
+
+Instruments for traditional Pacific Island tattoos: hāhau (tapping stick) made of ulei wood, moli (tattoo tool) made of wood and bone, and apu paʻu (ink bowl), made of jade. Date unknown.
+
+moko: the traditional Māori tattooing practice, which involves intricate designs that are deeply symbolic and often represent the individual's genealogy, social status, and personal achievements. The process of receiving a moko is considered a rite of passage and is highly respected within Māori culture. The designs can cover the face, body, and limbs, and each pattern has specific meanings. For example, facial tattoos can indicate a person's rank, family history, and tribal affiliations. The tools used for moko include the hāhau (tapping stick) made of ulei wood, the moli (tattoo tool) made of wood and bone, and the apu paʻu (ink bowl) made of jade. The process is traditionally done by a tohunga ta moko, a skilled tattoo artist who is also a cultural expert, ensuring that the designs are appropriate and meaningful for the individual receiving the tattoo.
+ -->
 ---
 hide: true
 ---
