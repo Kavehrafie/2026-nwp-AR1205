@@ -435,7 +435,7 @@ J. M. W. Turner, Slave Ship]
 )
 
 #let session-north-american-indigenous = session(
-  "Native and Indigenous Art",
+  "Indigenous Art in North America",
   [
     Study of indigenous art forms from North American cultures.
 
