@@ -110,6 +110,9 @@ src: "./pages/ar1205/w9w.md"
 src: "./pages/ar1205/w9f.md"
 ---
 
+---
+src: "./pages/ar1205/w10w.md"
+---
 
 
 ---
