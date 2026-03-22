@@ -34,9 +34,9 @@
     what_is_contemporary_art,
     curation,
     // site_specific_art,
+    biennials,
     community_art,
     // guest, // She is not confirmed 
-    biennials,
     // new_media_art,
     ai,
     presentations,

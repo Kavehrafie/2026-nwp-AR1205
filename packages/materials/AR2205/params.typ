@@ -76,7 +76,7 @@
   Discussion on the role of art in community development and social change.
 
   _Read_:
-  - Grant Kester, "Conversation Pieces: Community and Communication in Modern Art"
+  - Grant Kester, "Introduction" in _The One and the Many_
 ]
 
 #let european_post_war = session("European Post-War Art")[

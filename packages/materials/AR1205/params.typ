@@ -459,9 +459,15 @@ J. M. W. Turner, Slave Ship]
     Overview of early 20th-century modernist movements such as Fauvism, Cubism, and Expressionism.
 
     _Read_:
-    - TBA
+    - Richard R. Brettell, _Modern Art 1851--1929_ (excerpts on Fauvism, Cubism, Expressionism, and ...)
 
     _Watch_:
+    - #link("https://youtu.be/nz_zwsgjRbw")[Henri Matisse, The Red Studio]
+    - #link("https://youtu.be/GRTsMJNcHFw")[Pablo Picasso and the new language of Cubism]
+    - #link("https://youtu.be/JAe14gwSvIU")[Raymond Duchamp-Villon, Horse]
+    - #link("https://youtu.be/zfZu--psur8")[Ernst Ludwig Kirchner, Street, Dresden]
+    - #link("https://youtu.be/r3ttwvNvors")[Constantin Brancusi, The Kiss]
+    - #link("https://youtu.be/NaxhuXIpdj0")[A new world after the Russian Revolution: Malevich’s Suprematist Composition: White on White]
 
   ]
 )  
@@ -479,10 +485,16 @@ J. M. W. Turner, Slave Ship]
     Examination of modernist movements between the World Wars.
 
     _Read_:
-    - TBA
+    - Richard R. Brettell, _Modern Art 1851--1929_ (excerpts on Dada and Surrealism)
+    - #link("https://smarthistory.org/the-bauhaus-an-introduction/?tl=the-bauhaus-an-introduction&sidebar=europe-1900-50")["The Bauhaus, an introduction" by Charles Cramer and Kim Grant]
 
     _Watch_:
-    - TBA
+    - #link("https://youtu.be/8YrRdcW3wvQ")[Raoul Hausmann, Spirit of the Age: Mechanical Head]
+    - #link("https://youtu.be/M7yd8F3eay4")[Paul Klee, Twittering Machine (Die Zwitscher-Maschine)]
+    - #link("https://youtu.be/NpWxl4C0OWU")[Piet Mondrian, Composition No. II, with Red and Blue]
+    - #link("https://youtu.be/HUZDPWLTZ0g")[Salvador Dalí, Metamorphosis of Narcissus]
+    - #link("https://youtu.be/2x-2Gdgjx54")[Meret Oppenheim, Object (Fur-covered cup, saucer, and spoon)]
+    - #link("https://youtu.be/n2HWkDrorRg")[Frida Kahlo, Frieda and Diego Rivera]
   ]
 )
 
@@ -495,7 +507,9 @@ J. M. W. Turner, Slave Ship]
     - TBA
 
     _Watch_:
-    - TBA
+    - #link("https://youtu.be/iWBCUpks-ak")[Ben Shahn, Contemporary American Sculpture]
+    - #link("https://youtu.be/j24uh8cZ3wA")[Edward Hopper, Nighthawks]
+    - #link("https://youtu.be/rQ9LbAsRs0I")[Jackson Pollock, Autumn Rhythm (Number 30)]
   ]
 )
 
