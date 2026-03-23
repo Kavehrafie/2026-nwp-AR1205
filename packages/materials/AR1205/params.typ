@@ -495,7 +495,7 @@ J. M. W. Turner, Slave Ship]
     - #link("https://youtu.be/HUZDPWLTZ0g")[Salvador Dalí, Metamorphosis of Narcissus]
     - #link("https://youtu.be/2x-2Gdgjx54")[Meret Oppenheim, Object (Fur-covered cup, saucer, and spoon)]
     - #link("https://youtu.be/n2HWkDrorRg")[Frida Kahlo, Frieda and Diego Rivera]
-  ]
+  ] 
 )
 
 #let session-post-war = session(
@@ -504,12 +504,16 @@ J. M. W. Turner, Slave Ship]
     Overview of Abstract Expressionism and other post-war art movements.
 
     _Read_:
-    - TBA
+    - #link("https://smarthistory.org/the-impact-of-abstract-expressionism/")[The impact of Abstract Expressionism]
 
     _Watch_:
     - #link("https://youtu.be/iWBCUpks-ak")[Ben Shahn, Contemporary American Sculpture]
     - #link("https://youtu.be/j24uh8cZ3wA")[Edward Hopper, Nighthawks]
     - #link("https://youtu.be/rQ9LbAsRs0I")[Jackson Pollock, Autumn Rhythm (Number 30)]
+    - #link("https://youtu.be/Sm8nOyqUz_g")[Helen Frankenthaler, Mountains and Sea]
+    - #link("https://youtu.be/UhRyWc5hDz8")[Ludwig Mies van der Rohe, Seagram Building, New York City]
+    - #link("https://youtu.be/9bWJt2hjBH0")[Jasper Johns, Flag]
+    - #link("https://youtu.be/tvpp2lAD9iY")[Robert Rauschenberg, Bed]
   ]
 )
 
@@ -519,14 +523,14 @@ J. M. W. Turner, Slave Ship]
     Study of Pop Art, Minimalism, and Conceptual Art.
 
     _Read_:
-    - Lucy R. Lippard, "Introduction" in _Pop Art_
+    // - Lucy R. Lippard, "Introduction" in _Pop Art_
 
     _Watch_:
-    - #link("https://youtu.be/9bWJt2hjBH0")[Jasper Johns, Flag]
-    - #link("https://youtu.be/tvpp2lAD9iY")[Robert Rauschenberg, Bed]
-    - #link("https://youtu.be/lXfzq27fGvU")[Andy Warhol, Gold Marilyn Monroe]
+    
+    // - #link("https://youtu.be/lXfzq27fGvU")[Andy Warhol, Gold Marilyn Monroe]
     - #link("https://youtu.be/pgw0-nZdW94")[The case for Andy Warhol]
     - #link("https://youtu.be/N-mt2tiRJ7U")[Claes Oldenburg, Floor Cake]
+    - #link("https://youtu.be/G37C5vKCwH4")[Donald Judd, Untitled]
     ])
 
 #let session-contemporary-social-activism = session(
@@ -568,6 +572,18 @@ J. M. W. Turner, Slave Ship]
   "Art after the Long Sixties",
   [
     Exploration of movements leading to contemporary art practices.
+
+    _Read_:
+    - #link("https://smarthistory.org/jeff-wall-a-view-from-an-apartment/?tl=jeff-wall-a-view-from-an-apartment&sidebar=north-america-1950-today")[Jeff Wall, A View from an Apartment]
+
+    _Watch_:
+    - #link("https://youtu.be/8wBEqPrgUDY")[Carrie Mae Weems, Untitled (Woman Feeding Bird), from The Kitchen Table Series]
+    - #link("https://youtu.be/wuxjTxxQUTs")[Maya Lin, Vietnam Veterans Memorial]
+    - #link("https://youtu.be/ANQTQcS8pgo")[Rebecca Belmore on Rising to the Occasion]
+    - #link("https://youtu.be/PueYywpkJW8")[Ai Weiwei, Kui Hua Zi (Sunflower Seeds)]
+    - #link("https://youtu.be/9Y5-KGIMN9o")[Michael Rakowitz, The invisible enemy should not exist]
+    - #link("https://youtu.be/JDh4wp_wRsU")[Felix Gonzalez-Torres, “Untitled” (L.A.)]
+    // - #link("https://youtu.be/bThyPXhzSOE")[An-My Lê, 29 Palms]
   ]
 )
 
