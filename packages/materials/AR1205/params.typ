@@ -2,6 +2,7 @@
 
 #let abbreviations = (
   ("CCMEA", "Cultural Contact and the Making of European Art since the Age of Exploration"),
+  ("TAA", "Twentieth-Century American Art")
 )
 
 /* 
@@ -504,6 +505,7 @@ J. M. W. Turner, Slave Ship]
     Overview of Abstract Expressionism and other post-war art movements.
 
     _Read_:
+    - Erika Doss, "Abstract Expressionism" and "Neo-Dada" in  #text(style: "italic")[@TAA]
     - #link("https://smarthistory.org/the-impact-of-abstract-expressionism/")[The impact of Abstract Expressionism]
 
     _Watch_:
@@ -518,19 +520,23 @@ J. M. W. Turner, Slave Ship]
 )
 
 #let session-neo-avant-garde = session(
-  "Neo-Avant-Garde Movements",
+  "Art Movements of the 1960s and 1970s",
   [
-    Study of Pop Art, Minimalism, and Conceptual Art.
+    Study of Pop Art, Minimalism, Conceptual Art, and Feminist Art.
 
     _Read_:
     // - Lucy R. Lippard, "Introduction" in _Pop Art_
-
+    - Erika Doss, "Pop Art," "Minimalism" and ... in  #text(style: "italic")[@TAA]
     _Watch_:
-    
+
     // - #link("https://youtu.be/lXfzq27fGvU")[Andy Warhol, Gold Marilyn Monroe]
     - #link("https://youtu.be/pgw0-nZdW94")[The case for Andy Warhol]
     - #link("https://youtu.be/N-mt2tiRJ7U")[Claes Oldenburg, Floor Cake]
     - #link("https://youtu.be/G37C5vKCwH4")[Donald Judd, Untitled]
+    - #link("https://youtu.be/WIhf3UBNTlA")[Mierle Laderman Ukeles, Washing/Tracks/Maintenance: Outside]
+    // - #link("https://youtu.be/mCWr_iDh114")[The case for Yoko Ono]
+    - #link("https://youtu.be/f8OLToLVYCw")[Nancy Holt, Sun Tunnels]
+    - #link("https://youtu.be/4amoxcedL_0")[Judy Chicago, The Dinner Party]
     ])
 
 #let session-contemporary-social-activism = session(
@@ -574,10 +580,12 @@ J. M. W. Turner, Slave Ship]
     Exploration of movements leading to contemporary art practices.
 
     _Read_:
+    - Julian Stallabrass, "Introduction" in _Contemporary Art: A Very Short Introduction_
     - #link("https://smarthistory.org/jeff-wall-a-view-from-an-apartment/?tl=jeff-wall-a-view-from-an-apartment&sidebar=north-america-1950-today")[Jeff Wall, A View from an Apartment]
 
     _Watch_:
-    - #link("https://youtu.be/8wBEqPrgUDY")[Carrie Mae Weems, Untitled (Woman Feeding Bird), from The Kitchen Table Series]
+    // - #link("https://youtu.be/8wBEqPrgUDY")[Carrie Mae Weems, Untitled (Woman Feeding Bird), from The Kitchen Table Series]
+    - #link("https://youtu.be/gKBCN3LAmXU")[Guerrilla Girls, Do women have to be naked to get into the Met. Museum?]
     - #link("https://youtu.be/wuxjTxxQUTs")[Maya Lin, Vietnam Veterans Memorial]
     - #link("https://youtu.be/ANQTQcS8pgo")[Rebecca Belmore on Rising to the Occasion]
     - #link("https://youtu.be/PueYywpkJW8")[Ai Weiwei, Kui Hua Zi (Sunflower Seeds)]
