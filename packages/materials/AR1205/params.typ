@@ -588,9 +588,11 @@ J. M. W. Turner, Slave Ship]
     - #link("https://youtu.be/gKBCN3LAmXU")[Guerrilla Girls, Do women have to be naked to get into the Met. Museum?]
     - #link("https://youtu.be/wuxjTxxQUTs")[Maya Lin, Vietnam Veterans Memorial]
     - #link("https://youtu.be/ANQTQcS8pgo")[Rebecca Belmore on Rising to the Occasion]
-    - #link("https://youtu.be/PueYywpkJW8")[Ai Weiwei, Kui Hua Zi (Sunflower Seeds)]
-    - #link("https://youtu.be/9Y5-KGIMN9o")[Michael Rakowitz, The invisible enemy should not exist]
     - #link("https://youtu.be/JDh4wp_wRsU")[Felix Gonzalez-Torres, “Untitled” (L.A.)]
+    - #link("https://youtu.be/NIJDn2MAn9I")[Doris Salcedo, Shibboleth]
+    - #link("https://youtu.be/PueYywpkJW8")[Ai Weiwei, Kui Hua Zi (Sunflower Seeds)]
+
+    // - #link("https://youtu.be/9Y5-KGIMN9o")[Michael Rakowitz, The invisible enemy should not exist]
     // - #link("https://youtu.be/bThyPXhzSOE")[An-My Lê, 29 Palms]
   ]
 )
