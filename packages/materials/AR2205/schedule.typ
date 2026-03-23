@@ -32,10 +32,11 @@
     culture_wars,
     painting_again,
     what_is_contemporary_art,
-    curation,
+    biennials,
     // site_specific_art,
     biennials,
     community_art,
+    curation,
     // guest, // She is not confirmed 
     // new_media_art,
     ai,
