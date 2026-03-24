@@ -125,6 +125,10 @@ src: "./pages/ar2205/w11f.md"
 ---
 
 ---
+src: "./pages/ar2205/w12m.md"
+---
+
+---
 layout: center
 color: zinc-light
 hideInToc: true

@@ -506,7 +506,7 @@ J. M. W. Turner, Slave Ship]
 
     _Read_:
     - Erika Doss, "Abstract Expressionism" and "Neo-Dada" in  #text(style: "italic")[@TAA]
-    - #link("https://smarthistory.org/the-impact-of-abstract-expressionism/")[The impact of Abstract Expressionism]
+    // - #link("https://smarthistory.org/the-impact-of-abstract-expressionism/")[The impact of Abstract Expressionism]
 
     _Watch_:
     - #link("https://youtu.be/iWBCUpks-ak")[Ben Shahn, Contemporary American Sculpture]
