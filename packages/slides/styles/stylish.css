@@ -113,3 +113,18 @@ blockquote p:last-child {
   right: 0.5rem;
   bottom: -0.8rem;
 }
+
+/* top-title-two-cols */
+
+.slidev-layout.toptitle.content .col-left img,
+.slidev-layout.toptitle.content .col-right img {
+  display: block;
+  width: auto !important;
+  height: auto !important;
+  max-width: 100% !important;
+  max-height: 47dvh !important;
+  object-fit: contain !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
