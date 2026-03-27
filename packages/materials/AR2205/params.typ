@@ -72,8 +72,8 @@
   // - David Blazer, from _Curationism: How Curating Took Over the Art World and Everything Else_
 ]
 
-#let community_art = session("Art and Community Engagement")[
-  Discussion on the role of art in community development and social change.
+#let community_art = session("Collaborative Practices in Contemporary Art")[
+  Discussion on the role of collaboration in contemporary art practices.
 
   _Read_:
   - Grant Kester, "Introduction" in _The One and the Many_
