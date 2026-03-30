@@ -69,7 +69,7 @@
   _Read_:
   // - Hans Ulrich Obrist, "The Curator's Role in Contemporary Art," in #text(style: "italic")[@ATC]
   // - #link("https://www.e-flux.com/journal/2/68504/politics-of-installation")[Boris Groys, "Politics of Installation," e-flux journal, Issue \#2, 2009.]
-  // - David Blazer, from _Curationism: How Curating Took Over the Art World and Everything Else_
+  - David Blazer, _Curationism: How Curating Took Over the Art World and Everything Else_ (excerpt)
 ]
 
 #let community_art = session("Collaborative Practices in Contemporary Art")[
