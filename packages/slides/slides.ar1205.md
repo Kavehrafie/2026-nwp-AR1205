@@ -127,6 +127,14 @@ src: "./pages/ar1205/w11f.md"
 ---
 
 ---
+src: "./pages/ar1205/w12w.md"
+---
+
+---
+src: "./pages/ar1205/w13w.md"
+---
+
+---
 layout: center
 color: zinc-light
 hideInToc: true
