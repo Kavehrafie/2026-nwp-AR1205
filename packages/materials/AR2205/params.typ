@@ -166,7 +166,8 @@
   Examination of the evolution of digital art practices leading to the emergence of AI in art creation.
 
   _Read_:
-  - Annie Armstrong, "Forget Blue-Chip Art. It's a 'Red-Chip' Art World Now" also listen to her interviwew on Art Edge
+  // - Annie Armstrong, "Forget Blue-Chip Art. It's a 'Red-Chip' Art World Now" also listen to her interviwew on Art Edge
+  - Christine Paul - "Introduction" in _A Campanion to Digital Art_
   - Michael Wagner, "AI Slop Is the New Kitsch"
 
   _Listen_:
