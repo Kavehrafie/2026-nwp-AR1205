@@ -1,7 +1,7 @@
 ---
 theme: neversink
 template: cover
-background: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg/2560px-Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg
+background: https://res.cloudinary.com/image-solar/image/upload/v1772653874/2026nwp-ar1205/composite-2400_oqiglq.jpg
 title: AR1205 Presentation
 info: |
   ## AR1205 Materials
@@ -128,6 +128,10 @@ src: "./pages/ar1205/w11f.md"
 
 ---
 src: "./pages/ar1205/w12w.md"
+---
+
+---
+src: "./pages/ar1205/w12f.md"
 ---
 
 ---
