@@ -162,7 +162,7 @@
   - Iftikhar Dadi, "Rethinking Calligraphic Abstraction," in _Discrepant Abstraction_
 ]
 
-#let ai = session("From digital to AI")[
+#let ai = session("From Digital Art to the 'AI Slop'")[
   Examination of the evolution of digital art practices leading to the emergence of AI in art creation.
 
   _Read_:
