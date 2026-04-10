@@ -139,9 +139,16 @@ src: "./pages/ar1205/w13w.md"
 ---
 
 ---
+src: "./pages/ar1205/w14w.md"
+---
+
+---
 layout: center
-color: zinc-light
+color: navy
 hideInToc: true
 ---
 
-Upcoming Lesson Content Will Appear Here ...
+## The Final Exam
+
+- **Format:** On **myClass**. Short Answers and Multiple Choice, plus 2 short comparison essays, open book/notes
+- Date: Available **April 16th at 10:00 am until April 17th end of day (Grande Prairie)**
